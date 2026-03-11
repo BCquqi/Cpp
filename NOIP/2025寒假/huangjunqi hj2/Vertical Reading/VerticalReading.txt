@@ -1,0 +1,2 @@
+本题因为|S| <= 100，直接枚举w,c，没了
+https://atcoder.jp/contests/abc360/submissions/73205365

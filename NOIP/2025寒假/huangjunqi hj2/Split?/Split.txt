@@ -1,0 +1,2 @@
+|S| = 10，直接判断
+https://atcoder.jp/contests/abc267/submissions/73227898

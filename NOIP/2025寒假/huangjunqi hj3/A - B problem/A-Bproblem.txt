@@ -1,0 +1,4 @@
+9种情况枚举
+把A的任意一位改成9或B的任意一位改成0
+并非1/3种情况（A开头是9或B开头是0会导致更改十位对答案贡献更大）
+https://atcoder.jp/contests/arc039/submissions/73453369

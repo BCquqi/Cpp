@@ -1,0 +1,2 @@
+三重循环枚举，map箱数组去重即可
+https://atcoder.jp/contests/abc251/submissions/73123129

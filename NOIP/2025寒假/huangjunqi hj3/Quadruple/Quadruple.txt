@@ -1,0 +1,8 @@
+换种方式将就是在n中选四个数字a,b,c,d。
+a+b=e,c+d=f
+要求e-f==k
+易得e和f的范围是<=2*n
+不妨先枚举f然后通过f得到e
+接下来分别枚举要求范围以内的abcd就行了
+可以使用排列组合
+https://atcoder.jp/contests/arc107/submissions/73505311
