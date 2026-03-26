@@ -5,32 +5,38 @@
 using namespace std;
 
 const int N = 1e5 + 5;
-struct Edge {int v,w;};
+struct Edge {long long v,w;};
 vector<Edge> G[N];
-int dp[N];
+long long dp[N],s[N],ans[N],n;
 
-void dfs(int u,int pa) {
+void dfs(long long u,long long pa) {
+    s[u] = 1;
     for (auto [v,w] : G[u]) {
         if (v == pa) continue;
-        dp[v] = dp[u] + w;
         dfs(v,u);
+        s[u] += s[v];
+        dp[u] += dp[v] + s[v] * w;
+    }
+}
+
+void change(long long u,long long pa) {
+    for (auto [v,w] : G[u]) {
+        if (v == pa) continue;
+        ans[v] = ans[u] + (n - 2 * s[v]) * w;
+        change(v,u);
     }
 }
 
 int main() {
-    int n;
     cin >> n;
     for (int i = 1;i < n;i++) {
-        int x,y,z;
+        long long x,y,z;
         cin >> x >> y >> z;
         G[x].push_back({y,z});G[y]. push_back({x,z});
     }
-    for (int i = 1;i <= n;i++) {
-        memset(dp,0,sizeof dp);
-        dfs(i,0);
-        int ans = 0;
-        for (int j = 1;j <= n;j++) ans += dp[j];
-        cout << ans << endl;
-    }
+    dfs(1,0);
+    ans[1] = dp[1];
+    change(1,0);
+    for (int i = 1;i <= n;i++) cout << ans[i] << endl;
     return 0;
 }

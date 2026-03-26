@@ -13,15 +13,15 @@ long long sum(long long x) {
 }
 
 int main() {
-	cin >> n;
-	for (int i = 1;i <= n;i++) {
-		cin >> a[i];
-		a[i]++;
-		change(a[i],1);
-		long long s = i - sum(a[i]);
-		d[a[i]] += s;
-	}
-	for (int i = 1;i < n;i++) ans[i] = ans[i - 1] + d[i];
-	for (int i = 0;i < n;i++) cout << ans[i] << endl;
-	return 0;
+    cin >> n;
+    for (int i = 1;i <= n;i++) {
+        cin >> a[i];
+        a[i]++;
+        change(a[i],1);
+        long long s = i - sum(a[i]);
+        d[a[i]] += s;
+    }
+    for (int i = 1;i < n;i++) ans[i] = ans[i - 1] + d[i];
+    for (int i = 0;i < n;i++) cout << ans[i] << endl;
+    return 0;
 }
