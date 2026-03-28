@@ -1,9 +1,0 @@
-中二NOIP实验班2025年第一学期期末测试练习  时长50分钟
-
-建立文件夹，以班级名+姓名全拼：例：2-6-guxichao  极域电子教室题解
-
-https://www.luogu.com.cn/problem/AT_abc163_c
-
-https://www.luogu.com.cn/problem/AT_abc164_c
-
-https://www.luogu.com.cn/problem/AT_abc176_c
