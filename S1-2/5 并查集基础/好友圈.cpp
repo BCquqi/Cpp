@@ -14,15 +14,15 @@ void Union(int x,int y) {
 }
 
 int main() {
-	int n,m;
-	cin >> n >> m;
-	for (int i = 1;i <= n;i++) f[i] = i,size[i] = 1;
-	cnt = n;
-	while (m--) {
-		int x,y;
-		cin >> x >> y;
-		if (find(x) != find(y)) {Union(x,y); cnt--;}
-		cout << cnt << ' ' << ans << endl;
-	}
-	return 0;
+    int n,m;
+    cin >> n >> m;
+    for (int i = 1;i <= n;i++) f[i] = i,size[i] = 1;
+    cnt = n;
+    while (m--) {
+        int x,y;
+        cin >> x >> y;
+        if (find(x) != find(y)) {Union(x,y); cnt--;}
+        cout << cnt << ' ' << ans << endl;
+    }
+    return 0;
 }
