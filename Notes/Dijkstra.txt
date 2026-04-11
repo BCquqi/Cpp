@@ -1,7 +1,0 @@
-1. 原理
-n个点: -- s: 不确定dis的点
-      |- t: 确定dis的点 --- vis[] == true
-
-2. 朴素步骤
-   (1) 使起点的vis标为true
-   (2) 遍历(vis为false)，找到dis最小的点x，将x标为true，并计算邻点y的dis
