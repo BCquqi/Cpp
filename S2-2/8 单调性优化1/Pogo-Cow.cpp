@@ -6,7 +6,6 @@ using namespace std;
 const int N = 1e3 + 5;
 struct Node {int x,p;} a[N];
 int dp[N][N];
-
 // dp[i][j]: 当前位置为 i, 且从 j 跳跃到 i 的最大得分
 
 int main() {
