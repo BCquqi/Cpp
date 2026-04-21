@@ -5,7 +5,7 @@ using namespace std;
 const int N = 1e6 + 5;
 int f[N],d[N],ans[5];
 
-map<int,int> job = {{'M',1},{'W',2},{'T',3},{'A',4}};
+map<int,int> job = {{'M',0},{'W',1},{'T',2},{'A',3}};
 
 int find(int x) {
     if (f[x] == x) return x;
@@ -17,7 +17,8 @@ int find(int x) {
 void Union (int x,int y,int s) {
     int fx = find(x),fy = find(y);
     if (fx == fy) return ;
-    f[fx] = fy,d[fx] = (s + d[y] - d[x] + 4) % 4;
+    if (fx == 0) f[fy] = 0,d[fy] = (d[x] - s - d[y] + 8) % 4;
+    else f[fx] = fy,d[fx] = (s + d[y] - d[x] + 4) % 4;
 }
 
 int main() {
@@ -29,34 +30,33 @@ int main() {
         cin >> op;
         switch (op) {
             case 0 :
-                int x;
-                char c;
-                cin >> x >> c;
-                d[x] = job[c];
+            	int x;
+            	char c;
+            	cin >> x >> c;
+                Union(x,0,job[c]);
                 break;
             case 1 :
-                int a;
-                cin >> x >> a;
+            	int a;
+            	cin >> x >> a;
                 Union(x,a,0);
                 break;
             case 2 :
-                cin >> x >> a;
-                Union(x,a,3);
-                break;
-            case 3 :
-                cin >> x >> a;
+            	cin >> x >> a;
                 Union(x,a,1);
                 break;
+            case 3 :
+            	cin >> x >> a;
+                Union(x,a,3);
+                break;
             case 4 :
-                cin >> x >> a;
+            	cin >> x >> a;
                 Union(x,a,2);
                 break;
         }
     }
-    for (int i = 1;i <= n;i++) {
-        int x = find(i);
-        ans[d[x]]++;
-    }
-    cout << ans[0] << ' ' << ans[3] << ' ' << ans[2] << ' ' << ans[1] << endl;
+    int root0 = find(0);
+    for (int i = 1;i <= n;i++)
+        if (find(i) == root0) ans[d[i]]++;
+    cout << ans[0] << ' ' << ans[1] << ' ' << ans[2] << ' ' << ans[3] << endl;
     return 0;
 }
