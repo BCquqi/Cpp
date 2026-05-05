@@ -1,11 +1,10 @@
 #include<iostream>
-#include<algorithm>
 #include<vector>
 using namespace std;
 
-const int N = 5e5 + 5;
+const int N = 1e5 + 5;
 vector<int> G[N];
-int n,m,s,fa[N][32],dep[N];
+int dep[N],fa[N][32];
 
 void dfs(int u,int pa) {
     dep[u] = dep[pa] + 1;
@@ -24,26 +23,26 @@ int LCA(int u,int v) {
         if (dep[fa[u][i]] >= dep[v]) u = fa[u][i];
     if (u == v) return v;
     for (int i = 30;i >= 0;i--)
-        if (fa[u][i] != fa[v][i])
-            u = fa[u][i],v = fa[v][i];
+        if (fa[u][i] != fa[v][i]) u = fa[u][i],v = fa[v][i];
     return fa[u][0];
 }
 
 int main() {
-    ios::sync_with_stdio(false);
-    cin.tie(0); cout.tie(0);
-    cin >> n >> m >> s;
+    int n;
+    cin >> n;
     for (int i = 1;i < n;i++) {
         int x,y;
         cin >> x >> y;
         G[x].push_back(y); G[y].push_back(x);
     }
-    dep[s] = 1;
-    dfs(s,0);
-    while (m--) {
-        int a,b;
-        cin >> a >> b;
-        cout << LCA(a,b) << '\n';
+    dep[1] = 1;
+    dfs(1,0);
+    int q;
+    cin >> q;
+    while (q--) {
+        int x,y;
+        cin >> x >> y;
+        cout << dep[x] + dep[y] - 2 * dep[LCA(x,y)] << endl;
     }
     return 0;
 }
