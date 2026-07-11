@@ -1,0 +1,690 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>BCquqi C++ Code Base</title>
+    <style>
+        /* ========== 全局重置 & 科技蓝主题 ========== */
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        :root {
+            --bg-primary: #060b18;
+            --bg-card: rgba(13, 27, 42, 0.8);
+            --border-glow: rgba(33, 150, 243, 0.3);
+            --color-primary: #2196F3;
+            --color-secondary: #00BCD4;
+            --color-text: #E3F2FD;
+            --color-text-muted: #90CAF9;
+            --radius: 16px;
+            --shadow: 0 20px 60px rgba(0, 0, 0, 0.8);
+            --transition: 0.2s ease;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+            background: var(--bg-primary);
+            color: var(--color-text);
+            min-height: 100vh;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            padding: 20px;
+            /* 科技感网格背景 */
+            background-image:
+                radial-gradient(circle at 20% 50%, rgba(33, 150, 243, 0.06) 0%, transparent 50%),
+                radial-gradient(circle at 80% 20%, rgba(0, 188, 212, 0.04) 0%, transparent 40%),
+                linear-gradient(rgba(33, 150, 243, 0.03) 1px, transparent 1px),
+                linear-gradient(90deg, rgba(33, 150, 243, 0.03) 1px, transparent 1px);
+            background-size: 100% 100%, 100% 100%, 40px 40px, 40px 40px;
+        }
+
+        /* ========== 主卡片 ========== */
+        .navigator {
+            width: 100%;
+            max-width: 620px;
+            background: var(--bg-card);
+            backdrop-filter: blur(16px) saturate(1.2);
+            -webkit-backdrop-filter: blur(16px) saturate(1.2);
+            border-radius: var(--radius);
+            border: 1px solid var(--border-glow);
+            box-shadow: var(--shadow), inset 0 1px 0 rgba(255, 255, 255, 0.04);
+            padding: 40px 36px 32px;
+            position: relative;
+            overflow: hidden;
+            transition: border-color 0.3s ease;
+        }
+
+        /* 顶部科技光效 */
+        .navigator::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            height: 2px;
+            background: linear-gradient(90deg, transparent, var(--color-primary), var(--color-secondary), transparent);
+            opacity: 0.8;
+        }
+
+        /* ========== 头部 ========== */
+        .header {
+            display: flex;
+            align-items: center;
+            gap: 14px;
+            margin-bottom: 32px;
+        }
+
+        .logo-icon {
+            width: 42px;
+            height: 42px;
+            border-radius: 10px;
+            background: linear-gradient(135deg, var(--color-primary), var(--color-secondary));
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 20px;
+            font-weight: 700;
+            color: #fff;
+            box-shadow: 0 4px 16px rgba(33, 150, 243, 0.3);
+            flex-shrink: 0;
+        }
+
+        .title-group h1 {
+            font-size: 1.4rem;
+            font-weight: 700;
+            letter-spacing: -0.3px;
+            background: linear-gradient(135deg, #ffffff 40%, var(--color-secondary));
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+            line-height: 1.2;
+        }
+
+        .title-group .sub {
+            font-size: 0.7rem;
+            font-weight: 500;
+            color: var(--color-text-muted);
+            opacity: 0.7;
+            letter-spacing: 0.5px;
+            text-transform: uppercase;
+            margin-top: 2px;
+        }
+
+        /* ========== 跳转核心区 ========== */
+        .jump-section {
+            margin: 8px 0 20px;
+        }
+
+        .path-label {
+            display: block;
+            font-size: 0.8rem;
+            font-weight: 500;
+            color: var(--color-text-muted);
+            margin-bottom: 10px;
+            opacity: 0.8;
+            letter-spacing: 0.3px;
+        }
+
+        .input-group {
+            display: flex;
+            align-items: center;
+            background: rgba(255, 255, 255, 0.04);
+            border: 1px solid rgba(33, 150, 243, 0.2);
+            border-radius: 12px;
+            transition: var(--transition);
+            overflow: hidden;
+            box-shadow: inset 0 2px 4px rgba(0, 0, 0, 0.2);
+        }
+
+        .input-group:focus-within {
+            border-color: var(--color-primary);
+            box-shadow: 0 0 0 4px rgba(33, 150, 243, 0.12), inset 0 2px 4px rgba(0, 0, 0, 0.2);
+        }
+
+        .input-group .prefix {
+            padding: 0 0 0 18px;
+            color: var(--color-text-muted);
+            font-size: 0.85rem;
+            font-weight: 450;
+            opacity: 0.5;
+            user-select: none;
+            white-space: nowrap;
+            font-family: 'SF Mono', 'Fira Code', monospace;
+        }
+
+        .input-group input {
+            flex: 1;
+            background: transparent;
+            border: none;
+            padding: 16px 14px;
+            font-size: 1rem;
+            font-weight: 450;
+            color: #fff;
+            outline: none;
+            font-family: 'SF Mono', 'Fira Code', monospace, -apple-system;
+            letter-spacing: 0.2px;
+            min-width: 0;
+        }
+
+        .input-group input::placeholder {
+            color: rgba(144, 202, 249, 0.3);
+            font-weight: 400;
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+        }
+
+        .input-group .btn-jump {
+            background: linear-gradient(135deg, var(--color-primary), var(--color-secondary));
+            border: none;
+            color: #fff;
+            padding: 10px 22px;
+            margin: 4px 4px 4px 0;
+            border-radius: 8px;
+            font-size: 0.9rem;
+            font-weight: 600;
+            cursor: pointer;
+            transition: var(--transition);
+            display: flex;
+            align-items: center;
+            gap: 8px;
+            white-space: nowrap;
+            box-shadow: 0 4px 12px rgba(33, 150, 243, 0.25);
+            letter-spacing: 0.3px;
+        }
+
+        .input-group .btn-jump:hover {
+            transform: translateY(-1px) scale(1.02);
+            box-shadow: 0 6px 20px rgba(33, 150, 243, 0.4);
+        }
+
+        .input-group .btn-jump:active {
+            transform: scale(0.96);
+            box-shadow: 0 2px 8px rgba(33, 150, 243, 0.3);
+        }
+
+        /* 跳转箭头使用纯 CSS 绘制，无外部依赖 */
+        .arrow-icon {
+            display: inline-block;
+            width: 10px;
+            height: 10px;
+            border-top: 2px solid #fff;
+            border-right: 2px solid #fff;
+            transform: rotate(45deg);
+            transition: var(--transition);
+            margin-left: 2px;
+        }
+
+        .btn-jump:hover .arrow-icon {
+            transform: rotate(45deg) translateX(3px);
+        }
+
+        /* ========== 快捷提示 & 当前路径 ========== */
+        .info-bar {
+            margin-top: 24px;
+            padding-top: 20px;
+            border-top: 1px solid rgba(33, 150, 243, 0.08);
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: space-between;
+            align-items: center;
+            gap: 12px;
+            font-size: 0.7rem;
+            color: var(--color-text-muted);
+            opacity: 0.6;
+        }
+
+        .info-bar .base-path {
+            font-family: 'SF Mono', 'Fira Code', monospace;
+            background: rgba(0, 0, 0, 0.3);
+            padding: 4px 14px;
+            border-radius: 100px;
+            border: 1px solid rgba(33, 150, 243, 0.08);
+            font-size: 0.7rem;
+            letter-spacing: 0.2px;
+            color: var(--color-secondary);
+            opacity: 0.9;
+            word-break: break-all;
+        }
+
+        .info-bar .hint {
+            display: flex;
+            align-items: center;
+            gap: 12px;
+            flex-wrap: wrap;
+        }
+
+        .info-bar .hint kbd {
+            background: rgba(255, 255, 255, 0.06);
+            padding: 2px 10px;
+            border-radius: 4px;
+            font-size: 0.65rem;
+            font-family: inherit;
+            border: 1px solid rgba(255, 255, 255, 0.06);
+            color: var(--color-text-muted);
+        }
+
+        /* ========== 历史记录（极简） ========== */
+        .history-area {
+            margin-top: 16px;
+            min-height: 26px;
+            display: flex;
+            align-items: center;
+            gap: 8px;
+            flex-wrap: wrap;
+        }
+
+        .history-area .label {
+            font-size: 0.6rem;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+            opacity: 0.3;
+            margin-right: 4px;
+        }
+
+        .history-area .tag {
+            font-size: 0.65rem;
+            padding: 2px 12px;
+            background: rgba(33, 150, 243, 0.06);
+            border: 1px solid rgba(33, 150, 243, 0.08);
+            border-radius: 100px;
+            color: var(--color-text-muted);
+            cursor: pointer;
+            transition: var(--transition);
+            font-family: 'SF Mono', 'Fira Code', monospace;
+        }
+
+        .history-area .tag:hover {
+            background: rgba(33, 150, 243, 0.15);
+            color: #fff;
+            border-color: var(--color-primary);
+        }
+
+        .history-area .empty-history {
+            font-size: 0.6rem;
+            opacity: 0.2;
+            font-style: italic;
+        }
+
+        /* ========== 响应式 ========== */
+        @media (max-width: 600px) {
+            .navigator {
+                padding: 28px 18px 24px;
+                border-radius: 12px;
+            }
+            .header {
+                margin-bottom: 24px;
+            }
+            .logo-icon {
+                width: 36px;
+                height: 36px;
+                font-size: 16px;
+            }
+            .title-group h1 {
+                font-size: 1.1rem;
+            }
+            .input-group {
+                flex-wrap: wrap;
+                background: transparent;
+                border: none;
+                box-shadow: none;
+                gap: 8px;
+            }
+            .input-group .prefix {
+                display: none;
+            }
+            .input-group input {
+                padding: 14px 16px;
+                background: rgba(255, 255, 255, 0.04);
+                border: 1px solid rgba(33, 150, 243, 0.15);
+                border-radius: 10px;
+                width: 100%;
+                flex: 1 1 100%;
+                font-size: 0.95rem;
+            }
+            .input-group:focus-within {
+                box-shadow: none;
+            }
+            .input-group:focus-within input {
+                border-color: var(--color-primary);
+                box-shadow: 0 0 0 3px rgba(33, 150, 243, 0.1);
+            }
+            .input-group .btn-jump {
+                width: 100%;
+                justify-content: center;
+                padding: 14px;
+                margin: 0;
+                border-radius: 10px;
+                font-size: 0.9rem;
+            }
+            .info-bar {
+                flex-direction: column;
+                align-items: flex-start;
+                gap: 8px;
+            }
+            .info-bar .base-path {
+                font-size: 0.65rem;
+                padding: 2px 12px;
+            }
+            .history-area .tag {
+                font-size: 0.6rem;
+                padding: 2px 10px;
+            }
+        }
+
+        @media (max-width: 400px) {
+            .navigator {
+                padding: 20px 12px 18px;
+            }
+            .title-group h1 {
+                font-size: 0.95rem;
+            }
+            .input-group input {
+                font-size: 0.85rem;
+                padding: 12px 14px;
+            }
+            .input-group .btn-jump {
+                font-size: 0.8rem;
+                padding: 12px;
+            }
+        }
+
+        /* ========== 工具类 ========== */
+        .hidden {
+            display: none !important;
+        }
+
+        /* 简洁高亮动画 */
+        @keyframes flash-border {
+            0% {
+                border-color: var(--color-primary);
+                box-shadow: 0 0 0 4px rgba(33, 150, 243, 0.15);
+            }
+            100% {
+                border-color: rgba(33, 150, 243, 0.2);
+                box-shadow: 0 0 0 0 rgba(33, 150, 243, 0);
+            }
+        }
+
+        .input-group.jump-success {
+            animation: flash-border 0.5s ease 1;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="navigator" role="main">
+        <!-- 头部 -->
+        <header class="header">
+            <div class="logo-icon">⌘</div>
+            <div class="title-group">
+                <h1>BCquqi Code Base</h1>
+                <div class="sub">快速路径导航 · 相对跳转</div>
+            </div>
+        </header>
+
+        <!-- 跳转核心 -->
+        <section class="jump-section">
+            <label for="pathInput" class="path-label">
+                <span>输入相对路径</span>
+            </label>
+
+            <div class="input-group" id="inputGroup">
+                <span class="prefix">~/</span>
+                <input type="text" id="pathInput" 
+                       placeholder="例如: src/main.py 或 ../docs/readme.md" 
+                       autofocus
+                       spellcheck="false"
+                       autocomplete="off">
+                <button class="btn-jump" id="jumpBtn">
+                    跳转
+                    <span class="arrow-icon"></span>
+                </button>
+            </div>
+        </section>
+
+        <!-- 当前基础路径 & 快捷键提示 -->
+        <div class="info-bar">
+            <div class="base-path" id="basePathDisplay">/ 当前根目录</div>
+            <div class="hint">
+                <kbd>Enter</kbd> 跳转
+                <span style="opacity:0.3;margin:0 2px;">·</span>
+                <kbd>⌘K</kbd> 清空
+            </div>
+        </div>
+
+        <!-- 最近跳转历史 -->
+        <div class="history-area" id="historyArea">
+            <span class="label">最近</span>
+            <span class="empty-history" id="emptyHistory">暂无记录</span>
+        </div>
+    </div>
+
+    <script>
+        (function() {
+            'use strict';
+
+            // ========== DOM 引用 ==========
+            const input = document.getElementById('pathInput');
+            const jumpBtn = document.getElementById('jumpBtn');
+            const inputGroup = document.getElementById('inputGroup');
+            const basePathDisplay = document.getElementById('basePathDisplay');
+            const historyArea = document.getElementById('historyArea');
+            const emptyHistory = document.getElementById('emptyHistory');
+
+            // ========== 状态 ==========
+            const HISTORY_KEY = 'codejump_history';
+            const MAX_HISTORY = 8;
+
+            // 获取当前基础路径 (显示用)
+            function getBasePath() {
+                const origin = window.location.origin;
+                const path = window.location.pathname;
+                // 如果路径以 '/' 结尾，直接显示；否则显示目录部分
+                const base = path.endsWith('/') ? path : path.substring(0, path.lastIndexOf('/') + 1);
+                return origin + base;
+            }
+
+            // 显示基础路径
+            function renderBasePath() {
+                const full = getBasePath();
+                // 截取显示，避免过长
+                let display = full;
+                if (display.length > 50) {
+                    display = display.substring(0, 20) + '…' + display.substring(display.length - 20);
+                }
+                basePathDisplay.textContent = display;
+            }
+            renderBasePath();
+
+            // ========== 跳转核心逻辑 ==========
+            function performJump(path) {
+                if (!path || path.trim() === '') {
+                    // 空输入给予视觉反馈
+                    inputGroup.classList.remove('jump-success');
+                    void inputGroup.offsetWidth; // 强制回流以重启动画
+                    inputGroup.classList.add('jump-success');
+                    setTimeout(() => inputGroup.classList.remove('jump-success'), 500);
+                    return;
+                }
+
+                const trimmedPath = path.trim();
+                // 标准相对路径跳转：直接赋值给 location.href
+                // 浏览器会自动解析 ./ ../ / 等标准规则
+                window.location.href = trimmedPath;
+                // 注意：跳转后页面会卸载，后续代码不执行
+                // 但为了保存历史，我们在跳转前保存
+                saveHistory(trimmedPath);
+            }
+
+            // ========== 历史记录管理 ==========
+            function getHistory() {
+                try {
+                    const raw = localStorage.getItem(HISTORY_KEY);
+                    if (raw) {
+                        const arr = JSON.parse(raw);
+                        if (Array.isArray(arr)) return arr;
+                    }
+                } catch (e) { /* ignore */ }
+                return [];
+            }
+
+            function saveHistory(path) {
+                let history = getHistory();
+                // 去重（移除相同项）
+                history = history.filter(item => item !== path);
+                // 插入到开头
+                history.unshift(path);
+                // 限制长度
+                if (history.length > MAX_HISTORY) {
+                    history = history.slice(0, MAX_HISTORY);
+                }
+                try {
+                    localStorage.setItem(HISTORY_KEY, JSON.stringify(history));
+                } catch (e) { /* ignore */ }
+                // 更新 UI（由于即将跳转，实际上不会执行到，但保留以备后续）
+                renderHistory();
+            }
+
+            // 删除历史中的某一项
+            function removeHistoryItem(path) {
+                let history = getHistory();
+                history = history.filter(item => item !== path);
+                try {
+                    localStorage.setItem(HISTORY_KEY, JSON.stringify(history));
+                } catch (e) { /* ignore */ }
+                renderHistory();
+            }
+
+            // 渲染历史标签
+            function renderHistory() {
+                const history = getHistory();
+                // 清空历史区域，保留 .label 和 .empty-history
+                const label = historyArea.querySelector('.label');
+                const empty = historyArea.querySelector('.empty-history');
+                // 移除所有 .tag
+                historyArea.querySelectorAll('.tag').forEach(el => el.remove());
+
+                if (history.length === 0) {
+                    empty.classList.remove('hidden');
+                } else {
+                    empty.classList.add('hidden');
+                    history.forEach(item => {
+                        const tag = document.createElement('span');
+                        tag.className = 'tag';
+                        tag.textContent = item;
+                        tag.title = '点击跳转 · 右键移除';
+                        tag.addEventListener('click', (e) => {
+                            e.stopPropagation();
+                            performJump(item);
+                        });
+                        tag.addEventListener('contextmenu', (e) => {
+                            e.preventDefault();
+                            removeHistoryItem(item);
+                        });
+                        // 插入到 empty 之前
+                        historyArea.insertBefore(tag, empty);
+                    });
+                }
+            }
+
+            // 页面加载时渲染历史
+            renderHistory();
+
+            // ========== 事件绑定 ==========
+
+            // 1. 点击跳转按钮
+            jumpBtn.addEventListener('click', function(e) {
+                e.preventDefault();
+                const val = input.value;
+                // 保存历史（跳转前）
+                if (val.trim() !== '') {
+                    saveHistory(val.trim());
+                }
+                performJump(val);
+            });
+
+            // 2. 回车键跳转
+            input.addEventListener('keydown', function(e) {
+                if (e.key === 'Enter') {
+                    e.preventDefault();
+                    const val = input.value;
+                    if (val.trim() !== '') {
+                        saveHistory(val.trim());
+                    }
+                    performJump(val);
+                }
+                // Ctrl+K (或 Cmd+K) 清空输入
+                if ((e.ctrlKey || e.metaKey) && e.key === 'k') {
+                    e.preventDefault();
+                    input.value = '';
+                    input.focus();
+                }
+            });
+
+            // 3. 点击历史标签跳转（事件委托）
+            historyArea.addEventListener('click', function(e) {
+                const tag = e.target.closest('.tag');
+                if (tag) {
+                    const path = tag.textContent;
+                    if (path) {
+                        performJump(path);
+                    }
+                }
+            });
+
+            // 4. 右键移除历史（事件委托）
+            historyArea.addEventListener('contextmenu', function(e) {
+                const tag = e.target.closest('.tag');
+                if (tag) {
+                    e.preventDefault();
+                    const path = tag.textContent;
+                    if (path) {
+                        removeHistoryItem(path);
+                    }
+                }
+            });
+
+            // 5. 自动聚焦，且点击页面空白处聚焦输入框
+            document.addEventListener('click', function(e) {
+                if (!e.target.closest('.navigator')) {
+                    input.focus();
+                }
+            });
+
+            // 6. 输入框失焦时保留文本，不做特殊处理
+
+            // ========== 窗口 resize 时更新基础路径显示 ==========
+            let resizeTimer;
+            window.addEventListener('resize', function() {
+                clearTimeout(resizeTimer);
+                resizeTimer = setTimeout(renderBasePath, 100);
+            });
+
+            // ========== 初始聚焦 ==========
+            input.focus();
+
+            // 控制台提示
+            console.log('BCquqi C++ Code Base 测试控制台 已启动');
+            console.log('输入相对路径，按 Enter 或点击跳转');
+            console.log('支持标准相对路径: ./  ../  /  ');
+            console.log('右键点击历史标签可移除');
+
+            // 暴露少量方法到全局以便调试（可选）
+            window.__CODE_JUMP = {
+                jump: performJump,
+                history: getHistory,
+                clearHistory: function() {
+                    localStorage.removeItem(HISTORY_KEY);
+                    renderHistory();
+                }
+            };
+
+        })();
+    </script>
+
+</body>
+</html>
