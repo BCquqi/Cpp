@@ -422,25 +422,25 @@
             <div class="logo-icon">⌘</div>
             <div class="title-group">
                 <h1>BCquqi Code Base</h1>
-                <div class="sub">快速路径导航 · 相对跳转</div>
+                <div class="sub">Path Jumping System</div>
             </div>
         </header>
 
         <!-- 跳转核心 -->
         <section class="jump-section">
             <label for="pathInput" class="path-label">
-                <span>输入相对路径</span>
+                <span>Enter relative path</span>
             </label>
 
             <div class="input-group" id="inputGroup">
                 <span class="prefix">~/</span>
                 <input type="text" id="pathInput" 
-                       placeholder="例如: src/main.py 或 ../docs/readme.md" 
+                       placeholder="" 
                        autofocus
                        spellcheck="false"
                        autocomplete="off">
                 <button class="btn-jump" id="jumpBtn">
-                    跳转
+                    Visit
                     <span class="arrow-icon"></span>
                 </button>
             </div>
@@ -450,16 +450,16 @@
         <div class="info-bar">
             <div class="base-path" id="basePathDisplay">/ 当前根目录</div>
             <div class="hint">
-                <kbd>Enter</kbd> 跳转
+                <kbd>Enter</kbd> Jump
                 <span style="opacity:0.3;margin:0 2px;">·</span>
-                <kbd>⌘K</kbd> 清空
+                <kbd>⌘K</kbd> Clear
             </div>
         </div>
 
         <!-- 最近跳转历史 -->
         <div class="history-area" id="historyArea">
-            <span class="label">最近</span>
-            <span class="empty-history" id="emptyHistory">暂无记录</span>
+            <span class="label">Recent</span>
+            <span class="empty-history" id="emptyHistory">No history available</span>
         </div>
     </div>
 
