@@ -267,7 +267,7 @@
             color: var(--color-text-muted);
         }
 
-        /* ========== 历史记录（极简） ========== */
+        /* ========== 历史记录 ========== */
         .history-area {
             margin-top: 16px;
             min-height: 26px;
@@ -307,6 +307,65 @@
             font-size: 0.6rem;
             opacity: 0.2;
             font-style: italic;
+        }
+
+        /* ========== 底部版权 & 说明区 ========== */
+        .footer-area {
+            margin-top: 20px;
+            padding-top: 16px;
+            border-top: 1px solid rgba(33, 150, 243, 0.06);
+            display: flex;
+            flex-direction: column;
+            gap: 6px;
+        }
+
+        .footer-area .copyright {
+            font-size: 0.6rem;
+            color: var(--color-text-muted);
+            opacity: 0.3;
+            letter-spacing: 0.3px;
+            text-align: center;
+        }
+
+        .footer-area .copyright a {
+            color: var(--color-text-muted);
+            text-decoration: none;
+            transition: var(--transition);
+        }
+
+        .footer-area .copyright a:hover {
+            color: var(--color-primary);
+            opacity: 0.8;
+        }
+
+        .footer-area .footer-links {
+            display: flex;
+            justify-content: center;
+            gap: 16px;
+            flex-wrap: wrap;
+            font-size: 0.6rem;
+        }
+
+        .footer-area .footer-links span {
+            color: var(--color-text-muted);
+            opacity: 0.2;
+            letter-spacing: 0.2px;
+        }
+
+        .footer-area .footer-links .sep {
+            opacity: 0.1;
+        }
+
+        .footer-area .footer-links a {
+            color: var(--color-text-muted);
+            text-decoration: none;
+            opacity: 0.3;
+            transition: var(--transition);
+        }
+
+        .footer-area .footer-links a:hover {
+            opacity: 0.8;
+            color: var(--color-primary);
         }
 
         /* ========== 响应式 ========== */
@@ -372,6 +431,9 @@
             .history-area .tag {
                 font-size: 0.6rem;
                 padding: 2px 10px;
+            }
+            .footer-area .footer-links {
+                gap: 10px;
             }
         }
 
@@ -460,6 +522,26 @@
         <div class="history-area" id="historyArea">
             <span class="label">Recent</span>
             <span class="empty-history" id="emptyHistory">No history available</span>
+        </div>
+
+        <!-- ====== 底部版权 & 说明区 ====== -->
+        <div class="footer-area">
+            <div class="footer-links">
+                <div class="copyright">
+                    BCquqi Code Base
+                </div>
+                <span class="sep">·</span>
+                <span>v1.0.0</span>
+            </div>
+            <div class="copyright">
+                All the codes in the code base belongs to <a href="https://github.com/BCquqi/">BCquqi</a>, copying or reposting witout premission is prohibited. 
+            </div>
+            <div class="copyright">
+                If some files infringe upon rights, please contact the author for removal. 
+            </div>
+            <div class="copyright">
+                &copy; 2026 <a href="https://github.com/BCquqi/">BCquqi</a> · All rights reserved.
+            </div>
         </div>
     </div>
 
