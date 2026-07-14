@@ -3,7 +3,7 @@ if "%1"=="" goto loop
 copy test%1.in test.in>nul
 echo Testing: Test.cpp
 echo Case %1
-echo Case %1 is tested by Coookie (coookie.dpdns.org)
+echo Case %1 is tested by Coookie (coookie.dpdns.org) from CookieOJ (cookieoj.github.io)
 
 test.exe
 
