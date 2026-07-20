@@ -1,9 +1,10 @@
 #include<iostream>
+#include<bitset>
 using namespace std;
 
 const int N = 2.5e5 + 5,M = 26;
 int ch[N][M],sum[N],cnt[N],id = 1,ans = 0;
-bool vis[N][1005];
+bitset<1005> vis[N];
 string s;
 
 void dfs(int x,int i) {
