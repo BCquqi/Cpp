@@ -1,11 +1,10 @@
 #include<iostream>
 #include<map>
+#include<cstring>
 using namespace std;
 
 const int N = 2e6 + 5;
-int a[N];
-
-map<int,int> mp;
+int a[N],mp[2 * N];
 
 int main() {
     freopen("wait.in","r",stdin);
@@ -16,13 +15,14 @@ int main() {
     string s;
     cin >> n >> s;
     s = '?' + s;
-    a[0] = 0,mp[0] = 0;
+    memset(mp,-1,sizeof mp); // 必须 memset 避免存在和第一个是 0 搞混
+    a[0] = 0,mp[N] = 0;
     for (int i = 1;i <= n;i++) {
         if (s[i] == 'l') a[i] = a[i - 1] + 1;
         else a[i] = a[i - 1] - 1;
-        if (mp.find(a[i]) == mp.end()) mp[a[i]] = i;
-        else ans = max(ans,i - mp[a[i]]);
+        if (mp[a[i] + N] == -1) mp[a[i] + N] = i;
+        else ans = max(ans,i - mp[a[i] + N]);
     }
-    cout << ans << endl;
+    cout << ans << '\n';
     return 0;
 }

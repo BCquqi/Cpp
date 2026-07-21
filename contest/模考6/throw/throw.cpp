@@ -17,15 +17,15 @@ void add(int x) {
 void solve() {
     cin >> k >> n;
     cout << n;
-    for (int i = k - 1,cnt = 0;i >= 1;i--,cnt++) {
-        if (n[i] <= '4')
-            for (int j = i;j < k;j++) n[j] = '0';
+    for (int i = k - 1,cur = k - 1;i >= 1;i--,cur--) {
+        if (n[cur] <= '4')
+            for (int j = cur;j < k;j++) n[j] = '0';
         else {
-            add(i - 1);
-            for (int j = i;j < k;j++) n[j] = '0';
-            if (flag) i++,flag = false;
+            add(cur - 1);
+            for (int j = cur;j < k;j++) n[j] = '0';
+            if (flag) cur++,flag = false;
         }
-        if (cnt < k) cout << " -> " << n;
+        cout << " -> " << n;
     }
     cout << endl;
     return ;
