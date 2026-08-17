@@ -1,42 +1,31 @@
 #include<iostream>
 #include<algorithm>
+#include<cstring>
+#define int long long
 using namespace std;
 
-const int N = 125,Q = 1e4 + 5;
-struct Question {int t,id,x,y;bool ans;} a[Q];
-bool pos[N][N],exist[N][N];
-// pos 为 0 向右，为 1 向下
+const int N = 125;
+int dp[N][N];
 
-int main() {
+int calc(int t,int x,int y) {
+    memset(dp,0,sizeof dp);
+    dp[0][0] = t - x - y + 1;
+    for (int i = 0;i <= x;i++)
+        for (int j = 0;j <= y;j++)
+            dp[i][j + 1] += (dp[i][j] + 1) / 2, dp[i + 1][j] += dp[i][j] / 2;
+    return dp[x][y];
+}
+
+signed main() {
     freopen("darksideofthemoon.in","r",stdin);
     freopen("darksideofthemoon.out","w",stdout);
-    int q,maxt = 0;
+    int q;
     cin >> q;
-    for (int i = 1;i <= q;i++) {
-        int t;
-        cin >> a[i].t >> a[i].x >> a[i].y;
-        a[i].id = i, a[i].ans = false;
-        maxt = max(maxt,t);
-    }
-    sort(a + 1,a + q + 1,[](Question x,Question y) {return x.t < y.t;});
-    exist[1][1] = true;
-    int cur = 1;
-    for (int i = 1;i <= maxt;i++) {
-        for (int i = 120;i >= 1;i--)
-            for (int j = 120;j >= 1;j--)
-                if (exist[i][j]) {
-                    exist[i][j] = false;
-                    if (pos[i][j] && i + 1 <= 120) exist[i + 1][j] = true;
-                    else if (!pos[i][j] && j + 1 <= 120) exist[i][j + 1] = true;
-                    pos[i][j] = !pos[i][j];
-                }
-        exist[1][1] = true;
-        if (a[cur].t == i) a[cur].ans = exist[a[cur].x + 1][a[cur].y + 1], cur++;
-    }
-    sort(a + 1,a + q + 1,[](Question x,Question y) {return x.id < y.id;});
-    for (int i = 1;i <= q;i++) {
-        if (a[i].ans) cout << "Yes" << endl;
-        else cout << "No" << endl;
+    while (q--) {
+        int t,x,y;
+        cin >> t >> x >> y;
+        if (calc(t,x,y) != calc(t - 1,x,y)) cout << "YES" << endl;
+        else cout << "NO" << endl;
     }
     return 0;
 }
