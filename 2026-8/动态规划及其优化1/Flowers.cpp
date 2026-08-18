@@ -5,7 +5,7 @@ using namespace std;
 const int N = 2e5 + 5;
 int tree[N],n,a[N],h[N],dp[N];
 
-// 带权最长上升子序列
+// 甯︽潈鏈�闀夸笂鍗囧瓙搴忓垪
 
 int lowbit(int x) {return x & -x;}
 void add(int id,int val) {while (id <= n) tree[id] = max(tree[id],val), id += lowbit(id);}
