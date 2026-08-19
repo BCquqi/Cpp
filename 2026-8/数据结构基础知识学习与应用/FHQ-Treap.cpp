@@ -48,7 +48,7 @@ void split(int id,int k,int &x,int &y) { // 前 k 个进 x
     } else {
         y = id;
         split(tr[id].ls,k,x,tr[id].ls);
-        pushup(x);
+        pushup(y);
     }
 }
 
