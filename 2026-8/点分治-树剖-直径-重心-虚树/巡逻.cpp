@@ -23,7 +23,7 @@ void dfs(int u,int pa,bool record) {
 void calc(int u,int pa) {
     for (auto &[v,w] : G[u]) {
         if (v == pa) continue;
-        if (flag[u] && flag[v]) w = -1; // 实参修改
+        if (flag[u] && flag[v]) w = -1;
         calc(v,u);
         tmp = max(tmp,dp[u] + dp[v] + w);
         dp[u] = max(dp[u],dp[v] + w);
