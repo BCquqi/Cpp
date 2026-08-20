@@ -1,13 +1,13 @@
 #include<iostream>
+#include<algorithm>
 #define lid tr[id] -> lc
 #define rid tr[id] -> rc
-#define int unsigned long long
 using namespace std;
 
 const int N = 1e5 * 30 + 5;
-int idx = 0;
+int idx = 0,tree[N],n;
 struct seg_tree {
-    int l,r,lc,rc;long long lazy,sum;
+    int l,r,lc,rc; long long lazy,sum;
     seg_tree() : l(0),r(0),lc(0),rc(0),lazy(0),sum(0) {}
 } *tr[N << 2];
 
@@ -70,22 +70,15 @@ long long query(int id,int l,int r) {
     return ret;
 }
 
-signed main() {
-    int n,m;
-    cin >> n >> m;
-    int rt = create(1,n);
-    while (m--) {
-        int op;
-        cin >> op;
-        if (op == 1) {
-            int l,r,k;
-            cin >> l >> r >> k;
-            modify(rt,l,r,k);
-        } else {
-            int l,r;
-            cin >> l >> r;
-            cout << query(rt,l,r) + 1ll * (l + r) * (r - l + 1) / 2 << endl;
-        }
-    }
+int lowbit(int x) {return x & -x;}
+void add(int id,int val) {while (id <= n) tree[id] = max(tree[id],val), id += lowbit(id);}
+int query(int id) {
+    int ret = 0;
+    while (id) ret = max(ret,tree[id]), id -= lowbit(id);
+    return ret;
+}
+
+int main() {
+    
     return 0;
 }
