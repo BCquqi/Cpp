@@ -1,0 +1,56 @@
+cd ~/Hydro-Docker
+
+
+docker compose down
+docker compose up -d
+# wait for 2min
+cloudflared tunnel run --url http://127.0.0.1:8888 cookieoj
+
+docker exec -i oj-judge sh -c 'mkdir -p /root/.config/hydro && cat > /root/.config/hydro/judge.yaml <<EOF
+hosts:
+  localhost:
+    type: hydro
+    server_url: http://oj-backend:8888/
+    uname: admin
+    password: Hjq120904
+    detail: true
+parallelism: 2
+EOF'
+
+docker exec -it oj-backend hydrooj cli user setJudge 2
+
+docker compose restart oj-judge
+
+#wait
+docker compose logs oj-judge | grep -E "login|error|Error"
+
+failed:
+
+cd ~/Hydro-Docker
+docker compose down
+docker compose up -d
+
+#wait
+docker compose logs oj-backend | tail
+docker compose logs oj-judge | grep -E "login|error"
+
+or: 
+docker compose logs oj-judge
+
+
+retry: 
+
+docker exec -i oj-judge sh -c 'mkdir -p /root/.config/hydro && cat > /root/.config/hydro/judge.yaml <<EOF
+hosts:
+  localhost:
+    type: hydro
+    server_url: http://host.docker.internal:8888/
+    uname: admin
+    password: Hjq120904
+    detail: true
+EOF'
+
+
+docker compose restart oj-judge
+
+docker compose logs oj-judge
