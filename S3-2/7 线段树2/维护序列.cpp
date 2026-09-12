@@ -63,7 +63,7 @@ void mul(int id,int l,int r,int val) {
     if (l <= tr[id].l && tr[id].r <= r) {
         tr[id].lzym *= val;
         tr[id].sum *= val;
-        tr[id].lazy *= val; // 这里加法lazy也要加倍以正确下传
+        tr[id].lazy *= val;
         tr[id].lzym %= p,tr[id].sum %= p,tr[id].lazy %= p;
         return ;
     }
