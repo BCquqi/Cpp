@@ -5,7 +5,7 @@ using namespace std;
 
 int dp[1005][1005];
 
-int main(){
+int main() {
 	int n,m;
 	string A,B;
 	cin >> n >> m >> A >> B;
