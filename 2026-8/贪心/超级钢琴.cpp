@@ -6,7 +6,7 @@ const int N = 5e5 + 5;
 int a[N],lg[N];
 long long s[N],st[N][30]; 
 
-// st ±í²¿·ÖÎª·½±ãÇó½â´ð°¸Í³Ò»Î¬»¤ÏÂ±ê 
+// st è¡¨éƒ¨åˆ†ä¸ºæ–¹ä¾¿æ±‚è§£ç­”æ¡ˆç»Ÿä¸€ç»´æŠ¤ä¸‹æ ‡ 
 
 int query(int l,int r) {
 	int k = lg[r - l + 1];
@@ -21,16 +21,16 @@ struct Node {
 priority_queue<Node> q;
 
 int main() {
-	int n,k,L,R; // Òô·û¸öÊý ³¬¼¶ºÍÏÒ¸öÊý Òô·û¸öÊý·¶Î§ 
+	int n,k,L,R; // éŸ³ç¬¦ä¸ªæ•° è¶…çº§å’Œå¼¦ä¸ªæ•° éŸ³ç¬¦ä¸ªæ•°èŒƒå›´ 
 	long long ans = 0;
 	cin >> n >> k >> L >> R;
 	lg[1] = 0;
 	for (int i = 2;i <= n;i++) lg[i] = lg[i >> 1] + 1;
 	for (int i = 1;i <= n;i++) {
-		cin >> a[i]; // ÃÀÃî¶È 
+		cin >> a[i]; // ç¾Žå¦™åº¦ 
 		s[i] = s[i - 1] + a[i];
 	}
-	for (int i = 1;i <= n;i++) st[i][0] = i; // Î¬»¤Ç°×ººÍ×î´óÖµµÄÏÂ±ê 
+	for (int i = 1;i <= n;i++) st[i][0] = i; // ç»´æŠ¤å‰ç¼€å’Œæœ€å¤§å€¼çš„ä¸‹æ ‡ 
 	for (int j = 1;j <= lg[n];j++)
 		for (int i = 1;i + (1 << j) - 1 <= n;i++)
 			st[i][j] = s[st[i][j - 1]] > s[st[i + (1 << j - 1)][j - 1]] ? st[i][j - 1] : st[i + (1 << j - 1)][j - 1];
