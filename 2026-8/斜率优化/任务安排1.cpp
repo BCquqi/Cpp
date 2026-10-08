@@ -5,8 +5,8 @@
 using namespace std;
 
 const int N = 3e5 + 5;
-int t[N],c[N],st[N],sc[N],dp[N],q[N],l = 1,r = 1; // ÕâÀïÊÖĞ´µ¥µ÷¶ÓÁĞ¼òµ¥ 
-// dp[i] ±íÊ¾Ç° i ¸öÈÎÎñµÄ×îĞ¡·ÑÓÃ×ÜºÍ 
+int t[N],c[N],st[N],sc[N],dp[N],q[N],l = 1,r = 1; // è¿™é‡Œæ‰‹å†™å•è°ƒé˜Ÿåˆ—ç®€å• 
+// dp[i] è¡¨ç¤ºå‰ i ä¸ªä»»åŠ¡çš„æœ€å°è´¹ç”¨æ€»å’Œ 
 
 signed main() {
 	int n,s;
