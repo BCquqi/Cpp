@@ -46,8 +46,8 @@ void add(int id,int l,int r,int val) { // 区间修改
 }
 
 int query(int id,int l,int r) {
+    if (l <= tr[id].l && tr[id].r <= r) return tr[id].sum;
     pushdown(id);
-    if (tr[id].l == l && tr[id].r == r) return tr[id].sum;
     int mid = (tr[id].l + tr[id].r) >> 1;
     if (r <= mid) return query(lid,l,r);
     else if (l > mid) return query(rid,l,r);
