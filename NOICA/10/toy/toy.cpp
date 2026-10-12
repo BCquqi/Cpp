@@ -6,16 +6,12 @@ int b,a,n;
 string s;
 int q[N],ql,qr;
 
-int main() {
-    freopen("toy.in","r",stdin);
-    freopen("toy.out","w",stdout);
-    ios::sync_with_stdio(false);
-    cin.tie(0); cout.tie(0);
+void solve() {
     cin >> b >> a >> n >> s;
     s = ' ' + s;
     int l1 = 1,r1 = a;
     int l2 = 1,r2 = b;
-    ql = 1;
+    ql = 1, qr = 0;
     for (int i = 1;i <= b;i++) q[++qr] = i;
     for (int i = b + 1;i <= a;i++) {
         if (s[i] == '0') continue;
@@ -30,11 +26,20 @@ int main() {
         ++ans;
         if (!(l1 <= l2 && r2 <= r1)) {
             cout << "IMPOSSIBLE" << endl;
-            return 0;
+            return ;
         }
         if (r1 == n) break;
     }
     if (r2 != n) ans += b;
     cout << ans << endl;
+    return ;
+}
+
+int main() {
+    ios::sync_with_stdio(false);
+    cin.tie(0); cout.tie(0);
+    int T;
+    cin >> T;
+    while (T--) solve();
     return 0;
 }
