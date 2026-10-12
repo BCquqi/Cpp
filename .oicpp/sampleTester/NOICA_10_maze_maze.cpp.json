@@ -1,0 +1,60 @@
+{
+  "samples": [
+    {
+      "id": 1,
+      "inputType": "userinput",
+      "outputType": "userinput",
+      "input": "4 4 3 4\r\nS.#.\r\n..#.\r\n.#..\r\n.#.T\r\n",
+      "output": "7\r\n",
+      "timeLimit": 1000,
+      "memoryLimit": 0,
+      "freopenInputFile": "maze.in",
+      "freopenOutputFile": "maze.out",
+      "result": {
+        "status": "AC",
+        "output": "7\r\n",
+        "expectedOutput": "7\r\n",
+        "stderr": "",
+        "outputSizeBytes": 3,
+        "outputExpanded": false,
+        "time": 119,
+        "memoryBytes": 0,
+        "usedSpj": false,
+        "spjOutput": ""
+      }
+    },
+    {
+      "id": 2,
+      "inputType": "userinput",
+      "outputType": "userinput",
+      "input": "8 10 4 112\n##.##.####\n#####..##.\n#T#.######\n#####.##.#\n#########.\n.#.#####.#\n#########.\nS###.#.###\n",
+      "output": "224\n",
+      "timeLimit": 1000,
+      "memoryLimit": 0,
+      "freopenInputFile": "maze.in",
+      "freopenOutputFile": "maze.out",
+      "result": {
+        "status": "AC",
+        "output": "224\r\n",
+        "expectedOutput": "224\n",
+        "stderr": "",
+        "outputSizeBytes": 5,
+        "outputExpanded": false,
+        "time": 113,
+        "memoryBytes": 0,
+        "usedSpj": false,
+        "spjOutput": ""
+      }
+    }
+  ],
+  "globalSettings": {
+    "useTestlib": false,
+    "useInteractive": false,
+    "spjPath": "",
+    "graderPath": "",
+    "freopenInputFile": "maze.in",
+    "freopenOutputFile": "maze.out",
+    "defaultTimeLimit": 2500,
+    "defaultMemoryLimit": 0
+  }
+}
