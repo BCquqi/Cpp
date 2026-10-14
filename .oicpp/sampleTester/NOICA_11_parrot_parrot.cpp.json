@@ -1,0 +1,139 @@
+{
+  "samples": [
+    {
+      "id": 1,
+      "inputType": "userinput",
+      "outputType": "userinput",
+      "input": "2\r\n2 2\r\n1 2 1 2 \r\n2 2\r\n1 2 2 1\r\n",
+      "output": "4\r\n2\r\n",
+      "timeLimit": 1000,
+      "memoryLimit": 0,
+      "freopenInputFile": "parrot.in",
+      "freopenOutputFile": "parrot.out",
+      "useTestlib": false,
+      "spjPath": "",
+      "result": {
+        "status": "AC",
+        "output": "4\r\n2\r\n",
+        "expectedOutput": "4\r\n2\r\n",
+        "stderr": "",
+        "outputSizeBytes": 6,
+        "outputExpanded": false,
+        "time": 141,
+        "memoryBytes": 0,
+        "usedSpj": false,
+        "spjOutput": ""
+      }
+    },
+    {
+      "id": 2,
+      "inputType": "userinput",
+      "outputType": "userinput",
+      "input": "5\r\n3 3\r\n3 1 2 3 2 3 2 1 1 \r\n3 3\r\n3 3 3 1 2 2 2 1 1 \r\n2 2\r\n1 2 2 1 \r\n3 3\r\n1 2 1 2 1 2 3 3 3 \r\n3 3\r\n1 2 3 1 2 1 2 3 3 \r\n",
+      "output": "7\r\n6\r\n2\r\n7\r\n7\r\n",
+      "timeLimit": 1000,
+      "memoryLimit": 0,
+      "freopenInputFile": "parrot.in",
+      "freopenOutputFile": "parrot.out",
+      "useTestlib": false,
+      "spjPath": "",
+      "result": {
+        "status": "AC",
+        "output": "7\r\n6\r\n2\r\n7\r\n7\r\n",
+        "expectedOutput": "7\r\n6\r\n2\r\n7\r\n7\r\n",
+        "stderr": "",
+        "outputSizeBytes": 15,
+        "outputExpanded": false,
+        "time": 154,
+        "memoryBytes": 0,
+        "usedSpj": false,
+        "spjOutput": ""
+      }
+    },
+    {
+      "id": 3,
+      "inputType": "file",
+      "outputType": "file",
+      "input": "C:\\Users\\Administrator\\Documents\\C++\\.oicpp\\sampleTester\\zip-imports\\parrot_1791941775142_837do5\\parrot3.in",
+      "output": "C:\\Users\\Administrator\\Documents\\C++\\.oicpp\\sampleTester\\zip-imports\\parrot_1791941775142_837do5\\parrot3.ans",
+      "timeLimit": 1000,
+      "memoryLimit": 0,
+      "freopenInputFile": "parrot.in",
+      "freopenOutputFile": "parrot.out",
+      "useTestlib": false,
+      "spjPath": "",
+      "result": {
+        "status": "AC",
+        "output": "1002\r\n1000\r\n150026\r\n149777\r\n199996\r\n",
+        "expectedOutput": "1002\r\n1000\r\n150026\r\n149777\r\n199996\r\n",
+        "stderr": "",
+        "outputSizeBytes": 36,
+        "outputExpanded": false,
+        "time": 149,
+        "memoryBytes": 6610944,
+        "usedSpj": false,
+        "spjOutput": ""
+      }
+    },
+    {
+      "id": 4,
+      "inputType": "userinput",
+      "outputType": "userinput",
+      "input": "5\r\n9 10\r\n1 1 1 1 1 1 1 1 3 1 4 3 3 3 3 3 3 3 6 6 6 6 2 2 2 2 2 2 2 2 2 10 5 8 8 8 8 8 8 8 8 8 9 9 9 9 9 9 9 9 9 3 4 4 4 4 4 4 4 4 6 6 6 6 6 5 5 5 5 5 5 5 5 7 7 7 7 7 7 7 7 7 10 10 10 10 10 10 10 10 \r\n9 10\r\n4 4 4 4 4 2 2 2 5 5 5 5 5 5 5 5 5 10 7 7 8 8 8 8 8 8 8 8 8 9 9 10 10 10 1 7 9 9 9 9 9 9 9 6 6 6 6 6 3 3 3 4 4 7 7 7 7 7 2 2 2 2 10 10 10 10 10 4 7 4 6 6 6 6 1 1 1 1 1 1 1 1 3 3 3 3 3 3 2 2 \r\n10 10\r\n4 4 4 4 4 4 4 4 4 4 5 5 5 5 5 5 5 5 5 10 10 10 10 10 1 1 1 1 1 6 6 6 6 6 6 6 6 6 10 10 10 10 10 2 2 2 2 7 7 7 7 7 7 3 1 1 1 6 5 9 9 9 9 9 9 9 9 2 7 7 7 9 9 3 3 3 1 1 3 3 3 3 3 8 8 8 8 8 8 8 8 8 8 2 2 2 2 3 7 2 \r\n9 10\r\n1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 10 10 10 10 10 10 10 10 10 \r\n10 10\r\n1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 10 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 10 10 10 10 10 10 10 10 10 ",
+      "output": "51\r\n53\r\n58\r\n82\r\n92\r\n",
+      "timeLimit": 1000,
+      "memoryLimit": 0,
+      "freopenInputFile": "parrot.in",
+      "freopenOutputFile": "parrot.out",
+      "useTestlib": false,
+      "spjPath": "",
+      "result": {
+        "status": "AC",
+        "output": "51\r\n53\r\n58\r\n82\r\n92\r\n",
+        "expectedOutput": "51\r\n53\r\n58\r\n82\r\n92\r\n",
+        "stderr": "",
+        "outputSizeBytes": 20,
+        "outputExpanded": false,
+        "time": 153,
+        "memoryBytes": 0,
+        "usedSpj": false,
+        "spjOutput": ""
+      }
+    },
+    {
+      "id": 5,
+      "inputType": "file",
+      "outputType": "file",
+      "input": "C:\\Users\\Administrator\\Documents\\C++\\NOICA\\11\\down\\parrot\\parrot5.in",
+      "output": "C:\\Users\\Administrator\\Documents\\C++\\NOICA\\11\\down\\parrot\\parrot5.ans",
+      "timeLimit": 1000,
+      "memoryLimit": 0,
+      "freopenInputFile": "parrot.in",
+      "freopenOutputFile": "parrot.out",
+      "useTestlib": false,
+      "spjPath": "",
+      "result": {
+        "status": "AC",
+        "output": "88954\r\n29587\r\n21247\r\n91028\r\n72012\r\n",
+        "expectedOutput": "88954\r\n29587\r\n21247\r\n91028\r\n72012\r\n",
+        "stderr": "",
+        "outputSizeBytes": 35,
+        "outputExpanded": false,
+        "time": 134,
+        "memoryBytes": 6438912,
+        "usedSpj": false,
+        "spjOutput": ""
+      }
+    }
+  ],
+  "globalSettings": {
+    "useTestlib": false,
+    "useInteractive": false,
+    "spjPath": "",
+    "graderPath": "",
+    "freopenInputFile": "parrot.in",
+    "freopenOutputFile": "parrot.out",
+    "defaultTimeLimit": 1000,
+    "defaultMemoryLimit": 0
+  }
+}
