@@ -1,45 +1,59 @@
 #include<iostream>
-#include<queue>
 #include<algorithm>
 #define int long long
 using namespace std;
 
 const int N = 1e5 + 5;
-struct Node {int a,b; bool flag;} s[N];
+int a0[N],a1[N],a[N],s[N];
+int cnt1,cnt2;
+
+int calc(int x) {
+    if (x <= 0) return 0;
+    if (x <= cnt1 && a0[x] < a1[1])
+        return s[x - 1] + a1[1];
+    return s[x];
+}
 
 void solve() {
     int n,m;
     cin >> n >> m;
-    for (int i = 1;i <= n;i++) {
-        cin >> s[i].a >> s[i].b;
-        s[i].flag = false;
+    cnt1 = cnt2 = 0;
+    int wq = 0;
+    for (int i = 0;i < n;i++) {
+        int x,y;
+        cin >> x >> y;
+        if (y > 0) a1[++cnt2] = x, wq += y;
+        else a0[++cnt1] = x;
     }
-    int minn = 1e18,id = 0;
-    int njd = m,wq = 0,cnt = 0; // 剩余耐久度、武器使用次数、消灭人数
-    for (int i = 1;i <= n;i++)
-        if (s[i].b != 0 && s[i].a < minn)
-            minn = s[i].a, id = i;
-    if (id != 0)
-        wq += s[id].b, njd -= s[id].a, s[id].flag = true, cnt++;
-    sort(s + 1,s + n + 1,[](Node x,Node y) {return (x.b != y.b ? x.b > y.b : x.a > y.a);});
-    priority_queue<pair<int,int>,vector<pair<int,int>>,greater<pair<int,int>>> q;
-    for (int i = 1;i <= n;i++) {
-        if (s[i].flag) continue;
-        if (wq != 0)
-            wq--, wq += s[i].b, cnt++;
-        else if (njd >= s[i].a) {
-            njd -= s[i].a, wq += s[i].b, cnt++;
-            q.push({s[i].b,s[i].a});
-        }
-        else if (!q.empty() && q.top().second < s[i].a) {
-            njd += q.top().second, wq -= q.top().first; q.pop();
-            njd -= s[i].a, wq += s[i].b;
-            q.push({s[i].b, s[i].a});
-            cnt++;
+    sort(a0 + 1,a0 + cnt1 + 1);
+    sort(a1 + 1,a1 + cnt2 + 1);
+    int cur = 0;
+    for (int i = 1;i <= cnt1;i++) a[++cur] = a0[i];
+    for (int i = 1;i <= cnt2;i++) a[++cur] = a1[i];
+    sort(a + 1,a + cur + 1);
+    s[0] = 0;
+    for (int i = 1;i <= cur;i++) s[i] = s[i - 1] + a[i];
+    int sum = 0,tmp = 0;
+    for (int i = 1;i <= cnt1;i++) {
+        if (sum + a0[i] <= m) sum += a0[i],tmp++;
+        else break;
+    }
+    int ans1 = tmp,ans2 = sum;
+    if (cnt2 > 0) {
+        int cost = max(1ll,cnt2 - wq);
+        if (cost <= n) {
+            int l = cost,r = n,mx = cost - 1;
+            while (l <= r) {
+                int mid = (l + r) / 2;
+                if (calc(mid) <= m) mx = mid, l = mid + 1;
+                else r = mid - 1;
+            }
+            if (mx >= cost)
+                if (min(mx + wq,n) > ans1 || (min(mx + wq,n) == ans1 && calc((min(mx + wq,n) == n ? max(cost,n - wq) : mx)) < ans2))
+                    ans1 = min(mx + wq,n), ans2 = calc((min(mx + wq,n) == n ? max(cost,n - wq) : mx));
         }
     }
-    cout << cnt << ' ' << m - njd << endl;
-    return ;
+    cout << ans1 << ' ' << ans2 << endl;
 }
 
 signed main() {
