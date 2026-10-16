@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>BCquqi C++ Code Base</title>
+    <title>OI Code Storage</title>
     <style>
         /* ========== 全局重置 & 科技蓝主题 ========== */
         * {
@@ -474,6 +474,314 @@
         .input-group.jump-success {
             animation: flash-border 0.5s ease 1;
         }
+
+        :root {
+            --bg-primary: #f3f7fb;
+            --bg-card: #ffffff;
+            --border-glow: #dce6f0;
+            --color-primary: #2878c7;
+            --color-secondary: #2878c7;
+            --color-text: #19324b;
+            --color-text-muted: #65798d;
+            --radius: 12px;
+            --shadow: 0 18px 48px rgba(28, 58, 88, 0.08);
+            --transition: 180ms ease;
+        }
+
+        body {
+            min-height: 100vh;
+            min-height: 100svh;
+            padding: 32px 20px;
+            color: var(--color-text);
+            font-family: "Aptos", "Segoe UI", "Microsoft YaHei", sans-serif;
+            background-color: var(--bg-primary);
+            background-image:
+                radial-gradient(ellipse at 50% 0%, rgba(40, 120, 199, 0.07), transparent 52%),
+                linear-gradient(180deg, #f8fbfe 0%, #f1f6fa 100%);
+        }
+
+        .navigator {
+            width: min(100%, 600px);
+            padding: 36px 36px 28px;
+            background: var(--bg-card);
+            border: 1px solid var(--border-glow);
+            border-radius: 12px;
+            box-shadow: var(--shadow);
+            backdrop-filter: none;
+            -webkit-backdrop-filter: none;
+        }
+
+        .navigator::before {
+            display: none;
+        }
+
+        .header {
+            gap: 13px;
+            margin-bottom: 34px;
+        }
+
+        .logo-icon {
+            width: 40px;
+            height: 40px;
+            border-radius: 9px;
+            background: #eaf3fc;
+            color: var(--color-primary);
+            box-shadow: none;
+        }
+
+        .title-group h1 {
+            color: #19324b;
+            background: none;
+            -webkit-text-fill-color: currentColor;
+            font-size: 1.3rem;
+            letter-spacing: 0;
+        }
+
+        .title-group .sub {
+            margin-top: 4px;
+            color: #71869a;
+            opacity: 1;
+            letter-spacing: 0.35px;
+        }
+
+        .jump-section {
+            margin: 0 0 20px;
+        }
+
+        .path-label {
+            margin-bottom: 9px;
+            color: #526a80;
+            opacity: 1;
+            letter-spacing: 0;
+        }
+
+        .input-group {
+            min-height: 54px;
+            background: #f8fafc;
+            border: 1px solid #cfdbe7;
+            border-radius: 8px;
+            box-shadow: none;
+        }
+
+        .input-group:focus-within {
+            border-color: var(--color-primary);
+            box-shadow: 0 0 0 3px rgba(40, 120, 199, 0.12);
+        }
+
+        .input-group .prefix {
+            color: #71869a;
+            opacity: 0.8;
+        }
+
+        .input-group input {
+            color: #19324b;
+            font-size: 0.92rem;
+            letter-spacing: 0;
+        }
+
+        .input-group input::placeholder {
+            color: #9aabba;
+        }
+
+        .input-group .btn-jump {
+            min-height: 42px;
+            padding: 0 18px;
+            background: var(--color-primary);
+            border-radius: 6px;
+            box-shadow: none;
+            letter-spacing: 0;
+        }
+
+        .input-group .btn-jump:hover {
+            transform: none;
+            background: #1e68b2;
+            box-shadow: none;
+        }
+
+        .input-group .btn-jump:active {
+            transform: translateY(1px);
+            background: #195b9d;
+            box-shadow: none;
+        }
+
+        .info-bar {
+            margin-top: 22px;
+            padding-top: 18px;
+            border-top-color: #e7edf3;
+            color: #61768a;
+            opacity: 1;
+        }
+
+        .info-bar .base-path {
+            max-width: 100%;
+            padding: 5px 9px;
+            overflow-wrap: anywhere;
+            background: #f0f6fc;
+            border: 1px solid #e0ebf5;
+            border-radius: 6px;
+            color: #286da9;
+            opacity: 1;
+        }
+
+        .info-bar .hint {
+            gap: 8px;
+        }
+
+        .info-bar .hint kbd {
+            padding: 3px 7px;
+            background: #f5f8fb;
+            border: 1px solid #dce5ed;
+            border-radius: 4px;
+            color: #526a80;
+        }
+
+        .history-area {
+            min-height: 30px;
+            margin-top: 18px;
+            gap: 7px;
+        }
+
+        .history-area .label {
+            margin-right: 5px;
+            color: #71869a;
+            opacity: 1;
+        }
+
+        .history-area .tag {
+            max-width: 100%;
+            padding: 5px 9px;
+            overflow-wrap: anywhere;
+            background: #f7f9fb;
+            border: 1px solid #e1e8ef;
+            border-radius: 6px;
+            color: #526a80;
+            transition: background-color 160ms ease, border-color 160ms ease, color 160ms ease;
+        }
+
+        .history-area .tag:hover {
+            background: #edf5fc;
+            border-color: #b9d4ec;
+            color: #1f639f;
+        }
+
+        .history-area .empty-history {
+            color: #8798a8;
+            opacity: 1;
+        }
+
+        .footer-area {
+            gap: 7px;
+            margin-top: 22px;
+            padding-top: 16px;
+            border-top-color: #e7edf3;
+        }
+
+        .footer-area .copyright {
+            color: #788a9b;
+            font-size: 0.65rem;
+            letter-spacing: 0;
+            opacity: 1;
+        }
+
+        .footer-area .copyright a {
+            color: #4c7194;
+        }
+
+        .footer-area .copyright a:hover {
+            color: var(--color-primary);
+            opacity: 1;
+        }
+
+        .footer-area .footer-links {
+            gap: 12px;
+        }
+
+        .footer-area .footer-links span,
+        .footer-area .footer-links .sep {
+            color: #8495a5;
+            opacity: 1;
+        }
+
+        .footer-area .footer-links a {
+            color: #4c7194;
+            opacity: 1;
+        }
+
+        .footer-area .footer-links a:hover {
+            color: var(--color-primary);
+            opacity: 1;
+        }
+
+        @media (max-width: 600px) {
+            body {
+                padding: 20px 14px;
+            }
+
+            .navigator {
+                padding: 28px 22px 22px;
+            }
+
+            .header {
+                margin-bottom: 28px;
+            }
+
+            .input-group {
+                gap: 9px;
+                background: transparent;
+                border: 0;
+                box-shadow: none;
+            }
+
+            .input-group:focus-within {
+                box-shadow: none;
+            }
+
+            .input-group input {
+                padding: 14px;
+                background: #f8fafc;
+                border: 1px solid #cfdbe7;
+                border-radius: 8px;
+            }
+
+            .input-group:focus-within input {
+                border-color: var(--color-primary);
+                box-shadow: 0 0 0 3px rgba(40, 120, 199, 0.12);
+            }
+
+            .input-group .btn-jump {
+                min-height: 46px;
+                border-radius: 7px;
+            }
+
+            .info-bar {
+                align-items: flex-start;
+            }
+        }
+
+        @media (max-width: 400px) {
+            .navigator {
+                padding: 24px 16px 20px;
+            }
+
+            .title-group h1 {
+                font-size: 1.05rem;
+            }
+
+            .input-group input {
+                font-size: 0.9rem;
+            }
+        }
+
+        @media (prefers-reduced-motion: reduce) {
+            *,
+            *::before,
+            *::after {
+                scroll-behavior: auto !important;
+                animation-duration: 0.01ms !important;
+                animation-iteration-count: 1 !important;
+                transition-duration: 0.01ms !important;
+            }
+        }
     </style>
 </head>
 <body>
@@ -483,15 +791,15 @@
         <header class="header">
             <div class="logo-icon">⌘</div>
             <div class="title-group">
-                <h1>BCquqi OI Code</h1>
-                <div class="sub">Navigation System</div>
+                <h1>Code Storage</h1>
+                <div class="sub">BCquqi</div>
             </div>
         </header>
 
         <!-- 跳转核心 -->
         <section class="jump-section">
             <label for="pathInput" class="path-label">
-                <span>Relative path</span>
+                <span>Navigate System</span>
             </label>
 
             <div class="input-group" id="inputGroup">
@@ -508,19 +816,14 @@
             </div>
         </section>
 
-        <!-- 当前基础路径 & 快捷键提示 -->
+        <!-- 当前基础路径 -->
         <div class="info-bar">
             <div class="base-path" id="basePathDisplay">/ ROOT</div>
-            <div class="hint">
-                <kbd>Enter</kbd> Visit
-                <span style="opacity:0.3;margin:0 2px;">·</span>
-                <kbd>⌘K</kbd> Clear
-            </div>
         </div>
 
         <!-- 最近跳转历史 -->
         <div class="history-area" id="historyArea">
-            <span class="label">Recent</span>
+            <span class="label"></span>
             <span class="empty-history" id="emptyHistory"> - EOF - </span>
         </div>
 
