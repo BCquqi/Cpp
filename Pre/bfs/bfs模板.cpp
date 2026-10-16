@@ -3,22 +3,22 @@
 #include<queue>
 using namespace std;
 
-int dis[]; // ¼ÇÂ¼·ÃÎÊÃ¿Ò»¸öÔªËØµÄ²½Êı 
-bool vis[]; // ¼ÇÂ¼ÔªËØÊÇ·ñ±»·ÃÎÊ¹ı 
+int dis[]; // è®°å½•è®¿é—®æ¯ä¸€ä¸ªå…ƒç´ çš„æ­¥æ•° 
+bool vis[]; // è®°å½•å…ƒç´ æ˜¯å¦è¢«è®¿é—®è¿‡ 
 
 void bfs()
 {
 	queue<int> q;
-	q.push(/*Æğµã*/);
-	dis[/*Æğµã*/] = 0;
-	vis[/*Æğµã*/] = true;
+	q.push(/*èµ·ç‚¹*/);
+	dis[/*èµ·ç‚¹*/] = 0;
+	vis[/*èµ·ç‚¹*/] = true;
 	while (q.size())
 	{
 		int now = q.front();
 		q.pop();
-		if (now == /*ÖÕµã*/) return ;
-		int nxt = /*nowµÄÄ³ÖÖ±ä»»*/;
-		if (nxt /*ÔÚÌâÄ¿µÄÄ³ÖÖ·¶Î§ÄÚ*/ && !vis[nxt])
+		if (now == /*ç»ˆç‚¹*/) return ;
+		int nxt = /*nowçš„æŸç§å˜æ¢*/;
+		if (nxt /*åœ¨é¢˜ç›®çš„æŸç§èŒƒå›´å†…*/ && !vis[nxt])
 		{
 			dis[nxt] = dis[now] + 1;
 			vis[nxt] = true;
