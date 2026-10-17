@@ -1,0 +1,83 @@
+{
+  "samples": [
+    {
+      "id": 1,
+      "inputType": "file",
+      "outputType": "file",
+      "input": "C:\\Users\\Administrator\\Documents\\C++\\.oicpp\\sampleTester\\zip-imports\\permutation_1792199229881_nbgn8j\\permutation1.in",
+      "output": "C:\\Users\\Administrator\\Documents\\C++\\.oicpp\\sampleTester\\zip-imports\\permutation_1792199229881_nbgn8j\\permutation1.ans",
+      "timeLimit": 1000,
+      "memoryLimit": 0,
+      "freopenInputFile": "permutation.in",
+      "freopenOutputFile": "permutation.out",
+      "result": {
+        "status": "AC",
+        "output": "79998\r\n",
+        "expectedOutput": "79998\r\n",
+        "stderr": "",
+        "outputSizeBytes": 7,
+        "outputExpanded": false,
+        "time": 112,
+        "memoryBytes": 0,
+        "usedSpj": false,
+        "spjOutput": ""
+      }
+    },
+    {
+      "id": 2,
+      "inputType": "file",
+      "outputType": "file",
+      "input": "C:\\Users\\Administrator\\Documents\\C++\\.oicpp\\sampleTester\\zip-imports\\permutation_1792199229881_nbgn8j\\permutation2.in",
+      "output": "C:\\Users\\Administrator\\Documents\\C++\\.oicpp\\sampleTester\\zip-imports\\permutation_1792199229881_nbgn8j\\permutation2.ans",
+      "timeLimit": 1000,
+      "memoryLimit": 0,
+      "freopenInputFile": "permutation.in",
+      "freopenOutputFile": "permutation.out",
+      "result": {
+        "status": "AC",
+        "output": "199999\r\n",
+        "expectedOutput": "199999\r\n",
+        "stderr": "",
+        "outputSizeBytes": 8,
+        "outputExpanded": false,
+        "time": 117,
+        "memoryBytes": 0,
+        "usedSpj": false,
+        "spjOutput": ""
+      }
+    },
+    {
+      "id": 3,
+      "inputType": "file",
+      "outputType": "file",
+      "input": "C:\\Users\\Administrator\\Documents\\C++\\.oicpp\\sampleTester\\zip-imports\\permutation_1792199229881_nbgn8j\\permutation3.in",
+      "output": "C:\\Users\\Administrator\\Documents\\C++\\.oicpp\\sampleTester\\zip-imports\\permutation_1792199229881_nbgn8j\\permutation3.ans",
+      "timeLimit": 1000,
+      "memoryLimit": 0,
+      "freopenInputFile": "permutation.in",
+      "freopenOutputFile": "permutation.out",
+      "result": {
+        "status": "AC",
+        "output": "6\r\n",
+        "expectedOutput": "6\r\n",
+        "stderr": "",
+        "outputSizeBytes": 3,
+        "outputExpanded": false,
+        "time": 108,
+        "memoryBytes": 0,
+        "usedSpj": false,
+        "spjOutput": ""
+      }
+    }
+  ],
+  "globalSettings": {
+    "useTestlib": false,
+    "useInteractive": false,
+    "spjPath": "",
+    "graderPath": "",
+    "freopenInputFile": "",
+    "freopenOutputFile": "",
+    "defaultTimeLimit": 1000,
+    "defaultMemoryLimit": 0
+  }
+}
