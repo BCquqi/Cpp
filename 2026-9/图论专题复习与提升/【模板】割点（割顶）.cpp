@@ -15,7 +15,7 @@ void tarjan(int u,int fa) {
     for (auto v : G[u]) {
         if (!dfn[v]) {
             child++;
-            tarjan(v,u);
+            tarjan(v, u);
             low[u] = min(low[u],low[v]);
             if (low[v] >= dfn[u]) flag = true;
         }
