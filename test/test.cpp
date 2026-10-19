@@ -2,10 +2,6 @@
 using namespace std;
 
 int main() {
-    freopen("test.in","r",stdin);
-    freopen("test.out","w",stdout);
-    int x;
-    while (cin >> x) cout << x << ',';
-    cout << endl;
+    while (true) cout << fflush;
     return 0;
 }
