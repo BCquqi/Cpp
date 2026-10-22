@@ -1,0 +1,368 @@
+
+--- 2026-7 ---
+  main:67
+  query:22
+  add:19
+  lowbit:10
+  build:10
+  pushdown:9
+  cmp:5
+  solve:3
+  check:2
+  calc:2
+  qpow:2
+  dfs:2
+  dijkstra:2
+  change:2
+  modify:2
+  mul:2
+  rand2:1
+  random_test:1
+  decreasing_test:1
+  increasing_test:1
+
+--- 2026-8 ---
+  main:65
+  query:27
+  init:23
+  solve:18
+  dfs:17
+  add:13
+  qpow:11
+  modify:11
+  build:10
+  lowbit:10
+  pushdown:9
+  pushup:7
+  create:5
+  find:4
+  calc:4
+  merge:4
+  split:4
+  Union:3
+  kruskal:3
+  rnk:3
+
+--- 2026-9-10-11 ---
+  main:36
+  dfs:22
+  query:11
+  init:8
+  solve:8
+  tarjan:6
+  check:5
+  modify:5
+  find:4
+  lowbit:4
+  topo_sort:3
+  insert:3
+  add:3
+  nc:3
+  read:3
+  write:3
+  dijkstra:2
+  kruskal:2
+  Hash:2
+  build:2
+
+--- CookieOI ---
+  main:10
+  generate_one:2
+  mod_pow:1
+  init_rev:1
+  ntt:1
+  multiply:1
+  quick_pow:1
+  read_int:1
+  write_int:1
+  get:1
+  init_primes:1
+  smallest_prime_factor:1
+
+--- Homework ---
+  main:6
+  find:1
+  reset:1
+  diss:1
+  addedge:1
+  cmp:1
+  Kruskal:1
+  solve:1
+
+--- J-training ---
+  solve:1
+  main:1
+
+--- J1-1 ---
+  main:43
+  dfs:19
+  bfs:7
+  check:7
+  solve:3
+  F:3
+  cmp:1
+
+--- J1-2 ---
+  main:136
+  s2BIG:24
+  printBIG:23
+  mulBIG:15
+  check:13
+  addBIG:12
+  cmpBIG:6
+  subBIG:6
+  solve:5
+  cmp:5
+  divBIG:4
+  isPrime:1
+  f:1
+  fun:1
+  factor_sum:1
+
+--- J2-1 ---
+  main:49
+  cmp:3
+  solve:2
+  helen:1
+  cal:1
+
+--- J2-2 ---
+  main:65
+  dfs:14
+  topo_sort:10
+  solve:9
+  bfs:7
+  cmp:4
+  check:2
+  merge:2
+  last_search:2
+  rdfs:1
+  topo_sort1:1
+  topo_sort2:1
+  check1:1
+  check2:1
+  Left:1
+  Right:1
+  merge_sort:1
+  quick_sort:1
+  kth:1
+  first_search:1
+
+--- NOICA ---
+  main:31
+  solve:15
+  check:5
+  query:4
+  dfs:3
+  calc:3
+  init:3
+  build:3
+  modify:3
+  find:2
+  merge:2
+  dijkstra:2
+  qpow:2
+  get:2
+  cal:1
+  basev:1
+  LCA:1
+  tarjan:1
+  lowbit:1
+  add:1
+
+--- OJ ---
+  main:25
+  solve:2
+  dfs:1
+  s2BIG:1
+  printBIG:1
+  mulBIG:1
+  change1:1
+  change2:1
+  check:1
+  count:1
+  is_prime:1
+  f:1
+
+--- Practice ---
+  main:7
+  spfa:1
+
+--- Pre ---
+  main:33
+  cmp:13
+  bfs:4
+  solve:1
+
+--- S1-1 ---
+  main:36
+  dfs:15
+  dijkstra:6
+  spfa:5
+  solve:4
+  bfs:3
+  copy:1
+  cmpx:1
+  cmpy:1
+
+--- S1-2 ---
+  main:73
+  find:25
+  Union:23
+  spfa:12
+  tarjan:9
+  dijkstra:8
+  kruskal:7
+  solve:4
+  link:4
+  check:3
+  cmp:3
+  prim:2
+  init:2
+  id:2
+  Delete:2
+  insertL:2
+  insertR:2
+  topo_sort:1
+  readint:1
+  put:1
+
+--- S2-1 ---
+  main:31
+  dfs:7
+  query:6
+  merge:6
+  merge_sort:6
+  cmp:3
+  cald:2
+  solve:2
+  dfsL:2
+  dfsR:2
+  read:1
+  insert:1
+  querya:1
+  queryb:1
+  copy:1
+  check:1
+  down:1
+  remove:1
+  move:1
+  qpow:1
+
+--- S2-2 ---
+  main:61
+  dfs:20
+  LCA:11
+  change:11
+  lowbit:10
+  sum:9
+  check:7
+  Hash:6
+  solve:4
+  query:4
+  add:4
+  dis:3
+  dfs2:3
+  dist:2
+  check1:1
+  check0:1
+  get_k_parent:1
+  func:1
+  C:1
+  find:1
+
+--- S3-1 ---
+  main:48
+  dfs:10
+  insert:9
+  query:7
+  solve:5
+  check:4
+  evaluate:3
+  f:2
+  topo_sort:1
+  link:1
+  balance:1
+  ins:1
+  del:1
+  find:1
+  Union:1
+  insert_s:1
+  sep:1
+  merge:1
+  and3:1
+
+--- S3-2 ---
+  main:26
+  build:14
+  pushup:12
+  dfs:9
+  pushdown:9
+  modify:8
+  query:8
+  add:6
+  exgcd:6
+  solve:4
+  mul:4
+  qpow:3
+  rowopr:3
+  Gauss:3
+  addtag:3
+  read:2
+  cover:2
+  phi:2
+  inv:2
+  get:2
+
+--- contest ---
+  main:48
+  solve:7
+  check:3
+  dfs:2
+  C:2
+  add:2
+  cmp:1
+  sortmax:1
+  sortmin:1
+  change:1
+  init:1
+  bfs:1
+  s2BIG:1
+  printBIG:1
+  mulBIG:1
+  divBIG:1
+  dijkstra:1
+  query:1
+
+--- self-practise ---
+  main:40
+  s2BIG:9
+  printBIG:8
+  merge:5
+  addBIG:4
+  cmpBIG:3
+  divBIG:2
+  subBIG:2
+  mulBIG:2
+  check:1
+  dfs:1
+  calc:1
+  solve:1
+  cal:1
+  init:1
+  cmp:1
+  cald:1
+  merge_sort:1
+  kth:1
+
+--- teach ---
+  main:3
+  dijkstra:2
+  find:2
+  kruskal:2
+  dfs:2
+  query:2
+  solve:2
+
+--- test ---
+  main:2

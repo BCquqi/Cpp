@@ -1,0 +1,308 @@
+
+============================================================
+brace_else
+============================================================
+}
+		else {
+}
+        else {
+}
+	else{
+}
+		else
+		{
+}
+	else {dis[s] = 0,vis[s] = 1; q.push(s);}
+} else { // 中间段 0
+}
+		else 
+		{
+}
+	else 
+	{
+}
+	else {
+}
+        else 
+        {
+} else {
+if (find(a) == find(b)) {cout << c << endl; return 0;}
+        else {Union(a,b + n); Union(b,a + n);}
+}
+    else {
+
+============================================================
+return_space
+============================================================
+if (!tr[id].lazy) return ;
+return ;
+if (flag) return ;
+if (x == ex && y == ey) return ;
+if (!(tr[id] -> lazy) || tr[id] -> l == tr[id] -> r) return ;
+if (!id) {x = y = 0; return ;}
+if (!tr[id].rev) return ;
+if (lf) return ;
+if (x > 1e10) return ;
+if (cnt + d > m) return ;
+if (cnt >= k) return ;
+if (u > n) return ;
+if (l == r) return ;
+if (lcm > x) return ;
+if (x == y) return ;
+
+============================================================
+sizeof_noparen
+============================================================
+memset(vis,false,sizeof vis);
+memset(dp[1],-0x3f,sizeof dp[1]);
+memset(dp,-1,sizeof dp);
+memset(dp2,0x3f,sizeof dp2);
+memset(dis,0x3f,sizeof dis);
+memset(dp[i + 1],-0x3f,sizeof dp[i + 1]);
+memset(dp,-0x3f,sizeof dp);
+memset(dp,0,sizeof dp);
+memset(dp,-0x3f,sizeof dp); // a[i] 可以为负数
+memset(rdis,0x3f,sizeof rdis);
+memset(dp,0x3f,sizeof dp);
+memset(ans.a,0,sizeof ans.a);
+memset(dp1,0x3f,sizeof dp1);
+memset(dp[0],-0x3f,sizeof dp[0]);
+memset(m.a,0,sizeof m.a);
+
+============================================================
+single_if_no_brace
+============================================================
+if (k == 0) break;
+if (x == 'G' && y == 'P') return -1;
+if (a[i] + a[j] + a[k] <= w) mp[a[i] + a[j] + a[k]] = true;
+if (x.score != y.score) return x.score > y.score;
+if (t[i] < mint) mint = t[i],start = i;
+if (k > 0) for (int i = k + 1;
+if (a[i] + a[j] <= w) mp[a[i] + a[j]] = true;
+if (a[i] <= w) mp[a[i]] = true;
+if (a[i].first <= a[j].second && a[j].first <= a[i].second) ans++;
+if (x == 'C' && y == 'G') return -1;
+if (x == 'P' && y == 'C') return -1;
+if (check(a[id1][i],a[id2][i]) == -1) p[2 * j].score++;
+if (i % k == 1) curv++;
+if (check(a[id1][i],a[id2][i]) == 1) p[2 * j - 1].score++;
+if (x == y) return 0;
+
+============================================================
+for_1indexed
+============================================================
+for (int i = 1;i <= m;i++)
+for (int i = 1;i <= n + m - 2;i++)
+for (int i = 1;i <= cur;i++)
+for (int i = 1;i <= n;i++)
+for (int i = 1;i < 7;i++)
+for (int i = 1;i <= 6 * n;i++)
+for (int i = 1;i <= 2;i++)
+for (int i = 1; i <= n; i++)
+for (int i = 1;i <= t;i++)
+for (int i = 1;i < n;i++)
+for (int i = 1;i + (1 << j)
+for (int i = 1;i <=  n;i++)
+for (int i = 1;i <= 2 * n;i++)
+for (int i = 1;i <= d;i++)
+for (int i = 1;i <= 3;i++)
+
+============================================================
+while_x--
+============================================================
+while (m--)
+while (n--)
+while (Q--)
+while (f--)
+while (len--)
+while (T--)
+while (k--)
+while (q--)
+while (x--)
+while (b--)
+while(T--)
+while (t--)
+while (p--)
+
+============================================================
+memset_call
+============================================================
+memset(m.a,0,sizeof m.a)
+memset(dp,-1,sizeof dp)
+memset(tr,0,sizeof tr)
+memset(dp1,0x3f,sizeof dp1)
+memset(dp[i + 1],-0x3f,sizeof dp[i + 1])
+memset(dp,0x3f,sizeof dp)
+memset(rdis,0x3f,sizeof rdis)
+memset(vis,false,sizeof vis)
+memset(dp[1],-0x3f,sizeof dp[1])
+memset(dp,0,sizeof dp)
+memset(dp2,0x3f,sizeof dp2)
+memset(dp[0],-0x3f,sizeof dp[0])
+memset(dis,0x3f,sizeof dis)
+memset(ans.a,0,sizeof ans.a)
+memset(dp,-0x3f,sizeof dp)
+
+============================================================
+fast_read_func
+============================================================
+static inline char nc() {
+        if (p1 == p2) {
+            p2 = (int)fread(buf, 1, BUF_SIZE, stdin);
+            p1 = 0;
+            if (p2 == 0) r
+
+============================================================
+struct_def
+============================================================
+struct seg_tree {int l,r,lazy,mx;}
+struct seg_tree {int l,r,mx;}
+struct seg_tree {int l,r,lazy,sum;}
+struct Edge {long long v,w;}
+struct Node {int v,w,y;}
+struct Node {
+    int tree[N][N];
+    void add(int x,int y,int val) {
+        for (int i = x;i <= n;i += lowbit(i))
+            for (int j = y;j <= m;
+struct Point {int x,y;}
+struct People {
+    int w;
+    bool isAdult;
+}
+struct Edge {int v,w;}
+struct Node {
+    int id,score;
+}
+struct seg_tree {int l,r,sum,lmax,rmax,lazy;}
+struct seg_tree {int l,r,lazy,sum,lzym;}
+struct seg_tree {int l,r,lazy,sum,mx;}
+struct Boat {long long x,l,id;}
+struct Node {
+	int num;
+	bool flag;
+}
+
+============================================================
+lambda_sort
+============================================================
+sort(p + 1,p + n + 1,[](Input x,Input y)
+sort(ans + 1,ans + m + 1,[](Answer x,Answer y)
+sort(s + 1,s + n + 1,[](Boat x,Boat y)
+sort(a + 1,a + n + 1,[](Node p,Node q)
+sort(id + l,id + mid + 1,[](int u, int v)
+sort(curb + 1,curb + n + 1,[](int x,int y)
+sort(id + mid + 1,id + r + 1,[](int u, int v)
+sort(s + 1,s + m + 1,[](Node x,Node y)
+sort(cura + 1,cura + n + 1,[](int x,int y)
+sort(q + 1,q + m + 1,[](Question x,Question y)
+sort(s + 1,s + n + 1,[](Node x,Node y)
+sort(q + 1,q + m + 1,[](Query p,Query q)
+sort(a + 1,a + e + 1,[](Edge x,Edge y)
+sort(a + 1,a + m + 1,[](Node x,Node y)
+sort(a + 1,a + n + 1,[](Point p,Point q)
+
+============================================================
+define_int
+============================================================
+#define int long long
+
+============================================================
+signed_main
+============================================================
+signed main ()
+signed main()
+
+============================================================
+include_no_space
+============================================================
+#include<cstring>
+#include<cmath>
+#include<queue>
+#include<deque>
+#include<map>
+#include<iomanip>
+#include<set>
+#include<vector>
+#include<cstdio>
+#include<cstdlib>
+#include<stack>
+#include<random>
+#include<algorithm>
+#include<ctime>
+#include<iostream>
+
+============================================================
+global_arr
+============================================================
+long long dp[M]
+long long h[N]
+int a[NN]
+int child[N]
+int l[N]
+int a[N]
+int s[N]
+long long dp[105]
+bool vis[N]
+int h[N]
+int dp[2]
+long long s[N]
+bool flag[10]
+int m[N]
+long long dp[N]
+
+============================================================
+inline_func
+============================================================
+inline int rand2(int a, int b){
+inline void modify(int x, int y) {
+inline int max(int a, int b) {
+inline int query(int x) {
+inline char nc() {
+inline int increasing_test()
+{
+inline void flush() {
+inline void modify(int x,int y) {
+inline int rnd () {
+inline int read() {
+inline int decreasing_test()
+{
+inline int popcount(int x) {
+inline ll Hash(int id, int l,int r)
+{
+inline int random_test()
+{
+inline int read()
+{
+
+============================================================
+vector_adj
+============================================================
+vector<Edge> G[maxn]
+vector<int> G[M]
+vector<int> G[NN]
+vector<Edge> G[N]
+vector<Node> G[N]
+vector<int> G[N]
+
+============================================================
+mod_const
+============================================================
+const int mod =
+
+============================================================
+eps_const
+============================================================
+const double eps =
+
+============================================================
+1ll_mul
+============================================================
+1ll *
+
+============================================================
+comma_chain_while
+============================================================
+while (id) ret += tree[id],id -= lowbit(id)
+while (x)
+        ret += a[x], x -= lowbit(x)

@@ -1,0 +1,12 @@
+2026-7:1
+Homework:1
+J1-1:37
+J1-2:121
+J2-1:39
+J2-2:5
+OJ:2
+Pre:35
+S1-2:1
+contest:1
+self-practise:10
+TOTAL_ALLMAN:253

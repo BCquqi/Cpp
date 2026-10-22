@@ -1,0 +1,20 @@
+27: while (L <= R)
+20: while (l <= r)
+3: while (l < r)
+3: while (R - L >= eps)
+2: while (l < r && dp[q[l + 1]] + a * s[q[l + 1]] * s[q[l + 1]] - b * s[q[l + 1]] -
+2: while (l < r && (dp[q[r]] + a * s[q[r]] * s[q[r]] - b * s[q[r]] - dp[q[r - 1]] -
+2: while (l < r && (dp[q[l + 1]] + (f[q[l + 1]] + L + 1)
+2: while (l < r && (dp[i] + (f[i] + L + 1)
+2: while (len--) putchar(out[len])
+1: while (r - l > eps)
+1: while (l < r && (dp[k - 1][q[l + 1]] + s[q[l + 1]] - dp[k - 1][q[l]] - s[q[l]])
+1: while (l < r && (dp[k - 1][i] + s[i] - dp[k - 1][q[r]] - s[q[r]])
+1: while (l < r && dp[q[l + 1]] + s2[q[l + 1]] - dp[q[l]] - s2[q[l]] <= x[i] * (s1[
+1: while (l < r && (dp[q[r]] + s2[q[r]] - dp[q[r - 1]] - s2[q[r - 1]])
+1: while (l < r && (dp[q[l + 1]] - dp[q[l]])
+1: while (l < r && (dp[q[r]] - dp[q[r - 1]])
+1: while (l <= r && dp[q[r] - 1] + y + z * (-q[r] + 1)
+1: while (l <= r && q[l] < cur)
+1: while (r - l > 1e-6)
+1: while (len--) putchar_unlocked(s[len])

@@ -1,0 +1,99 @@
+
+Node:144
+  2026-7\2025winter\hj1\Swiss-System Tournament\Swiss-SystemTournament.cpp: int id,score;
+  2026-7\2025winter\hj2\Piano 2\Piano2.cpp: int num; bool flag;
+  2026-7\散题\P556.cpp: int v,w,y;
+
+Edge:68
+  2026-7\散题\P553.cpp: int v,w;
+  2026-7\散题\P554.cpp: int v,w;
+  2026-7\散题\P555.cpp: int v,w;
+
+seg_tree:34
+  2026-7\线段树\A-Simple-Problem-with-Integers.cpp: int l,r,lazy,sum;
+  2026-7\线段树\Hotel-G.cpp: int l,r,sum,lmax,rmax,lazy;
+  2026-7\线段树\Light-Switching-G.cpp: int l,r,lazy,sum;
+
+Point:8
+  2026-7\单调队列与单调栈\Flowerpot-S.cpp: int x,y;
+  NOICA\10\maze\maze.cpp: int x,y;
+  NOICA\10\spring\spring-.cpp: int x,y;
+
+Block:6
+  2026-8\根号算法选讲\作诗.cpp: int l,r,lazy;
+  2026-8\根号算法选讲\小Z的袜子.cpp: int l,r;
+  2026-8\根号算法选讲\弹飞绵羊.cpp: int l,r;
+
+Query:5
+  2026-9-10-11\数据结构\冰火战士.cpp: int op,t,x,y,k;
+  2026-9-10-11\数据结构\排序.cpp: int op,l,r;
+  2026-9-10-11\树上问题\rldcot.cpp: int l,r,id;
+
+Matrix:3
+  2026-8\动态dp与dp套dp\Sasha-and-Array.cpp: int a[2][2]; Matrix() {a[0][0] = a[0][1] = a[1][0] = a[1][1] = 0;
+  2026-8\动态dp与dp套dp\【模板】矩阵快速幂.cpp: int a[N][N];
+  2026-8\动态dp与dp套dp\矩阵加速（数列）.cpp: int a[N][N];
+
+Segment_Tree:3
+  2026-8\动态dp与dp套dp\小白逛公园.cpp: int sum,max,mxl,mxr;
+  2026-8\数据结构进阶练习\小白逛公园.cpp: int sum,max,mxl,mxr;
+  2026-8\测试3\oracle.cpp: int l,r,lazy;
+
+Food:2
+  2026-7\背包问题\多人背包.cpp: long long a,b,c;
+  2026-7\背包问题\烹调方案.cpp: long long a,b,c;
+
+List:2
+  2026-8\Slope-Trick与WQS二分\种树.cpp: int pre,nxt,val;
+  2026-8\贪心\数据备份.cpp: int pre,nxt,val;
+
+People:1
+  2026-7\2025winter\hj2\Robot Takahashi\RobotTakahashi.cpp: int w; bool isAdult;
+
+Boat:1
+  2026-7\多维dp\海盗船.cpp: long long x,l,id;
+
+Input:1
+  2026-8\数据结构进阶练习\排序机械臂.cpp: int id,val;
+
+Question:1
+  2026-8\根号算法选讲\小Z的袜子.cpp: int l,r,id;
+
+Answer:1
+  2026-8\根号算法选讲\小Z的袜子.cpp: long long a,b; int id;
+
+cmpST:1
+  2026-8\贪心\蔬菜.cpp: bool operator() (const Node &x,const Node &y) {return x.appear < y.appear;
+
+cmpQ:1
+  2026-8\贪心\蔬菜.cpp: bool operator() (const Node &x,const Node &y) {return x.val < y.val;
+
+cmpLOSS:1
+  2026-8\贪心\蔬菜.cpp: bool operator() (const Node &x,const Node &y) {return x.val > y.val;
+
+segment_tree:1
+  2026-9-10-11\数据结构\排序.cpp: int l,r,len,sum,lazy;
+
+cmp:1
+  2026-9-10-11\贪心与证明\01-on-Tree.cpp: int id,cnt0,cnt1; bool operator() (cmp a,cmp b) const {return a.cnt1 * b.cnt0 != b.cnt1 * a.cnt0 ? a.cnt1 * b.cnt0 > b.cnt1 * a.cnt0 : a.id > b.id;
+
+Pos:1
+  contest\4\LoopPatrol\LoopPatrol.cpp: int x,y;
+
+edge:1
+  Homework\2026-4-29\Buy-or-Build\Buy-or-Build.cpp: int u, v, w;
+
+B:1
+  J1-1\0 贪心\海港.cpp: int t,k;
+
+Circle:1
+  S1-2\5 并查集基础\联通的圆环.cpp: int x,y,r;
+
+Path:1
+  S2-2\12 树上差分\运输计划.cpp: int u,v,dis,lca;
+
+answer:1
+  S3-2\6 线段树1\线段树单点修改.cpp: int sum,mn,mx;
+
+Range:1
+  self-practise\Note-B\4 贪心\Sunscreen-G.cpp: int l,r;

@@ -1,0 +1,26 @@
+
+--- 2026-9-10-11\数据结构\天降之物.cpp ---
+static inline char nc() {
+        if (p1 == p2) {
+            p2 = (int)fread(buf, 1, BUF_SIZE, stdin);
+            p1 = 0;
+            if (p2 == 0) return EOF;
+        }
+
+--- 2026-9-10-11\树上问题\rldcot.cpp ---
+static inline char nc() {
+        if (p1 == p2) {
+            p2 = (int)fread(buf, 1, BUF_SIZE, stdin);
+            p1 = 0;
+            if (p2 == 0) return EOF;
+        }
+
+--- 2026-9-10-11\树上问题\spxmcq.cpp ---
+static inline char nc() {
+        if (p1 == p2) {
+            p2 = (int)fread(buf, 1, BUF_SIZE, stdin);
+            p1 = 0;
+            if (p2 == 0) return EOF;
+        }
+
+Total fast-read files: 3

@@ -1,0 +1,1073 @@
+
+--- 2026-7\2025winter\hj1\Swiss-System Tournament\Swiss-SystemTournament.cpp ---
+struct Node {
+    int id,score;
+}
+
+--- 2026-7\2025winter\hj2\Piano 2\Piano2.cpp ---
+struct Node {
+	int num;
+	bool flag;
+}
+
+--- 2026-7\2025winter\hj2\Robot Takahashi\RobotTakahashi.cpp ---
+struct People {
+    int w;
+    bool isAdult;
+}
+
+--- 2026-7\单调队列与单调栈\Flowerpot-S.cpp ---
+struct Point {int x,y;}
+
+--- 2026-7\多维dp\海盗船.cpp ---
+struct Boat {long long x,l,id;}
+
+--- 2026-7\散题\P553.cpp ---
+struct Edge {int v,w;}
+
+--- 2026-7\散题\P554.cpp ---
+struct Edge {int v,w;}
+
+--- 2026-7\散题\P555.cpp ---
+struct Edge {int v,w;}
+
+--- 2026-7\散题\P556.cpp ---
+struct Node {int v,w,y;}
+
+--- 2026-7\散题\P899.cpp ---
+struct Edge {long long v,w;}
+
+--- 2026-7\树状数组\二维树状数组3.cpp ---
+struct Node {
+    int tree[N][N];
+    void add(int x,int y,int val) {
+        for (int i = x;i <= n;i += lowbit(i))
+            for (int j = y;j <= m;j += lowbit(j))
+                tree[i][j] += val;
+    }
+    int query(int x,int y) {
+        long long ret = 0;
+        for (int i = x;i > 0;i -= lowbit(i))
+            for (int j = y;j > 0;j -= lowbit(j))
+                ret += tree[i][j];
+        return ret;
+    }
+}
+
+--- 2026-7\线段树\A-Simple-Problem-with-Integers.cpp ---
+struct seg_tree {int l,r,lazy,sum;}
+
+--- 2026-7\线段树\Hotel-G.cpp ---
+struct seg_tree {int l,r,sum,lmax,rmax,lazy;}
+
+--- 2026-7\线段树\Light-Switching-G.cpp ---
+struct seg_tree {int l,r,lazy,sum;}
+
+--- 2026-7\线段树\【模板】线段树.cpp ---
+struct seg_tree {int l,r,lazy,sum,mx;}
+
+--- 2026-7\线段树\【模板】线段树1.cpp ---
+struct seg_tree {int l,r,lazy,sum;}
+
+--- 2026-7\线段树\【模板】线段树2.cpp ---
+struct seg_tree {int l,r,lazy,sum,lzym;}
+
+--- 2026-7\线段树\序列操作1.cpp ---
+struct seg_tree {int l,r,mx;}
+
+--- 2026-7\线段树\序列操作2.cpp ---
+struct seg_tree {int l,r,lazy,mx;}
+
+--- 2026-7\线段树\维护序列.cpp ---
+struct seg_tree {int l,r,lazy,sum,lzym;}
+
+--- 2026-7\线段树\逆序对.cpp ---
+struct seg_tree {int l,r,lazy,sum;}
+
+--- 2026-7\背包问题\多人背包.cpp ---
+struct Food {long long a,b,c;}
+
+--- 2026-7\背包问题\烹调方案.cpp ---
+struct Food {long long a,b,c;}
+
+--- 2026-7\链表及其应用\【模板】双向链表.cpp ---
+struct Node {int pre,nxt;}
+
+--- 2026-7\链表及其应用\链表操作.cpp ---
+struct Node {int val,nxt;}
+
+--- 2026-8\Slope-Trick与WQS二分\Tree-I.cpp ---
+struct Edge {int s,t,c,col;}
+
+--- 2026-8\Slope-Trick与WQS二分\种树.cpp ---
+struct List {int pre,nxt,val;}
+
+--- 2026-8\Slope-Trick与WQS二分\种树.cpp ---
+struct Node {
+    int id,val;
+    bool operator < (Node x) const {return val < x.val;}
+}
+
+--- 2026-8\动态dp与dp套dp\Sasha-and-Array.cpp ---
+struct Matrix {
+    int a[2][2];
+    Matrix() {a[0][0] = a[0][1] = a[1][0] = a[1][1] = 0;};
+    Matrix(long long e,long long f,long long g,long long h) 
+    {a[0][0] = e, a[0][1] = f, a[1][0] = g, a[1][1] = h;}
+    void init() {a[0][0] = a[1][1] = 1, a[0][1] = a[1][0] = 0;}
+}
+
+--- 2026-8\动态dp与dp套dp\【模板】矩阵快速幂.cpp ---
+struct Matrix {int a[N][N];}
+
+--- 2026-8\动态dp与dp套dp\小白逛公园.cpp ---
+struct Segment_Tree {int sum,max,mxl,mxr;}
+
+--- 2026-8\动态dp与dp套dp\矩阵加速（数列）.cpp ---
+struct Matrix {int a[N][N];}
+
+--- 2026-8\动态规划及其优化2\The-Bakery.cpp ---
+struct seg_tree {int l,r,lazy,maxn;}
+
+--- 2026-8\数据结构基础知识学习与应用\FHQ-Treap.cpp ---
+struct Node {int ls,rs,sz,fix,val;}
+
+--- 2026-8\数据结构基础知识学习与应用\Multiset.cpp ---
+struct seg_tree {int sum;}
+
+--- 2026-8\数据结构基础知识学习与应用\XOR的艺术.cpp ---
+struct seg_tree {int l,r,lazy,val;}
+
+--- 2026-8\数据结构基础知识学习与应用\【模板】动态开点线段树.cpp ---
+struct seg_tree {
+    int l,r,lc,rc; long long lazy,sum;
+    seg_tree() : l(0),r(0),lc(0),rc(0),lazy(0),sum(0) {}
+}
+
+--- 2026-8\数据结构基础知识学习与应用\【模板】普通平衡树.cpp ---
+struct Node {int ls,rs,sz,fix,val;}
+
+--- 2026-8\数据结构基础知识学习与应用\【模板】线段树1.cpp ---
+struct seg_tree {int l,r,lazy,sum;}
+
+--- 2026-8\数据结构基础知识学习与应用\火柴排队.cpp ---
+struct Node {
+	int num,id;
+}
+
+--- 2026-8\数据结构基础练习题\数学计算.cpp ---
+struct seg_tree {int l,r,val;}
+
+--- 2026-8\数据结构进阶练习\Hotel-G.cpp ---
+struct seg_tree {int l,r,sum,lmax,rmax,lazy;}
+
+--- 2026-8\数据结构进阶练习\小白逛公园.cpp ---
+struct Segment_Tree {int sum,max,mxl,mxr;}
+
+--- 2026-8\数据结构进阶练习\排序机械臂.cpp ---
+struct Node {int ls,rs,sz,fix,val,fa; bool rev;}
+
+--- 2026-8\数据结构进阶练习\排序机械臂.cpp ---
+struct Input {int id,val;}
+
+--- 2026-8\数据结构进阶练习\永无乡.cpp ---
+struct seg_tree {
+    int l,r,lc,rc; long long lazy,sum;
+    seg_tree() : l(0),r(0),lc(0),rc(0),lazy(0),sum(0) {}
+}
+
+--- 2026-8\斜率优化\货币兑换.cpp ---
+struct Node {double a,b,rate,ca,cb,k;}
+
+--- 2026-8\根号算法选讲\作诗.cpp ---
+struct Block {int l,r,lazy;}
+
+--- 2026-8\根号算法选讲\小Z的袜子.cpp ---
+struct Question {int l,r,id;}
+
+--- 2026-8\根号算法选讲\小Z的袜子.cpp ---
+struct Answer {long long a,b; int id;}
+
+--- 2026-8\根号算法选讲\小Z的袜子.cpp ---
+struct Block {int l,r;}
+
+--- 2026-8\根号算法选讲\弹飞绵羊.cpp ---
+struct Block {int l,r;}
+
+--- 2026-8\根号算法选讲\教主的魔法.cpp ---
+struct Block {int l,r,lazy;}
+
+--- 2026-8\测试2\city\city.cpp ---
+struct Node {int h,pos;}
+
+--- 2026-8\测试3\oracle.cpp ---
+struct Segment_Tree{int l,r,lazy;}
+
+--- 2026-8\点分治-树剖-直径-重心-虚树\巡逻.cpp ---
+struct Edge {int v,w;}
+
+--- 2026-8\简单树论与树上技巧\归程.cpp ---
+struct Node {int u,v,len,w;}
+
+--- 2026-8\简单树论与树上技巧\归程.cpp ---
+struct Edge {int v,len,w;}
+
+--- 2026-8\简单树论与树上技巧\最小生成树.cpp ---
+struct Node {int x,y,z;}
+
+--- 2026-8\简单树论与树上技巧\树链的并.cpp ---
+struct Node {int p,dfn;}
+
+--- 2026-8\综合练习\Best-Concatenation.cpp ---
+struct Node {string s; int id;}
+
+--- 2026-8\贪心\Megalomania.cpp ---
+struct Node {int a,b;}
+
+--- 2026-8\贪心\Summer-Vacation.cpp ---
+struct Node {int a,b;}
+
+--- 2026-8\贪心\Work-Scheduling-G.cpp ---
+struct Node {int d,p;}
+
+--- 2026-8\贪心\建筑抢修.cpp ---
+struct Node {int t1,t2;}
+
+--- 2026-8\贪心\数据备份.cpp ---
+struct List {int pre,nxt,val;}
+
+--- 2026-8\贪心\数据备份.cpp ---
+struct Node {
+    int id,val;
+    bool operator < (Node x) const {return val > x.val;}
+}
+
+--- 2026-8\贪心\点菜.cpp ---
+struct Node {
+    int x,y;
+    bool operator < (const Node x) const {return y < x.y;} // 价格升序 
+}
+
+--- 2026-8\贪心\蔬菜.cpp ---
+struct Node {int val,id,appear;}
+
+--- 2026-8\贪心\蔬菜.cpp ---
+struct cmpST {bool operator() (const Node &x,const Node &y) {return x.appear < y.appear;}}
+
+--- 2026-8\贪心\蔬菜.cpp ---
+struct cmpQ {bool operator() (const Node &x,const Node &y) {return x.val < y.val;}}
+
+--- 2026-8\贪心\蔬菜.cpp ---
+struct cmpLOSS {bool operator() (const Node &x,const Node &y) {return x.val > y.val;}}
+
+--- 2026-8\贪心\超级钢琴.cpp ---
+struct Node {
+	int m,l,r;
+	bool operator < (const Node &a) const {return s[query(l,r)] - s[m - 1] < s[query(a.l,a.r)] - s[a.m - 1];}
+}
+
+--- 2026-9-10-11\图论专题复习与提升\Redundant-Paths-G.cpp ---
+struct Edge {int u,i;}
+
+--- 2026-9-10-11\图论专题复习与提升\【模板】边双连通分量.cpp ---
+struct Edge {int v,id;}
+
+--- 2026-9-10-11\图论专题复习与提升\建造军营.cpp ---
+struct Edge {int v,id;}
+
+--- 2026-9-10-11\图论专题复习与提升\归程.cpp ---
+struct Node {int u,v,len,w;}
+
+--- 2026-9-10-11\图论专题复习与提升\归程.cpp ---
+struct Edge {int v,len,w;}
+
+--- 2026-9-10-11\图论专题复习与提升\飞行路线.cpp ---
+struct Edge {int v; long long w;}
+
+--- 2026-9-10-11\图论专题复习与提升\飞行路线.cpp ---
+struct Node {int u,l,d;}
+
+--- 2026-9-10-11\字符串专题\最长异或路径.cpp ---
+struct Edge {int v, w;}
+
+--- 2026-9-10-11\数据结构\不归之人与望眼欲穿的人们.cpp ---
+struct Node {int x,y;}
+
+--- 2026-9-10-11\数据结构\不归之人与望眼欲穿的人们.cpp ---
+struct Block {int l,r;}
+
+--- 2026-9-10-11\数据结构\冰火战士.cpp ---
+struct Query {int op,t,x,y,k;}
+
+--- 2026-9-10-11\数据结构\排序.cpp ---
+struct Query {int op,l,r;}
+
+--- 2026-9-10-11\数据结构\排序.cpp ---
+struct segment_tree {int l,r,len,sum,lazy;}
+
+--- 2026-9-10-11\数据结构\未优化-天降之物.cpp ---
+struct Block {
+    int l,r;
+    int id[N + 5],val[len + 5];
+    int first[len + 5],last[len + 5];
+    int dis[len + 5][len + 5];
+}
+
+--- 2026-9-10-11\树上问题\rldcot.cpp ---
+struct Edge {int v,w;}
+
+--- 2026-9-10-11\树上问题\rldcot.cpp ---
+struct Node {int l,r,id;}
+
+--- 2026-9-10-11\树上问题\rldcot.cpp ---
+struct Query {int l,r,id;}
+
+--- 2026-9-10-11\树上问题\spxmcq.cpp ---
+struct Query {int id,u,x;}
+
+--- 2026-9-10-11\树上问题\spxmcq.cpp ---
+struct Node {
+    int id,thr;
+    bool operator < (const Node &x) const {return thr > x.thr;}
+}
+
+--- 2026-9-10-11\树形dp\入门例题4.cpp ---
+struct Edge {int v,w;}
+
+--- 2026-9-10-11\树形dp\入门例题5.cpp ---
+struct Edge {int v,w;}
+
+--- 2026-9-10-11\树形dp\旅游.cpp ---
+struct Node {int u,v;}
+
+--- 2026-9-10-11\树形dp\树上染色.cpp ---
+struct Edge {int v,w;}
+
+--- 2026-9-10-11\贪心与证明\01-on-Tree.cpp ---
+struct cmp {
+    int id,cnt0,cnt1;
+    bool operator() (cmp a,cmp b) const {return a.cnt1 * b.cnt0 != b.cnt1 * a.cnt0 ? a.cnt1 * b.cnt0 > b.cnt1 * a.cnt0 : a.id > b.id;}
+}
+
+--- 2026-9-10-11\贪心与证明\Donation.cpp ---
+struct Node {int u,v; long long w;}
+
+--- 2026-9-10-11\贪心与证明\Swap-Space.cpp ---
+struct Node {int a,b;}
+
+--- 2026-9-10-11\贪心与证明\Tower.cpp ---
+struct Node {int w,s,v;}
+
+--- 2026-9-10-11\贪心与证明\Travelling-Merchant.cpp ---
+struct Node {int u,v,r,p,id;}
+
+--- 2026-9-10-11\贪心与证明\Travelling-Merchant.cpp ---
+struct Edge {int u,r,p,id;}
+
+--- Homework\2026-4-29\Buy-or-Build\Buy-or-Build.cpp ---
+struct edge{
+	int u, v, w;
+}
+
+--- J1-1\0 贪心\Social-Distancing-II-B.cpp ---
+struct Node {
+	int x;
+	bool s;
+}
+
+--- J1-1\0 贪心\海港.cpp ---
+struct B{
+	int t,k;
+}
+
+--- J1-1\2 二维棋盘BFS\临冬城宝藏.cpp ---
+struct Node {
+	int x,y,z;
+}
+
+--- J1-1\2 二维棋盘BFS\好奇怪的游戏.cpp ---
+struct Node {
+	int x,y;
+}
+
+--- J1-1\2 二维棋盘BFS\最后的迷宫.cpp ---
+struct Node {
+	int x,y;
+}
+
+--- J1-1\2 二维棋盘BFS\迷宫最短路.cpp ---
+struct Node {
+	int x,y;
+}
+
+--- J1-1\2 二维棋盘BFS\马的遍历.cpp ---
+struct Node {
+	int x,y;
+}
+
+--- J1-1\5 二维搜索综合练习\又着火了.cpp ---
+struct Node {
+	int x,y;
+}
+
+--- J1-1\阶段复习.cpp ---
+struct Node {
+	int x,y;
+}
+
+--- J1-2\12 多重背包\太空电梯.cpp ---
+struct Node {
+	int h,a;
+}
+
+--- J1-2\7 LIS\信封问题.cpp ---
+struct Node {
+	int w,h;
+}
+
+--- J1-2\7 LIS\老鼠速度.cpp ---
+struct Node {
+	int w,v;
+}
+
+--- J1-2\7 LIS\老鼠速度.cpp ---
+struct Node {
+	int w,v;
+}
+
+--- J1-2\8 01背包基本模型\烹调方案.cpp ---
+struct Node {
+	int a,b,c;
+}
+
+--- J2-1\3 动规综合\小明的U盘.cpp ---
+struct Node {
+	int w,v;
+}
+
+--- J2-1\3 动规综合\点菜.cpp ---
+struct Node {
+	int a,b;
+}
+
+--- J2-1\6 二位前缀和与差分\老式录像机.cpp ---
+struct Node {int s,t,c;}
+
+--- J2-2\1 贪心综合练习\奶牛杂技团.cpp ---
+struct Node {
+	int w,s;
+}
+
+--- J2-2\1 贪心综合练习\真空扫地机器人.cpp ---
+struct Node {
+	int s,h;
+	string t;
+}
+
+--- J2-2\1 贪心综合练习\货场选址.cpp ---
+struct Node {
+	int a,w;
+}
+
+--- J2-2\11 图上广搜\SwapPlace.cpp ---
+struct Node {
+    int a,b;
+}
+
+--- J2-2\11 图上广搜\奶酪.cpp ---
+struct Node {
+    int x,y,z;
+}
+
+--- J2-2\11 图上广搜\营救.cpp ---
+struct Edge {
+    int u,w;
+}
+
+--- J2-2\2 优先队列\x轴最大距离.cpp ---
+struct Node {
+	int x,id;
+}
+
+--- J2-2\2 优先队列\实时晋级.cpp ---
+struct Node {
+	int id,score;
+}
+
+--- J2-2\6 分治法基础\火柴排队.cpp ---
+struct Node {
+	int num,id;
+}
+
+--- J2-2\7 树与二叉树1\层次遍历.cpp ---
+struct Node {
+	int lch,rch,p,dep;
+}
+
+--- J2-2\8 树与二叉树2\二叉查找树.cpp ---
+struct Node {
+	int lch,rch,p;
+}
+
+--- NOICA\10\maze\maze.cpp ---
+struct Point {int x,y;}
+
+--- NOICA\10\spring\spring-.cpp ---
+struct Point {int x,y;}
+
+--- NOICA\10\spring\spring.cpp ---
+struct Point {long long x,y;}
+
+--- NOICA\12\trace\trace.cpp ---
+struct Edge {int v,w;}
+
+--- NOICA\3\dragon\dragon.cpp ---
+struct Node {int atk,d,id;}
+
+--- NOICA\4\bag\bag.cpp ---
+struct Node {int in,out,w,s,v;}
+
+--- NOICA\4\double\double.cpp ---
+struct Node {long long x,y;}
+
+--- NOICA\5\graph\graph-50.cpp ---
+struct Edge {int v,w;}
+
+--- NOICA\5\graph\graph.cpp ---
+struct Edge {int u,v,w;}
+
+--- NOICA\6\road\road.cpp ---
+struct Edge {int v,w;}
+
+--- NOICA\7\boundary.cpp ---
+struct Point {int x,y;}
+
+--- NOICA\7\boundary\boundary.cpp ---
+struct Point {int x,y;}
+
+--- NOICA\7\permutation.cpp ---
+struct seg_tree {int l,r; long long mn;}
+
+--- NOICA\7\permutation\permutation.cpp ---
+struct seg_tree {int l,r; long long mn;}
+
+--- NOICA\8\attach\attach.cpp ---
+struct seg_tree {int l,r,lazy,mn;}
+
+--- NOICA\8\revue\revue.cpp ---
+struct Edge {int u,v,w;}
+
+--- NOICA\9\discount\discount.cpp ---
+struct Node {int val,num;}
+
+--- NOICA\9\revenge\revenge.cpp ---
+struct Node {int a,b,id;}
+
+--- Practice\P1807.cpp ---
+struct Edge {int v,w;}
+
+--- Pre\贪心\Mixing Milk.cpp ---
+struct Node {
+	int p,a;
+}
+
+--- Pre\贪心\Saruman's Army.cpp ---
+struct Node {
+	int b,e;
+}
+
+--- Pre\贪心\会场安排.cpp ---
+struct Node {
+	int b,e;
+}
+
+--- Pre\贪心\导弹拦截2010.cpp ---
+struct Node {
+	int d1,d2;
+}
+
+--- Pre\贪心\干净的牛棚.cpp ---
+struct Node {
+	int b,e;
+}
+
+--- Pre\贪心\引爆气球.cpp ---
+struct Node {
+	int b,e;
+}
+
+--- Pre\贪心\排队接水.cpp ---
+struct Node {
+	int num,t;
+}
+
+--- Pre\贪心\泥泞路.cpp ---
+struct Node {
+	int b,e;
+}
+
+--- Pre\贪心\营养膳食.cpp ---
+struct Node {
+	int a,b;
+}
+
+--- Pre\贪心\采购奖品.cpp ---
+struct Node {
+	int p,a;
+}
+
+--- S1-1\1 多叉树\单词查找树.cpp ---
+struct Node {
+	int child[130] = {};
+}
+
+--- S1-1\1 多叉树\道路修建.cpp ---
+struct Edge {
+	int v,w;
+}
+
+--- S1-1\2 树的递推\信号放大器.cpp ---
+struct Edge {int v,w;}
+
+--- S1-1\2 树的递推\奶牛马拉松.cpp ---
+struct Node {int v,w;}
+
+--- S1-1\3 多源最短路\【模板】多源最短路.cpp ---
+struct Edge {int v,w;}
+
+--- S1-1\3 多源最短路\动态最短路.cpp ---
+struct Edge {int v,w;}
+
+--- S1-1\4 01BFS\KATHTHI.cpp ---
+struct Node {int x,y;}
+
+--- S1-1\5 spfa算法\单源最短路径（弱化版）.cpp ---
+struct Edge {
+	int v,w;
+}
+
+--- S1-1\5 spfa算法\奶牛派对.cpp ---
+struct Edge {
+	int v,w;
+}
+
+--- S1-1\5 spfa算法\牛奶管道.cpp ---
+struct Edge {
+	int v,l,c;
+}
+
+--- S1-1\5 spfa算法\航空路线.cpp ---
+struct Edge {
+	int v,w,d;
+}
+
+--- S1-1\5 spfa算法\营救.cpp ---
+struct Edge {
+	int v,w;
+}
+
+--- S1-1\6 Dijkstra算法\【模板】单源最短路径（标准版）.cpp ---
+struct Node {int v,w;}
+
+--- S1-1\6 Dijkstra算法\平面上的点.cpp ---
+struct Node {int v,w;}
+
+--- S1-1\6 Dijkstra算法\平面上的点.cpp ---
+struct Point {int x,y,id;}
+
+--- S1-1\6 Dijkstra算法\热浪.cpp ---
+struct Edge {
+	int v,w;
+}
+
+--- S1-1\6 Dijkstra算法\爱笑的小莫.cpp ---
+struct Node {int v; long long w;}
+
+--- S1-1\6 Dijkstra算法\路径统计.cpp ---
+struct Node {int v,w;}
+
+--- S1-1\7 综合\奶牛过马路.cpp ---
+struct Node {int x,y;}
+
+--- S1-1\7 综合\彩灯祝福.cpp ---
+struct Edge {int v,w;}
+
+--- S1-1\7 综合\树上最长路径.cpp ---
+struct Edge {int v,w;}
+
+--- S1-1\7 综合\畅通工程.cpp ---
+struct Node {int v; long long w;}
+
+--- S1-2\1 负环和分数规划\【模板】最长路.cpp ---
+struct Edge {int v,w;}
+
+--- S1-2\1 负环和分数规划\【模板】负环.cpp ---
+struct Edge {int v,w;}
+
+--- S1-2\1 负环和分数规划\天路.cpp ---
+struct Edge {int u,v,p;}
+
+--- S1-2\1 负环和分数规划\找工作.cpp ---
+struct Edge {int v,w;}
+
+--- S1-2\1 负环和分数规划\观光奶牛.cpp ---
+struct Edge {int v,w;}
+
+--- S1-2\10 复杂图论\【模板】次短路.cpp ---
+struct Edge {int v,w;}
+
+--- S1-2\10 复杂图论\神经网络.cpp ---
+struct Edge {int v,w;}
+
+--- S1-2\10 复杂图论\黑暗城堡.cpp ---
+struct Edge {int v,w;}
+
+--- S1-2\2 差分约束\奶牛排队.cpp ---
+struct Edge {int v,w;}
+
+--- S1-2\2 差分约束\小K的农场.cpp ---
+struct Edge {int v,w;}
+
+--- S1-2\2 差分约束\工程规划.cpp ---
+struct Edge {int v,w;}
+
+--- S1-2\2 差分约束\糖果.cpp ---
+struct Edge {int v,w;}
+
+--- S1-2\3 单源最短路进阶\包裹运送.cpp ---
+struct Node {int v,w;}
+
+--- S1-2\4 分层图\反转.cpp ---
+struct Edge {int v; long long w;}
+
+--- S1-2\4 分层图\回家的路.cpp ---
+struct Node {int x,y,id;}
+
+--- S1-2\4 分层图\回家的路.cpp ---
+struct Edge {int v,w;}
+
+--- S1-2\4 分层图\旅游巴士.cpp ---
+struct Edge {int v,w;}
+
+--- S1-2\4 分层图\旅游巴士.cpp ---
+struct Node {int u,l; long long d;}
+
+--- S1-2\4 分层图\飞行路线.cpp ---
+struct Edge {int v; long long w;}
+
+--- S1-2\4 分层图\飞行路线.cpp ---
+struct Node {int u,l,d;}
+
+--- S1-2\5 并查集基础\扩散.cpp ---
+struct Point {int x,y;}
+
+--- S1-2\5 并查集基础\联通的圆环.cpp ---
+struct Circle {int x,y,r;}
+
+--- S1-2\6 并查集进阶\关押罪犯.cpp ---
+struct Node {int a,b,c;}
+
+--- S1-2\6 并查集进阶\家庭作业.cpp ---
+struct Node {int t,s;}
+
+--- S1-2\8 最小生成树\【模板】最小生成树kruskal.cpp ---
+struct Node {int x,y,z;}
+
+--- S1-2\8 最小生成树\【模板】最小生成树prim.cpp ---
+struct Node {int v,w;}
+
+--- S1-2\8 最小生成树\北极通讯网络.cpp ---
+struct Node {int u,v; double w;}
+
+--- S1-2\8 最小生成树\局域网.cpp ---
+struct Node {int i,j,m;}
+
+--- S1-2\9 最小生成树进阶\安慰奶牛.cpp ---
+struct Node {int s,e,l;}
+
+--- S1-2\9 最小生成树进阶\新的开始.cpp ---
+struct Node {int u,v,w;}
+
+--- S1-2\9 最小生成树进阶\构造完全图.cpp ---
+struct Node {int u,v,w;}
+
+--- S1-2\9 最小生成树进阶\道路修复.cpp ---
+struct Node {int u,v,w;}
+
+--- S1-2\=10 割点与桥\分离的路径.cpp ---
+struct Edge {
+    int u,i;
+}
+
+--- S1-2\=11 表达式求值\表达式的值.cpp ---
+struct Node {
+    int c0,c1;
+}
+
+--- S1-2\=11 表达式求值\逻辑表达式.cpp ---
+struct Node {
+	bool d;
+	int c1,c2;
+}
+
+--- S1-2\=12 链表进阶一\切除线段.cpp ---
+struct Node {
+	int num,cnt,id;
+}
+
+--- S1-2\=13 链表进阶二\家庭作业-反悔贪心.cpp ---
+struct Node {
+	int t,s;
+}
+
+--- S1-2\=13 链表进阶二\家庭作业-并查集.cpp ---
+struct Node {
+	int t,s;
+}
+
+--- S1-2\=13 链表进阶二\邻值查找.cpp ---
+struct Node {
+	int num,id;
+}
+
+--- S2-1\3 分治法1\平面最近点对.cpp ---
+struct Node {
+	double x,y;
+}
+
+--- S2-1\3 分治法1\线段包含问题.cpp ---
+struct Node {
+	int l,r,id;
+}
+
+--- S2-1\4 分治法2\平面最近点对（加强版）.cpp ---
+struct Node {
+	int x,y;
+}
+
+--- S2-1\5 搜索优化进阶1\魔法阵.cpp ---
+struct Node {int x,y;}
+
+--- S2-2\10 LCA1\城市设计.cpp ---
+struct Edge {int v,w;}
+
+--- S2-2\11 LCA2\货车运输.cpp ---
+struct Edge {int v,w;}
+
+--- S2-2\11 LCA2\货车运输.cpp ---
+struct Node {int x,y,z;}
+
+--- S2-2\12 树上差分\直通路径.cpp ---
+struct Edge {int u,v;}
+
+--- S2-2\12 树上差分\运输计划.cpp ---
+struct Edge {int v,w;}
+
+--- S2-2\12 树上差分\运输计划.cpp ---
+struct Path {int u,v,dis,lca;}
+
+--- S2-2\14 树型动规2\市政服务大厅.cpp ---
+struct Edge {int v,w;}
+
+--- S2-2\14 树型动规2\最长简单路径.cpp ---
+struct Edge {int v,w;}
+
+--- S2-2\3 树状数组1\HH的项链.cpp ---
+struct Node {int l,r,id;}
+
+--- S2-2\5 双指针与尺取法\Cow-Lineup-S.cpp ---
+struct Node {
+	int x,id;
+}
+
+--- S2-2\5 双指针与尺取法\Perform-Easily.cpp ---
+struct Node {
+	int a,b;
+}
+
+--- S2-2\7 单调队列\Crowded-Cowd-S.cpp ---
+struct Node {
+	int x,h;
+}
+
+--- S2-2\7 单调队列\花盆.cpp ---
+struct Node {int x,y;}
+
+--- S2-2\8 单调性优化1\Pogo-Cow.cpp ---
+struct Node {int x,p;}
+
+--- S2-2\9 单调性优化2\购买饲料.cpp ---
+struct Node {int x,f,c;}
+
+--- S3-1\2 指针和set容器\【模板】字典树.cpp ---
+struct Node {
+    int sum = 0,cnt = 0;
+    Node *ch[26];
+}
+
+--- S3-1\2 指针和set容器\会场预约.cpp ---
+struct Node {
+    int l,r;
+    bool operator < (const Node &x) const {return r < x.l;}
+}
+
+--- S3-1\2 指针和set容器\文本编辑器.cpp ---
+struct Node {
+    char val;
+    Node *l,*r;
+    Node() {l = r = nullptr;}
+}
+
+--- S3-1\7 状态压缩基础1\Balanced-Cow-Subsets-G.cpp ---
+struct Node {
+    int sum,mask;
+    bool operator < (const Node &x) const {return sum < x.sum;}
+}
+
+--- S3-2\1 树上背包\有线电视网.cpp ---
+struct Edge {int v,w;}
+
+--- S3-2\10 数据结构综合2\DFS序.cpp ---
+struct seg_tree {int l,r,lazy,sum;}
+
+--- S3-2\10 数据结构综合2\树上操作.cpp ---
+struct seg_tree {int l,r,lazy,sum,sumb;}
+
+--- S3-2\10 数据结构综合2\语文.cpp ---
+struct seg_tree {int l,r,lazy,sum[30];}
+
+--- S3-2\13 CSP-S模考2\交易市场.cpp ---
+struct Node {int x,y;}
+
+--- S3-2\2 树形dp综合\树上染色.cpp ---
+struct Edge {int v,w;}
+
+--- S3-2\2 树形dp综合\贪吃的九头龙.cpp ---
+struct Edge {int v,w;}
+
+--- S3-2\2 树形dp综合\骑士.cpp ---
+struct Edge {int v,w;}
+
+--- S3-2\6 线段树1\小白逛公园.cpp ---
+struct seg_tree {int l,r,sum,max,mxl,mxr;}
+
+--- S3-2\6 线段树1\线段树单点修改.cpp ---
+struct seg_tree {int l,r,sum,mn,mx;}
+
+--- S3-2\6 线段树1\线段树单点修改.cpp ---
+struct answer {int sum,mn,mx;}
+
+--- S3-2\6 线段树1\绿荫长廊.cpp ---
+struct seg_tree {int id,l,r,ans,ansl,ansr;}
+
+--- S3-2\7 线段树2\扶苏的问题.cpp ---
+struct seg_tree {int l,r,lazy,maxn,assign;}
+
+--- S3-2\7 线段树2\无聊的数列.cpp ---
+struct seg_tree {int l,r,lazy,sum;}
+
+--- S3-2\7 线段树2\线段树区间查询.cpp ---
+struct seg_tree {int l,r,lazy,sum;}
+
+--- S3-2\7 线段树2\维护序列.cpp ---
+struct seg_tree {int l,r,lazy,sum,lzym;}
+
+--- S3-2\9 数据结构综合1\园丁的烦恼.cpp ---
+struct Query {int id,op,x,y,tag;}
+
+--- S3-2\9 数据结构综合1\求矩形的并.cpp ---
+struct Node {int x,y1,y2,tag;}
+
+--- S3-2\9 数据结构综合1\求矩形的并.cpp ---
+struct seg_tree {int l,r,len,cnt;}
+
+--- S3-2\9 数据结构综合1\矩形周长.cpp ---
+struct Node {int x,y1,y2,tag;}
+
+--- S3-2\9 数据结构综合1\矩形周长.cpp ---
+struct seg_tree {int l,r,len,cnt,num; bool l_cover,r_cover;}
+
+--- S3-2\9 数据结构综合1\窗口的星星.cpp ---
+struct Node {int x,y1,y2,tag;}
+
+--- S3-2\9 数据结构综合1\窗口的星星.cpp ---
+struct seg_tree {int l,r,maxn,lazy;}
+
+--- contest\0\card.cpp ---
+struct Node {
+    int s,e,d;
+}
+
+--- contest\12\bicycle.cpp ---
+struct Edge {int v,w,diff;}
+
+--- contest\12\gravity.cpp ---
+struct Node {ll x; int id;}
+
+--- contest\1\maze.cpp ---
+struct Edge {int x,y,w;}
+
+--- contest\2\protocol.cpp ---
+struct Edge {int v; long long w;}
+
+--- contest\2\protocol.cpp ---
+struct Node {int value,id;}
+
+--- contest\4\LoopPatrol\LoopPatrol.cpp ---
+struct Pos {int x,y;}
+
+--- contest\4\StarPick\StarPick.cpp ---
+struct Node {int x,y,val;}
+
+--- contest\6\meal\meal.cpp ---
+struct Node {int a,b;}
+
+--- contest\6\treasure\treasure.cpp ---
+struct Node {int x,y,id,d; bool flag;}
+
+--- contest\7\function.cpp ---
+struct Node {int x,y;}
+
+--- self-practise\Note-B\4 贪心\Sunscreen-G.cpp ---
+struct Range {int l,r;}
+
+--- self-practise\Note-B\4 贪心\Sunscreen-G.cpp ---
+struct Node {int spf,cover;}
+
+--- self-practise\Note-B\4 贪心\Work-Scheduling-G.cpp ---
+struct Node {int d,p;}
+
+--- self-practise\Note-B\4 贪心\凌乱的yyy-线段覆盖.cpp ---
+struct Node {int a,b;}
+
+--- self-practise\Note-B\4 贪心\区间.cpp ---
+struct Node {int a,b;}
+
+--- self-practise\Note-B\4 贪心\区间覆盖-加强版.cpp ---
+struct Node {long long s,t;}
+
+--- self-practise\Note-B\4 贪心\国王游戏.cpp ---
+struct Node {int a,b;}
+
+--- self-practise\Note-B\4 贪心\排队接水.cpp ---
+struct Node {int id,t;}
+
+--- self-practise\Note-B\4 贪心\混合牛奶 Mixing Milk.cpp ---
+struct Node {int p,a;}
+
+--- self-practise\Note-B\4 贪心\部分背包问题.cpp ---
+struct Node {int m,v; double xjb;}
+
+--- self-practise\Note-B\4 贪心\雷达安装.cpp ---
+struct Node {double l,r; bool vis;}
+
+--- self-practise\Note-B\5 分治\平面最近点对-加强版.cpp ---
+struct Node {
+    int x,y;
+}
+
+--- teach\归程-标程.cpp ---
+struct Node {int u,v,len,w;}
+
+--- teach\归程-标程.cpp ---
+struct Edge {int v,len,w;}

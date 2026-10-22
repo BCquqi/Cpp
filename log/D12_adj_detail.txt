@@ -1,0 +1,30 @@
+104: vector<int> G[N]
+60: vector<Edge> G[N]
+30: G[u].push_back(v)
+25: G[v].push_back(u)
+24: G[b].push_back(a)
+22: G[a].push_back(b)
+22: G[u].push_back({v,w})
+20: G[x].push_back(y)
+16: G[y].push_back(x)
+14: G[v].push_back({u,w})
+8: vector<Node> G[N]
+7: G[x].push_back({y,z})
+6: G[b].push_back({a,c})
+6: G[u].push_back(i)
+5: G[a].push_back({b,c})
+5: G[y].push_back({x,z})
+5: G[i].push_back(u)
+4: G[u].push_back({v,i})
+4: G[v].push_back({u,i})
+3: G[a].push_back({b,t})
+3: G[b].push_back({a,t})
+3: G[i].push_back(j)
+3: int G[N]
+3: G[a].push_back({b,d})
+3: G[a].push_back({b,0})
+3: G[b].push_back({a,0})
+2: G[a].push_back({b,1})
+2: G[b].push_back({a,1})
+2: vector<int> G[M]
+2: G[i].push_back(p)

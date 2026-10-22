@@ -1,0 +1,23 @@
+2026-7\线段树\A-Simple-Problem-with-Integers.cpp | mx=False lzym=False ptr=False | struct seg_tree {int l,r,lazy,sum;}
+2026-7\线段树\Balanced-Lineup-G.cpp | mx=False lzym=False ptr=False | N/A
+2026-7\线段树\Hotel-G.cpp | mx=False lzym=False ptr=False | struct seg_tree {int l,r,sum,lmax,rmax,lazy;}
+2026-7\线段树\Light-Switching-G.cpp | mx=False lzym=False ptr=False | struct seg_tree {int l,r,lazy,sum;}
+2026-7\线段树\【模板】ST表.cpp | mx=False lzym=False ptr=False | N/A
+2026-7\线段树\【模板】线段树.cpp | mx=True lzym=False ptr=False | struct seg_tree {int l,r,lazy,sum,mx;}
+2026-7\线段树\【模板】线段树1.cpp | mx=False lzym=False ptr=False | struct seg_tree {int l,r,lazy,sum;}
+2026-7\线段树\【模板】线段树2.cpp | mx=False lzym=True ptr=False | struct seg_tree {int l,r,lazy,sum,lzym;}
+2026-7\线段树\序列操作1.cpp | mx=True lzym=False ptr=False | struct seg_tree {int l,r,mx;}
+2026-7\线段树\序列操作2.cpp | mx=True lzym=False ptr=False | struct seg_tree {int l,r,lazy,mx;}
+2026-7\线段树\最大数maxnumber.cpp | mx=False lzym=False ptr=False | N/A
+2026-7\线段树\策略游戏.cpp | mx=True lzym=False ptr=False | N/A
+2026-7\线段树\维护序列.cpp | mx=False lzym=True ptr=False | struct seg_tree {int l,r,lazy,sum,lzym;}
+2026-7\线段树\逆序对.cpp | mx=False lzym=False ptr=False | struct seg_tree {int l,r,lazy,sum;}
+2026-8\数据结构基础知识学习与应用\【模板】动态开点线段树.cpp | mx=False lzym=False ptr=True | struct seg_tree {     int l,r,lc,rc; long long lazy,sum;     seg_tree() : l(0),r(0),lc(0),rc(0),lazy(0),sum(0) {}
+2026-8\数据结构基础知识学习与应用\【模板】线段树1.cpp | mx=False lzym=False ptr=False | struct seg_tree {int l,r,lazy,sum;}
+S3-2\6 线段树1\小白逛公园.cpp | mx=True lzym=False ptr=False | struct seg_tree {int l,r,sum,max,mxl,mxr;}
+S3-2\6 线段树1\线段树单点修改.cpp | mx=True lzym=False ptr=False | struct seg_tree {int l,r,sum,mn,mx;}
+S3-2\6 线段树1\绿荫长廊.cpp | mx=False lzym=False ptr=False | struct seg_tree {int id,l,r,ans,ansl,ansr;}
+S3-2\7 线段树2\扶苏的问题.cpp | mx=False lzym=False ptr=False | struct seg_tree {int l,r,lazy,maxn,assign;}
+S3-2\7 线段树2\无聊的数列.cpp | mx=False lzym=False ptr=False | struct seg_tree {int l,r,lazy,sum;}
+S3-2\7 线段树2\线段树区间查询.cpp | mx=False lzym=False ptr=False | struct seg_tree {int l,r,lazy,sum;}
+S3-2\7 线段树2\维护序列.cpp | mx=False lzym=True ptr=False | struct seg_tree {int l,r,lazy,sum,lzym;}

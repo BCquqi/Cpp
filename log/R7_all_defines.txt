@@ -1,0 +1,250 @@
+2026-7\单调队列与单调栈\ARC-Architects.cpp: #define MAGIC_BEGIN -435634223
+2026-7\单调队列与单调栈\ARC-Architects.cpp: #define MAGIC_END -324556462
+2026-7\单调队列与单调栈\ARC-Architects.cpp: #define MIN_K 1
+2026-7\单调队列与单调栈\ARC-Architects.cpp: #define MAX_K 1000000
+2026-7\单调队列与单调栈\ARC-Architects.cpp: #define MAX_N 15000000
+2026-7\单调队列与单调栈\ARC-Architects.cpp: #define MIN_A 1
+2026-7\单调队列与单调栈\ARC-Architects.cpp: #define MAX_A 1000000000
+2026-7\单调队列与单调栈\ARC-Architects.cpp: #define MIN_TYP 1
+2026-7\单调队列与单调栈\ARC-Architects.cpp: #define MAX_TYP 3
+2026-7\单调队列与单调栈\ARC-Architects.cpp: #define MIN_PAR 0
+2026-7\单调队列与单调栈\ARC-Architects.cpp: #define MAX_PAR 1000000000
+2026-7\单调队列与单调栈\ARC-Architects.cpp: #define ERROR 0
+2026-7\单调队列与单调栈\ARC-Architects.cpp: #define CORRECT 1
+2026-7\单调队列与单调栈\ARC-Architects.cpp: #define unlikely(x) __builtin_expect(!!(x), 0)
+2026-7\单调队列与单调栈\选择数字.cpp: #define int long long
+2026-7\树状数组\二维树状数组2.cpp: #define int long long
+2026-7\树状数组\二维树状数组3.cpp: #define int long long
+2026-7\树状数组\树状数组1.cpp: #define int long long
+2026-7\树状数组\树状数组2.cpp: #define int long long
+2026-7\树状数组\树状数组3.cpp: #define int long long
+2026-7\树状数组\楼兰图腾.cpp: #define int long long
+2026-7\树状数组\火柴排队.cpp: #define int long long
+2026-7\树状数组\逆序对.cpp: #define int long long
+2026-7\线段树\A-Simple-Problem-with-Integers.cpp: #define lid id * 2
+2026-7\线段树\A-Simple-Problem-with-Integers.cpp: #define rid id * 2 + 1
+2026-7\线段树\A-Simple-Problem-with-Integers.cpp: #define int long long
+2026-7\线段树\Hotel-G.cpp: #define lid id * 2
+2026-7\线段树\Hotel-G.cpp: #define rid id * 2 + 1
+2026-7\线段树\Hotel-G.cpp: #define int long long
+2026-7\线段树\Light-Switching-G.cpp: #define lid id * 2
+2026-7\线段树\Light-Switching-G.cpp: #define rid id * 2 + 1
+2026-7\线段树\Light-Switching-G.cpp: #define int long long
+2026-7\线段树\【模板】线段树.cpp: #define lid id * 2
+2026-7\线段树\【模板】线段树.cpp: #define rid id * 2 + 1
+2026-7\线段树\【模板】线段树1.cpp: #define lid id * 2
+2026-7\线段树\【模板】线段树1.cpp: #define rid id * 2 + 1
+2026-7\线段树\【模板】线段树1.cpp: #define int long long
+2026-7\线段树\【模板】线段树2.cpp: #define lid id * 2
+2026-7\线段树\【模板】线段树2.cpp: #define rid id * 2 + 1
+2026-7\线段树\【模板】线段树2.cpp: #define int long long
+2026-7\线段树\序列操作1.cpp: #define lid id * 2
+2026-7\线段树\序列操作1.cpp: #define rid id * 2 + 1
+2026-7\线段树\序列操作1.cpp: #define int long long
+2026-7\线段树\序列操作2.cpp: #define lid id * 2
+2026-7\线段树\序列操作2.cpp: #define rid id * 2 + 1
+2026-7\线段树\最大数maxnumber.cpp: #define int long long
+2026-7\线段树\策略游戏.cpp: #define int long long
+2026-7\线段树\维护序列.cpp: #define lid id * 2
+2026-7\线段树\维护序列.cpp: #define rid id * 2 + 1
+2026-7\线段树\维护序列.cpp: #define int long long
+2026-7\线段树\逆序对.cpp: #define lid 2 * id
+2026-7\线段树\逆序对.cpp: #define rid 2 * id + 1
+2026-7\线段树\逆序对.cpp: #define int long long
+2026-8\Slope-Trick与WQS二分\种树.cpp: #define int long long
+2026-8\动态dp与dp套dp\Kuro-and-Topological-Parity.cpp: #define int long long
+2026-8\动态dp与dp套dp\Sasha-and-Array.cpp: #define int long long
+2026-8\动态dp与dp套dp\Sasha-and-Array.cpp: #define lid id * 2
+2026-8\动态dp与dp套dp\Sasha-and-Array.cpp: #define rid id * 2 + 1
+2026-8\动态dp与dp套dp\【模板】矩阵快速幂.cpp: #define int long long
+2026-8\动态dp与dp套dp\小白逛公园.cpp: #define int long long
+2026-8\动态dp与dp套dp\小白逛公园.cpp: #define lid id * 2
+2026-8\动态dp与dp套dp\小白逛公园.cpp: #define rid id * 2 + 1
+2026-8\动态dp与dp套dp\矩阵加速（数列）.cpp: #define int long long
+2026-8\动态规划及其优化1\Flowers.cpp: #define int long long
+2026-8\动态规划及其优化1\期末考试滑溜滑溜补习班.cpp: #define int long long
+2026-8\动态规划及其优化1\琪露诺.cpp: #define int long long
+2026-8\动态规划及其优化2\The-Bakery.cpp: #define lid id * 2
+2026-8\动态规划及其优化2\The-Bakery.cpp: #define rid id * 2 + 1
+2026-8\动态规划及其优化2\特别行动队.cpp: #define int long long
+2026-8\动态规划及其优化2\玩具装箱.cpp: #define int long long
+2026-8\动态规划及其优化2\琪露诺.cpp: #define int long long
+2026-8\排列组合\Bouquet.cpp: #define int long long
+2026-8\排列组合\Cell-Distance.cpp: #define int long long
+2026-8\排列组合\Large-Heap.cpp: #define int long long
+2026-8\排列组合\[ZJOI]排列计数.cpp: #define int long long
+2026-8\排列组合\已经没有什么好害怕的了.cpp: #define int long long
+2026-8\排列组合\幸运数字.cpp: #define int long long
+2026-8\排列组合\排列计数.cpp: #define int long long
+2026-8\排列组合\有趣的数列.cpp: #define int long long
+2026-8\排列组合\生成字符串.cpp: #define int long long
+2026-8\排列组合\硬币购物.cpp: #define int long long
+2026-8\排列组合\苹果树.cpp: #define int long long
+2026-8\数据结构基础知识学习与应用\Multiset.cpp: #define lid id * 2
+2026-8\数据结构基础知识学习与应用\Multiset.cpp: #define rid id * 2 + 1
+2026-8\数据结构基础知识学习与应用\XOR的艺术.cpp: #define lid id * 2
+2026-8\数据结构基础知识学习与应用\XOR的艺术.cpp: #define rid id * 2 + 1
+2026-8\数据结构基础知识学习与应用\【模板】动态开点线段树.cpp: #define lid tr[id] -> lc
+2026-8\数据结构基础知识学习与应用\【模板】动态开点线段树.cpp: #define rid tr[id] -> rc
+2026-8\数据结构基础知识学习与应用\【模板】动态开点线段树.cpp: #define int unsigned long long
+2026-8\数据结构基础知识学习与应用\【模板】线段树1.cpp: #define lid id * 2
+2026-8\数据结构基础知识学习与应用\【模板】线段树1.cpp: #define rid id * 2 + 1
+2026-8\数据结构基础知识学习与应用\【模板】线段树1.cpp: #define int long long
+2026-8\数据结构基础练习题\守墓人.cpp: #define int long long
+2026-8\数据结构基础练习题\数学计算.cpp: #define lid id * 2
+2026-8\数据结构基础练习题\数学计算.cpp: #define rid id * 2 + 1
+2026-8\数据结构基础练习题\数学计算.cpp: #define int long long
+2026-8\数据结构进阶练习\Flowers.cpp: #define int long long
+2026-8\数据结构进阶练习\Hotel-G.cpp: #define lid id * 2
+2026-8\数据结构进阶练习\Hotel-G.cpp: #define rid id * 2 + 1
+2026-8\数据结构进阶练习\Hotel-G.cpp: #define int long long
+2026-8\数据结构进阶练习\Preprefix-sum.cpp: #define int long long
+2026-8\数据结构进阶练习\小白逛公园.cpp: #define int long long
+2026-8\数据结构进阶练习\小白逛公园.cpp: #define lid id * 2
+2026-8\数据结构进阶练习\小白逛公园.cpp: #define rid id * 2 + 1
+2026-8\数据结构进阶练习\永无乡.cpp: #define lid tr[id] -> lc
+2026-8\数据结构进阶练习\永无乡.cpp: #define rid tr[id] -> rc
+2026-8\斜率优化\Cats-Transport.cpp: #define int long long
+2026-8\斜率优化\仓库建设.cpp: #define int long long
+2026-8\斜率优化\任务安排1.cpp: #define int long long
+2026-8\斜率优化\任务安排2.cpp: #define int long long
+2026-8\斜率优化\特别行动队.cpp: #define int long long
+2026-8\斜率优化\玩具装箱.cpp: #define int long long
+2026-8\测试1\pipeline-40.cpp: #define int long long
+2026-8\测试1\pipeline.cpp: #define int long long
+2026-8\测试2\city\city.cpp: #define int long long
+2026-8\测试3\axis.cpp: #define int long long
+2026-8\测试3\darksideofthemoon.cpp: #define int long long
+2026-8\测试3\oracle.cpp: #define lid id * 2
+2026-8\测试3\oracle.cpp: #define rid id * 2 + 1
+2026-8\综合练习\Best-Concatenation.cpp: #define int long long
+2026-8\综合练习\HRPA.cpp: #define int long long
+2026-8\贪心\Work-Scheduling-G.cpp: #define int long long
+2026-8\贪心\建筑抢修.cpp: #define int long long
+2026-8\贪心\数据备份.cpp: #define int long long
+2026-8\贪心\点菜.cpp: #define int long long
+2026-8\贪心\蔬菜.cpp: #define int long long
+2026-9-10-11\dp选讲\Eternal-Average.cpp: #define int long long
+2026-9-10-11\dp选讲\Medals.cpp: #define int long long
+2026-9-10-11\dp选讲\Permutation-Oddness.cpp: #define int long long
+2026-9-10-11\dp选讲\Round-screws.cpp: #define int long long
+2026-9-10-11\dp选讲\Wonderful-Jump.cpp: #define int long long
+2026-9-10-11\交互-构造-ad-hoc进阶\Menji-we-miss-you.cpp: #define int long long
+2026-9-10-11\交互-构造-ad-hoc进阶\Two-Permutations.cpp: #define int long long
+2026-9-10-11\图论专题复习与提升\建造军营.cpp: #define int long long
+2026-9-10-11\字符串专题\最长异或路径.cpp: #define int long long
+2026-9-10-11\数据结构\Good-Pairs.cpp: #define int long long
+2026-9-10-11\数据结构\冰火战士.cpp: #define int long long
+2026-9-10-11\数据结构\天降之物.cpp: #define min(a, b) ((a) < (b) ? (a) : (b))
+2026-9-10-11\数据结构\排序.cpp: #define lid id << 1
+2026-9-10-11\数据结构\排序.cpp: #define rid id << 1 | 1
+2026-9-10-11\树上问题\rldcot.cpp: #define int long long
+2026-9-10-11\树上问题\spxmcq.cpp: #define int long long
+2026-9-10-11\树上问题\贸易.cpp: #define int long long
+2026-9-10-11\树形dp\入门例题2.cpp: #define int long long
+2026-9-10-11\树形dp\入门例题5.cpp: #define int long long
+2026-9-10-11\树形dp\树上染色.cpp: #define int long long
+2026-9-10-11\贪心与证明\01-on-Tree.cpp: #define int long long
+2026-9-10-11\贪心与证明\Swap-Space.cpp: #define int long long
+2026-9-10-11\贪心与证明\Tower.cpp: #define int long long
+2026-9-10-11\贪心与证明\Travelling-Merchant.cpp: #define int long long
+Homework\2026-4-29\Buy-or-Build\Buy-or-Build.cpp: #define ll long long
+Homework\五一作业\multiply\multiply.cpp: #define int long long
+NOICA\10\maze\maze-.cpp: #define int long long
+NOICA\10\maze\maze.cpp: #define int long long
+NOICA\10\nan\nan.cpp: #define num(x) s[x][r] - s[x][l - 1]
+NOICA\11\parrot\parrot.cpp: #define int long long
+NOICA\12\assassin\assassin.cpp: #define int long long
+NOICA\12\fa\fa.cpp: #define int long long
+NOICA\12\forest\_forest.cpp: #define int long long
+NOICA\12\trace\trace.cpp: #define int long long
+NOICA\13\B\B.cpp: #define int __int128
+NOICA\13\traverse\traverse.cpp: #define int long long
+NOICA\14\path\path.cpp: #define int long long
+NOICA\14\refrain\refrain.cpp: #define int long long
+NOICA\15\fruit\fruit.cpp: #define int long long
+NOICA\15\land\land.cpp: #define int long long
+NOICA\3\dragon\dragon.cpp: #define int long long
+NOICA\4\card\card.cpp: #define int long long
+NOICA\4\double\double.cpp: #define int long long
+NOICA\5\one\one.cpp: #define int long long
+NOICA\5\sheet\sheet.cpp: #define int long long
+NOICA\6\activity\activity.cpp: #define int long long
+NOICA\7\permutation.cpp: #define lid id * 2
+NOICA\7\permutation.cpp: #define rid id * 2 + 1
+NOICA\7\permutation.cpp: #define int long long
+NOICA\7\permutation\permutation.cpp: #define lid id * 2
+NOICA\7\permutation\permutation.cpp: #define rid id * 2 + 1
+NOICA\7\permutation\permutation.cpp: #define int long long
+NOICA\8\attach\attach.cpp: #define lid id << 1
+NOICA\8\attach\attach.cpp: #define rid id << 1 | 1
+NOICA\8\bike\bike.cpp: #define i128 __int128
+NOICA\8\stage\stage.cpp: #define int long long
+NOICA\8\stage\stage_.cpp: #define int long long
+NOICA\9\box\box.cpp: #define int long long
+NOICA\9\discount\discount.cpp: #define int long long
+NOICA\9\revenge\revenge.cpp: #define int long long
+S1-2\10 复杂图论\骑士游戏.cpp: #define gc() (str < bufEnd ? *str++ : 0)
+S3-1\6 位运算综合\动物园.cpp: #define int unsigned long long
+S3-2\10 数据结构综合2\DFS序.cpp: #define int long long
+S3-2\10 数据结构综合2\DFS序.cpp: #define lid id << 1
+S3-2\10 数据结构综合2\DFS序.cpp: #define rid id << 1 | 1
+S3-2\10 数据结构综合2\树上操作.cpp: #define lid id << 1
+S3-2\10 数据结构综合2\树上操作.cpp: #define rid id << 1 | 1
+S3-2\10 数据结构综合2\树上操作.cpp: #define int long long
+S3-2\10 数据结构综合2\色板游戏.cpp: #define lid id << 1
+S3-2\10 数据结构综合2\色板游戏.cpp: #define rid id << 1 | 1
+S3-2\10 数据结构综合2\语文.cpp: #define lid id << 1
+S3-2\10 数据结构综合2\语文.cpp: #define rid id << 1 | 1
+S3-2\13 CSP-S模考2\两个回文串.cpp: #define int long long
+S3-2\2 树形dp综合\树上染色.cpp: #define int long long
+S3-2\2 树形dp综合\道路.cpp: #define int long long
+S3-2\2 树形dp综合\骑士.cpp: #define int long long
+S3-2\4 数论1\同余方程.cpp: #define int long long
+S3-2\4 数论1\小凯的数字.cpp: #define int long long
+S3-2\4 数论1\有理数取余.cpp: #define int long long
+S3-2\4 数论1\青蛙的约会.cpp: #define int long long
+S3-2\6 线段树1\小白逛公园.cpp: #define lid id * 2
+S3-2\6 线段树1\小白逛公园.cpp: #define rid id * 2 + 1
+S3-2\6 线段树1\线段树单点修改.cpp: #define lid id << 1
+S3-2\6 线段树1\线段树单点修改.cpp: #define rid id << 1 | 1
+S3-2\6 线段树1\绿荫长廊.cpp: #define lid id << 1
+S3-2\6 线段树1\绿荫长廊.cpp: #define rid id << 1 | 1
+S3-2\7 线段树2\扶苏的问题.cpp: #define int long long
+S3-2\7 线段树2\扶苏的问题.cpp: #define lid id << 1
+S3-2\7 线段树2\扶苏的问题.cpp: #define rid id << 1 | 1
+S3-2\7 线段树2\无聊的数列.cpp: #define int long long
+S3-2\7 线段树2\无聊的数列.cpp: #define lid id << 1
+S3-2\7 线段树2\无聊的数列.cpp: #define rid id << 1 | 1
+S3-2\7 线段树2\线段树区间查询.cpp: #define int long long
+S3-2\7 线段树2\线段树区间查询.cpp: #define lid id << 1
+S3-2\7 线段树2\线段树区间查询.cpp: #define rid id << 1 | 1
+S3-2\7 线段树2\维护序列.cpp: #define lid id * 2
+S3-2\7 线段树2\维护序列.cpp: #define rid id * 2 + 1
+S3-2\7 线段树2\维护序列.cpp: #define int long long
+S3-2\9 数据结构综合1\求矩形的并.cpp: #define int long long
+S3-2\9 数据结构综合1\求矩形的并.cpp: #define lid id << 1
+S3-2\9 数据结构综合1\求矩形的并.cpp: #define rid id << 1 | 1
+S3-2\9 数据结构综合1\矩形周长.cpp: #define int long long
+S3-2\9 数据结构综合1\矩形周长.cpp: #define lid id << 1
+S3-2\9 数据结构综合1\矩形周长.cpp: #define rid id << 1 | 1
+S3-2\9 数据结构综合1\窗口的星星.cpp: #define int long long
+S3-2\9 数据结构综合1\窗口的星星.cpp: #define lid id << 1
+S3-2\9 数据结构综合1\窗口的星星.cpp: #define rid id << 1 | 1
+contest\13\hubroute.cpp: #define int long long
+contest\13\startrade.cpp: #define int long long
+contest\14\separate.cpp: #define int long long
+contest\14\static.cpp: #define uint unsigned int
+contest\14\static.cpp: #define ull unsigned long long
+contest\15\escape.cpp: #define int long long
+contest\3\agent\agent.cpp: #define int long long
+contest\入门#51\千秋的数学探究活动没有问题.cpp: #define int long long
+self-practise\Note-B\3 差分\Decrease.cpp: #define int long long
+self-practise\Note-B\3 差分\不成熟の梦想家.cpp: #define int long long
+self-practise\Note-B\3 差分\有趣的家庭菜园4.cpp: #define int long long
+self-practise\Note-B\4 贪心\Work-Scheduling-G.cpp: #define int long long
+self-practise\Note-B\4 贪心\国王游戏.cpp: #define int long long
+self-practise\Note-B\4 贪心\小A的糖果.cpp: #define int long long
+self-practise\green-green-purple\1\方差.cpp: #define int long long
+test\data.cpp: #define DEV_RND ( ( ((unsigned long long)rand() << 31) | (unsigned long long)rand() ) | ( (unsigned long long)(rand() & 1) << 62 ) )
+test\data.cpp: #define RND(L,R) ( (long long)( (DEV_RND % ( (unsigned long long)(R) - (unsigned long long)(L) + 1ULL )) + (unsigned long long)(L) ) )
