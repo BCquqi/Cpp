@@ -1,0 +1,312 @@
+# C++ Code Style Report (Workspace: C:\Users\Administrator\Documents\C++)
+
+## 1. File Overview
+- Total .cpp files: 1099
+- Total code lines: 56935
+- Total code chars: 1346917
+- Average lines per file: 51.8
+- Directories: 24 (top-level)
+
+## 2. File Structure
+- main function location: always at end of file
+- class usage: 0 files use class
+- namespace wrapping: 0 files
+- global scope: all functions and arrays at global scope
+- #define int long long + signed main(): common in 64-bit problems
+- typedef long long LL/ll: selective alternative
+- using ll = long long: 0 occurrences
+- const int N = ...: universal array sizing
+
+## 3. Includes
+- bits/stdc++.h: 0 occurrences
+- hand-written #include<xxx>: 100%
+- #include<xxx> no space after include: 100%
+- using namespace std;: universal
+- first include: iostream (most common)
+- include order: iostream, algorithm, vector, queue, stack, set, map, cstring, cmath, cstdio
+- each include on its own line
+
+## 4. Types
+- #define int long long: present in 64-bit problems
+- signed main(): used with #define int long long
+- typedef long long LL: selective
+- typedef long long ll: selective
+- const int N = 1e5 + 5: spaces around +
+- mod (lowercase): universal, not MOD
+- eps = 1e-6: double problems
+- 1ll * not 1LL *: universal
+- __int128: only when needed (4 files)
+
+## 5. Variable Naming
+### Global arrays (short names)
+- a: primary data array
+- dp: dynamic programming
+- vis: visited marker
+- f: general array / DP
+- G: adjacency list (uppercase)
+- N: array size constant
+- M: secondary size constant
+- n, m, q, k: scale variables
+- tree, c: BIT arrays
+- siz, sz: subtree sizes
+- dep: depth
+- fa: parent
+- val: node value
+- ls, rs: left/right child
+- fix: treap priority
+- sum: prefix sum / segment tree sum
+- mx: maximum
+- lazy: lazy tag
+- lzym: multiply lazy tag
+- mod: modulus
+
+### Naming patterns
+- same-type globals on one line: int a[N],tree[N],n,q;
+- struct members: comma no space, trailing ;
+- 1-indexed arrays: universal
+- scale variables separate line: int n,m; int n,q; int n,k;
+
+### Engineering/AI style contrast
+- No long descriptive names (no "leftChild", "rightSibling")
+- No camelCase
+- No snake_case for variables
+- Abbreviations universal
+
+## 6. Functions
+### inline usage
+- inline for: pushup, pushdown, modify, addtag, read, write, nc, popcount, cal, cmp
+- static inline: only fast read (nc)
+- static for globals: rare (6 files), only static const int MOD/BUF_SIZE
+
+### Function signatures
+- return ; (with space): 113 files
+- return; (no space): 9 files
+- return 0;: main only
+- void functions: return ; with space
+- int functions: return value;
+
+### Function organization
+- helper functions before main
+- main at end
+- no forward declarations needed (definitions before use)
+
+### Early return
+- if (...) return x; else return y; (42 files)
+- no braces around single return
+
+## 7. Format Details
+### Indentation
+- 4 spaces (universal)
+
+### for loops
+- for (int i = 1;i <= n;i++): no space after ;
+- postfix i++
+- start value 1 (1-indexed), 0 for 0-indexed problems
+- condition: i <= n (not i < n+1)
+
+### if/else
+- } else { on same line: 99 occ (89 files)
+- else on own line: 30 occ (unbraced)
+- single-statement if/for without braces: common
+- unbraced else: else on own line
+
+### Comma chaining
+- while (id) ret += tree[id], id -= lowbit(id);
+- for (int i = l;i <= r;i++) d[i]++, d[i+1]--;
+
+### switch/case
+- switch (op) { with case N : { pattern
+- case values with space before colon
+
+### Empty lines
+- minimal, between function definitions
+
+## 8. I/O
+### Newline
+- endl: 269 files (mainstream)
+- '\n': 22 files (minority)
+- mixed usage: 1 file
+
+### Separators
+- space: ' '
+- no space after comma in output: cout << a << ' ' << b;
+
+### Fast IO
+- ios::sync_with_stdio(false); cin.tie(0); cout.tie(0);
+- static inline char nc() for fast read
+
+### File IO
+- freopen: rare
+- scanf/printf: minority (early dirs)
+
+### Read patterns
+- cin >> n >> m; (multiple in one line)
+- for (int i = 1;i <= n;i++) cin >> a[i];
+- unbraced loop body common
+
+## 9. Numeric
+### 64-bit
+- #define int long long + signed main()
+- typedef long long LL/ll
+- 1ll * for promotion
+
+### __int128
+- only when needed
+- custom print function
+
+### Float
+- double only, float rare
+- eps = 1e-6
+
+### Mod
+- mod (lowercase)
+- 0x3f3f3f3f for infinity (memset 0x3f)
+- -0x3f for negative infinity
+
+### Unreachable
+- memset(dp, 0x3f, sizeof dp)
+
+## 10. Bitwise
+- x & 1 for parity (not x % 2)
+- x >> 1, x << 1
+- (1 << k) for masks
+- lowbit(x) = x & -x
+
+## 11. STL
+- vector<int> G[N] for adjacency
+- priority_queue with operator< overload
+- sort(a+1, a+n+1, [](Node x,Node y){return x.z<y.z;})
+- lambda capture: [] (empty, 68 files), [&] rare (1 file)
+- auto in range-for without &: for (auto v : G[u])
+- auto for pointers/iterators: auto x = expr;
+- no emplace_back (0)
+- no .at() (0)
+- no memcpy (0)
+- no auto & (1)
+
+## 12. Code Templates
+
+### 12.1 Basic
+- Binary search: while (l <= r) { mid = (l+r)/2; ... }
+- Fast exponentiation: qpow with 1ll *
+- High precision: a[0] stores length, inverse digits
+- DFS: recursive with dep/fa arrays
+- BFS: queue with vis array
+- Union-Find: find with path compression
+- Topological sort: queue with in-degree
+
+### 12.2 Basic Data Structures
+- BIT: two write patterns
+  - Pattern 1: tree[] + add/query/lowbit
+  - Pattern 2: c[] + change/sum/lowbit
+- Segment tree: struct {l,r,lazy,sum,mx} tr[N<<2]
+  - +mx: adds mx member
+  - +lzym: adds multiply tag
+  - Dynamic open point: pointer version
+- FHQ-Treap: two variants
+  - Basic: split by value
+  - Variant: split by first k, +rev+fa+pushdown
+- Monotonic queue: deque
+
+### 12.3 Advanced Data Structures
+- LCA: binary lifting, fa[N][32]
+- Heavy-light decomposition: (not in templates)
+- Mo's algorithm: block decomposition
+- DSU on tree: (not in templates)
+
+### 12.4 String & High Precision
+- KMP: prefix array
+- AC automaton: ch[NN][M], fail, sum, cnt
+- Manacher: d[N], center expansion
+- String hash: polynomial hash
+- High precision: s2BIG, printBIG, etc.
+
+### 12.5 Graph
+- Dijkstra: priority_queue, memset 0x3f
+- SPFA: queue, negative cycle detection
+- Floyd: 3 nested loops
+- Kruskal: sort edges, union-find
+- Prim: priority_queue
+- Tarjan SCC: dfn/low, stack
+- Tarjan bcc (point/edge): articulation points
+- Euler path: Hierholzer
+- Topological sort: Kahn's algorithm
+
+### 12.6 DP
+- Matrix exponentiation
+- Tree DP: dfs1/dfs2 rerooting
+- Monotonic queue optimization
+- Digit DP
+- Memory search: memset -1
+
+### 12.7 Number Theory
+- Extended Euclid
+- CRT / Extended CRT
+- Gaussian elimination
+- Linear sieve
+- Combinatorics
+
+### 12.8 Common Snippets
+- Lowbit: x & -x
+- GCD: __gcd
+- Swap: swap(a,b)
+- Min/Max: min(a,b), max(a,b)
+
+## 13. Comments
+- minimal comments
+- Chinese when needed
+- no TODO/FIXME/XXX
+- no explanatory comments in code
+
+## 14. Code Review Checklist (30 items)
+1. main at end of file
+2. no class, no namespace wrapping
+3. arrays sized by const int N
+4. hand-written includes, no bits/stdc++.h
+5. #include<xxx> no space
+6. using namespace std;
+7. #define int long long + signed main() for 64-bit
+8. typedef long long LL/ll alternative
+9. no using ll = long long
+10. inline for small/high-freq functions
+11. static inline only for fast read
+12. return ; with space for void
+13. single-statement if/for without braces
+14. } else { on same line
+15. else on own line when unbraced
+16. for (int i = 1;i <= n;i++) no space after ;
+17. postfix i++
+18. while (x--) not while (--x)
+19. memset(x,0,sizeof x) no parens
+20. memset 0x3f for infinity
+21. endl for newline
+22. '\n' rare
+23. cin/cout primary
+24. scanf/printf minority
+25. fast read static inline char nc()
+26. no emplace_back
+27. no .at()
+28. no memcpy
+29. auto without & in range-for
+30. lambda capture []
+
+## 15. Don't Write Like This
+- no bits/stdc++.h
+- no class
+- no namespace wrapping
+- no long variable names
+- no camelCase
+- no snake_case
+- no emplace_back
+- no .at()
+- no memcpy
+- no auto &
+- no '\n' (use endl)
+- no while (--x)
+- no sizeof(x) (use sizeof x)
+- no 1LL * (use 1ll *)
+- no MOD (use mod)
+- no EPS (use eps)
+- no inf const (use 0x3f)
+- no constexpr
+- no TODO/FIXME
