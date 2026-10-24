@@ -1,0 +1,236 @@
+
+--- 2026-7 ---
+  iostream:87
+  algorithm:34
+  cstring:21
+  vector:10
+  deque:6
+  queue:5
+  cmath:3
+  stack:3
+  cstdio:3
+  map:2
+
+--- 2026-8 ---
+  iostream:114
+  algorithm:50
+  cstring:27
+  queue:21
+  vector:16
+  cstdio:8
+  cmath:6
+  ctime:3
+  random:3
+  cstdlib:2
+
+--- 2026-9-10-11 ---
+  iostream:57
+  vector:42
+  algorithm:27
+  cstring:22
+  queue:9
+  set:5
+  unordered_map:3
+  cmath:3
+  stack:1
+  unordered_set:1
+
+--- CookieOI ---
+  cstdio:10
+  algorithm:5
+  vector:5
+  cstdlib:5
+  ctime:4
+  cstring:1
+  cmath:1
+  iostream:1
+
+--- Homework ---
+  iostream:7
+  algorithm:4
+  cmath:2
+  map:2
+  cstdio:1
+  cstring:1
+  stack:1
+  queue:1
+  vector:1
+  set:1
+
+--- J-training ---
+  iostream:1
+
+--- J1-1 ---
+  iostream:43
+  algorithm:28
+  cstdio:26
+  cstring:16
+  queue:7
+  cmath:1
+
+--- J1-2 ---
+  iostream:138
+  algorithm:127
+  cstdio:122
+  cstring:50
+  string:16
+  cmath:4
+  map:1
+
+--- J2-1 ---
+  iostream:49
+  algorithm:25
+  cstdio:21
+  cstring:12
+  cmath:2
+
+--- J2-2 ---
+  iostream:65
+  algorithm:25
+  queue:24
+  vector:22
+  cstring:18
+  cstdio:17
+  list:5
+  cmath:4
+
+--- NOICA ---
+  iostream:53
+  algorithm:31
+  cstring:16
+  vector:14
+  queue:12
+  cstdio:7
+  string:3
+  cmath:2
+  map:2
+  unordered_set:1
+
+--- OJ ---
+  iostream:25
+  cstring:3
+  cstdio:3
+  vector:2
+  algorithm:2
+  unordered_map:1
+  cmath:1
+  map:1
+
+--- Practice ---
+  iostream:5
+  cstdio:3
+  cmath:1
+  algorithm:1
+  vector:1
+  cstring:1
+  queue:1
+
+--- Pre ---
+  iostream:35
+  algorithm:34
+  cstdio:23
+  queue:7
+  map:6
+  cstring:5
+
+--- S1-1 ---
+  iostream:36
+  vector:29
+  cstring:22
+  queue:11
+  algorithm:10
+  deque:3
+  cmath:1
+  cstdio:1
+
+--- S1-2 ---
+  iostream:73
+  vector:31
+  algorithm:28
+  cstring:26
+  queue:26
+  cstdio:7
+  cmath:5
+  unordered_map:2
+  map:2
+  cstdint:1
+
+--- S2-1 ---
+  iostream:29
+  algorithm:19
+  cmath:6
+  cstdio:5
+  map:3
+  unordered_map:1
+  cstring:1
+
+--- S2-2 ---
+  iostream:61
+  algorithm:25
+  vector:20
+  cstring:12
+  map:5
+  stack:5
+  deque:5
+  queue:4
+  cstdio:3
+  unordered_set:1
+
+--- S3-1 ---
+  iostream:49
+  algorithm:15
+  cstring:10
+  cmath:10
+  set:7
+  map:5
+  cstdio:3
+  bitset:2
+  vector:1
+  queue:1
+
+--- S3-2 ---
+  iostream:40
+  algorithm:17
+  vector:15
+  cstring:7
+  cstdio:6
+  cmath:4
+  set:2
+  bitset:1
+
+--- contest ---
+  iostream:54
+  algorithm:29
+  cstdio:23
+  cstring:14
+  vector:8
+  cmath:4
+  queue:4
+  map:3
+  unordered_set:2
+  set:2
+
+--- self-practise ---
+  iostream:47
+  algorithm:23
+  cstdio:13
+  cstring:5
+  cmath:3
+  string:2
+  queue:2
+  map:1
+  stack:1
+
+--- teach ---
+  iostream:2
+  vector:1
+  cstring:1
+  queue:1
+  algorithm:1
+
+--- test ---
+  cstdio:1
+  algorithm:1
+  cstdlib:1
+  ctime:1
+  iostream:1

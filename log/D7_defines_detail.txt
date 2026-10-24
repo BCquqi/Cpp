@@ -1,0 +1,52 @@
+
+int:147 vals=['__int128', 'long long', 'unsigned long long']
+
+lid:40 vals=['2 * id', 'tr[id] -> lc', 'id << 1', 'id * 2']
+
+rid:40 vals=['id << 1 | 1', '2 * id + 1', 'tr[id] -> rc', 'id * 2 + 1']
+
+MAGIC_BEGIN:1 vals=['-435634223']
+
+MAGIC_END:1 vals=['-324556462']
+
+MIN_K:1 vals=['1']
+
+MAX_K:1 vals=['1000000']
+
+MAX_N:1 vals=['15000000']
+
+MIN_A:1 vals=['1']
+
+MAX_A:1 vals=['1000000000']
+
+MIN_TYP:1 vals=['1']
+
+MAX_TYP:1 vals=['3']
+
+MIN_PAR:1 vals=['0']
+
+MAX_PAR:1 vals=['1000000000']
+
+ERROR:1 vals=['0']
+
+CORRECT:1 vals=['1']
+
+unlikely:1 vals=['(x) __builtin_expect(!!(x), 0)']
+
+min:1 vals=['(a, b) ((a) < (b) ? (a) : (b))']
+
+uint:1 vals=['unsigned int']
+
+ull:1 vals=['unsigned long long']
+
+ll:1 vals=['long long']
+
+num:1 vals=['(x) s[x][r] - s[x][l - 1]']
+
+i128:1 vals=['__int128']
+
+gc:1 vals=['() (str < bufEnd ? *str++ : 0)']
+
+DEV_RND:1 vals=['( ( ((unsigned long long)rand() << 31) | (unsigned long long']
+
+RND:1 vals=['(L,R) ( (long long)( (DEV_RND % ( (unsigned long long)(R) - ']

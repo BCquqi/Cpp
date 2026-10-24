@@ -1,0 +1,5 @@
+scanf:25
+printf:57
+sync_with_stdio:113
+cin.tie:111
+cout.tie:110

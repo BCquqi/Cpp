@@ -1,0 +1,5 @@
+z_function:42
+hash:15
+kmp:4
+ac_automaton:1
+trie:1

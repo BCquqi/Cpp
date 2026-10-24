@@ -1,0 +1,11 @@
+dfs:142
+union_find:50
+dijkstra:35
+bfs:24
+spfa:19
+lca:17
+kruskal:16
+tarjan:16
+topo:16
+prim:6
+scc:3

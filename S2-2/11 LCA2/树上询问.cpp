@@ -29,9 +29,7 @@ int LCA(int u,int v) {
     return fa[u][0];
 }
 
-int dis(int a,int b) {
-    return dep[a] + dep[b] - 2 * dep[LCA(a,b)];
-}
+int dis(int a,int b) {return dep[a] + dep[b] - 2 * dep[LCA(a,b)];}
 
 int C(int c,int x) {
     if (c == x) return 0;
@@ -44,8 +42,8 @@ int C(int c,int x) {
 }
 
 int main() {
-	ios::sync_with_stdio(false);
-	cin.tie(0); cout.tie(0);
+    ios::sync_with_stdio(false);
+    cin.tie(0); cout.tie(0);
     cin >> n >> q;
     for (int i = 1;i < n;i++) {
         int u,v;

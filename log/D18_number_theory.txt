@@ -1,0 +1,8 @@
+qpow:32
+gcd:15
+exgcd:7
+sieve:4
+modinv:3
+phi:3
+crt:1
+lcm:1

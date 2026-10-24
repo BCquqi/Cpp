@@ -1,0 +1,7640 @@
+
+--- 2026-7\2025winter\hj1\At Most 3\AtMost3.cpp ---
+#include<iostream>
+#include<map>
+using namespace std;
+
+const int N = 305;
+
+--- 2026-7\2025winter\hj1\Coupon\coupon.cpp ---
+#include<iostream>
+#include<algorithm>
+using namespace std;
+
+const int N = 2e5 + 5;
+
+--- 2026-7\2025winter\hj1\Distribution\distribution.cpp ---
+#include<iostream>
+using namespace std;
+
+const int N = 2e5 + 5;
+int s[N],t[N],ans[N];
+
+--- 2026-7\2025winter\hj1\K Swap\KSwap.cpp ---
+#include<iostream>
+#include<vector>
+using namespace std;
+
+const int N = 2e5 + 5;
+
+--- 2026-7\2025winter\hj1\Many Segments\ManySegments.cpp ---
+#include<iostream>
+using namespace std;
+
+const int N = 2e4 + 5;
+pair<int,int> a[N];
+
+--- 2026-7\2025winter\hj1\Swiss-System Tournament\Swiss-SystemTournament.cpp ---
+#include<iostream>
+using namespace std;
+
+const int N = 105;
+char a[N][N];
+
+--- 2026-7\2025winter\hj2\Another Sigma Problem\AnotherSigmaProblem.cpp ---
+#include<iostream>
+using namespace std;
+
+const int N = 2e5 + 5,mod = 998244353;
+int a[N],len[N];
+
+--- 2026-7\2025winter\hj2\Make Them Narrow\MakeThemNarrow.cpp ---
+#include<iostream>
+#include<algorithm>
+using namespace std;
+
+const int N = 2e5 + 5;
+
+--- 2026-7\2025winter\hj2\Piano 2\Piano2.cpp ---
+#include<iostream>
+#include<vector>
+using namespace std;
+
+const int N = 105;
+
+--- 2026-7\2025winter\hj2\Robot Takahashi\RobotTakahashi.cpp ---
+#include<iostream>
+using namespace std;
+
+const int N = 2e5 + 5;
+struct People {
+
+--- 2026-7\2025winter\hj2\Split\Split.cpp ---
+#include<iostream>
+using namespace std;
+
+bool flag[10];
+
+
+--- 2026-7\2025winter\hj2\Vertical Reading\VerticalReading.cpp ---
+#include<iostream>
+using namespace std;
+
+int main() {
+	string s,t;
+
+--- 2026-7\2025winter\hj3\A - B problem\A-Bproblem.cpp ---
+#include<iostream>
+using namespace std;
+
+int main() {
+	int a,b;
+
+--- 2026-7\2025winter\hj3\ARC Wrecker\ARCWrecker.cpp ---
+#include<iostream>
+#include<algorithm>
+using namespace std;
+
+const int N = 1e5 + 5,mod = 1e9 + 7;
+
+--- 2026-7\2025winter\hj3\A^B^C\A^B^C.cpp ---
+#include<iostream>
+using namespace std;
+
+long long qpow(long long a,long long b,long long p) {
+    long long res = 1;
+
+--- 2026-7\2025winter\hj3\Quadruple\Quadruple.cpp ---
+#include<iostream>
+using namespace std;
+
+int n,k;
+
+
+--- 2026-7\2025winter\hj3\log\log.cpp ---
+#include<iostream>
+#include<algorithm>
+using namespace std;
+
+int main() {
+
+--- 2026-7\单调队列与单调栈\ARC-Architects.cpp ---
+#include <stdlib.h>
+#include <stdio.h>
+#include <time.h>
+#include <deque>
+using namespace std;
+
+--- 2026-7\单调队列与单调栈\BBB-BBB.cpp ---
+#include<iostream>
+#include<algorithm>
+#include<deque>
+#include<cmath>
+using namespace std;
+
+--- 2026-7\单调队列与单调栈\Cow-Frisbee-S.cpp ---
+#include<iostream>
+#include<stack>
+#include<algorithm>
+using namespace std;
+
+
+--- 2026-7\单调队列与单调栈\Flowerpot-S.cpp ---
+#include<iostream>
+#include<deque>
+#include<cmath>
+#include<algorithm>
+using namespace std;
+
+--- 2026-7\单调队列与单调栈\Look-Up-S.cpp ---
+#include<iostream>
+#include<stack>
+using namespace std;
+
+const int N = 1e5 + 5;
+
+--- 2026-7\单调队列与单调栈\【模板】单调栈.cpp ---
+#include<iostream>
+#include<stack>
+using namespace std;
+
+const int N = 3e6 + 5;
+
+--- 2026-7\单调队列与单调栈\【模板】单调队列-滑动窗口.cpp ---
+#include<iostream>
+#include<algorithm>
+#include<deque>
+using namespace std;
+
+
+--- 2026-7\单调队列与单调栈\寻找段落.cpp ---
+#include<iostream>
+#include<deque>
+#include<cstdio>
+using namespace std;
+
+
+--- 2026-7\单调队列与单调栈\选择数字.cpp ---
+#include<iostream>
+#include<algorithm>
+#include<deque>
+#define int long long
+using namespace std;
+
+--- 2026-7\多维dp\中国象棋.cpp ---
+#include<iostream>
+using namespace std;
+
+const int N = 105,MOD = 9999973;
+long long dp[N][N][N]; // 前 i 列，有 j 列有 1 个棋子， k 列有两个棋子，则有 m - j - k 列没有棋子的方案数
+
+--- 2026-7\多维dp\乌龟棋-加强版.cpp ---
+#include<iostream>
+using namespace std;
+
+const int N = 10005,M = 405;
+int a[N],b[M],cnt[5];
+
+--- 2026-7\多维dp\乌龟棋.cpp ---
+#include<iostream>
+using namespace std;
+
+const int N = 355,M = 125;
+int a[N],b[M],cnt[5],dp[M][M][M][M];
+
+--- 2026-7\多维dp\传纸条.cpp ---
+#include<iostream>
+#include<algorithm>
+#include<cstring>
+using namespace std;
+
+
+--- 2026-7\多维dp\多米诺骨牌.cpp ---
+#include<iostream>
+#include<algorithm>
+#include<cstring>
+using namespace std;
+
+
+--- 2026-7\多维dp\子串.cpp ---
+#include<iostream>
+#include<algorithm>
+using namespace std;
+
+const int N = 1005,M = 205,MOD = 1e9 + 7;
+
+--- 2026-7\多维dp\榨取kkksc03.cpp ---
+#include<iostream>
+#include<algorithm>
+using namespace std;
+
+const int N = 105,M = 205;
+
+--- 2026-7\多维dp\海盗船.cpp ---
+#include<iostream>
+#include<cstring>
+#include<algorithm>
+using namespace std;
+
+
+--- 2026-7\多维dp\糖果.cpp ---
+/*填表法版本*/
+
+#include<iostream>
+#include<cstring>
+using namespace std;
+
+--- 2026-7\散题\P550.cpp ---
+#include<iostream>
+#include<vector>
+#include<algorithm>
+using namespace std;
+
+
+--- 2026-7\散题\P551.cpp ---
+#include<iostream>
+#include<vector>
+using namespace std;
+
+const int N = 1e4 + 5;
+
+--- 2026-7\散题\P552.cpp ---
+#include<iostream>
+#include<vector>
+#include<queue>
+using namespace std;
+
+
+--- 2026-7\散题\P553.cpp ---
+#include<iostream>
+#include<vector>
+#include<cstring>
+#include<queue>
+using namespace std;
+
+--- 2026-7\散题\P554.cpp ---
+#include<iostream>
+#include<vector>
+#include<cstring>
+#include<queue>
+#include<map>
+
+--- 2026-7\散题\P555.cpp ---
+#include<iostream>
+#include<vector>
+#include<queue>
+#include<cstring>
+using namespace std;
+
+--- 2026-7\散题\P556.cpp ---
+#include<iostream>
+#include<vector>
+#include<queue>
+using namespace std;
+
+
+--- 2026-7\散题\P899.cpp ---
+#include<iostream>
+#include<vector>
+#include<algorithm>
+#include<cstring>
+using namespace std;
+
+--- 2026-7\树状数组\Lost-Cows.cpp ---
+#include<iostream>
+using namespace std;
+
+const int N = 1e5 + 5;
+int a[N],ans[N],n,tree[N];
+
+--- 2026-7\树状数组\二维树状数组1.cpp ---
+#include<iostream>
+using namespace std;
+
+const int N = 4100;
+int n,m;
+
+--- 2026-7\树状数组\二维树状数组2.cpp ---
+#include<iostream>
+#define int long long
+using namespace std;
+
+const int N = 4100;
+
+--- 2026-7\树状数组\二维树状数组3.cpp ---
+#include<iostream>
+#include<algorithm>
+#define int long long
+using namespace std;
+
+
+--- 2026-7\树状数组\树状数组1.cpp ---
+#include<iostream>
+#define int long long
+using namespace std;
+
+const int N = 1e6 + 5;
+
+--- 2026-7\树状数组\树状数组2.cpp ---
+#include<iostream>
+#define int long long
+using namespace std;
+
+const int N = 1e6 + 5;
+
+--- 2026-7\树状数组\树状数组3.cpp ---
+#include<iostream>
+#define int long long
+using namespace std;
+
+const int N = 1e6 + 5;
+
+--- 2026-7\树状数组\楼兰图腾.cpp ---
+#include<iostream>
+#include<algorithm>
+#define int long long
+using namespace std;
+
+
+--- 2026-7\树状数组\火柴排队.cpp ---
+#include<iostream>
+#include<algorithm>
+#include<cstdio>
+#define int long long
+using namespace std;
+
+--- 2026-7\树状数组\逆序对.cpp ---
+#include<iostream>
+#include<algorithm>
+#define int long long
+using namespace std;
+
+
+--- 2026-7\线段树\A-Simple-Problem-with-Integers.cpp ---
+#include<iostream>
+#define lid id * 2
+#define rid id * 2 + 1
+#define int long long
+using namespace std;
+
+--- 2026-7\线段树\Balanced-Lineup-G.cpp ---
+#include<iostream>
+#include<algorithm>
+using namespace std;
+
+const int N = 5e4 + 5;
+
+--- 2026-7\线段树\Hotel-G.cpp ---
+#include<iostream>
+#define lid id * 2
+#define rid id * 2 + 1
+#define int long long
+using namespace std;
+
+--- 2026-7\线段树\Light-Switching-G.cpp ---
+#include<iostream>
+#define lid id * 2
+#define rid id * 2 + 1
+#define int long long
+using namespace std;
+
+--- 2026-7\线段树\【模板】ST表.cpp ---
+#include<iostream>
+using namespace std;
+
+const int N = 1e5 + 5;
+int a[N],st[N][25],lg[N];
+
+--- 2026-7\线段树\【模板】线段树.cpp ---
+#include<iostream>
+#define lid id * 2
+#define rid id * 2 + 1
+using namespace std;
+
+
+--- 2026-7\线段树\【模板】线段树1.cpp ---
+#include<iostream>
+#define lid id * 2
+#define rid id * 2 + 1
+#define int long long
+using namespace std;
+
+--- 2026-7\线段树\【模板】线段树2.cpp ---
+#include<iostream>
+#include<algorithm>
+#include<cstring>
+#define lid id * 2
+#define rid id * 2 + 1
+
+--- 2026-7\线段树\序列操作1.cpp ---
+#include<iostream>
+#include<algorithm>
+#define lid id * 2
+#define rid id * 2 + 1
+#define int long long
+
+--- 2026-7\线段树\序列操作2.cpp ---
+#include<iostream>
+#include<algorithm>
+#include<cstring>
+#define lid id * 2
+#define rid id * 2 + 1
+
+--- 2026-7\线段树\最大数maxnumber.cpp ---
+#include<iostream>
+#include<algorithm>
+#define int long long
+using namespace std;
+
+
+--- 2026-7\线段树\策略游戏.cpp ---
+#include<iostream>
+#include<algorithm>
+#include<cstring>
+#define int long long
+using namespace std;
+
+--- 2026-7\线段树\维护序列.cpp ---
+#include<iostream>
+#include<algorithm>
+#include<cstring>
+#define lid id * 2
+#define rid id * 2 + 1
+
+--- 2026-7\线段树\逆序对.cpp ---
+#include<iostream>
+#include<algorithm>
+#define lid 2 * id
+#define rid 2 * id + 1
+#define int long long
+
+--- 2026-7\背包问题\Cow-Exhibition-G.cpp ---
+#include<iostream>
+#include<algorithm>
+#include<cstdio>
+#include<cstring>
+using namespace std;
+
+--- 2026-7\背包问题\Cut-Ribbon.cpp ---
+#include<iostream>
+#include<cstring>
+using namespace std;
+
+const int N = 1e7 + 5;
+
+--- 2026-7\背包问题\Elimination.cpp ---
+#include<iostream>
+#include<cstring>
+using namespace std;
+
+const int N = 105;
+
+--- 2026-7\背包问题\Video-Game-Troubles-G.cpp ---
+#include<iostream>
+#include<algorithm>
+using namespace std;
+
+const int N = 1005,M = 15,PMAX = 1e5 + 5;
+
+--- 2026-7\背包问题\买干草.cpp ---
+#include<iostream>
+#include<cstring>
+using namespace std;
+
+const int N = 5e4 + 5000 + 5;
+
+--- 2026-7\背包问题\多人背包.cpp ---
+#include<iostream>
+#include<algorithm>
+using namespace std;
+
+const int N = 55,T = 1e5 + 5;
+
+--- 2026-7\背包问题\摆花.cpp ---
+#include<iostream>
+using namespace std;
+
+const int N = 105,MOD = 1e6 + 7;
+int a[N],dp[N][N]; // dp[i][j] 表示摆到第 i 朵花，目前共有 j 盆
+
+--- 2026-7\背包问题\最佳课题选择.cpp ---
+#include<iostream>
+#include<cmath>
+#include<cstring>
+using namespace std;
+
+
+--- 2026-7\背包问题\烹调方案.cpp ---
+#include<iostream>
+#include<algorithm>
+using namespace std;
+
+const int N = 55,T = 1e5 + 5;
+
+--- 2026-7\背包问题\竞赛真理.cpp ---
+#include<iostream>
+using namespace std;
+
+const int N = 35,T = 1080005;
+int w1[N],w2[N],v1[N],v2[N],dp[N][T]; // dp[i][j] 表示前 i 个题，用了 j 分钟时间的最高得分
+
+--- 2026-7\背包问题\纪念品.cpp ---
+#include<iostream>
+#include<cstring>
+using namespace std;
+
+const int N = 105,M = 10005;
+
+--- 2026-7\背包问题\背包的第k优解.cpp ---
+#include<iostream>
+#include<cstring>
+using namespace std;
+
+const int N = 205,M = 5005,K = 55;
+
+--- 2026-7\背包问题\采药.cpp ---
+#include<iostream>
+using namespace std;
+
+const int N = 105,M = 1005;
+int w[N],v[N],dp[N][M];
+
+--- 2026-7\背包问题\金明的预算方案.cpp ---
+#include<iostream>
+using namespace std;
+
+const int N = 3e4 + 2005,M = 65;
+int v[M][3],w[M][3],dp[M][N];
+
+--- 2026-7\背包问题\集合-Subset-Sums.cpp ---
+#include<iostream>
+using namespace std;
+
+const int N = 45,M = 1005;
+long long dp[N][M]; // dp[i][j] 表示选到第 i 个数后，选进第一组的数字和为 j 的方法数
+
+--- 2026-7\背包问题\飞扬的小鸟.cpp ---
+#include<iostream>
+#include<algorithm>
+#include<cstring>
+using namespace std;
+
+
+--- 2026-7\链表及其应用\【模板】双向链表.cpp ---
+#include<iostream>
+using namespace std;
+
+const int N = 5e5 + 5;
+struct Node {int pre,nxt;} a[N];
+
+--- 2026-7\链表及其应用\单向链表.cpp ---
+#include<iostream>
+using namespace std;
+
+const int N = 1e6 + 5;
+int nxt[N];
+
+--- 2026-7\链表及其应用\排队顺序.cpp ---
+#include<iostream>
+using namespace std;
+
+const int N = 1e6 + 5;
+int a[N];
+
+--- 2026-7\链表及其应用\链表操作.cpp ---
+#include<iostream>
+using namespace std;
+
+const int N = 2e5 + 5;
+struct Node {int val,nxt;} a[N];
+
+--- 2026-8\Slope-Trick与WQS二分\Tree-I.cpp ---
+#include<iostream>
+#include<algorithm>
+using namespace std;
+
+const int N = 1e5 + 5;
+
+--- 2026-8\Slope-Trick与WQS二分\序列-sequence.cpp ---
+#include<iostream>
+#include<queue>
+using namespace std;
+
+const int N = 5e5 + 5;
+
+--- 2026-8\Slope-Trick与WQS二分\种树.cpp ---
+#include<iostream>
+#include<queue>
+#define int long long
+using namespace std;
+
+
+--- 2026-8\动态dp与dp套dp\Kuro-and-Topological-Parity.cpp ---
+#include<iostream>
+#define int long long
+using namespace std;
+
+const int N = 55,mod = 1e9 + 7;
+
+--- 2026-8\动态dp与dp套dp\Sasha-and-Array.cpp ---
+#include<iostream>
+#define int long long
+#define lid id * 2
+#define rid id * 2 + 1
+using namespace std;
+
+--- 2026-8\动态dp与dp套dp\【模板】矩阵快速幂.cpp ---
+#include<iostream>
+#define int long long
+using namespace std;
+
+const int N = 105,mod = 1e9 + 7;
+
+--- 2026-8\动态dp与dp套dp\小白逛公园.cpp ---
+#include<iostream>
+#include<algorithm>
+#define int long long
+#define lid id * 2
+#define rid id * 2 + 1
+
+--- 2026-8\动态dp与dp套dp\矩阵加速（数列）.cpp ---
+#include<iostream>
+#include<cstring>
+#define int long long
+using namespace std;
+
+
+--- 2026-8\动态规划及其优化1\Candies.cpp ---
+#include<iostream>
+using namespace std;
+
+const int N = 105,K = 1e5 + 5,mod = 1e9 + 7;
+int a[N];
+
+--- 2026-8\动态规划及其优化1\Flowers.cpp ---
+#include<iostream>
+#define int long long
+using namespace std;
+
+const int N = 2e5 + 5;
+
+--- 2026-8\动态规划及其优化1\LUK-Triumphal-arch.cpp ---
+#include<iostream>
+#include<vector>
+using namespace std;
+
+const int N = 3e5 + 5;
+
+--- 2026-8\动态规划及其优化1\创世纪.cpp ---
+#include<iostream>
+#include<algorithm>
+#include<vector>
+#include<cstring>
+using namespace std;
+
+--- 2026-8\动态规划及其优化1\期末考试滑溜滑溜补习班.cpp ---
+#include<iostream>
+#include<queue>
+#define int long long
+using namespace std;
+
+
+--- 2026-8\动态规划及其优化1\琪露诺.cpp ---
+#include<iostream>
+#include<queue>
+#include<algorithm>
+#include<cstring> 
+#define int long long
+
+--- 2026-8\动态规划及其优化1\跑路.cpp ---
+#include<iostream>
+#include<vector>
+#include<cstring> 
+using namespace std;
+
+
+--- 2026-8\动态规划及其优化2\The-Bakery.cpp ---
+#include<iostream>
+#include<cstring>
+#define lid id * 2
+#define rid id * 2 + 1
+using namespace std;
+
+--- 2026-8\动态规划及其优化2\Watching-Fireworks-is-Fun.cpp ---
+#include<iostream>
+#include<queue>
+#include<cmath>
+#include<cstring>
+using namespace std;
+
+--- 2026-8\动态规划及其优化2\柠檬.cpp ---
+#include<iostream>
+using namespace std;
+
+const int N = 1e5 + 5,M = 1e4 + 5;
+int s[N],a[N],dp[N];
+
+--- 2026-8\动态规划及其优化2\特别行动队.cpp ---
+#include<iostream>
+#include<queue>
+#define int long long
+using namespace std;
+
+
+--- 2026-8\动态规划及其优化2\玩具装箱.cpp ---
+#include<iostream>
+#define int long long 
+using namespace std;
+
+const int N = 5e4 + 5;
+
+--- 2026-8\动态规划及其优化2\琪露诺.cpp ---
+#include<iostream>
+#include<queue>
+#include<algorithm>
+#include<cstring> 
+#define int long long
+
+--- 2026-8\动态规划及其优化2\股票交易.cpp ---
+#include<iostream>
+#include<cstring>
+#include<queue>
+#include<algorithm>
+using namespace std;
+
+--- 2026-8\排列组合\Bouquet.cpp ---
+#include<iostream>
+#define int long long
+using namespace std;
+
+// 2^n - C(n,a) - C(n,b) - 1
+
+--- 2026-8\排列组合\Cell-Distance.cpp ---
+#include<iostream>
+#define int long long
+using namespace std;
+
+const int N = 2e5 + 5,mod = 1e9 + 7;
+
+--- 2026-8\排列组合\Large-Heap.cpp ---
+#include<iostream>
+#define int long long
+using namespace std;
+
+const int N = 5005,mod = 998244353;
+
+--- 2026-8\排列组合\Many-Many-Paths.cpp ---
+#include<iostream>
+using namespace std;
+
+const int mod = 1e9 + 7,N = 2e6 + 5;
+int r1,c1,r2,c2;
+
+--- 2026-8\排列组合\[ZJOI]排列计数.cpp ---
+#include<iostream>
+#define int long long
+using namespace std;
+
+const int N = 2e6 + 5;
+
+--- 2026-8\排列组合\中国象棋.cpp ---
+#include<iostream>
+using namespace std;
+
+const int N = 105,MOD = 9999973;
+long long dp[N][N][N]; // 前 i 列，有 j 列有 1 个棋子， k 列有两个棋子，则有 m - j - k 列没有棋子的方案数
+
+--- 2026-8\排列组合\安全系统.cpp ---
+#include<iostream>
+#include<algorithm>
+#include<cstdio>
+using namespace std;
+
+
+--- 2026-8\排列组合\小朋友的球.cpp ---
+#include<iostream>
+#include<cstring>
+#include<algorithm>
+using namespace std;
+
+
+--- 2026-8\排列组合\已经没有什么好害怕的了.cpp ---
+#include<iostream>
+#include<algorithm>
+#define int long long
+using namespace std;
+
+
+--- 2026-8\排列组合\幸运数字.cpp ---
+#include<iostream>
+#include<algorithm>
+#define int long long
+using namespace std;
+
+
+--- 2026-8\排列组合\排列计数.cpp ---
+#include<iostream>
+#define int long long
+using namespace std;
+
+const int N = 2e6 + 5,mod = 1e9 + 7;
+
+--- 2026-8\排列组合\有趣的数列.cpp ---
+#include<iostream>
+#define int long long
+using namespace std;
+
+const int N = 2e6 + 5;
+
+--- 2026-8\排列组合\生成字符串.cpp ---
+#include<iostream>
+#include<algorithm>
+#include<cstdio>
+#define int long long
+using namespace std;
+
+--- 2026-8\排列组合\硬币购物.cpp ---
+#include<iostream>
+#define int long long
+using namespace std;
+
+const int N = 1e5 + 5;
+
+--- 2026-8\排列组合\苹果树.cpp ---
+#include<iostream>
+#define int long long
+using namespace std;
+
+const int N = 2005;
+
+--- 2026-8\数据结构基础知识学习与应用\FHQ-Treap.cpp ---
+#include<iostream>
+#include<ctime>
+#include<cstdlib>
+#include<random>
+using namespace std;
+
+--- 2026-8\数据结构基础知识学习与应用\Multiset.cpp ---
+#include<iostream>
+#include<algorithm>
+#define lid id * 2
+#define rid id * 2 + 1
+using namespace std;
+
+--- 2026-8\数据结构基础知识学习与应用\XOR的艺术.cpp ---
+#include<iostream>
+#define lid id * 2
+#define rid id * 2 + 1
+using namespace std;
+
+
+--- 2026-8\数据结构基础知识学习与应用\【模板】动态开点线段树.cpp ---
+#include<iostream>
+#define lid tr[id] -> lc
+#define rid tr[id] -> rc
+#define int unsigned long long
+using namespace std;
+
+--- 2026-8\数据结构基础知识学习与应用\【模板】普通平衡树.cpp ---
+#include<iostream>
+#include<ctime>
+#include<cstdlib>
+#include<random>
+using namespace std;
+
+--- 2026-8\数据结构基础知识学习与应用\【模板】树状数组1.cpp ---
+#include<iostream>
+using namespace std;
+
+const int N = 5e5 + 5;
+long long a[N],c[N],n,m;
+
+--- 2026-8\数据结构基础知识学习与应用\【模板】线段树1.cpp ---
+#include<iostream>
+#define lid id * 2
+#define rid id * 2 + 1
+#define int long long
+using namespace std;
+
+--- 2026-8\数据结构基础知识学习与应用\火柴排队.cpp ---
+#include<cstdio>
+#include<iostream>
+#include<algorithm>
+using namespace std;
+
+
+--- 2026-8\数据结构基础练习题\Why-Did-The-Cow-Cross-the-Road-I-P.cpp ---
+#include<iostream>
+#include<algorithm>
+#include<cstring>
+using namespace std;
+
+
+--- 2026-8\数据结构基础练习题\守墓人.cpp ---
+#include<iostream>
+#define int long long
+using namespace std;
+
+const int N = 2e5 + 5;
+
+--- 2026-8\数据结构基础练习题\数学计算.cpp ---
+#include<iostream>
+#include<cstring>
+#include<algorithm>
+#define lid id * 2
+#define rid id * 2 + 1
+
+--- 2026-8\数据结构基础练习题\神秘的703.cpp ---
+#include<iostream>
+using namespace std;
+
+const int N = 5e5 + 5;
+int hard[N],tree[N];
+
+--- 2026-8\数据结构进阶练习\Flowers.cpp ---
+#include<iostream>
+#define int long long
+using namespace std;
+
+const int N = 2e5 + 5;
+
+--- 2026-8\数据结构进阶练习\Hotel-G.cpp ---
+#include<iostream>
+#define lid id * 2
+#define rid id * 2 + 1
+#define int long long
+using namespace std;
+
+--- 2026-8\数据结构进阶练习\Lost-Cows.cpp ---
+#include<iostream>
+using namespace std;
+
+const int N = 8005;
+int a[N],ans[N],n,tree[N];
+
+--- 2026-8\数据结构进阶练习\Preprefix-sum.cpp ---
+#include<iostream>
+#define int long long
+using namespace std;
+
+const int N = 1e5 + 5;
+
+--- 2026-8\数据结构进阶练习\冰火战士.cpp ---
+
+--- 2026-8\数据结构进阶练习\基站选址.cpp ---
+
+--- 2026-8\数据结构进阶练习\小白逛公园.cpp ---
+#include<iostream>
+#include<algorithm>
+#define int long long
+#define lid id * 2
+#define rid id * 2 + 1
+
+--- 2026-8\数据结构进阶练习\排序机械臂.cpp ---
+#include<iostream>
+#include<ctime>
+#include<random>
+#include<algorithm>
+#include<stack>
+
+--- 2026-8\数据结构进阶练习\永无乡.cpp ---
+#include<iostream>
+#include<algorithm>
+#define lid tr[id] -> lc
+#define rid tr[id] -> rc
+using namespace std;
+
+--- 2026-8\数据结构进阶练习\食物链.cpp ---
+#include<iostream>
+using namespace std;
+
+const int N = 5e4 + 5;
+int f[3 * N];
+
+--- 2026-8\斜率优化\Cats-Transport.cpp ---
+#include<iostream>
+#include<algorithm>
+#define int long long 
+using namespace std;
+
+
+--- 2026-8\斜率优化\仓库建设.cpp ---
+#include<iostream>
+#include<algorithm>
+#include<cstring>
+#define int long long
+using namespace std;
+
+--- 2026-8\斜率优化\任务安排1.cpp ---
+#include<iostream>
+#include<algorithm>
+#include<cstring>
+#define int long long
+using namespace std;
+
+--- 2026-8\斜率优化\任务安排2.cpp ---
+#include<iostream>
+#include<cstring>
+#define int long long
+using namespace std;
+
+
+--- 2026-8\斜率优化\特别行动队.cpp ---
+#include<iostream>
+#include<queue>
+#define int long long
+using namespace std;
+
+
+--- 2026-8\斜率优化\玩具装箱.cpp ---
+#include<iostream>
+#define int long long 
+using namespace std;
+
+const int N = 5e4 + 5;
+
+--- 2026-8\斜率优化\货币兑换.cpp ---
+#include<iostream>
+#include<algorithm>
+#include<cmath>
+#include<iomanip>
+using namespace std;
+
+--- 2026-8\根号算法选讲\作诗.cpp ---
+#include<cstdio>
+#include<algorithm>
+#include<cstring>
+#include<cmath>
+using namespace std;
+
+--- 2026-8\根号算法选讲\小Z的袜子.cpp ---
+#include<iostream>
+#include<algorithm>
+#include<cmath>
+using namespace std;
+
+
+--- 2026-8\根号算法选讲\弹飞绵羊.cpp ---
+#include<iostream>
+#include<algorithm>
+#include<cmath>
+using namespace std;
+
+
+--- 2026-8\根号算法选讲\教主的魔法.cpp ---
+#include<iostream>
+#include<algorithm>
+#include<cmath>
+using namespace std;
+
+
+--- 2026-8\测试1\confluere.cpp ---
+#include<iostream>
+using namespace std;
+
+void solve() {
+	int n,m,q;
+
+--- 2026-8\测试1\diftest.cpp ---
+#include<iostream>
+using namespace std;
+
+const int N = 2e5 + 5;
+string s[N];
+
+--- 2026-8\测试1\fatum.cpp ---
+#include<iostream>
+using namespace std;
+
+const int N = 5005;
+int dp[N][N];
+
+--- 2026-8\测试1\geminae.cpp ---
+#include<iostream>
+#include<algorithm>
+#include<cstring>
+#include<cstdio>
+using namespace std;
+
+--- 2026-8\测试1\pipeline-40.cpp ---
+#include<iostream>
+#include<algorithm>
+#include<cstring>
+#define int long long
+using namespace std;
+
+--- 2026-8\测试1\pipeline.cpp ---
+#include<iostream>
+#include<algorithm>
+#include<cstring>
+#include<queue>
+#define int long long
+
+--- 2026-8\测试2\allocation\allocation.cpp ---
+#include<iostream>
+using namespace std;
+
+const int N = 1005;
+int n,m,a[N][N],s[N][N];
+
+--- 2026-8\测试2\auto\auto.cpp ---
+#include<iostream>
+#include<algorithm>
+using namespace std;
+
+const int N = 1005;
+
+--- 2026-8\测试2\city\city.cpp ---
+#include<iostream>
+#include<algorithm>
+#define int long long
+using namespace std;
+
+
+--- 2026-8\测试2\series\series.cpp ---
+#include<iostream>
+using namespace std;
+
+int main() {
+    int n,m;
+
+--- 2026-8\测试3\axis-check.cpp ---
+#include <cstdio>
+#include <cstring>
+int a[201], b[201], r[100001];
+int dp[201];
+int dp2[201][201][201];
+
+--- 2026-8\测试3\axis.cpp ---
+#include<iostream>
+#define int long long
+using namespace std;
+
+const int N = 205,M = 1e5 + 5;
+
+--- 2026-8\测试3\darksideofthemoon.cpp ---
+#include<iostream>
+#include<algorithm>
+#include<cstring>
+#define int long long
+using namespace std;
+
+--- 2026-8\测试3\oracle.cpp ---
+#include<iostream>
+#include<algorithm>
+#define lid id * 2
+#define rid id * 2 + 1
+using namespace std;
+
+--- 2026-8\测试3\square.cpp ---
+#include<iostream>
+using namespace std;
+
+const int mod = 998244353;
+
+
+--- 2026-8\点分治-树剖-直径-重心-虚树\Link-Cut-Centroids.cpp ---
+#include<iostream>
+#include<vector>
+#include<cstring>
+using namespace std;
+
+
+--- 2026-8\点分治-树剖-直径-重心-虚树\会议.cpp ---
+#include<iostream>
+#include<vector>
+#include<algorithm>
+using namespace std;
+
+
+--- 2026-8\点分治-树剖-直径-重心-虚树\巡逻.cpp ---
+#include<iostream>
+#include<vector>
+#include<cstring>
+#include<algorithm>
+using namespace std;
+
+--- 2026-8\点分治-树剖-直径-重心-虚树\树的直径.cpp ---
+#include<iostream>
+#include<vector>
+#include<cstring>
+using namespace std;
+
+
+--- 2026-8\点分治-树剖-直径-重心-虚树\重链剖分-树链剖分.cpp ---
+#include<iostream>
+#include<algorithm>
+#include<vector>
+using namespace std;
+
+
+--- 2026-8\简单字符串算法\Compress-Words.cpp ---
+#include<iostream>
+#include<algorithm>
+#include<cstring>
+using namespace std;
+
+
+--- 2026-8\简单字符串算法\KMP.cpp ---
+#include<iostream>
+using namespace std;
+
+const int N = 2e6 + 5;
+int prefix[N];
+
+--- 2026-8\简单字符串算法\兔子与兔子.cpp ---
+#include<iostream>
+using namespace std;
+
+const int N = 1e6 + 5,P = 131,mod = 1e9 + 7;
+long long hs[N],powP[N];
+
+--- 2026-8\简单字符串算法\动物园.cpp ---
+#include<iostream>
+#include<cstring>
+using namespace std;
+
+const int N = 1e6 + 5,mod = 1e9 + 7;
+
+--- 2026-8\简单字符串算法\失配树.cpp ---
+#include<iostream>
+#include<vector>
+using namespace std;
+
+const int N = 2e6 + 5;
+
+--- 2026-8\简单字符串算法\字符串哈希.cpp ---
+#include<iostream>
+#include<algorithm>
+using namespace std;
+
+const int N = 1e4 + 5,mod = 1e9 + 7,P = 129;
+
+--- 2026-8\简单树论与树上技巧\Kay-and-Snowflake.cpp ---
+#include<iostream>
+#include<vector>
+using namespace std;
+
+const int N = 3e5 + 5;
+
+--- 2026-8\简单树论与树上技巧\Max-Flow-P.cpp ---
+#include<iostream>
+#include<vector>
+using namespace std;
+
+const int N = 5e4 + 5;
+
+--- 2026-8\简单树论与树上技巧\会议.cpp ---
+#include<iostream>
+#include<vector>
+#include<algorithm>
+using namespace std;
+
+
+--- 2026-8\简单树论与树上技巧\归程.cpp ---
+#include<iostream>
+#include<vector>
+#include<cstring>
+#include<queue>
+#include<algorithm>
+
+--- 2026-8\简单树论与树上技巧\最小生成树.cpp ---
+#include<iostream>
+#include<vector>
+#include<queue>
+#include<cstring>
+#include<algorithm>
+
+--- 2026-8\简单树论与树上技巧\最近公共祖先.cpp ---
+#include<iostream>
+#include<algorithm>
+#include<vector>
+using namespace std;
+
+
+--- 2026-8\简单树论与树上技巧\树链的并.cpp ---
+#include<iostream>
+#include<vector>
+#include<algorithm>
+#include<set>
+using namespace std;
+
+--- 2026-8\综合练习\Best-Concatenation.cpp ---
+#include<iostream>
+#include<algorithm>
+#define int long long
+using namespace std;
+
+
+--- 2026-8\综合练习\Game-in-Momotetsu-World.cpp ---
+#include<iostream>
+using namespace std;
+
+const int N = 2005;
+char a[N][N];
+
+--- 2026-8\综合练习\HRPA.cpp ---
+#include<iostream>
+#define int long long
+using namespace std;
+
+const int N = 1e7 + 5;
+
+--- 2026-8\综合练习\Permutation-Game.cpp ---
+#include<iostream>
+using namespace std;
+
+const int N = 1e5 + 5;
+int a[N],pos[N];
+
+--- 2026-8\综合练习\Potions.cpp ---
+#include<iostream>
+#include<queue>
+using namespace std;
+
+priority_queue<int,vector<int>,greater<int> > q;
+
+--- 2026-8\综合练习\Programming-Contest.cpp ---
+#include<iostream>
+using namespace std;
+
+const int N = 45;
+int a[N];
+
+--- 2026-8\综合练习\骑士精神.cpp ---
+#include<iostream>
+using namespace std;
+
+const int N = 10;
+int m,ans = 1e9;
+
+--- 2026-8\贪心\Megalomania.cpp ---
+#include<iostream>
+#include<algorithm>
+#include<cstdio>
+using namespace std;
+
+
+--- 2026-8\贪心\Summer-Vacation.cpp ---
+#include<iostream>
+#include<queue>
+#include<algorithm>
+using namespace std;
+
+
+--- 2026-8\贪心\Work-Scheduling-G.cpp ---
+#include<iostream>
+#include<queue>
+#include<algorithm>
+#define int long long
+using namespace std;
+
+--- 2026-8\贪心\建筑抢修.cpp ---
+#include<iostream>
+#include<queue>
+#include<algorithm>
+#define int long long
+using namespace std;
+
+--- 2026-8\贪心\数据备份.cpp ---
+#include<iostream>
+#include<queue>
+#define int long long
+using namespace std;
+
+
+--- 2026-8\贪心\点菜.cpp ---
+#include<iostream>
+#include<algorithm>
+#include<cstdio>
+#include<queue>
+#define int long long
+
+--- 2026-8\贪心\蔬菜.cpp ---
+#include<iostream>
+#include<queue>
+#include<algorithm>
+#include<queue>
+#define int long long
+
+--- 2026-8\贪心\超级钢琴.cpp ---
+#include<iostream>
+#include<queue>
+using namespace std;
+
+const int N = 5e5 + 5;
+
+--- 2026-9-10-11\dp选讲\Eternal-Average.cpp ---
+#include <iostream>
+#define int long long
+using namespace std;
+
+const int N = 4e3 + 5, mod = 1e9 + 7;
+
+--- 2026-9-10-11\dp选讲\Medals.cpp ---
+#include <iostream>
+#include <cstring>
+#define int long long
+using namespace std;
+
+
+--- 2026-9-10-11\dp选讲\Permutation-Oddness.cpp ---
+#include<iostream>
+#define int long long
+using namespace std;
+
+const int N = 55, mod = 1e9 + 7;
+
+--- 2026-9-10-11\dp选讲\Round-screws.cpp ---
+#include <iostream>
+#include <algorithm>
+#include <cstring>
+#define int long long
+using namespace std;
+
+--- 2026-9-10-11\dp选讲\Wonderful-Jump.cpp ---
+#include <iostream>
+#include <algorithm>
+#include <cstring>
+#define int long long
+using namespace std;
+
+--- 2026-9-10-11\交互-构造-ad-hoc进阶\Menji-we-miss-you.cpp ---
+#include<iostream>
+#include<vector>
+#include<algorithm>
+#include<cstring>
+#define int long long
+
+--- 2026-9-10-11\交互-构造-ad-hoc进阶\Subset-with-Zero-Sum.cpp ---
+#pragma (O2)
+#include<iostream>
+#include<vector>
+#include<cstring>
+using namespace std;
+
+--- 2026-9-10-11\交互-构造-ad-hoc进阶\Two-Permutations.cpp ---
+#include<iostream>
+#include<vector>
+#define int long long
+using namespace std;
+
+
+--- 2026-9-10-11\交互-构造-ad-hoc进阶\XOR-and-Swap.cpp ---
+#include<iostream>
+#include<vector>
+using namespace std;
+
+const int N = (1 << 20) + 5;
+
+--- 2026-9-10-11\图论专题复习与提升\Mike-and-Fish.cpp ---
+#include<iostream>
+#include<vector>
+#include<cstring>
+using namespace std;
+
+
+--- 2026-9-10-11\图论专题复习与提升\Redundant-Paths-G.cpp ---
+#include<iostream>
+#include<vector>
+using namespace std;
+
+const int N = 1e4 + 5;
+
+--- 2026-9-10-11\图论专题复习与提升\【模板】二分图最大匹配.cpp ---
+#include<iostream>
+#include<vector>
+#include<cstring>
+using namespace std;
+
+
+--- 2026-9-10-11\图论专题复习与提升\【模板】割点（割顶）.cpp ---
+#include<iostream>
+#include<vector>
+#include<cstring>
+using namespace std;
+
+
+--- 2026-9-10-11\图论专题复习与提升\【模板】无向图三元环计数.cpp ---
+#include<iostream>
+#include<vector>
+#include<algorithm>
+using namespace std;
+
+
+--- 2026-9-10-11\图论专题复习与提升\【模板】欧拉路径.cpp ---
+#include<iostream>
+#include<vector>
+#include<algorithm>
+using namespace std;
+
+
+--- 2026-9-10-11\图论专题复习与提升\【模板】点双连通分量.cpp ---
+#include<iostream>
+#include<vector>
+#include<algorithm>
+using namespace std;
+
+
+--- 2026-9-10-11\图论专题复习与提升\【模板】缩点-强联通分量.cpp ---
+#include<iostream>
+#include<algorithm>
+#include<vector>
+#include<stack>
+#include<queue>
+
+--- 2026-9-10-11\图论专题复习与提升\【模板】边双连通分量.cpp ---
+#include<iostream>
+#include<vector>
+#include<algorithm>
+using namespace std;
+
+
+--- 2026-9-10-11\图论专题复习与提升\建造军营.cpp ---
+#include<iostream>
+#include<vector>
+#define int long long
+using namespace std;
+
+
+--- 2026-9-10-11\图论专题复习与提升\归程.cpp ---
+#include<iostream>
+#include<vector>
+#include<cstring>
+#include<queue>
+#include<algorithm>
+
+--- 2026-9-10-11\图论专题复习与提升\飞行路线.cpp ---
+#include<iostream>
+#include<algorithm>
+#include<vector>
+#include<queue>
+#include<cstring>
+
+--- 2026-9-10-11\字符串专题\Censoring-G.cpp ---
+#include<iostream>
+#include<vector>
+#include<unordered_map>
+#include<algorithm>
+using namespace std;
+
+--- 2026-9-10-11\字符串专题\First-G.cpp ---
+#include<iostream>
+#include<vector>
+#include<queue>
+#include<cstring>
+using namespace std;
+
+--- 2026-9-10-11\字符串专题\You-Are-Given-Some-Strings.cpp ---
+#include<iostream>
+#include<vector>
+#include<unordered_map>
+#include<unordered_set>
+using namespace std;
+
+--- 2026-9-10-11\字符串专题\【模板】AC自动机.cpp ---
+#include<iostream>
+#include<queue>
+#include<string>
+#include<vector>
+using namespace std;
+
+--- 2026-9-10-11\字符串专题\【模板】Manacher.cpp ---
+#include<iostream>
+#include<algorithm>
+using namespace std;
+
+const int N = 2.2e7 + 5;
+
+--- 2026-9-10-11\字符串专题\优秀的拆分.cpp ---
+#include<iostream>
+using namespace std;
+
+void solve() {
+    string s;
+
+--- 2026-9-10-11\字符串专题\公共串.cpp ---
+#include <iostream>
+#include <algorithm>
+#include <unordered_map>
+using namespace std;
+typedef long long ll;
+
+--- 2026-9-10-11\字符串专题\最长异或路径.cpp ---
+#include <iostream>
+#include <vector>
+#define int long long
+using namespace std;
+
+
+--- 2026-9-10-11\数据结构\Good-Pairs.cpp ---
+#include<iostream>
+#include<algorithm>
+#include<set>
+#include<cstring>
+#define int long long
+
+--- 2026-9-10-11\数据结构\Red-Sequence.cpp ---
+#include<iostream>
+#include<vector>
+#include<algorithm>
+using namespace std;
+
+
+--- 2026-9-10-11\数据结构\不归之人与望眼欲穿的人们.cpp ---
+#include<iostream>
+#include<algorithm>
+#include<cstring>
+#include<cmath>
+#include<vector>
+
+--- 2026-9-10-11\数据结构\冰火战士.cpp ---
+#include<iostream>
+#include<algorithm>
+#define int long long
+using namespace std;
+
+
+--- 2026-9-10-11\数据结构\天降之物.cpp ---
+#include<iostream>
+#include<cmath>
+#include<set>
+#include<cstring>
+using namespace std;
+
+--- 2026-9-10-11\数据结构\排序.cpp ---
+#include<iostream>
+#define lid id << 1
+#define rid id << 1 | 1
+using namespace std;
+
+
+--- 2026-9-10-11\数据结构\未优化-天降之物.cpp ---
+#include<iostream>
+#include<cmath>
+#include<set>
+using namespace std;
+
+
+--- 2026-9-10-11\树上问题\Fib-tree.cpp ---
+#include<iostream>
+#include<vector>
+using namespace std;
+
+const int N = 2e5 + 5;
+
+--- 2026-9-10-11\树上问题\Tree-Factory.cpp ---
+#include<algorithm>
+#include<iostream>
+#include<vector>
+#include<set>
+using namespace std;
+
+--- 2026-9-10-11\树上问题\Tree-Tag.cpp ---
+#include<iostream>
+#include<vector>
+#include<cstring>
+using namespace std;
+
+
+--- 2026-9-10-11\树上问题\rldcot.cpp ---
+#include<iostream>
+#include<vector>
+#include<set>
+#include<algorithm>
+#define int long long
+
+--- 2026-9-10-11\树上问题\spxmcq.cpp ---
+#include<iostream>
+#include<algorithm>
+#include<queue>
+#include<vector>
+#define int long long
+
+--- 2026-9-10-11\树上问题\贸易.cpp ---
+#include<algorithm>
+#include<cstring>
+#include<iostream>
+#define int long long
+using namespace std;
+
+--- 2026-9-10-11\树形dp\入门例题1.cpp ---
+#include<iostream>
+#include<vector>
+using namespace std;
+
+const int N = 1e5 + 5;
+
+--- 2026-9-10-11\树形dp\入门例题2.cpp ---
+#include<iostream>
+#include<vector>
+#define int long long
+using namespace std;
+
+
+--- 2026-9-10-11\树形dp\入门例题3.cpp ---
+#include<iostream>
+#include<vector>
+#include<algorithm>
+using namespace std;
+
+
+--- 2026-9-10-11\树形dp\入门例题4.cpp ---
+#include<iostream>
+#include<vector>
+#include<cstring>
+using namespace std;
+
+
+--- 2026-9-10-11\树形dp\入门例题5.cpp ---
+#include<iostream>
+#include<vector>
+#define int long long
+using namespace std;
+
+
+--- 2026-9-10-11\树形dp\旅游.cpp ---
+#include<iostream>
+#include<vector>
+#include<cstring>
+#include<map>
+#include<algorithm>
+
+--- 2026-9-10-11\树形dp\最大子树和.cpp ---
+#include<iostream>
+#include<vector>
+using namespace std;
+
+const int N = 16005;
+
+--- 2026-9-10-11\树形dp\树上染色.cpp ---
+#include<iostream>
+#include<vector>
+#include<cstring>
+#define int long long
+using namespace std;
+
+--- 2026-9-10-11\树形dp\树上统计.cpp ---
+#include<iostream>
+#include<vector>
+using namespace std;
+
+const int N = 1e5 + 5;
+
+--- 2026-9-10-11\树形dp\选课.cpp ---
+#include<iostream>
+#include<vector>
+using namespace std;
+
+const int N = 305;
+
+--- 2026-9-10-11\贪心与证明\01-on-Tree.cpp ---
+#include<iostream>
+#include<vector>
+#include<queue>
+#define int long long
+using namespace std;
+
+--- 2026-9-10-11\贪心与证明\Donation.cpp ---
+#include<iostream>
+#include<vector>
+#include<cstring>
+#include<queue>
+#include<algorithm>
+
+--- 2026-9-10-11\贪心与证明\Swap-Space.cpp ---
+#include<iostream>
+#include<vector>
+#include<algorithm>
+#define int long long
+using namespace std;
+
+--- 2026-9-10-11\贪心与证明\Tower.cpp ---
+#include<iostream>
+#include<algorithm>
+#include<cstring>
+#define int long long
+using namespace std;
+
+--- 2026-9-10-11\贪心与证明\Travelling-Merchant.cpp ---
+#include<iostream>
+#include<vector>
+#include<queue>
+#include<algorithm>
+#include<cstring>
+
+--- CookieOI\校门外的树\std.cpp ---
+#include <cstdio>
+#include <cstring>
+#include <cmath>
+#include <algorithm>
+using namespace std;
+
+--- CookieOI\样卷\std\divide.cpp ---
+#include <cstdio>
+#include <vector>
+using namespace std;
+
+const int MOD = 1000000007;
+
+--- CookieOI\样卷\std\eval.cpp ---
+#include <cstdio>
+#include <vector>
+#include <algorithm>
+using namespace std;
+
+
+--- CookieOI\样卷\std\percom.cpp ---
+#include <cstdio>
+#include <algorithm>
+using namespace std;
+
+int get(int x, int p) {
+
+--- CookieOI\样卷\std\tree.cpp ---
+#include <cstdio>
+#include <vector>
+using namespace std;
+
+vector<int> primes;
+
+--- CookieOI\样卷\样例\divide\rand-16.cpp ---
+#include <cstdio>
+#include <cstdlib>
+#include <ctime>
+#include <algorithm>
+#include <vector>
+
+--- CookieOI\样卷\样例\divide\rand-4.cpp ---
+#include <cstdio>
+#include <cstdlib>
+#include <ctime>
+#include <algorithm>
+#include <vector>
+
+--- CookieOI\样卷\样例\eval\rand.cpp ---
+#include <cstdio>
+#include <cstdlib>
+#include <ctime>
+
+int main() {
+
+--- CookieOI\样卷\样例\percom\rand.cpp ---
+#include <iostream>
+#include <cstdlib>
+#include <cstdio>
+using namespace std;
+
+
+--- CookieOI\样卷\样例\tree\rand.cpp ---
+#include <cstdio>
+#include <cstdlib>
+#include <ctime>
+
+int main() {
+
+--- Homework\2026-3-2\ABS\ABC.cpp ---
+#include<iostream>
+#include<cmath>
+using namespace std;
+
+const int N = 2005;
+
+--- Homework\2026-3-2\ARC-Wrecker\ARC-Wrecker.cpp ---
+#include<iostream>
+#include<algorithm>
+using namespace std;
+
+const int N = 1e5 + 5,mod = 1e9 + 7;
+
+--- Homework\2026-3-2\Good-Sequence\Good-Sequence.cpp ---
+#include<iostream>
+#include<map>
+using namespace std;
+
+const int N = 1e5 + 10;
+
+--- Homework\2026-3-2\HSI\HSI.cpp ---
+#include<iostream>
+using namespace std;
+
+int main() {
+    int n,m;
+
+--- Homework\2026-3-2\Not-so-Diverse\Not-so-Diverse.cpp ---
+#include<iostream>
+#include<algorithm>
+using namespace std;
+
+const int N = 2e5 + 5;
+
+--- Homework\2026-4-29\Buy-or-Build\Buy-or-Build.cpp ---
+#include<iostream>
+#include<cstdio>
+#include<cstring>
+#include<algorithm>
+#include<stack>
+
+--- Homework\五一作业\multiply\multiply.cpp ---
+#include<iostream>
+#include<algorithm>
+using namespace std;
+#define int long long
+
+
+--- J-training\思维题\1-1-Prove_Him_Wrong.cpp ---
+#include<iostream>
+using namespace std;
+
+void solve() {
+    int n;
+
+--- J1-1\0 贪心\Koszulki.cpp ---
+#include<iostream>
+using namespace std;
+
+int a[2005],cnt[125];
+
+
+--- J1-1\0 贪心\Lake-Counting-S.cpp ---
+#include<iostream>
+using namespace std;
+
+char a[105][105];
+int dx[] = {-1,1,0,0,-1,-1,1,1};
+
+--- J1-1\0 贪心\Lemonade-Line-S.cpp ---
+#include<iostream>
+#include<algorithm>
+using namespace std;
+
+int w[100005];
+
+--- J1-1\0 贪心\Oranżada.cpp ---
+#include<iostream>
+using namespace std;
+
+int a[500005];
+bool flag[500005];
+
+--- J1-1\0 贪心\Pismo.cpp ---
+#include<iostream>
+using namespace std;
+
+int a[100005];
+
+
+--- J1-1\0 贪心\Social-Distancing-II-B.cpp ---
+#include<iostream>
+#include<algorithm>
+using namespace std;
+
+struct Node {
+
+--- J1-1\0 贪心\商店.cpp ---
+#include<iostream>
+#include<algorithm>
+using namespace std;
+
+const int N = 100005;
+
+--- J1-1\0 贪心\序列的第k个数.cpp ---
+#include<cstdio>
+#include<iostream>
+#include<algorithm>
+using namespace std;
+typedef long long LL;
+
+--- J1-1\0 贪心\海港.cpp ---
+#include<cstdio>
+#include<iostream>
+#include<algorithm>
+#include<queue>
+using namespace std;
+
+--- J1-1\0 贪心\爱与愁的心痛.cpp ---
+#include<iostream>
+using namespace std;
+
+int a[3005];
+
+
+--- J1-1\0 贪心\特技飞行.cpp ---
+#include<iostream>
+#include<algorithm>
+using namespace std;
+
+int c[305];
+
+--- J1-1\0 贪心\自行车比赛.cpp ---
+#include<iostream>
+#include<algorithm>
+using namespace std;
+
+int b[300005],n;
+
+--- J1-1\1 连通块\01迷宫.cpp ---
+#include<cstdio>
+#include<iostream>
+#include<algorithm>
+using namespace std;
+
+
+--- J1-1\1 连通块\DZY-Loves-Chessboard.cpp ---
+#include<cstdio>
+#include<cstring>
+#include<iostream>
+using namespace std;
+
+
+--- J1-1\1 连通块\Mooyo-Mooyo-S.cpp ---
+#include<iostream>
+#include<cstdio>
+#include<algorithm>
+#include<cstring>
+using namespace std;
+
+--- J1-1\1 连通块\入门.cpp ---
+#include<iostream>
+using namespace std;
+
+char a[25][25];
+int dx[] = {-1,1,0,0};
+
+--- J1-1\2 二维棋盘BFS\临冬城宝藏.cpp ---
+#include<iostream>
+#include<cstring>
+#include<queue>
+using namespace std;
+
+
+--- J1-1\2 二维棋盘BFS\好奇怪的游戏.cpp ---
+#include<iostream>
+#include<cstring>
+#include<queue>
+using namespace std;
+
+
+--- J1-1\2 二维棋盘BFS\最后的迷宫.cpp ---
+#include<iostream>
+#include<cstring>
+#include<queue>
+using namespace std;
+
+
+--- J1-1\2 二维棋盘BFS\迷宫最短路.cpp ---
+#include<cstdio>
+#include<iostream>
+#include<algorithm>
+#include<queue>
+using namespace std;
+
+--- J1-1\2 二维棋盘BFS\马的遍历.cpp ---
+#include<iostream>
+#include<cstdio>
+#include<algorithm>
+#include<queue>
+#include<cstring>
+
+--- J1-1\3 记忆化搜索\3n+1问题.cpp ---
+// 特别声明：本题请务必关闭输入输出流，否则可能超时！
+#include<cstdio>
+#include<iostream>
+#include<algorithm>
+#include<cstring>
+
+--- J1-1\3 记忆化搜索\变形：从1到B.cpp ---
+#include<cstdio>
+#include<cstring>
+#include<iostream>
+#include<algorithm>
+using namespace std;
+
+--- J1-1\3 记忆化搜索\战争模型.cpp ---
+#include<cstdio>
+#include<cstring>
+#include<iostream>
+using namespace std;
+
+
+--- J1-1\3 记忆化搜索\斐波那契.cpp ---
+#include<iostream>
+#include<cstring>
+using namespace std;
+
+long long f[55];
+
+--- J1-1\3 记忆化搜索\母亲的牛奶.cpp ---
+#include<iostream>
+#include<cstdio>
+using namespace std;
+
+int a,b,c;
+
+--- J1-1\3 记忆化搜索\滑雪.cpp ---
+#include<iostream>
+#include<cstdio>
+#include<algorithm>
+#include<cstring>
+using namespace std;
+
+--- J1-1\3 记忆化搜索\递归函数.cpp ---
+#include<cstdio>
+#include<iostream>
+#include<algorithm>
+#include<cstring>
+using namespace std;
+
+--- J1-1\4 回溯进阶\八皇后+.cpp ---
+#include<cstdio>
+#include<iostream>
+#include<algorithm>
+using namespace std;
+
+
+--- J1-1\4 回溯进阶\八皇后.cpp ---
+#include<cstdio>
+#include<iostream>
+#include<algorithm>
+using namespace std;
+
+
+--- J1-1\4 回溯进阶\数独.cpp ---
+#include<cstdio>
+#include<iostream>
+#include<algorithm>
+using namespace std;
+
+
+--- J1-1\4 回溯进阶\验证八皇后.cpp ---
+#include<cstdio>
+#include<iostream>
+#include<algorithm>
+#include<cmath>
+using namespace std;
+
+--- J1-1\5 二维搜索综合练习\又着火了.cpp ---
+#include<cstdio>
+#include<iostream>
+#include<algorithm>
+#include<queue>
+using namespace std;
+
+--- J1-1\5 二维搜索综合练习\囚禁坏人.cpp ---
+#include<cstdio>
+#include<iostream>
+#include<algorithm>
+#include<cstring>
+using namespace std;
+
+--- J1-1\5 二维搜索综合练习\白银的迷宫城.cpp ---
+#include<cstdio>
+#include<iostream>
+#include<algorithm>
+#include<cstring>
+using namespace std;
+
+--- J1-1\5 二维搜索综合练习\迷宫.cpp ---
+#include<cstdio>
+#include<iostream>
+#include<algorithm>
+using namespace std;
+
+
+--- J1-1\6 位运算与快速幂\【模板】快速幂.cpp ---
+#include<cstdio>
+#include<iostream>
+#include<algorithm>
+using namespace std;
+typedef long long LL;
+
+--- J1-1\6 位运算与快速幂\原根检验.cpp ---
+#include<iostream>
+#include<algorithm>
+#include<cstdio>
+using namespace std;
+typedef long long LL;
+
+--- J1-1\6 位运算与快速幂\计算第k位小数.cpp ---
+#include<cstdio>
+#include<iostream>
+#include<algorithm>
+using namespace std;
+typedef long long LL;
+
+--- J1-1\6 位运算与快速幂\越狱.cpp ---
+#include<cstdio>
+#include<iostream>
+#include<algorithm>
+using namespace std;
+typedef long long LL;
+
+--- J1-1\6 位运算与快速幂\转圈游戏.cpp ---
+#include<cstdio>
+#include<iostream>
+#include<algorithm>
+using namespace std;
+typedef long long LL;
+
+--- J1-1\7 阶段复习\八皇后 Checker Challenge.cpp ---
+#include<iostream>
+#include <cstring>
+using namespace std;
+
+int a[15],n,cnt = 0;
+
+--- J1-1\阶段复习.cpp ---
+void dfs(int x,int y)
+{
+	vis[x][y] = true;
+	ans++;
+	for (int i = 0;i < 4;i++)
+
+--- J1-2\0 高精度模板&dp\_.cpp ---
+#include<iostream>
+#include<cstring>
+using namespace std;
+
+void s2BIG (string s,int a[])
+
+--- J1-2\0 高精度模板&dp\【模板】高精度.cpp ---
+// J1-2 高精度集合
+#include<iostream>
+#include<cstring>
+using namespace std;
+
+
+--- J1-2\1 高精度1\a+b.cpp ---
+#include<iostream>
+#include<cstdio>
+#include<algorithm>
+#include<cstring>
+using namespace std;
+
+--- J1-2\1 高精度1\a-b.cpp ---
+#include<iostream>
+#include<cstdio>
+#include<cstring>
+#include<string>
+#include<algorithm>
+
+--- J1-2\1 高精度1\佩尔数列.cpp ---
+#include<iostream>
+#include<cstring>
+#include<algorithm>
+using namespace std;
+
+
+--- J1-2\1 高精度1\小猴的数字.cpp ---
+#include<iostream>
+#include<cstdio>
+#include<cstring>
+#include<string>
+#include<algorithm>
+
+--- J1-2\1 高精度1\斐波那契.cpp ---
+#include<iostream>
+#include<cstdio>
+#include<algorithm>
+using namespace std;
+
+
+--- J1-2\1 高精度1\斐波那契前缀.cpp ---
+#include<cstdio>
+#include<cstring>
+#include<iostream>
+#include<string>
+#include<algorithm>
+
+--- J1-2\1 高精度1\票选冠军.cpp ---
+#include<iostream>
+#include<algorithm>
+#include<cstring>
+using namespace std;
+
+
+--- J1-2\1 高精度1\高精度数输入输出.cpp ---
+#include <iostream>
+#include <cstdio>
+#include <cstring>
+using namespace std;
+
+
+--- J1-2\1 高精度1\高精度求和.cpp ---
+#include<iostream>
+#include<cstdio>
+#include<algorithm>
+using namespace std;
+
+
+--- J1-2\1 高精度1\高精度求差.cpp ---
+#include<iostream>
+#include<cstdio>
+#include<cstring>
+#include<string>
+#include<algorithm>
+
+--- J1-2\10 完全背包\总分.cpp ---
+#include<iostream>
+#include<cstdio>
+#include<algorithm>
+using namespace std;
+
+
+--- J1-2\10 完全背包\整数划分方案2.cpp ---
+#include<iostream>
+#include<cstdio>
+#include<algorithm>
+using namespace std;
+
+
+--- J1-2\10 完全背包\最大效益.cpp ---
+#include<iostream>
+#include<cstdio>
+#include<algorithm>
+using namespace std;
+
+
+--- J1-2\10 完全背包\火柴拼数.cpp ---
+#include<cstdio>
+#include<iostream>
+#include<algorithm>
+#include<cstring>
+using namespace std;
+
+--- J1-2\10 完全背包\疯狂的采药.cpp ---
+#include<iostream>
+using namespace std;
+
+int a[10005],b[10005],dp[2][10000005];
+
+
+--- J1-2\10 完全背包\神奇的四次方数.cpp ---
+#include<iostream>
+#include<cstdio>
+#include<cstring>
+using namespace std;
+
+
+--- J1-2\10 完全背包\质数和分解.cpp ---
+#include<cstdio>
+#include<iostream>
+#include<algorithm>
+using namespace std;
+
+
+--- J1-2\10 完全背包\麦香牛块.cpp ---
+#include<iostream>
+#include<cstdio>
+#include<algorithm>
+using namespace std;
+
+
+--- J1-2\11 dp练习1\减肥计划.cpp ---
+#include<iostream>
+#include<algorithm>
+#include<cstdio>
+using namespace std;
+
+
+--- J1-2\11 dp练习1\经典上楼梯问题.cpp ---
+#include<cstdio>
+#include<iostream>
+#include<algorithm>
+using namespace std;
+
+
+--- J1-2\11 dp练习1\香蕉分组.cpp ---
+#include<cstdio>
+#include<iostream>
+#include<algorithm>
+#include<cstring>
+using namespace std;
+
+--- J1-2\11 dp练习1\香蕉采购.cpp ---
+#include<cstdio>
+#include<iostream>
+#include<algorithm>
+using namespace std;
+
+
+--- J1-2\12 多重背包\Dividing.cpp ---
+#include<cstdio>
+#include<iostream>
+#include<algorithm>
+#include<cstring>
+using namespace std;
+
+--- J1-2\12 多重背包\多重背包.cpp ---
+#include<cstdio>
+#include<iostream>
+#include<algorithm>
+using namespace std;
+
+
+--- J1-2\12 多重背包\太空电梯.cpp ---
+#include<iostream>
+#include<algorithm>
+#include<cstdio>
+using namespace std;
+
+
+--- J1-2\12 多重背包\宝物筛选.cpp ---
+#include<iostream>
+#include<cstdio>
+#include<algorithm>
+using namespace std;
+
+
+--- J1-2\12 多重背包\提款机.cpp ---
+#include<iostream>
+#include<cstdio>
+#include<algorithm>
+#include<cstring>
+using namespace std;
+
+--- J1-2\12 多重背包\最少的硬币.cpp ---
+#include<cstdio>
+#include<cstring>
+#include<iostream>
+#include<algorithm>
+using namespace std;
+
+--- J1-2\12 多重背包\硬币.cpp ---
+#include<iostream>
+#include<algorithm>
+#include<cstdio>
+#include<cstring>
+using namespace std;
+
+--- J1-2\13 LCS\Palindrome.cpp ---
+#include<iostream>
+#include<algorithm>
+using namespace std;
+
+int dp[5005][5005];
+
+--- J1-2\13 LCS\基因相似度.cpp ---
+#include<iostream>
+#include<cstdio>
+#include<algorithm>
+#include<cstring>
+using namespace std;
+
+--- J1-2\13 LCS\最短公共父序列.cpp ---
+#include<iostream>
+#include<cstdio>
+#include<algorithm>
+#include<cstring>
+using namespace std;
+
+--- J1-2\13 LCS\最长公共子序列.cpp ---
+#include<cstdio>
+#include<iostream>
+#include<algorithm>
+using namespace std;
+
+
+--- J1-2\13 LCS\距离编辑.cpp ---
+#include<cstdio>
+#include<iostream>
+#include<algorithm>
+#include<cstring>
+using namespace std;
+
+--- J1-2\14 二维棋盘dp\3向方格取数.cpp ---
+#include<cstdio>
+#include<iostream>
+#include<algorithm>
+#include<cstring>
+using namespace std;
+
+--- J1-2\14 二维棋盘dp\小猴回家1.cpp ---
+#include<iostream>
+#include<algorithm>
+#include<cstdio>
+#include<cstring>
+using namespace std;
+
+--- J1-2\14 二维棋盘dp\收集金币1.cpp ---
+#include<cstdio>
+#include<iostream>
+#include<algorithm>
+using namespace std;
+
+
+--- J1-2\14 二维棋盘dp\收集金币2.cpp ---
+#include<cstdio>
+#include<iostream>
+#include<algorithm>
+#include<cstring>
+using namespace std;
+
+--- J1-2\14 二维棋盘dp\方格取数2020.cpp ---
+#include<cstdio>
+#include<iostream>
+#include<algorithm>
+#include<cstring>
+using namespace std;
+
+--- J1-2\14 二维棋盘dp\最大正方形.cpp ---
+#include<cstdio>
+#include<iostream>
+#include<algorithm>
+using namespace std;
+
+
+--- J1-2\14 二维棋盘dp\红牌.cpp ---
+#include<iostream>
+#include<cstdio>
+#include<algorithm>
+#include<cstring>
+using namespace std;
+
+--- J1-2\15 区间dp\248.cpp ---
+#include<cstdio>
+#include<iostream>
+#include<algorithm>
+using namespace std;
+
+
+--- J1-2\15 区间dp\乘法拼图.cpp ---
+#include<cstdio>
+#include<iostream>
+#include<algorithm>
+#include<cstring>
+using namespace std;
+
+--- J1-2\15 区间dp\环形石子合并.cpp ---
+#include<cstdio>
+#include<iostream>
+#include<algorithm>
+#include<cstring>
+using namespace std;
+
+--- J1-2\15 区间dp\石子合并.cpp ---
+#include<iostream>
+#include<algorithm>
+#include<cstdio>
+#include<cstring>
+using namespace std;
+
+--- J1-2\15 区间dp\能量项链.cpp ---
+#include<cstdio>
+#include<cstring>
+#include<iostream>
+#include<algorithm>
+using namespace std;
+
+--- J1-2\16 dp练习2\4向方格取数.cpp ---
+#include<cstdio>
+#include<iostream>
+#include<algorithm>
+#include<cstring>
+using namespace std;
+
+--- J1-2\16 dp练习2\Cash-Mashine.cpp ---
+#include<cstdio>
+#include<iostream>
+#include<algorithm>
+using namespace std;
+
+
+--- J1-2\16 dp练习2\可怜的小猴.cpp ---
+#include <cstdio>
+#include <iostream>
+#include <algorithm>
+using namespace std;
+
+
+--- J1-2\16 dp练习2\论文相似度.cpp ---
+#include<iostream>
+#include<cstdio>
+#include<algorithm>
+using namespace std;
+
+
+--- J1-2\16 dp练习2\马特与狼.cpp ---
+#include<iostream>
+#include<algorithm>
+#include<cstdio>
+#include<cstring>
+using namespace std;
+
+--- J1-2\2 高精度2\a_b.cpp ---
+// 高精乘单精
+#include<cstdio>
+#include<iostream>
+#include<string>
+#include<algorithm>
+
+--- J1-2\2 高精度2\佩尔数列2.cpp ---
+#include<iostream>
+#include<cstring>
+using namespace std;
+
+int x[2005][10005],tmp[10005];
+
+--- J1-2\2 高精度2\多重组合数.cpp ---
+#include<iostream>
+#include<cstdio>
+#include<cstring>
+#include<string>
+#include<algorithm>
+
+--- J1-2\2 高精度2\幂的前缀.cpp ---
+#include<iostream>
+#include<cstring>
+using namespace std;
+
+int a[5005],c[5005],M[5005];
+
+--- J1-2\2 高精度2\涂色.cpp ---
+#include<cstdio>
+#include<cstring>
+#include<iostream>
+#include<string>
+#include<algorithm>
+
+--- J1-2\2 高精度2\线性递推数列.cpp ---
+#include<iostream>
+#include<cstdio>
+#include<cstring>
+#include<string>
+#include<algorithm>
+
+--- J1-2\2 高精度2\计算组合数.cpp ---
+// Solution 1
+#include<iostream>
+#include<cstdio>
+#include<cstring>
+#include<string>
+
+--- J1-2\2 高精度2\计算阶乘.cpp ---
+#include<iostream>
+#include<cstdio>
+#include<cstring>
+#include<string>
+#include<algorithm>
+
+--- J1-2\2 高精度2\阶乘之和.cpp ---
+#include<iostream>
+#include<cstdio>
+#include<cstring>
+#include<string>
+#include<algorithm>
+
+--- J1-2\2 高精度2\麦森数.cpp ---
+#include<cstdio>
+#include<cstring>
+#include<iostream>
+#include<string>
+#include<algorithm>
+
+--- J1-2\3 二分查找\Lazy-Faith.cpp ---
+#include<cstdio>
+#include<iostream>
+#include<algorithm>
+using namespace std;
+
+
+--- J1-2\3 二分查找\Snuke-Festival.cpp ---
+#include<iostream>
+#include<algorithm>
+using namespace std;
+
+const int N = 100005;
+
+--- J1-2\3 二分查找\二分查找.cpp ---
+#include<cstdio>
+#include<iostream>
+#include<algorithm>
+using namespace std;
+
+
+--- J1-2\3 二分查找\寻找固定的和.cpp ---
+#include<cstdio>
+#include<iostream>
+#include<algorithm>
+using namespace std;
+
+
+--- J1-2\3 二分查找\查找脚码.cpp ---
+#include<cstdio>
+#include<iostream>
+#include<algorithm>
+using namespace std;
+
+
+--- J1-2\3 二分查找\次小差值.cpp ---
+#include<iostream>
+#include<algorithm>
+#include<cstdio>
+using namespace std;
+
+
+--- J1-2\3 二分查找\烦恼的高考志愿.cpp ---
+#include<iostream>
+#include<algorithm>
+#include<cstdio>
+using namespace std;
+
+
+--- J1-2\3 二分查找\田忌又赛马.cpp ---
+#include<iostream>
+#include<algorithm>
+using namespace std;
+
+const int N = 100005;
+
+--- J1-2\4 二分答案\【模板】二分.cpp ---
+int L = 1,R = 1e9,ans = -1;
+while (L <= R)
+{
+	int mid = L + R >> 1;
+	if (check(mid))
+
+--- J1-2\4 二分答案\分巧克力.cpp ---
+#include<iostream>
+#include<algorithm>
+#include<cstdio>
+using namespace std;
+
+
+--- J1-2\4 二分答案\切绳子.cpp ---
+#include<cstdio>
+#include<iostream>
+#include<algorithm>
+using namespace std;
+
+
+--- J1-2\4 二分答案\割韭菜.cpp ---
+#include<cstdio>
+#include<iostream>
+#include<algorithm>
+using namespace std;
+
+
+--- J1-2\4 二分答案\地铁建设.cpp ---
+#include<iostream>
+#include<algorithm>
+using namespace std;
+
+long long n,z[105],a[105],b[105];
+
+--- J1-2\4 二分答案\市场.cpp ---
+// 本题为格式化输入输出题
+#include<iostream>
+#include<algorithm>
+#include<cstdio>
+using namespace std;
+
+--- J1-2\4 二分答案\愤怒的牛.cpp ---
+#include<cstdio>
+#include<iostream>
+#include<algorithm>
+using namespace std;
+
+
+--- J1-2\4 二分答案\数列分段.cpp ---
+#include<cstdio>
+#include<iostream>
+#include<algorithm>
+using namespace std;
+
+
+--- J1-2\4 二分答案\木材加工.cpp ---
+#include<cstdio>
+#include<iostream>
+#include<algorithm>
+using namespace std;
+
+
+--- J1-2\4 二分答案\跳石头.cpp ---
+#include<cstdio>
+#include<iostream>
+#include<algorithm>
+using namespace std;
+
+
+--- J1-2\5 递推\4人传球游戏.cpp ---
+#include<cstdio>
+#include<iostream>
+#include<algorithm>
+using namespace std;
+
+
+--- J1-2\5 递推\d好数.cpp ---
+#include<cstdio>
+#include<iostream>
+#include<algorithm>
+#include<cmath>
+using namespace std;
+
+--- J1-2\5 递推\传球游戏.cpp ---
+#include<cstdio>
+#include<iostream>
+#include<algorithm>
+using namespace std;
+
+
+--- J1-2\5 递推\假期.cpp ---
+#include<iostream>
+#include<algorithm>
+using namespace std;
+
+// dpa[]以游泳结尾第i天最大幸福值
+
+--- J1-2\5 递推\幸运数字.cpp ---
+#include<cstdio>
+#include<iostream>
+#include<algorithm>
+using namespace std;
+
+
+--- J1-2\5 递推\整数划分方案.cpp ---
+#include<iostream>
+#include<cstdio>
+#include<algorithm>
+using namespace std;
+
+
+--- J1-2\5 递推\新4人传球游戏.cpp ---
+#include<cstdio>
+#include<iostream>
+#include<algorithm>
+using namespace std;
+
+
+--- J1-2\5 递推\递推计数.cpp ---
+// 本题为填空题
+#include<cstdio>
+#include<iostream>
+#include<algorithm>
+using namespace std;
+
+--- J1-2\5 递推\青蛙1.cpp ---
+#include<iostream>
+#include<cmath>
+using namespace std;
+
+int h[100005],dp[100005];
+
+--- J1-2\5 递推\青蛙2.cpp ---
+#include<iostream>
+#include<cmath>
+using namespace std;
+
+int h[100005],dp[100005];
+
+--- J1-2\5 高精二分练习\切木棍.cpp ---
+#include<iostream>
+#include<algorithm>
+using namespace std;
+
+int a[200005],n,k;
+
+--- J1-2\5 高精二分练习\班长竞选.cpp ---
+#include<cstdio>
+#include<iostream>
+#include<algorithm>
+#include<cstring>
+using namespace std;
+
+--- J1-2\5 高精二分练习\第k未被包含数.cpp ---
+#include<iostream>
+#include<algorithm>
+#include<cstdio>
+using namespace std;
+
+
+--- J1-2\5 高精二分练习\阶乘数码.cpp ---
+#include <iostream>
+#include <cstdio>
+#include <string>
+#include <cstring>
+using namespace std;
+
+--- J1-2\5 高精二分练习\魔法集会.cpp ---
+#include<cstdio>
+#include<iostream>
+#include<algorithm>
+#include<cstring>
+using namespace std;
+
+--- J1-2\6 序列dp\删数最大子段和.cpp ---
+#include<iostream>
+#include<algorithm>
+#include<cstdio>
+#include<cstring>
+using namespace std;
+
+--- J1-2\6 序列dp\前缀和模板.cpp ---
+#include<cstdio>
+#include<iostream>
+#include<algorithm>
+using namespace std;
+
+
+--- J1-2\6 序列dp\单词的划分.cpp ---
+#include<cstdio>
+#include<cstring>
+#include<iostream>
+#include<string>
+#include<algorithm>
+
+--- J1-2\6 序列dp\单词解密.cpp ---
+#include<iostream>
+#include<algorithm>
+#include<cstdio>
+using namespace std;
+
+
+--- J1-2\6 序列dp\数列划分.cpp ---
+#include<cstdio>
+#include<cstring>
+#include<iostream>
+#include<string>
+#include<algorithm>
+
+--- J1-2\6 序列dp\最大子段和.cpp ---
+#include<cstdio>
+#include<iostream>
+#include<algorithm>
+using namespace std;
+
+
+--- J1-2\6 序列dp\最大子段和3.cpp ---
+#include<cstdio>
+#include<iostream>
+#include<algorithm>
+#include<cstring>
+using namespace std;
+
+--- J1-2\6 序列dp\最大子矩形和.cpp ---
+#include<cstdio>
+#include<iostream>
+#include<algorithm>
+#include<cstring>
+using namespace std;
+
+--- J1-2\6 序列dp\解码方法.cpp ---
+#include<cstdio>
+#include<cstring>
+#include<iostream>
+#include<string>
+#include<algorithm>
+
+--- J1-2\7 LIS\信封问题.cpp ---
+#include<cstdio>
+#include<iostream>
+#include<algorithm>
+using namespace std;
+
+
+--- J1-2\7 LIS\合唱队形.cpp ---
+#include<iostream>
+#include<algorithm>
+#include<cstdio>
+#include<cstring>
+using namespace std;
+
+--- J1-2\7 LIS\字符串改造.cpp ---
+#include<cstdio>
+#include<iostream>
+#include<algorithm>
+using namespace std;
+
+
+--- J1-2\7 LIS\接龙数列.cpp ---
+#include<iostream>
+#include<algorithm>
+#include<cstdio>
+using namespace std;
+
+
+--- J1-2\7 LIS\最大上升子序列和.cpp ---
+#include<cstdio>
+#include<iostream>
+#include<algorithm>
+using namespace std;
+
+
+--- J1-2\7 LIS\最长上升子序列.cpp ---
+#include<cstdio>
+#include<iostream>
+#include<algorithm>
+using namespace std;
+
+
+--- J1-2\7 LIS\最长不下降子序列.cpp ---
+#include<cstdio>
+#include<iostream>
+#include<algorithm>
+using namespace std;
+
+
+--- J1-2\7 LIS\游园安排.cpp ---
+#include<iostream>
+#include<algorithm>
+#include<cstdio>
+using namespace std;
+
+
+--- J1-2\7 LIS\老鼠速度.cpp ---
+// 正常LIS 100pts
+#include<cstdio>
+#include<iostream>
+#include<algorithm>
+using namespace std;
+
+--- J1-2\7 LIS\递增.cpp ---
+// 正常LIS 80pts
+#include<iostream>
+#include<cstdio>
+#include<algorithm>
+using namespace std;
+
+--- J1-2\8 01背包基本模型\01背包模型.cpp ---
+#include<iostream>
+#include<cstdio>
+#include<algorithm>
+using namespace std;
+
+
+--- J1-2\8 01背包基本模型\Hay-For-Sale-S.cpp ---
+#include<iostream>
+#include<algorithm>
+#include<cstdio>
+using namespace std;
+
+
+--- J1-2\8 01背包基本模型\小书童——刷题大军.cpp ---
+
+--- J1-2\8 01背包基本模型\开心的金明.cpp ---
+#include<cstdio>
+#include<iostream>
+#include<algorithm>
+using namespace std;
+
+
+--- J1-2\8 01背包基本模型\最大约数和.cpp ---
+#include<iostream>
+#include<cstdio>
+#include<algorithm>
+using namespace std;
+
+
+--- J1-2\8 01背包基本模型\点菜问题.cpp ---
+#include<iostream>
+#include<algorithm>
+#include<cstdio>
+using namespace std;
+
+
+--- J1-2\8 01背包基本模型\烹调方案.cpp ---
+#include<iostream>
+#include<cstdio>
+#include<algorithm>
+using namespace std;
+
+
+--- J1-2\8 01背包基本模型\精卫填海.cpp ---
+#include<cstdio>
+#include<iostream>
+#include<algorithm>
+using namespace std;
+
+
+--- J1-2\8 01背包基本模型\采药.cpp ---
+#include<cstdio>
+#include<iostream>
+#include<algorithm>
+using namespace std;
+
+
+--- J1-2\9 布尔型及计数形背包\分割等和子集.cpp ---
+#include<iostream>
+#include<algorithm>
+#include<cstdio>
+using namespace std;
+
+
+--- J1-2\9 布尔型及计数形背包\分配礼物.cpp ---
+#include<iostream>
+#include<algorithm>
+using namespace std;
+
+int a[105];
+
+--- J1-2\9 布尔型及计数形背包\子集的和.cpp ---
+#include<iostream>
+#include<cstdio>
+using namespace std;
+
+long long dp[1605][1605];
+
+--- J1-2\9 布尔型及计数形背包\小A点菜.cpp ---
+#include<cstdio>
+#include<algorithm>
+#include<iostream>
+using namespace std;
+
+
+--- J1-2\9 布尔型及计数形背包\砝码称重.cpp ---
+#include<iostream>
+#include<cstdio>
+#include<algorithm>
+using namespace std;
+
+
+--- J1-2\9 布尔型及计数形背包\符号添加.cpp ---
+#include<iostream>
+#include<algorithm>
+#include<cstdio>
+using namespace std;
+
+
+--- J1-2\9 布尔型及计数形背包\装箱问题.cpp ---
+#include<iostream>
+#include<cstdio>
+#include<algorithm>
+using namespace std;
+
+
+--- J1-2\9 布尔型及计数形背包\音量调节.cpp ---
+#include<iostream>
+#include<cstdio>
+#include<algorithm>
+using namespace std;
+
+
+--- J1-2\9 布尔型及计数形背包\飞盘队.cpp ---
+#include<cstdio>
+#include<iostream>
+#include<algorithm>
+using namespace std;
+
+
+--- J2-1\1 背包综合\三角形牧场.cpp ---
+#include<iostream>
+#include<cstdio>
+#include<algorithm>
+#include<cmath>
+using namespace std;
+
+--- J2-1\1 背包综合\包裹分拣2.cpp ---
+#include<iostream>
+using namespace std;
+
+const int N = 65,M = 1205;
+int a[N],v[N],dp[2][M][M];
+
+--- J2-1\1 背包综合\挑选间谍.cpp ---
+#include<iostream>
+using namespace std;
+
+const int N = 105,M = 1005;
+int a[N],b[N],c[N],dp[2][M][M];
+
+--- J2-1\1 背包综合\监听音量.cpp ---
+#include<iostream>
+#include<cstdio>
+#include<algorithm>
+#include<cstring>
+using namespace std;
+
+--- J2-1\1 背包综合\超大容量背包.cpp ---
+#include<iostream>
+#include<cstdio>
+#include<algorithm>
+#include<cstring>
+using namespace std;
+
+--- J2-1\1 背包综合\面包师.cpp ---
+#include<iostream>
+#include<cstdio>
+#include<algorithm>
+using namespace std;
+
+
+--- J2-1\2 升维技巧综合\修建支柱.cpp ---
+#include<iostream>
+#include<cstring>
+using namespace std;
+
+const int M = 6e4,N = 2 * M + 5,W = 125;
+
+--- J2-1\2 升维技巧综合\兔子的工作.cpp ---
+#include<iostream>
+#include<cstdio>
+#include<algorithm>
+#include<cstring>
+using namespace std;
+
+--- J2-1\2 升维技巧综合\小猴拿糖.cpp ---
+#include<iostream>
+#include<cstdio>
+#include<algorithm>
+#include<cstring>
+using namespace std;
+
+--- J2-1\2 升维技巧综合\平衡的路径.cpp ---
+#include<cstdio>
+#include<iostream>
+#include<algorithm>
+#include<cstring>
+using namespace std;
+
+--- J2-1\2 升维技巧综合\股票买卖.cpp ---
+#include<iostream>
+#include<cstdio>
+#include<algorithm>
+using namespace std;
+
+
+--- J2-1\3 动规综合\小明的U盘.cpp ---
+#include<iostream>
+#include<algorithm>
+using namespace std;
+
+const int N = 505;
+
+--- J2-1\3 动规综合\改造过山车.cpp ---
+#include<iostream>
+using namespace std;
+
+const int N = 3005;
+int h[N],dp1[N],dp2[N],f[N],g[N];
+
+--- J2-1\3 动规综合\最大子段乘积.cpp ---
+#include<iostream>
+using namespace std;
+
+const int N = 1e5 + 5;
+int a[N],dpmax1[N],dpmin1[N],dpmax2[N],dpmin2[N],rmax[N],lmax[N],rmin[N],lmin[N];
+
+--- J2-1\3 动规综合\杠杆原理.cpp ---
+#include<cstdio>
+#include<iostream>
+#include<algorithm>
+using namespace std;
+
+
+--- J2-1\3 动规综合\点菜.cpp ---
+#include<iostream>
+#include<algorithm>
+using namespace std;
+
+const int N = 3005;
+
+--- J2-1\3 动规综合\魔法货船.cpp ---
+#include<iostream>
+using namespace std;
+
+const int N = 105;
+int w[N],v[N],s[N],c[N],dp[2][10005];
+
+--- J2-1\4 区间动规进阶\k阶回文子串.cpp ---
+#include<iostream>
+using namespace std;
+
+const int N = 5005;
+int dp[N][N],ans[N],cnt[N];
+
+--- J2-1\4 区间动规进阶\合唱队.cpp ---
+#include<iostream>
+#include<cstdio>
+#include<algorithm>
+using namespace std;
+
+
+--- J2-1\4 区间动规进阶\平方拼图.cpp ---
+#include<iostream>
+using namespace std;
+
+const int N = 105;
+int a[N],dp[N][N];
+
+--- J2-1\4 区间动规进阶\涂色.cpp ---
+#include<cstdio>
+#include<iostream>
+#include<algorithm>
+#include<cstring>
+using namespace std;
+
+--- J2-1\4 区间动规进阶\祖玛.cpp ---
+#include<cstdio>
+#include<iostream>
+#include<algorithm>
+#include<cstring>
+using namespace std;
+
+--- J2-1\4 区间动规进阶\美味的零食.cpp ---
+#include<iostream>
+using namespace std;
+
+const int N = 2005;
+int v[N],s[N],dp[N][N];
+
+--- J2-1\4 区间动规进阶\长为k的回文子串.cpp ---
+#include<iostream>
+using namespace std;
+
+const int N = 5005;
+bool dp[N][N];
+
+--- J2-1\5 dp练习3\_删数最大子段和.cpp ---
+#include<iostream>
+#include<cstring>
+using namespace std;
+
+const int N = 1e6 + 5;
+
+--- J2-1\5 dp练习3\声控打字机.cpp ---
+#include<iostream>
+using namespace std;
+
+const int N = 1e5 + 5,mod = 1e9 + 7;
+int dp[N];
+
+--- J2-1\5 dp练习3\接苹果2.cpp ---
+#include<iostream>
+#include <cstring>
+using namespace std;
+
+const int N = 2005;
+
+--- J2-1\5 dp练习3\最便宜的回文2.cpp ---
+#include<iostream>
+#include<cstdio>
+#include<algorithm>
+using namespace std;
+
+
+--- J2-1\5 dp练习3\货币系统.cpp ---
+#include<cstdio>
+#include<cstring>
+#include<iostream>
+#include<algorithm>
+using namespace std;
+
+--- J2-1\6 二位前缀和与差分\_校门外的树.cpp ---
+#include<iostream>
+using namespace std;
+
+const int N = 1e6 + 5;
+int d[N];
+
+--- J2-1\6 二位前缀和与差分\分数线.cpp ---
+#include<iostream>
+using namespace std;
+
+const int N = 505,M = 1e6 + 5;
+int a[N][N],s[N][N],x[M],y[M];
+
+--- J2-1\6 二位前缀和与差分\差分前缀和.cpp ---
+#include<cstdio>
+#include<iostream>
+#include<algorithm>
+using namespace std;
+
+
+--- J2-1\6 二位前缀和与差分\最大子矩形和.cpp ---
+#include<cstdio>
+#include<iostream>
+#include<algorithm>
+using namespace std;
+
+
+--- J2-1\6 二位前缀和与差分\激光炸弹.cpp ---
+#include<cstdio>
+#include<iostream>
+#include<algorithm>
+using namespace std;
+
+
+--- J2-1\6 二位前缀和与差分\焚风现象.cpp ---
+#include<cstdio>
+#include<iostream>
+#include<algorithm>
+using namespace std;
+
+
+--- J2-1\6 二位前缀和与差分\老式录像机.cpp ---
+#include<iostream>
+#include<cstdio>
+#include<algorithm>
+using namespace std;
+
+
+--- J2-1\7 初等数论\N的连续数拆分.cpp ---
+#include<iostream>
+using namespace std;
+
+int main()
+{
+
+--- J2-1\7 初等数论\余数的记忆.cpp ---
+#include<iostream>
+using namespace std;
+
+int main()
+{
+
+--- J2-1\7 初等数论\加权约数个数和.cpp ---
+#include<iostream>
+using namespace std;
+
+int main()
+{
+
+--- J2-1\7 初等数论\因数个数.cpp ---
+#include<iostream>
+#include<algorithm>
+#include<cstring>
+using namespace std;
+
+
+--- J2-1\7 初等数论\细胞分裂.cpp ---
+#include<cstdio>
+#include<iostream>
+#include<algorithm>
+using namespace std;
+
+
+--- J2-1\7 初等数论\跳跃移动.cpp ---
+#include<iostream>
+#include<cmath>
+#include<algorithm>
+using namespace std;
+
+
+--- J2-1\8 组合计数\探索洞窟.cpp ---
+#include<iostream>
+using namespace std;
+
+const int N = 2005;
+int c[N][N];
+
+--- J2-1\8 组合计数\涂色.cpp ---
+#include<iostream>
+using namespace std;
+
+const int mod = 1e9 + 7;
+
+
+--- J2-1\8 组合计数\组合数预处理.cpp ---
+#include<cstdio>
+#include<iostream>
+#include<algorithm>
+using namespace std;
+
+
+--- J2-1\8 组合计数\计数1.cpp ---
+#include<iostream>
+using namespace std;
+typedef long long LL;
+
+const int mod = 1e9 + 7;
+
+--- J2-1\8 组合计数\计数2.cpp ---
+#include<iostream>
+using namespace std;
+
+const int N = 5005,mod = 1e9 + 7;
+int c[N][N];
+
+--- J2-1\8 组合计数\计数3.cpp ---
+#include<iostream>
+using namespace std;
+
+const int mod = 1e9 + 7;
+
+
+--- J2-1\8 组合计数\非回文串.cpp ---
+#include<iostream>
+using namespace std;
+
+const int N = 2005,mod = 1e9 + 7;
+char c[N];
+
+--- J2-2\1 贪心综合练习\与怪物战斗.cpp ---
+#include<cstdio>
+#include<iostream>
+#include<algorithm>
+using namespace std;
+
+
+--- J2-2\1 贪心综合练习\均富卡.cpp ---
+#include<cstdio>
+#include<iostream>
+#include<algorithm>
+#include<cstring>
+using namespace std;
+
+--- J2-2\1 贪心综合练习\奶牛杂技团.cpp ---
+#include<cstdio>
+#include<iostream>
+#include<algorithm>
+using namespace std;
+
+
+--- J2-2\1 贪心综合练习\无法入睡.cpp ---
+#include<cstdio>
+#include<iostream>
+#include<algorithm>
+using namespace std;
+
+
+--- J2-2\1 贪心综合练习\真空扫地机器人.cpp ---
+#include<cstdio>
+#include<iostream>
+#include<algorithm>
+using namespace std;
+
+
+--- J2-2\1 贪心综合练习\货仓选址.cpp ---
+#include<cstdio>
+#include<iostream>
+#include<algorithm>
+#include<cmath>
+using namespace std;
+
+--- J2-2\1 贪心综合练习\货场选址.cpp ---
+#include<iostream>
+#include<algorithm>
+#include<cmath>
+using namespace std;
+
+
+--- J2-2\10 图上深搜\刻录光盘.cpp ---
+#include<iostream>
+#include<vector>
+using namespace std;
+
+const int N = 1e5 + 5;
+
+--- J2-2\10 图上深搜\图的遍历.cpp ---
+#include<iostream>
+#include<vector>
+#include<cstring>
+using namespace std;
+
+
+--- J2-2\10 图上深搜\寄包柜.cpp ---
+#include<iostream>
+#include<vector>
+using namespace std;
+
+const int N = 1e5;
+
+--- J2-2\10 图上深搜\封锁阳光大学.cpp ---
+#include<iostream>
+#include<vector>
+using namespace std;
+
+const int N = 1e4 + 5;
+
+--- J2-2\10 图上深搜\排位赛.cpp ---
+#include<iostream>
+#include<vector>
+#include<cstring>
+using namespace std;
+
+
+--- J2-2\11 图上广搜\SwapPlace.cpp ---
+#include<iostream>
+#include<vector>
+#include<cstring>
+#include<queue>
+using namespace std;
+
+--- J2-2\11 图上广搜\奶酪.cpp ---
+#include<iostream>
+#include<vector>
+#include<cmath>
+#include<queue>
+#include<cstring>
+
+--- J2-2\11 图上广搜\寻找道路.cpp ---
+#include<iostream>
+#include<vector>
+#include<cstring>
+#include<queue>
+using namespace std;
+
+--- J2-2\11 图上广搜\查找文献.cpp ---
+#include<iostream>
+#include<vector>
+#include<queue>
+#include<cstring>
+#include<algorithm>
+
+--- J2-2\11 图上广搜\营救.cpp ---
+#include<iostream>
+#include<vector>
+#include<queue>
+#include<cstring>
+using namespace std;
+
+--- J2-2\12 拓扑排序1\复杂的按钮.cpp ---
+#include<iostream>
+#include<vector>
+#include<queue>
+using namespace std;
+
+
+--- J2-2\12 拓扑排序1\奖金.cpp ---
+#include<iostream>
+#include<vector>
+#include<queue>
+using namespace std;
+
+
+--- J2-2\12 拓扑排序1\挤奶顺序.cpp ---
+#include<iostream>
+#include<vector>
+#include<queue>
+#include<algorithm>
+using namespace std;
+
+--- J2-2\12 拓扑排序1\杂务.cpp ---
+#include<iostream>
+#include<vector>
+#include<queue>
+#include<algorithm>
+using namespace std;
+
+--- J2-2\13 拓扑排序2\Test for Job.cpp ---
+#include<iostream>
+#include<vector>
+#include<queue>
+#include<cstring>
+using namespace std;
+
+--- J2-2\13 拓扑排序2\巧克力牛奶.cpp ---
+#include<iostream>
+#include<vector>
+#include<queue>
+using namespace std;
+
+
+--- J2-2\13 拓扑排序2\旅行计划.cpp ---
+#include<iostream>
+#include<vector>
+#include<queue>
+using namespace std;
+
+
+--- J2-2\13 拓扑排序2\最大食物链计数-topo内dp.cpp ---
+#include<iostream>
+#include<vector>
+#include<queue>
+using namespace std;
+
+
+--- J2-2\13 拓扑排序2\最大食物链计数-topo后dp.cpp ---
+#include<iostream>
+#include<vector>
+#include<queue>
+using namespace std;
+
+
+--- J2-2\13 拓扑排序2\车站分级.cpp ---
+#include<iostream>
+#include<queue>
+#include<algorithm>
+#include<cstring>
+using namespace std;
+
+--- J2-2\14 阶段练习\丰收节.cpp ---
+#include<iostream>
+#include<vector>
+#include<cstring>
+using namespace std;
+
+
+--- J2-2\14 阶段练习\距离分级.cpp ---
+#include<iostream>
+#include<vector>
+#include<queue>
+#include<cstring>
+#include<algorithm>
+
+--- J2-2\14 阶段练习\递增路径.cpp ---
+#include<iostream>
+#include<vector>
+#include<queue>
+#include<cstring>
+using namespace std;
+
+--- J2-2\2 优先队列\x轴最大距离.cpp ---
+#include<cstdio>
+#include<iostream>
+#include<algorithm>
+#include<queue>
+using namespace std;
+
+--- J2-2\2 优先队列\体育馆售票.cpp ---
+#include<cstdio>
+#include<iostream>
+#include<algorithm>
+#include<queue>
+using namespace std;
+
+--- J2-2\2 优先队列\动态中位数.cpp ---
+#include<iostream>
+#include<cstdio>
+#include<queue>
+#include<algorithm>
+using namespace std;
+
+--- J2-2\2 优先队列\合并果子.cpp ---
+#include<cstdio>
+#include<cstring>
+#include<iostream>
+#include<algorithm>
+#include<queue>
+
+--- J2-2\2 优先队列\实时晋级.cpp ---
+#include<iostream>
+#include<queue>
+using namespace std;
+
+struct Node {
+
+--- J2-2\2 优先队列\实时评分.cpp ---
+#include<cstdio>
+#include<iostream>
+#include<algorithm>
+#include<queue>
+using namespace std;
+
+--- J2-2\4 List容器\书籍摆放.cpp ---
+#include<iostream>
+#include<list>
+using namespace std;
+
+const int N = 1005;
+
+--- J2-2\4 List容器\悲剧的键盘.cpp ---
+#include<iostream>
+#include<cstdio>
+#include<algorithm>
+#include<list>
+using namespace std;
+
+--- J2-2\4 List容器\悲剧的键盘II.cpp ---
+#include<iostream>
+#include<cstdio>
+#include<algorithm>
+#include<list>
+using namespace std;
+
+--- J2-2\4 List容器\文本编辑器.cpp ---
+#include<iostream>
+#include<cstdio>
+#include<algorithm>
+#include<list>
+using namespace std;
+
+--- J2-2\4 List容器\移动盒子.cpp ---
+#include<iostream>
+#include<cstdio>
+#include<algorithm>
+#include<list>
+using namespace std;
+
+--- J2-2\5 表达式递归\Kitty猫基因密码.cpp ---
+#include<iostream>
+using namespace std;
+
+int check(string s) {
+	bool flaga = true,flagb = true;
+
+--- J2-2\5 表达式递归\logo语言.cpp ---
+#include<iostream>
+#include<cmath>
+using namespace std;
+
+int solve() {
+
+--- J2-2\5 表达式递归\小数表达式-拓展.cpp ---
+#include<iostream>
+#include<cstring>
+using namespace std;
+
+double solve() {
+
+--- J2-2\5 表达式递归\小数表达式.cpp ---
+#include<iostream>
+#include<cstring>
+using namespace std;
+
+double solve() {
+
+--- J2-2\5 表达式递归\幂次方.cpp ---
+#include<iostream>
+using namespace std;
+
+string solve(int n) {
+    string ans = "";
+
+--- J2-2\6 分治法基础\【模板】归并排序.cpp ---
+#include<iostream>
+using namespace std;
+
+const int N = 1e5 + 5;
+int tmp[N],a[N];
+
+--- J2-2\6 分治法基础\【模板】快速排序.cpp ---
+#include<iostream>
+using namespace std;
+
+const int N = 1e5 + 5;
+int a[N];
+
+--- J2-2\6 分治法基础\求第k小的数.cpp ---
+#include<iostream>
+using namespace std;
+
+const int N = 5e6 + 5;
+int a[N];
+
+--- J2-2\6 分治法基础\火柴排队.cpp ---
+#include<cstdio>
+#include<iostream>
+#include<algorithm>
+using namespace std;
+
+
+--- J2-2\6 分治法基础\逆序对.cpp ---
+#include<iostream>
+using namespace std;
+
+const int N = 5e5 + 5;
+int a[N],tmp[N];
+
+--- J2-2\7 树与二叉树1\二叉树深度.cpp ---
+#include<iostream>
+#include<algorithm>
+using namespace std;
+
+const int N = 1e6 + 5;
+
+--- J2-2\7 树与二叉树1\层次遍历.cpp ---
+#include<iostream>
+#include<queue>
+using namespace std;
+
+const int N = 1e4 + 5;
+
+--- J2-2\7 树与二叉树1\数字二叉树.cpp ---
+#include<cstdio>
+#include<iostream>
+#include<algorithm>
+using namespace std;
+
+
+--- J2-2\7 树与二叉树1\新二叉树.cpp ---
+#include<iostream>
+using namespace std;
+
+const int N = 130;
+char l[N],r[N],p[N],node[N];
+
+--- J2-2\7 树与二叉树1\求先序排列.cpp ---
+#include<iostream>
+using namespace std;
+
+string m,b;
+
+
+--- J2-2\8 树与二叉树2\二叉查找树.cpp ---
+#include<iostream>
+using namespace std;
+
+const int N = 1e5 + 5;
+struct Node {
+
+--- J2-2\8 树与二叉树2\二叉树输出.cpp ---
+#include<iostream>
+using namespace std;
+
+const int N = 130;
+string s1,s2;
+
+--- J2-2\8 树与二叉树2\二叉树问题.cpp ---
+#include<iostream>
+using namespace std;
+
+const int N = 1e5 + 5;
+int l[N],r[N],p[N],ans1 = 0,ans2 = 0,ans3 = 0,dep[N],bre[N];
+
+--- J2-2\8 树与二叉树2\分裂二叉树.cpp ---
+#include<iostream>
+#include<algorithm>
+using namespace std;
+
+const int N = 5e4 + 5;
+
+--- J2-2\8 树与二叉树2\医院设置.cpp ---
+#include<iostream>
+#include<cstring>
+using namespace std;
+
+const int N = 1005;
+
+--- J2-2\8 树与二叉树2\右视图.cpp ---
+
+--- J2-2\8 树与二叉树2\节点改造.cpp ---
+
+--- J2-2\8 树与二叉树2\通行限制-弱化版.cpp ---
+
+--- J2-2\9 邻接矩阵与欧拉回路\【模板】邻接矩阵.cpp ---
+#include<iostream>
+using namespace std;
+
+const int N = 205;
+bool G[N][N];
+
+--- J2-2\9 邻接矩阵与欧拉回路\回家.cpp ---
+
+--- J2-2\9 邻接矩阵与欧拉回路\景区游玩.cpp ---
+#include<iostream>
+#include<cstring>
+using namespace std;
+
+const int N = 25;
+
+--- J2-2\9 邻接矩阵与欧拉回路\蚂蚁旅行.cpp ---
+#include<iostream>
+using namespace std;
+
+const int N = 1e3 + 5;
+int deg[N];
+
+--- J2-2\9 邻接矩阵与欧拉回路\骑马修栅栏.cpp ---
+#include<iostream>
+using namespace std;
+
+const int N = 505;
+int G[N][N],deg[N],ans[1028],cur;
+
+--- NOICA\10\maze\maze-.cpp ---
+#include<iostream>
+#define int long long
+using namespace std;
+
+const int N = 2005;
+
+--- NOICA\10\maze\maze.cpp ---
+#include<iostream>
+#include<queue>
+#include<cstring>
+#define int long long
+using namespace std;
+
+--- NOICA\10\nan\nan.cpp ---
+#include<iostream>
+#define num(x) s[x][r] - s[x][l - 1]
+using namespace std;
+
+const int N = 1e5 + 5;
+
+--- NOICA\10\spring\spring-.cpp ---
+#include<iostream>
+#include<unordered_set>
+using namespace std;
+
+const int N = 1e5 + 5,M = 2005;
+
+--- NOICA\10\spring\spring.cpp ---
+#include<iostream>
+#include<random>
+#include<ctime>
+using namespace std;
+
+
+--- NOICA\10\toy\toy.cpp ---
+#include<iostream>
+using namespace std;
+
+const int N = 3e6 + 5;
+int b,a,n;
+
+--- NOICA\11\dream\dream.cpp ---
+#include<iostream>
+using namespace std;
+
+const int N = 2e5 + 5;
+int a[N],p[N];
+
+--- NOICA\11\game\game.cpp ---
+#include<iostream>
+#include<vector>
+#include<cstring>
+#include<queue>
+#include<algorithm>
+
+--- NOICA\11\parrot\parrot.cpp ---
+#include<iostream>
+#include<cstring>
+#define int long long
+using namespace std;
+
+
+--- NOICA\11\two\two.cpp ---
+#include<iostream>
+#include<cstring>
+#include<set>
+#include<vector>
+#include<algorithm>
+
+--- NOICA\12\assassin\assassin.cpp ---
+#include<iostream>
+#include<algorithm>
+#define int long long
+using namespace std;
+
+
+--- NOICA\12\fa\fa.cpp ---
+#include<iostream>
+#include<algorithm>
+#define int long long
+using namespace std;
+
+
+--- NOICA\12\forest\_forest.cpp ---
+#include<iostream>
+#include<vector>
+#include<queue>
+#include<cstring>
+#define int long long
+
+--- NOICA\12\forest\forest.cpp ---
+#include<iostream>
+#include<cstring>
+#include<vector>
+using namespace std;
+
+
+--- NOICA\12\trace\trace.cpp ---
+#include<iostream>
+#include<vector>
+#include<queue>
+#include<cstring>
+#include<string>
+
+--- NOICA\13\B\B.cpp ---
+#include<iostream>
+#include<algorithm>
+#define int __int128
+using namespace std;
+
+
+--- NOICA\13\permutation\permutation.cpp ---
+#include<iostream>
+using namespace std;
+
+const int N = 2e5 + 5;
+int a[N];
+
+--- NOICA\13\traverse\traverse-.cpp ---
+#include<iostream>
+#include<vector>
+using namespace std;
+
+const int N = 3e5 + 5;
+
+--- NOICA\13\traverse\traverse.cpp ---
+#include<iostream>
+#include<vector>
+#include<algorithm>
+#define int long long
+using namespace std;
+
+--- NOICA\13\variance\variance.cpp ---
+#include<cstdio>
+using namespace std;
+
+int main() {
+    freopen("variance.in","r",stdin);
+
+--- NOICA\14\brackets\brackets.cpp ---
+#include<iostream>
+#include<cstring>
+using namespace std;
+
+const int N = 1e5 + 5;
+
+--- NOICA\14\number\number.cpp ---
+#include<iostream>
+using namespace std;
+typedef long long ll;
+
+ll qpow(ll a,ll b,ll p) {
+
+--- NOICA\14\path\path.cpp ---
+#include<iostream>
+#include<algorithm>
+#include<vector>
+#define int long long
+using namespace std;
+
+--- NOICA\14\refrain\refrain.cpp ---
+#include<iostream>
+#include<algorithm>
+#include<cstdio>
+#define int long long
+using namespace std;
+
+--- NOICA\15\fruit\fruit.cpp ---
+#include<iostream>
+#include<algorithm>
+#include<cstdio>
+#define int long long
+using namespace std;
+
+--- NOICA\15\land\land.cpp ---
+#include<iostream>
+#include<vector>
+#include<algorithm>
+#define int long long
+using namespace std;
+
+--- NOICA\3\dragon\dragon.cpp ---
+#include<iostream>
+#include<algorithm>
+#define int long long
+using namespace std;
+
+
+--- NOICA\3\protect\protect.cpp ---
+#include<cstdio>
+#include<cstring>
+#include<algorithm>
+using namespace std;
+
+
+--- NOICA\4\bag\bag.cpp ---
+#include <algorithm>
+#include <iostream>
+using namespace std;
+
+const int N = 505,M = 1005;
+
+--- NOICA\4\card\card.cpp ---
+#include<iostream>
+#include<algorithm>
+#define int long long
+using namespace std;
+
+
+--- NOICA\4\double\double.cpp ---
+#include<iostream>
+#include<algorithm>
+#define int long long
+using namespace std;
+
+
+--- NOICA\5\graph\graph-50.cpp ---
+#include<iostream>
+#include<vector>
+#include<queue>
+#include<algorithm>
+using namespace std;
+
+--- NOICA\5\graph\graph.cpp ---
+#include<iostream>
+#include<vector>
+#include<queue>
+#include<algorithm>
+using namespace std;
+
+--- NOICA\5\one\one.cpp ---
+#include<iostream>
+#include<algorithm>
+#define int long long
+using namespace std;
+
+
+--- NOICA\5\sheet\sheet.cpp ---
+#include<iostream>
+#include<vector>
+#include<cstring>
+#define int long long
+using namespace std;
+
+--- NOICA\5\traffic\traffic.cpp ---
+#include<iostream>
+#include<queue>
+#include<algorithm>
+#include<cstring>
+using namespace std;
+
+--- NOICA\6\activity\activity.cpp ---
+#include<iostream>
+#include<algorithm>
+#define int long long
+using namespace std;
+
+
+--- NOICA\6\road\road.cpp ---
+#include<iostream>
+#include<vector>
+#include<queue>
+using namespace std;
+
+
+--- NOICA\6\universe\universe.cpp ---
+#include<iostream>
+#include<cmath>
+#include<algorithm>
+using namespace std;
+
+
+--- NOICA\7\boundary.cpp ---
+#include<iostream>
+#include<queue>
+using namespace std;
+
+const int N = 3005;
+
+--- NOICA\7\boundary\boundary.cpp ---
+#include<iostream>
+#include<queue>
+using namespace std;
+
+const int N = 3005;
+
+--- NOICA\7\down\subarray\chk.cpp ---
+#include "./testlib.h"
+
+#include <string>
+#include <vector>
+
+
+--- NOICA\7\move.cpp ---
+#include<algorithm>
+#include<iostream>
+#include<cstdio>
+#include<map>
+using namespace std;
+
+--- NOICA\7\move\move.cpp ---
+#include<algorithm>
+#include<iostream>
+#include<cstdio>
+#include<map>
+using namespace std;
+
+--- NOICA\7\permutation.cpp ---
+#include<iostream>
+#include<algorithm>
+#include<cstring>
+#define lid id * 2
+#define rid id * 2 + 1
+
+--- NOICA\7\permutation\permutation.cpp ---
+#include<iostream>
+#include<algorithm>
+#include<cstring>
+#define lid id * 2
+#define rid id * 2 + 1
+
+--- NOICA\8\attach\attach.cpp ---
+#include<iostream>
+#include<algorithm>
+#define lid id << 1
+#define rid id << 1 | 1
+using namespace std;
+
+--- NOICA\8\attach\attach_.cpp ---
+#include<iostream>
+#include<queue>
+using namespace std;
+
+const int N = 5e5 + 5;
+
+--- NOICA\8\bike\bike.cpp ---
+#include <iostream>
+#include <cmath>
+#include <algorithm>
+#include <cstdio>
+#include <string>
+
+--- NOICA\8\revue\revue.cpp ---
+#include<iostream>
+#include<vector>
+#include<cstring>
+#include<algorithm>
+using namespace std;
+
+--- NOICA\8\stage\stage.cpp ---
+#include<iostream>
+#include<deque>
+#include<cstring>
+#define int long long
+using namespace std;
+
+--- NOICA\8\stage\stage_.cpp ---
+#include<iostream>
+#include<cstring>
+#define int long long
+using namespace std;
+
+
+--- NOICA\9\box\box.cpp ---
+#include<iostream>
+#include<algorithm>
+#define int long long
+using namespace std;
+
+
+--- NOICA\9\discount\discount.cpp ---
+#include<iostream>
+#include<algorithm>
+#define int long long
+using namespace std;
+
+
+--- NOICA\9\revenge\revenge.cpp ---
+#include<iostream>
+#include<algorithm>
+#include<queue>
+#define int long long
+using namespace std;
+
+--- NOICA\9\signin\signin.cpp ---
+#include<iostream>
+#include<algorithm>
+using namespace std;
+
+const int N = 2005,mod = 1e9 + 7;
+
+--- OJ\AtCoder\AT_abc248\AT_abc248_a [ABC248A] Lacked Number.cpp ---
+
+--- OJ\AtCoder\AT_abc390\AT_abc390_a [ABC390A] 12345.cpp ---
+#include<iostream>
+using namespace std;
+
+int a[10];
+
+
+--- OJ\AtCoder\AT_abc390\AT_abc390_b [ABC390B] Geometric Sequence.cpp ---
+#include<iostream>
+using namespace std;
+
+const int N = 105;
+int a[N];
+
+--- OJ\AtCoder\AT_abc390\AT_abc390_c [ABC390C] Paint to make a rectangle.cpp ---
+#include<iostream>
+#include<vector>
+using namespace std;
+
+const int N = 1005;
+
+--- OJ\AtCoder\AT_abc390\AT_abc390_d [ABC390D] Stone XOR.cpp ---
+#include<iostream>
+#include<unordered_map>
+using namespace std;
+
+const int N = 15;
+
+--- OJ\AtCoder\AT_abc390\AT_abc390_e [ABC390E] Vitamin Balance.cpp ---
+
+--- OJ\POJ\1000.cpp ---
+#include<iostream>
+using namespace std;
+
+int main() {
+    int a,b;
+
+--- OJ\POJ\1001.cpp ---
+#include<iostream>
+#include<cstring>
+using namespace std;
+
+void s2BIG (string s,int a[])
+
+--- OJ\SPOJ\TEST.cpp ---
+#include<iostream>
+using namespace std;
+
+int main() {
+    int x;
+
+--- OJ\小明\小明月赛\2024.12\jump.cpp ---
+#include<cstdio>
+#include<iostream>
+#include<algorithm>
+using namespace std;
+
+
+--- OJ\小明\小明月赛\2024.12\triangle.cpp ---
+#include<iostream>
+#include<cmath>
+#include<algorithm>
+#include<cstdio>
+using namespace std;
+
+--- OJ\小明\小明月赛\2025.09\交换灵魂.cpp ---
+#include<iostream>
+using namespace std;
+
+const int N = 200005;
+int d[N];
+
+--- OJ\小明\小明月赛\2025.09\冬季大三角.cpp ---
+#include<iostream>
+using namespace std;
+
+const int N = 105;
+char c[N][N];
+
+--- OJ\小明\小明月赛\2025.10 - Div.3\abc.cpp ---
+#include<iostream>
+#include<map>
+using namespace std;
+
+map<string,int> a;
+
+--- OJ\小明\小明月赛\2025.10 - Div.3\friends.cpp ---
+#include<iostream>
+using namespace std;
+
+const int N = 1005;
+int x[N];
+
+--- OJ\小明\小明月赛\2025.10 - Div.3\prime.cpp ---
+#include<iostream>
+using namespace std;
+
+bool is_prime(int x) {
+    if (x < 2) return false;
+
+--- OJ\小明\小明月赛\2025.10 - Div.3\sun.cpp ---
+#include<iostream>
+#include<cstring>
+using namespace std;
+
+const int N = 2e5 + 5;
+
+--- OJ\小明\小明月赛\2025.10 - Div.3\xor.cpp ---
+#include<iostream>
+using namespace std;
+
+int main() {
+    freopen("xor.in","r",stdin);
+
+--- OJ\小明\小明月赛\2025.10 - Div.3\这不怪我啊.cpp ---
+#include<iostream>
+#include<cstring>
+using namespace std;
+
+const int N = 1005;
+
+--- OJ\小明\小明月赛\2025.11 - Div.2\pm.cpp ---
+#include<iostream>
+using namespace std;
+
+void f(string s) {
+    int ans = 0;
+
+--- OJ\小明\小明月赛\2025远离爆零\hotel.cpp ---
+#include<iostream>
+#include<cstdio>
+using namespace std;
+
+int main() {
+
+--- OJ\小明\小明月赛\2025远离爆零\string.cpp ---
+#include<iostream>
+using namespace std;
+
+int cnt[30];
+
+
+--- OJ\小明\小明杂题\P1007保龄球.cpp ---
+#include<iostream>
+using namespace std;
+
+const int N = 355;
+int a[N][N],dp[N][N];
+
+--- OJ\洛谷\『1&0』OI Round 1\test.cpp ---
+#include<iostream>
+#include<vector>
+using namespace std;
+
+int main() {
+
+--- OJ\洛谷\『1&0』OI Round 1\相思若循.cpp ---
+#include<iostream>
+using namespace std;
+typedef long long LL;
+
+LL qpow(LL a,LL b,LL p)
+
+--- OJ\洛谷\【LGR-249-Div.3】洛谷基础赛 #27 &「S4OI」Round 1\T619940.cpp ---
+#include<iostream>
+using namespace std;
+
+const int N = 5e5 + 5;
+int t[N][3];
+
+--- OJ\洛谷\【LGR-249-Div.3】洛谷基础赛 #27 &「S4OI」Round 1\T622599.cpp ---
+#include<iostream>
+using namespace std;
+
+const int N = 105;
+int a[N];
+
+--- Practice\B2015.cpp ---
+#include<cstdio>
+using namespace std;
+
+int main() {
+    double r1,r2;
+
+--- Practice\B2016.cpp ---
+#include<cstdio>
+#include<cmath>
+using namespace std;
+
+int main() {
+
+--- Practice\B2019.cpp ---
+#include<iostream>
+using namespace std;
+
+int main() {
+    int n;
+
+--- Practice\B2020.cpp ---
+#include<iostream>
+using namespace std;
+
+int main() {
+    int a,b,c,d,e,ans = 0;
+
+--- Practice\B2023.cpp ---
+#include<iostream>
+#include<algorithm>
+#include<cstdio>
+using namespace std;
+
+
+--- Practice\P1807.cpp ---
+#include<iostream>
+#include<vector>
+#include<cstring>
+#include<queue>
+using namespace std;
+
+--- Practice\P8218.cpp ---
+#include<iostream>
+using namespace std;
+
+const int N = 1e5 + 5;
+int a[N],sum[N];
+
+--- Pre\bfs\bfs模板.cpp ---
+#include<iostream>
+#include<algorithm>
+#include<queue>
+using namespace std;
+
+
+--- Pre\bfs\【模板】BFS.cpp ---
+#include<iostream>
+#include<algorithm>
+#include<queue>
+using namespace std;
+
+
+--- Pre\前缀和\三国.cpp ---
+#include<cstdio>
+#include<iostream>
+#include<algorithm>
+using namespace std;
+
+
+--- Pre\前缀和\前缀和模板.cpp ---
+#include<cstdio>
+#include<iostream>
+#include<algorithm>
+using namespace std;
+
+
+--- Pre\前缀和\收获香蕉.cpp ---
+#include<cstdio>
+#include<iostream>
+#include<algorithm>
+using namespace std;
+
+
+--- Pre\前缀和\收获香蕉（数据强化）.cpp ---
+#include<cstdio>
+#include<iostream>
+#include<algorithm>
+using namespace std;
+
+
+--- Pre\前缀和\最大子段和.cpp ---
+#include<cstdio>
+#include<iostream>
+#include<algorithm>
+using namespace std;
+
+
+--- Pre\前缀和\连续自然数之和.cpp ---
+#include<cstdio>
+#include<iostream>
+#include<algorithm>
+using namespace std;
+
+
+--- Pre\映射\Big-Array.cpp ---
+#include<iostream>
+#include<cstdio>
+#include<algorithm>
+#include<map>
+using namespace std;
+
+--- Pre\映射\Two-Colors-Card-Game.cpp ---
+#include<iostream>
+#include<cstdio>
+#include<algorithm>
+#include<map>
+using namespace std;
+
+--- Pre\映射\注册系统.cpp ---
+#include<iostream>
+#include<cstdio>
+#include<algorithm>
+#include<map>
+using namespace std;
+
+--- Pre\映射\点名.cpp ---
+#include<iostream>
+#include<cstdio>
+#include<algorithm>
+#include<map>
+using namespace std;
+
+--- Pre\映射\等比数列.cpp ---
+#include<iostream>
+#include<cstdio>
+#include<algorithm>
+#include<map>
+using namespace std;
+
+--- Pre\映射\股票买卖.cpp ---
+#include<iostream>
+#include<cstdio>
+#include<algorithm>
+#include<map>
+using namespace std;
+
+--- Pre\贪心\Mixing Milk.cpp ---
+#include<cstdio>
+#include<iostream>
+#include<algorithm>
+using namespace std;
+
+
+--- Pre\贪心\Saruman's Army.cpp ---
+#include<iostream>
+#include<algorithm>
+using namespace std;
+
+int x[1005];
+
+--- Pre\贪心\乘船问题.cpp ---
+#include<iostream>
+#include<algorithm>
+using namespace std;
+
+int a[200005];
+
+--- Pre\贪心\会场安排.cpp ---
+#include<iostream>
+#include<algorithm>
+using namespace std;
+
+struct Node {
+
+--- Pre\贪心\区间覆盖问题.cpp ---
+#include<iostream>
+#include<algorithm>
+using namespace std;
+
+bool cmp(Node x,Node y)
+
+--- Pre\贪心\区间选点问题.cpp ---
+#include<iostream>
+#include<algorithm>
+using namespace std;
+
+bool cmp(Node x,Node y)
+
+--- Pre\贪心\导弹拦截2010.cpp ---
+#include<cstdio>
+#include<cstring>
+#include<iostream>
+#include<algorithm>
+using namespace std;
+
+--- Pre\贪心\干净的牛棚.cpp ---
+#include<iostream>
+#include<algorithm>
+using namespace std;
+
+struct Node {
+
+--- Pre\贪心\引爆气球.cpp ---
+#include<iostream>
+#include<algorithm>
+using namespace std;
+
+struct Node {
+
+--- Pre\贪心\排队接水.cpp ---
+#include<iostream>
+#include<algorithm>
+using namespace std;
+
+struct Node {
+
+--- Pre\贪心\水壶.cpp ---
+#include<iostream>
+#include<cstdio>
+#include<algorithm>
+using namespace std;
+
+
+--- Pre\贪心\泥泞路.cpp ---
+#include<iostream>
+#include<cstdio>
+#include<algorithm>
+using namespace std;
+
+
+--- Pre\贪心\营养膳食.cpp ---
+#include<iostream>
+#include<cstdio>
+#include<algorithm>
+using namespace std;
+
+
+--- Pre\贪心\选择不相交区间.cpp ---
+#include<iostream>
+#include<algorithm>
+using namespace std;
+
+bool cmp(Node x,Node y)
+
+--- Pre\贪心\采购奖品.cpp ---
+#include<cstdio>
+#include<cstring>
+#include<iostream>
+#include<algorithm>
+using namespace std;
+
+--- Pre\贪心\黑心企业.cpp ---
+#include<cstdio>
+#include<iostream>
+#include<algorithm>
+using namespace std;
+
+
+--- Pre\队列\Blah数集.cpp ---
+#include<cstdio>
+#include<cstring>
+#include<iostream>
+#include<algorithm>
+#include<queue>
+
+--- Pre\队列\丑数.cpp ---
+#include<cstdio>
+#include<cstring>
+#include<iostream>
+#include<algorithm>
+#include<queue>
+
+--- Pre\队列\团体队列.cpp ---
+#include<cstdio>
+#include<iostream>
+#include<algorithm>
+#include<queue>
+using namespace std;
+
+--- Pre\队列\第k个d好数.cpp ---
+#include<iostream>
+#include<queue>
+using namespace std;
+
+int d,k,cnt = 0;
+
+--- Pre\队列\青蛙路线计数.cpp ---
+#include<cstdio>
+#include<cstring>
+#include<iostream>
+#include<algorithm>
+#include<queue>
+
+--- S1-1\1 多叉树\单词查找树.cpp ---
+#include<iostream>
+using namespace std;
+
+string s; int cur = 1;
+
+
+--- S1-1\1 多叉树\树的路径求和.cpp ---
+#include<iostream>
+#include<vector>
+using namespace std;
+
+const int N = 1e5 + 5;
+
+--- S1-1\1 多叉树\猫猫和企鹅.cpp ---
+#include<iostream>
+#include<vector>
+using namespace std;
+
+const int N = 1e5 + 5;
+
+--- S1-1\1 多叉树\电脑病毒.cpp ---
+#include<iostream>
+#include<vector>
+using namespace std;
+
+const int N = 1e5 + 5;
+
+--- S1-1\1 多叉树\联合权值.cpp ---
+#include<iostream>
+#include<vector>
+using namespace std;
+
+const int N = 2e5 + 5,mod = 10007;
+
+--- S1-1\1 多叉树\通行限制.cpp ---
+#include<iostream>
+#include<vector>
+using namespace std;
+
+const int N = 1005;
+
+--- S1-1\1 多叉树\道路修建.cpp ---
+#include<iostream>
+#include<vector>
+using namespace std;
+
+const int N = 1e6 + 5;
+
+--- S1-1\2 树的递推\信号放大器.cpp ---
+#include<iostream>
+#include<vector>
+using namespace std;
+
+const int N = 2e4 + 5;
+
+--- S1-1\2 树的递推\医疗中心.cpp ---
+#include<iostream>
+#include<vector>
+#include<cstring>
+using namespace std;
+
+
+--- S1-1\2 树的递推\奶牛马拉松.cpp ---
+#include<iostream>
+#include<vector>
+using namespace std;
+
+const int N = 4e4 + 5;
+
+--- S1-1\2 树的递推\最大子树和.cpp ---
+#include<iostream>
+#include<vector>
+using namespace std;
+
+const int N = 16005;
+
+--- S1-1\2 树的递推\树的分解.cpp ---
+#include<iostream>
+#include<vector>
+#include<cstring>
+using namespace std;
+
+
+--- S1-1\2 树的递推\植树.cpp ---
+#include<iostream>
+#include<vector>
+#include<algorithm>
+using namespace std;
+
+
+--- S1-1\3 多源最短路\【模板】传递闭包.cpp ---
+#include<iostream>
+#include<vector>
+#include<algorithm>
+using namespace std;
+
+
+--- S1-1\3 多源最短路\【模板】多源最短路.cpp ---
+#include<iostream>
+#include<cstring>
+using namespace std;
+
+const int N = 205;
+
+--- S1-1\3 多源最短路\传送门.cpp ---
+#include<iostream>
+#include<vector>
+#include<algorithm>
+#include<cstring>
+using namespace std;
+
+--- S1-1\3 多源最短路\动态最短路.cpp ---
+#include<iostream>
+#include<vector>
+#include<cstring>
+#include<algorithm>
+using namespace std;
+
+--- S1-1\3 多源最短路\无向图最小环.cpp ---
+#include<iostream>
+#include<algorithm>
+#include<cstring>
+using namespace std;
+
+
+--- S1-1\3 多源最短路\灾后重建.cpp ---
+#include<iostream>
+#include<vector>
+#include<algorithm>
+#include<cstring>
+using namespace std;
+
+--- S1-1\4 01BFS\KATHTHI.cpp ---
+#include<iostream>
+#include<deque>
+#include<cstring>
+using namespace std;
+
+
+--- S1-1\4 01BFS\Small Multiple.cpp ---
+#include<iostream>
+#include<algorithm>
+#include<deque>
+#include<cstring>
+using namespace std;
+
+--- S1-1\5 spfa算法\单源最短路径（弱化版）.cpp ---
+#include<iostream>
+#include<vector>
+#include<queue>
+#include<cstring>
+using namespace std;
+
+--- S1-1\5 spfa算法\奶牛派对.cpp ---
+#include<iostream>
+#include<vector>
+#include<cstring>
+#include<queue>
+using namespace std;
+
+--- S1-1\5 spfa算法\牛奶管道.cpp ---
+#include<iostream>
+#include<queue>
+#include<vector>
+#include<cstring>
+using namespace std;
+
+--- S1-1\5 spfa算法\航空路线.cpp ---
+#include<iostream>
+#include<vector>
+#include<queue>
+#include<cstring>
+using namespace std;
+
+--- S1-1\5 spfa算法\营救.cpp ---
+#include<iostream>
+#include<vector>
+#include<queue>
+#include<cstring>
+using namespace std;
+
+--- S1-1\6 Dijkstra算法\【模板】单源最短路径（标准版）.cpp ---
+#include<iostream>
+#include<queue>
+#include<vector>
+#include<cstring>
+using namespace std;
+
+--- S1-1\6 Dijkstra算法\平面上的点.cpp ---
+#include<iostream>
+#include<cmath>
+#include<algorithm>
+#include<vector>
+#include<cstring>
+
+--- S1-1\6 Dijkstra算法\热浪.cpp ---
+#include<iostream>
+#include<cstring>
+#include<vector>
+using namespace std;
+
+
+--- S1-1\6 Dijkstra算法\爱笑的小莫.cpp ---
+#include<iostream>
+#include<vector>
+#include<queue>
+using namespace std;
+
+
+--- S1-1\6 Dijkstra算法\路径统计.cpp ---
+#include<iostream>
+#include<vector>
+#include<cstring>
+#include<queue>
+using namespace std;
+
+--- S1-1\7 综合\奶牛过马路.cpp ---
+#include<cstdio>
+#include<iostream>
+#include<algorithm>
+#include<deque>
+#include<cstring>
+
+--- S1-1\7 综合\彩灯祝福.cpp ---
+#include<iostream>
+#include<vector>
+using namespace std;
+
+const int N = 5e5 + 5;
+
+--- S1-1\7 综合\树上最长路径.cpp ---
+#include<iostream>
+#include<cstring>
+#include<vector>
+using namespace std;
+
+
+--- S1-1\7 综合\灵界遗迹.cpp ---
+#include<iostream>
+#include<algorithm>
+#include<cstring>
+#include<queue>
+using namespace std;
+
+--- S1-1\7 综合\畅通工程.cpp ---
+#include<iostream>
+#include<vector>
+#include<cstring>
+#include<queue>
+using namespace std;
+
+--- S1-2\1 负环和分数规划\【模板】最长路.cpp ---
+#include<iostream>
+#include<algorithm>
+#include<cstring>
+#include<queue>
+#include<vector>
+
+--- S1-2\1 负环和分数规划\【模板】负环.cpp ---
+#include<iostream>
+#include<algorithm>
+#include<cstring>
+#include<vector>
+#include<queue>
+
+--- S1-2\1 负环和分数规划\天路.cpp ---
+#include<iostream>
+#include<cstring>
+#include<queue>
+#include<vector>
+#include<algorithm>
+
+--- S1-2\1 负环和分数规划\找工作.cpp ---
+#include<iostream>
+#include<algorithm>
+#include<cstring>
+#include<queue>
+#include<vector>
+
+--- S1-2\1 负环和分数规划\最大得分.cpp ---
+#include<iostream>
+#include<algorithm>
+#include<queue>
+#include<cmath>
+using namespace std;
+
+--- S1-2\1 负环和分数规划\观光奶牛.cpp ---
+#include<iostream>
+#include<algorithm>
+#include<cstring>
+#include<queue>
+#include<vector>
+
+--- S1-2\10 复杂图论\【模板】次短路.cpp ---
+#include<iostream>
+#include<algorithm>
+#include<cstring>
+#include<queue>
+using namespace std;
+
+--- S1-2\10 复杂图论\神经网络.cpp ---
+#include<iostream>
+#include<vector>
+#include<queue>
+using namespace std;
+
+
+--- S1-2\10 复杂图论\骑士游戏.cpp ---
+#include<iostream>
+#include<vector>
+#include<queue>
+#include<cstdio>
+#include<cstdint>
+
+--- S1-2\10 复杂图论\黑暗城堡.cpp ---
+#include<iostream>
+#include<vector>
+#include<cstring>
+#include<queue>
+using namespace std;
+
+--- S1-2\11 位运算进阶\GEPPETTO.cpp ---
+#include<iostream>
+using namespace std;
+
+const int N = 405;
+int x[N],y[N];
+
+--- S1-2\11 位运算进阶\内建函数实现.cpp ---
+#include<iostream>
+#include<algorithm>
+using namespace std;
+
+int n = 123456789;
+
+--- S1-2\11 位运算进阶\异或非或.cpp ---
+#include<iostream>
+#include<unordered_map>
+#include<cstring>
+using namespace std;
+
+
+--- S1-2\11 位运算进阶\找筷子.cpp ---
+#include<iostream>
+using namespace std;
+
+int main() {
+    ios::sync_with_stdio(false);
+
+--- S1-2\11 位运算进阶\浏览器.cpp ---
+#include<iostream>
+using namespace std;
+
+const int N = 1e7 + 5;
+long long x[N];
+
+--- S1-2\11 位运算进阶\绝世好题.cpp ---
+#include<iostream>
+using namespace std;
+
+const int N = 1e5 + 5;
+int a[N],dp[32];
+
+--- S1-2\11 位运算进阶\起床困难综合症.cpp ---
+#include<iostream>
+#include<cmath>
+using namespace std;
+
+const int N = 1e5 + 5;
+
+--- S1-2\2 差分约束\奶牛排队.cpp ---
+#include<iostream>
+#include<vector>
+#include<cstring>
+#include<vector>
+#include<queue>
+
+--- S1-2\2 差分约束\小K的农场.cpp ---
+#include<iostream>
+#include<vector>
+#include<cstring>
+#include<queue>
+#include<algorithm>
+
+--- S1-2\2 差分约束\工程规划.cpp ---
+#include<iostream>
+#include<vector>
+#include<cstring>
+#include<algorithm>
+#include<queue>
+
+--- S1-2\2 差分约束\糖果.cpp ---
+#include<iostream>
+#include<algorithm>
+#include<cstring>
+#include<queue>
+#include<vector>
+
+--- S1-2\3 单源最短路进阶\RoadBlock.cpp ---
+#include<iostream>
+#include<vector>
+#include<queue>
+#include<cstring>
+using namespace std;
+
+--- S1-2\3 单源最短路进阶\包裹运送.cpp ---
+#include<iostream>
+#include<vector>
+#include<queue>
+using namespace std;
+
+
+--- S1-2\3 单源最短路进阶\最优贸易.cpp ---
+#include<cstdio>
+#include<iostream>
+#include<algorithm>
+#include<queue>
+#include<cstring>
+
+--- S1-2\4 分层图\反转.cpp ---
+#include<iostream>
+#include<vector>
+#include<algorithm>
+#include<queue>
+#include<cstring>
+
+--- S1-2\4 分层图\回家的路.cpp ---
+#include<iostream>
+#include<vector>
+#include<algorithm>
+#include<queue>
+#include<cstring>
+
+--- S1-2\4 分层图\旅游巴士.cpp ---
+#include<iostream>
+#include<vector>
+#include<queue>
+#include<cstring>
+using namespace std;
+
+--- S1-2\4 分层图\飞行路线.cpp ---
+#include<iostream>
+#include<algorithm>
+#include<vector>
+#include<queue>
+#include<cstring>
+
+--- S1-2\5 并查集基础\【优化】【模板】并查集.cpp ---
+#include<iostream>
+using namespace std;
+
+const int N = 2e6 + 5;
+int f[N];
+
+--- S1-2\5 并查集基础\【朴素】【模板】并查集.cpp ---
+#include<iostream>
+using namespace std;
+
+const int N = 1e4 + 5;
+int f[N];
+
+--- S1-2\5 并查集基础\关闭农场.cpp ---
+#include<iostream>
+#include<vector>
+using namespace std;
+
+const int N = 2e5 + 5;
+
+--- S1-2\5 并查集基础\好友圈.cpp ---
+#include<iostream>
+using namespace std;
+
+const int N = 1e5 + 5;
+int f[N],size[N],cnt,ans = 0;
+
+--- S1-2\5 并查集基础\家谱.cpp ---
+#include<iostream>
+#include<map>
+using namespace std;
+
+map<string,string> f;
+
+--- S1-2\5 并查集基础\扩散.cpp ---
+#include<iostream>
+#include<cmath>
+using namespace std;
+
+const int N = 55;
+
+--- S1-2\5 并查集基础\联通的圆环.cpp ---
+#include<iostream>
+#include<cstring>
+using namespace std;
+
+const int N = 3005;
+
+--- S1-2\6 并查集进阶\关押罪犯.cpp ---
+#include<cstdio>
+#include<iostream>
+#include<algorithm>
+using namespace std;
+
+
+--- S1-2\6 并查集进阶\团伙.cpp ---
+#include<iostream>
+using namespace std;
+
+const int N = 1005;
+int f[2 * N];
+
+--- S1-2\6 并查集进阶\家庭作业.cpp ---
+#include<iostream>
+#include<algorithm>
+using namespace std;
+
+const int N = 1e6 + 5;
+
+--- S1-2\6 并查集进阶\疯狂的馒头.cpp ---
+#include<iostream>
+#include<algorithm>
+using namespace std;
+
+const int N = 1e6 + 5;
+
+--- S1-2\6 并查集进阶\食物链.cpp ---
+#include<iostream>
+using namespace std;
+
+const int N = 5e4 + 5;
+int f[3 * N];
+
+--- S1-2\7 带权并查集\堆方块.cpp ---
+#include<iostream>
+using namespace std;
+
+const int N = 3e4 + 5;
+int f[N],s[N],siz[N];
+
+--- S1-2\7 带权并查集\奇偶游戏.cpp ---
+#include<iostream>
+#include<unordered_map>
+using namespace std;
+
+const int N = 1e5 + 5;
+
+--- S1-2\7 带权并查集\推导部分和.cpp ---
+#include<iostream>
+using namespace std;
+
+const int N = 1e5 + 5;
+int f[N];
+
+--- S1-2\7 带权并查集\职业确认.cpp ---
+#include<iostream>
+#include<map>
+using namespace std;
+
+const int N = 1e6 + 5;
+
+--- S1-2\8 最小生成树\【模板】最小生成树kruskal.cpp ---
+#include<iostream>
+#include<vector>
+#include<queue>
+#include<cstring>
+#include<algorithm>
+
+--- S1-2\8 最小生成树\【模板】最小生成树prim.cpp ---
+#include<iostream>
+#include<vector>
+#include<queue>
+#include<cstring>
+using namespace std;
+
+--- S1-2\8 最小生成树\北极通讯网络.cpp ---
+#include<iostream>
+#include<algorithm>
+#include<cmath>
+using namespace std;
+
+
+--- S1-2\8 最小生成树\局域网.cpp ---
+#include<iostream>
+#include<algorithm>
+using namespace std;
+
+const int N = 1e5 + 5,M = 5e5 + 5;
+
+--- S1-2\8 最小生成树\灌溉农田.cpp ---
+#include<iostream>
+using namespace std;
+
+const int N = 5e3 + 5,M = 1e6 + 5;
+int x[N],y[N],dis[N],vis[N],cnt = 0,ans = 0,n,c;
+
+--- S1-2\9 最小生成树进阶\安慰奶牛.cpp ---
+#include<iostream>
+#include<algorithm>
+using namespace std;
+
+const int N = 1e5 + 5;
+
+--- S1-2\9 最小生成树进阶\新的开始.cpp ---
+#include<iostream>
+#include<algorithm>
+using namespace std;
+
+const int N = 305;
+
+--- S1-2\9 最小生成树进阶\构造完全图.cpp ---
+#include<iostream>
+#include<algorithm>
+using namespace std;
+
+const int N = 1e5 + 5;
+
+--- S1-2\9 最小生成树进阶\道路修复.cpp ---
+#include<iostream>
+#include<algorithm>
+using namespace std;
+
+const int N = 1e6 + 1e5 + 5;
+
+--- S1-2\=10 割点与桥\Blockade.cpp ---
+#include<iostream>
+#include<vector>
+using namespace std;
+
+const int N = 1e5 + 5;
+
+--- S1-2\=10 割点与桥\分离的路径.cpp ---
+#include<iostream>
+#include<vector>
+using namespace std;
+
+const int N = 1e4 + 5;
+
+--- S1-2\=10 割点与桥\旅游航道.cpp ---
+#include<iostream>
+#include<vector>
+#include<cstring>
+using namespace std;
+
+
+--- S1-2\=10 割点与桥\网络.cpp ---
+#include<iostream>
+#include<vector>
+#include<cstring>
+using namespace std;
+
+
+--- S1-2\=11 表达式求值\表达式的值.cpp ---
+#include<iostream>
+using namespace std;
+
+const int N = 1e5 + 5,mod = 1e4 + 7;
+
+
+--- S1-2\=11 表达式求值\计算中缀表达式.cpp ---
+#include<iostream>
+#include<cmath>
+using namespace std;
+
+const int N = 105;
+
+--- S1-2\=11 表达式求值\逻辑表达式.cpp ---
+#include<iostream>
+using namespace std;
+
+const int N = 1e6 + 5;
+char op[N];
+
+--- S1-2\=12 链表进阶一\LR-insertion.cpp ---
+#include<iostream>
+using namespace std;
+
+int main() {
+    
+
+--- S1-2\=12 链表进阶一\切除线段.cpp ---
+#include<iostream>
+#include<queue>
+using namespace std;
+
+const int N = 2e5 + 5;
+
+--- S1-2\=12 链表进阶一\双向链表.cpp ---
+#include<iostream>
+using namespace std;
+
+const int N = 1e5 + 5;
+int L[N],R[N],num[N],head,tail,cur = 0;
+
+--- S1-2\=12 链表进阶一\花式切牌.cpp ---
+#include<iostream>
+using namespace std;
+
+const int N = 5005;
+int L[N],R[N],num[N],head,tail,n,m,cur = 0;
+
+--- S1-2\=13 链表进阶二\家庭作业-反悔贪心.cpp ---
+#include<cstdio>
+#include<cstring>
+#include<iostream>
+#include<algorithm>
+#include<queue>
+
+--- S1-2\=13 链表进阶二\家庭作业-并查集.cpp ---
+#include<cstdio>
+#include<cstring>
+#include<iostream>
+#include<algorithm>
+using namespace std;
+
+--- S1-2\=13 链表进阶二\疯狂的馒头.cpp ---
+#include<iostream>
+using namespace std;
+
+const int N = 1e6 + 5;
+int color[N],f[N];
+
+--- S1-2\=13 链表进阶二\邻值查找.cpp ---
+#include<iostream>
+#include<algorithm>
+using namespace std;
+
+const int N = 1e5 + 5;
+
+--- S1-2\=9 强联通分量\信息传递.cpp ---
+#include<iostream>
+#include<vector>
+using namespace std;
+
+const int N = 2e5 + 5;
+
+--- S1-2\=9 强联通分量\奶牛圆舞.cpp ---
+#include<iostream>
+#include<vector>
+using namespace std;
+
+const int N = 1e4 + 5;
+
+--- S1-2\=9 强联通分量\抢掠计划.cpp ---
+#include<iostream>
+#include<cstring>
+#include<vector>
+#include<queue>
+using namespace std;
+
+--- S1-2\=9 强联通分量\校园网.cpp ---
+#include<iostream>
+#include<vector>
+#include<set>
+using namespace std;
+
+
+--- S1-2\=9 强联通分量\消息扩散.cpp ---
+#include<iostream>
+#include<vector>
+using namespace std;
+
+const int N = 1e5 + 5;
+
+--- S2-1\1 RMQ与ST表1\Balanced-Lineup-G.cpp ---
+#include<iostream>
+#include<algorithm>
+using namespace std;
+
+const int N = 5e4 + 5;
+
+--- S2-1\1 RMQ与ST表1\【模板】ST表.cpp ---
+#include<cstdio>
+#include<algorithm>
+using namespace std;
+
+const int N = 1e5 + 5;
+
+--- S2-1\1 RMQ与ST表1\忠诚.cpp ---
+#include<iostream>
+#include<algorithm>
+using namespace std;
+
+const int N = 1e5 + 5;
+
+--- S2-1\1 RMQ与ST表1\最大数.cpp ---
+#include<iostream>
+#include<algorithm>
+using namespace std;
+
+const int N = 2e5 + 5;
+
+--- S2-1\1 RMQ与ST表1\特别忠诚.cpp ---
+#include<iostream>
+#include<algorithm>
+using namespace std;
+
+const int N = 1e5 + 5;
+
+--- S2-1\1 RMQ与ST表1\玉米地.cpp ---
+#include<iostream>
+#include<algorithm>
+using namespace std;
+
+const int N = 1005;
+
+--- S2-1\1 RMQ与ST表1\理想的正方形.cpp ---
+#include<iostream>
+#include<algorithm>
+using namespace std;
+
+const int N = 1005;
+
+--- S2-1\2 RMQ与ST表2\与众不同.cpp ---
+#include<iostream>
+#include<algorithm>
+#include<map>
+using namespace std;
+
+
+--- S2-1\2 RMQ与ST表2\朋友与序列.cpp ---
+#include<iostream>
+#include<algorithm>
+using namespace std;
+
+const int N = 2e5 + 5;
+
+--- S2-1\2 RMQ与ST表2\策略游戏.cpp ---
+#include<iostream>
+using namespace std;
+
+const int N = 1e5 + 5;
+int a[N],b[N],lg[N],stmax[N][30],stmin[N][30],stmax2[N][30],stmin2[N][30],stbmax[N][30],stbmin[N][30],stbmax2[N][30],stbmin2[N][30];
+
+--- S2-1\2 RMQ与ST表2\维护gcd.cpp ---
+#include<iostream>
+#include<algorithm>
+#include<map>
+#include<unordered_map>
+#include<cmath>
+
+--- S2-1\3 分治法1\平面最近点对.cpp ---
+#include<iostream>
+#include<cstdio>
+#include<algorithm>
+#include<cmath>
+using namespace std;
+
+--- S2-1\3 分治法1\线段包含问题.cpp ---
+#include<iostream>
+#include<algorithm>
+using namespace std;
+
+const int N = 2e5 + 5;
+
+--- S2-1\3 分治法1\翻转对.cpp ---
+#include<iostream>
+using namespace std;
+
+const int N = 2e5 + 5;
+int num[N],tmp[N];
+
+--- S2-1\3 分治法1\逆序对.cpp ---
+#include<cstdio>
+using namespace std;
+
+const int N = 5e5 + 5;
+int a[N],tmp[N];
+
+--- S2-1\4 分治法2\Minimum-Sum.cpp ---
+#include<iostream>
+using namespace std;
+
+const int N = 2e5 + 5;
+int a[N],lg[N],st[N][30];
+
+--- S2-1\4 分治法2\Power.cpp ---
+#include<iostream>
+using namespace std;
+
+const int N = 5e5 + 5;
+int v[N],lg[N],st[N][30];
+
+--- S2-1\4 分治法2\奶牛狂欢节.cpp ---
+
+--- S2-1\4 分治法2\平面最近点对（加强版）.cpp ---
+#include<iostream>
+#include<cstdio>
+#include<algorithm>
+#include<cmath>
+using namespace std;
+
+--- S2-1\5 搜索优化进阶1\Mayan游戏.cpp ---
+#include<iostream>
+using namespace std;
+
+const int N = 10;
+int mp[N][N],cnt = 0,n,ans[N][N],flag = false,vis[N][N];
+
+--- S2-1\5 搜索优化进阶1\世界冰球锦标赛.cpp ---
+#include<iostream>
+#include<algorithm>
+using namespace std;
+
+const int N = 45,M = (1 << 20) + 5;
+
+--- S2-1\5 搜索优化进阶1\方程的解数.cpp ---
+#include<iostream>
+#include<algorithm>
+using namespace std;
+
+const int N = 10,M = 150 * 150 * 150 + 5;
+
+--- S2-1\5 搜索优化进阶1\魔法阵.cpp ---
+#include<iostream>
+#include<algorithm>
+using namespace std;
+
+const int N = 55;
+
+--- S2-1\6 搜索优化进阶2\反素数.cpp ---
+#include<iostream>
+#include<cmath>
+using namespace std;
+
+int n,maxg = 0,ans = 0;
+
+--- S2-1\6 搜索优化进阶2\彩票.cpp ---
+#include<iostream>
+#include<cmath>
+using namespace std;
+
+const int N = 55;
+
+--- S2-1\6 搜索优化进阶2\斗地主 加强版.cpp ---
+#include<cstdio>
+#include<iostream>
+#include<algorithm>
+#include<cstring>
+using namespace std;
+
+--- S2-1\6 搜索优化进阶2\生日蛋糕.cpp ---
+#include<iostream>
+#include<cmath>
+using namespace std;
+
+int n,m,ans = 1e9;
+
+--- S2-1\7 阶段练习\区间询问.cpp ---
+#include<iostream>
+#include<algorithm>
+using namespace std;
+
+const int N = 1e5 + 5;
+
+--- S2-1\7 阶段练习\暴力\区间询问[30pts].cpp ---
+#include<iostream>
+#include<algorithm>
+using namespace std;
+
+const int N = 1e5 + 5;
+
+--- S2-1\7 阶段练习\暴力\时钟刻度[30pts].cpp ---
+#include<iostream>
+using namespace std;
+
+const int N = 40;
+int a[N],m,n;
+
+--- S2-1\7 阶段练习\暴力\财富计算[40pts].cpp ---
+#include<iostream>
+using namespace std;
+
+const int  N = 4e5 + 5;
+int a[N];
+
+--- S2-1\7 阶段练习\暴力\频繁的数据[50pts].cpp ---
+#include<iostream>
+#include<map>
+using namespace std;
+
+const int N = 1e5 + 5;
+
+--- S2-1\7 阶段练习\频繁的数据.cpp ---
+
+--- S2-2\1 hash法1\反对称串.cpp ---
+#include<iostream>
+#include<algorithm>
+using namespace std;
+
+const int P = 131,mod = 1e9 + 7,N = 5e5 + 5;
+
+--- S2-2\1 hash法1\字符串匹配.cpp ---
+#include<iostream>
+#include<cstdio>
+#include<algorithm>
+using namespace std;
+
+
+--- S2-2\1 hash法1\最短循环节.cpp ---
+#include<iostream>
+#include<algorithm>
+using namespace std;
+
+const int P = 131,mod = 1e9 + 7,N = 5e5 + 5;
+
+--- S2-2\1 hash法1\最长回文子串.cpp ---
+#include<iostream>
+#include<cstdio>
+#include<algorithm>
+#include<cstring>
+using namespace std;
+
+--- S2-2\10 LCA1\A-and-B-and-Lecture-Rooms.cpp ---
+#include<iostream>
+#include<vector>
+using namespace std;
+
+const int N = 1e5 + 5;
+
+--- S2-2\10 LCA1\Misha,-Grisha-and-Underground.cpp ---
+#include<iostream>
+#include<vector>
+using namespace std;
+
+const int N = 1e5 + 5;
+
+--- S2-2\10 LCA1\【模板】最近公共祖先.cpp ---
+#include<iostream>
+#include<algorithm>
+#include<vector>
+using namespace std;
+
+
+--- S2-2\10 LCA1\城市设计.cpp ---
+#include<iostream>
+#include<vector>
+using namespace std;
+
+const int N = 5e4 + 5;
+
+--- S2-2\10 LCA1\点的距离.cpp ---
+#include<iostream>
+#include<vector>
+using namespace std;
+
+const int N = 1e5 + 5;
+
+--- S2-2\11 LCA2\树上询问.cpp ---
+#include<iostream>
+#include<vector>
+using namespace std;
+
+const int N = 5e5 + 5;
+
+--- S2-2\11 LCA2\货车运输.cpp ---
+#include<cstdio>
+#include<iostream>
+#include<algorithm>
+#include<vector>
+using namespace std;
+
+--- S2-2\11 LCA2\路径编号最小点.cpp ---
+#include<iostream>
+#include<vector>
+using namespace std;
+
+const int N = 5e5 + 5;
+
+--- S2-2\12 树上差分\Max-Flow-P.cpp ---
+#include<iostream>
+#include<vector>
+using namespace std;
+
+const int N = 5e4 + 5;
+
+--- S2-2\12 树上差分\树.cpp ---
+#include<iostream>
+#include<vector>
+using namespace std;
+
+const int N = 1e5 + 5;
+
+--- S2-2\12 树上差分\直通路径.cpp ---
+#include<iostream>
+#include<vector>
+using namespace std;
+
+const int N = 2e5 + 5;
+
+--- S2-2\12 树上差分\运输计划.cpp ---
+#include<iostream>
+#include<vector>
+#include<cstring>
+#include<algorithm>
+using namespace std;
+
+--- S2-2\13 树型动规1\nearby-cows.cpp ---
+#include<iostream>
+#include<vector>
+using namespace std;
+
+const int N = 1e5 + 5;
+
+--- S2-2\13 树型动规1\三色二叉树.cpp ---
+#include<iostream>
+#include<cstring>
+using namespace std;
+
+const int N = 5e5 + 5;
+
+--- S2-2\13 树型动规1\手机信号网络.cpp ---
+#include<iostream>
+#include<vector>
+using namespace std;
+
+const int N = 1e4 + 5;
+
+--- S2-2\13 树型动规1\没有上司的舞会.cpp ---
+#include<iostream>
+#include<vector>
+using namespace std;
+
+const int N = 6e3 + 5;
+
+--- S2-2\14 树型动规2\Distributing-Integers.cpp ---
+#include<iostream>
+#include<vector>
+using namespace std;
+
+const int N = 2e5 + 5,mod = 1e9 + 7;
+
+--- S2-2\14 树型动规2\Surgey-and-Subway.cpp ---
+#include<iostream>
+#include<vector>
+using namespace std;
+
+const int N = 2e5 + 5;
+
+--- S2-2\14 树型动规2\市政服务大厅.cpp ---
+#include<iostream>
+#include<vector>
+#include<cstring>
+using namespace std;
+
+
+--- S2-2\14 树型动规2\最长简单路径.cpp ---
+#include<iostream>
+#include<vector>
+#include<cstring>
+using namespace std;
+
+
+--- S2-2\2 hash法2\Blue-Mary的战役地图.cpp ---
+#include<iostream>
+#include<unordered_set>
+using namespace std;
+
+const int N = 55,P = 53,Q = 59;
+
+--- S2-2\2 hash法2\Matrix-Matcher.cpp ---
+#include<iostream>
+using namespace std;
+
+const int N = 1e3 + 5,M = 105,P = 1009,Q = 1051,mod = 1e9 + 7;
+long long p[N],q[N],h[N][N],hb[M][M];
+
+--- S2-2\2 hash法2\不重复数字.cpp ---
+#include<unordered_map>
+#include<iostream>
+using namespace std;
+
+unordered_map<int,bool> mp;
+
+--- S2-2\2 hash法2\内存杀手.cpp ---
+#include<iostream>
+using namespace std;
+
+const int N = 1005,P = 1009,Q = 1051;
+unsigned long long h[N][N],h1[N][N],h2[N][N],p[N],q[N],a[N][N];
+
+--- S2-2\2 hash法2\对称的正方形.cpp ---
+#include<iostream>
+using namespace std;
+
+const int N = 1005,P = 1009,Q = 1051;
+unsigned long long a[N][N],h[N][N],h1[N][N],h2[N][N],p[N],q[N];
+
+--- S2-2\3 树状数组1\HH的项链.cpp ---
+#include<iostream>
+#include<algorithm>
+using namespace std;
+
+const int N = 1e6 + 5;
+
+--- S2-2\3 树状数组1\【模板】树状数组1.cpp ---
+#include<iostream>
+using namespace std;
+
+const int N = 5e5 + 5;
+long long a[N],c[N],n,m;
+
+--- S2-2\3 树状数组1\【模板】树状数组2.cpp ---
+#include<iostream>
+using namespace std;
+
+const int N = 5e5 + 5;
+long long a[N],c[N],n,m;
+
+--- S2-2\3 树状数组1\简单题.cpp ---
+#include<iostream>
+using namespace std;
+
+const int N = 1e5 + 5;
+int c[N],n,m;
+
+--- S2-2\3 树状数组1\贪婪大陆.cpp ---
+#include<iostream>
+using namespace std;
+
+const int N = 1e5 + 5;
+int t1[N],t2[N],n,m;
+
+--- S2-2\4 树状数组2\【模板】树状数组3.cpp ---
+#include<iostream>
+using namespace std;
+
+const int N = 5e5 + 5;
+long long a[N],c1[N],c2[N],n,m;
+
+--- S2-2\4 树状数组2\回转寿司.cpp ---
+#include<iostream>
+#include<algorithm>
+using namespace std;
+
+const int N = 1e5 + 5;
+
+--- S2-2\4 树状数组2\晋升计数.cpp ---
+#include<iostream>
+#include<algorithm>
+#include<vector>
+using namespace std;
+
+
+--- S2-2\4 树状数组2\理发.cpp ---
+#include<iostream>
+using namespace std;
+
+const int N = 1e5 + 5;
+long long a[N],b[N],c[N],d[N],ans[N],n;
+
+--- S2-2\4 树状数组2\逆序对.cpp ---
+#include<iostream>
+#include<algorithm>
+using namespace std;
+
+const int N = 5e5 + 5;
+
+--- S2-2\5 双指针与尺取法\Cow-Lineup-G.cpp ---
+#include<iostream>
+#include<map>
+#include<algorithm>
+using namespace std;
+
+
+--- S2-2\5 双指针与尺取法\Cow-Lineup-S.cpp ---
+#include<iostream>
+#include<map>
+#include<algorithm>
+using namespace std;
+
+
+--- S2-2\5 双指针与尺取法\Haybale-Feast-G.cpp ---
+#include<iostream>
+#include<map>
+#include<algorithm>
+using namespace std;
+
+
+--- S2-2\5 双指针与尺取法\Perform-Easily.cpp ---
+#include<iostream>
+#include<map>
+#include<algorithm>
+using namespace std;
+
+
+--- S2-2\5 双指针与尺取法\哈布斯堡王朝.cpp ---
+#include<iostream>
+#include<map>
+#include<algorithm>
+using namespace std;
+
+
+--- S2-2\6 单调栈\Bad-Hair-Day-S.cpp ---
+#include<iostream>
+#include<stack>
+using namespace std;
+
+const int N = 8e4 + 5;
+
+--- S2-2\6 单调栈\DIFERENCIJA.cpp ---
+#include<iostream>
+#include<stack>
+#include<algorithm>
+using namespace std;
+
+
+--- S2-2\6 单调栈\奶牛扔飞盘.cpp ---
+#include<iostream>
+#include<stack>
+#include<algorithm>
+using namespace std;
+
+
+--- S2-2\6 单调栈\海边冲浪.cpp ---
+#include<iostream>
+#include<stack>
+#include<algorithm>
+using namespace std;
+
+
+--- S2-2\6 单调栈\玉蟾宫.cpp ---
+#include<iostream>
+#include<stack>
+using namespace std;
+
+const int N = 1005;
+
+--- S2-2\7 单调队列\Crowded-Cowd-S.cpp ---
+#include<iostream>
+#include<deque>
+#include<algorithm>
+using namespace std;
+
+
+--- S2-2\7 单调队列\WIL.cpp ---
+#include<iostream>
+#include<algorithm>
+#include<deque>
+using namespace std;
+
+
+--- S2-2\7 单调队列\滑动窗口-弱化版.cpp ---
+#include<iostream>
+#include<deque>
+using namespace std;
+
+const int N = 1e6 + 5;
+
+--- S2-2\7 单调队列\花盆.cpp ---
+#include<iostream>
+#include<deque>
+#include<algorithm>
+using namespace std;
+
+
+--- S2-2\8 单调性优化1\Pencils-and-Boxes.cpp ---
+#include<iostream>
+#include<cstring>
+#include<algorithm>
+using namespace std;
+
+
+--- S2-2\8 单调性优化1\Pogo-Cow.cpp ---
+#include<iostream>
+#include<algorithm>
+#include<cstring>
+using namespace std;
+
+
+--- S2-2\8 单调性优化1\Telephone-Wire.cpp ---
+#include<iostream>
+#include<cstring>
+using namespace std;
+
+const int N = 1e5 + 5;
+
+--- S2-2\8 单调性优化1\促销返现.cpp ---
+#include<iostream>
+#include<queue>
+using namespace std;
+
+const int N = 1e5 + 5;
+
+--- S2-2\9 单调性优化2\Little-Bird.cpp ---
+#include<iostream>
+#include<queue>
+#include<cstring>
+using namespace std;
+
+
+--- S2-2\9 单调性优化2\课后答疑.cpp ---
+#include<iostream>
+#include<queue>
+#include<cstring>
+using namespace std;
+
+
+--- S2-2\9 单调性优化2\购买饲料.cpp ---
+#include<iostream>
+#include<cstring>
+#include<queue>
+#include<algorithm>
+using namespace std;
+
+--- S2-2\9 单调性优化2\跳房子.cpp ---
+#include<iostream>
+#include<deque>
+#include<cstring>
+using namespace std;
+
+
+--- S3-1\1 字典树综合\First!-G.cpp ---
+#include<iostream>
+#include<vector>
+#include<queue>
+#include<cstring>
+using namespace std;
+
+--- S3-1\1 字典树综合\【模板】字典树.cpp ---
+#include<iostream>
+using namespace std;
+
+const int N = 1e6 + 5,M = 30;
+int ch[N][M],sum[N],cnt[N],id = 1;
+
+--- S3-1\1 字典树综合\于是他错误的点名开始了.cpp ---
+#include<iostream>
+#include<map>
+using namespace std;
+
+const int N = 1e6 + 5,M = 30;
+
+--- S3-1\1 字典树综合\前缀统计.cpp ---
+#include<iostream>
+using namespace std;
+
+const int N = 1e6 + 5,M = 30;
+int ch[N][M],cnt[N],sum[N],id = 1;
+
+--- S3-1\1 字典树综合\病毒检测.cpp ---
+#include<iostream>
+#include<bitset>
+using namespace std;
+
+const int N = 2.5e5 + 5,M = 26;
+
+--- S3-1\1 字典树综合\秘密信息.cpp ---
+#include<iostream>
+using namespace std;
+
+const int N = 5e5 + 5;
+int cnt[N],sum[N],ch[N][2],id = 1;
+
+--- S3-1\1 字典树综合\阅读理解.cpp ---
+#include<iostream>
+#include<map>
+#include<bitset>
+using namespace std;
+
+
+--- S3-1\10 阶段测试\test.cpp ---
+#include<iostream>
+using namespace std;
+
+int main() {
+    cout << (0 & -0) << endl;
+
+--- S3-1\10 阶段测试\五号人格.cpp ---
+#include<iostream>
+using namespace std;
+
+const int N = 5005;
+int x[N],y[N],z[N],a[N],cnt[N];
+
+--- S3-1\10 阶段测试\爬塔游戏.cpp ---
+#include<iostream>
+#include<algorithm>
+using namespace std;
+
+const int N = 30,M = 1e6 + 5;
+
+--- S3-1\10 阶段测试\魔法草药.cpp ---
+#include<iostream>
+#include<map>
+#include<cmath>
+using namespace std;
+
+
+--- S3-1\2 指针和set容器\【模板】字典树.cpp ---
+#include<iostream>
+using namespace std;
+
+const int N = 1e6 + 5;
+int id = 1;
+
+--- S3-1\2 指针和set容器\会场预约.cpp ---
+#include<iostream>
+#include<set>
+using namespace std;
+
+struct Node {
+
+--- S3-1\2 指针和set容器\文本编辑器.cpp ---
+#include<iostream>
+using namespace std;
+
+const int N = 5e5 + 5;
+
+
+--- S3-1\2 指针和set容器\送花.cpp ---
+#include<iostream>
+#include<map>
+#include<set>
+using namespace std;
+
+
+--- S3-1\3 set容器进阶\KLO-Building-blocks.cpp ---
+#include<iostream>
+#include<set>
+#include<algorithm>
+using namespace std;
+
+
+--- S3-1\3 set容器进阶\Monkey-King.cpp ---
+#include<iostream>
+#include<set>
+#include<algorithm>
+using namespace std;
+
+
+--- S3-1\3 set容器进阶\宠物收养场.cpp ---
+#include<iostream>
+#include<set>
+#include<algorithm>
+using namespace std;
+
+
+--- S3-1\3 set容器进阶\报表统计.cpp ---
+#include<iostream>
+#include<set>
+#include<cmath>
+using namespace std;
+
+
+--- S3-1\4 迭代加深\addition-chains.cpp ---
+#include<iostream>
+using namespace std;
+
+const int N = 105;
+int n,m,a[N];
+
+--- S3-1\4 迭代加深\八数码难题.cpp ---
+#include<iostream>
+#include<cmath>
+#include<algorithm>
+using namespace std;
+
+
+--- S3-1\4 迭代加深\铁盘整理.cpp ---
+#include<iostream>
+#include<algorithm>
+using namespace std;
+
+const int N = 20;
+
+--- S3-1\4 迭代加深\骑士精神.cpp ---
+#include<iostream>
+using namespace std;
+
+const int N = 10;
+int m,ans = 1e9;
+
+--- S3-1\5 阶段测试\书架整理.cpp ---
+#include<iostream>
+using namespace std;
+
+const int N = 2e5 + 5;
+int a[N];
+
+--- S3-1\5 阶段测试\序列.cpp ---
+#include<iostream>
+#include<set>
+using namespace std;
+
+const int N = 1e5 + 5;
+
+--- S3-1\5 阶段测试\逃脱魔法.cpp ---
+#include<iostream>
+#include<cstring>
+using namespace std;
+
+const int N = 505;
+
+--- S3-1\5 阶段测试\通讯录.cpp ---
+#include<iostream>
+#include<cstring>
+using namespace std;
+
+const int N = 1e5,M = 10;
+
+--- S3-1\6 位运算综合\GEPPETTO.cpp ---
+#include<iostream>
+using namespace std;
+
+const int N = 405;
+int x[N],y[N];
+
+--- S3-1\6 位运算综合\内建函数实现.cpp ---
+#include<iostream>
+#include<algorithm>
+using namespace std;
+
+int n = 123456789;
+
+--- S3-1\6 位运算综合\动物园.cpp ---
+#include<cstdio>
+#include<iostream>
+#include<algorithm>
+#define int unsigned long long
+using namespace std;
+
+--- S3-1\6 位运算综合\异或非或.cpp ---
+#include<iostream>
+#include<unordered_map>
+#include<cstring>
+using namespace std;
+
+
+--- S3-1\6 位运算综合\找筷子.cpp ---
+#include<iostream>
+using namespace std;
+
+int main() {
+    ios::sync_with_stdio(false);
+
+--- S3-1\6 位运算综合\浏览器.cpp ---
+#include<iostream>
+using namespace std;
+
+const int N = 1e7 + 5;
+long long x[N];
+
+--- S3-1\6 位运算综合\绝世好题.cpp ---
+#include<iostream>
+using namespace std;
+
+const int N = 1e5 + 5;
+int a[N],dp[32];
+
+--- S3-1\6 位运算综合\起床困难综合症.cpp ---
+#include<iostream>
+#include<cmath>
+using namespace std;
+
+const int N = 1e5 + 5;
+
+--- S3-1\7 状态压缩基础1\Balanced-Cow-Subsets-G.cpp ---
+#include<iostream>
+#include<map>
+#include<algorithm>
+using namespace std;
+
+
+--- S3-1\7 状态压缩基础1\还是N皇后.cpp ---
+#include<iostream>
+using namespace std;
+
+const int N = 20;
+int n,ans = 0;
+
+--- S3-1\7 状态压缩基础1\邦德.cpp ---
+/*
+95 pts:
+#include<iostream>
+#include<algorithm>
+#include<cstdio>
+
+--- S3-1\7 状态压缩基础1\邦邦的大合唱站队.cpp ---
+#include<iostream>
+#include<cstring>
+#include<algorithm>
+using namespace std;
+
+
+--- S3-1\8 状态压缩基础2\Mixed-up-Cows-G.cpp ---
+#include<iostream>
+#include<algorithm>
+#include<cmath>
+using namespace std;
+
+
+--- S3-1\8 状态压缩基础2\Moovie-Mooving-G.cpp ---
+#include<iostream>
+#include<cstring>
+#include<algorithm>
+using namespace std;
+
+
+--- S3-1\8 状态压缩基础2\PRZ.cpp ---
+#include<iostream>
+#include<cstring>
+#include<algorithm>
+#include<cmath>
+using namespace std;
+
+--- S3-1\8 状态压缩基础2\动物园.cpp ---
+#include<iostream>
+#include<cstring>
+using namespace std;
+
+const int N = 1e4 + 5;
+
+--- S3-1\9 棋盘状压DP\互不侵犯.cpp ---
+#include<iostream>
+using namespace std;
+
+const int N = 10;
+int p[1 << N];
+
+--- S3-1\9 棋盘状压DP\水果蛋糕.cpp ---
+#include<iostream>
+#include<cmath>
+using namespace std;
+
+const int N = 1e4 + 5,M = 5,mod = 1e6;
+
+--- S3-1\9 棋盘状压DP\炮兵阵地.cpp ---
+#include<iostream>
+#include<cstring>
+using namespace std;
+
+const int N = 105,M = 10;
+
+--- S3-1\9 棋盘状压DP\蒙德里安的梦想.cpp ---
+#include<iostream>
+#include<cstring>
+using namespace std;
+
+const int N = 12;
+
+--- S3-2\1 树上背包\分组背包.cpp ---
+#include<iostream>
+#include<algorithm>
+using namespace std;
+
+const int N = 105;
+
+--- S3-2\1 树上背包\有线电视网.cpp ---
+#include<iostream>
+#include<vector>
+#include<cstring>
+using namespace std;
+
+
+--- S3-2\1 树上背包\选课-增强版.cpp ---
+#include<iostream>
+#include<vector>
+using namespace std;
+
+const int N = 1e5 + 5;
+
+--- S3-2\1 树上背包\选课.cpp ---
+#include<iostream>
+#include<vector>
+using namespace std;
+
+const int N = 105;
+
+--- S3-2\1 树上背包\选课线性版.cpp ---
+#include<iostream>
+#include<vector>
+using namespace std;
+
+const int N = 1e5 + 5;
+
+--- S3-2\10 数据结构综合2\DFS序.cpp ---
+#include<iostream>
+#include<algorithm>
+#include<vector>
+#define int long long
+#define lid id << 1
+
+--- S3-2\10 数据结构综合2\树上操作.cpp ---
+#include<iostream>
+#include<vector>
+#define lid id << 1
+#define rid id << 1 | 1
+#define int long long
+
+--- S3-2\10 数据结构综合2\色板游戏.cpp ---
+#include<algorithm>
+#include<iostream>
+#define lid id << 1
+#define rid id << 1 | 1
+using namespace std;
+
+--- S3-2\10 数据结构综合2\语文.cpp ---
+#include<iostream>
+#include<cstring>
+#define lid id << 1
+#define rid id << 1 | 1
+using namespace std;
+
+--- S3-2\13 CSP-S模考2\两个回文串.cpp ---
+#include<cstdio>
+#include<set>
+#include<iostream>
+#define int long long
+using namespace std;
+
+--- S3-2\13 CSP-S模考2\交易市场.cpp ---
+#include<iostream>
+#include<algorithm>
+#include<set>
+#include<cstring>
+using namespace std;
+
+--- S3-2\2 树形dp综合\树上染色.cpp ---
+#include<iostream>
+#include<vector>
+#include<cstring>
+#define int long long
+using namespace std;
+
+--- S3-2\2 树形dp综合\贪吃的九头龙.cpp ---
+#include<iostream>
+#include<vector>
+#include<cstring>
+using namespace std;
+
+
+--- S3-2\2 树形dp综合\道路.cpp ---
+#include<iostream>
+#include<vector>
+#define int long long
+using namespace std;
+
+
+--- S3-2\2 树形dp综合\骑士.cpp ---
+#include<iostream>
+#include<vector>
+#define int long long
+using namespace std;
+
+
+--- S3-2\3 高斯消元\Driving-Out-the-Piggies-G.cpp ---
+#include<iostream>
+#include<vector>
+#include<cstdio>
+using namespace std;
+
+
+--- S3-2\3 高斯消元\外星千足虫.cpp ---
+#include<cstdio>
+#include<algorithm>
+#include<cmath>
+#include<bitset>
+using namespace std;
+
+--- S3-2\3 高斯消元\球形空间产生器.cpp ---
+#include<cstdio>
+#include<algorithm>
+#include<cmath>
+using namespace std;
+
+
+--- S3-2\3 高斯消元\线性方程组.cpp ---
+#include<cstdio>
+#include<algorithm>
+#include<cmath>
+using namespace std;
+
+
+--- S3-2\4 数论1\乘法逆元1.cpp ---
+#include<iostream>
+using namespace std;
+
+const int N = 3e6 + 5;
+int inv[N];
+
+--- S3-2\4 数论1\乘法逆元2.cpp ---
+#include<iostream>
+using namespace std;
+
+const int N = 5e6 + 5;
+int a[N],f[N],g[N],inv[N];
+
+--- S3-2\4 数论1\同余方程.cpp ---
+#include<cstdio>
+#include<iostream>
+#include<algorithm>
+#define int long long
+using namespace std;
+
+--- S3-2\4 数论1\小凯的数字.cpp ---
+#include<iostream>
+#define int long long
+using namespace std;
+
+signed main() {
+
+--- S3-2\4 数论1\有理数取余.cpp ---
+#include<iostream>
+#define int long long
+using namespace std;
+
+const int p = 19260817;
+
+--- S3-2\4 数论1\裴蜀定理.cpp ---
+#include<iostream>
+#include<cmath>
+#include<algorithm>
+using namespace std;
+
+
+--- S3-2\4 数论1\青蛙的约会.cpp ---
+#include<iostream>
+#include<algorithm>
+#define int long long
+using namespace std;
+
+
+--- S3-2\5 数论2\GCD.cpp ---
+#include<iostream>
+using namespace std;
+
+const int N = 1e7 + 5;
+long long phi[N],sum[N],p[N];
+
+--- S3-2\5 数论2\Longge的问题.cpp ---
+#include<iostream>
+using namespace std;
+typedef long long ll;
+
+ll phi(ll x) {
+
+--- S3-2\5 数论2\中国剩余定理.cpp ---
+#include<iostream>
+using namespace std;
+typedef long long ll;
+
+const int N = 1e5 + 5;
+
+--- S3-2\5 数论2\扩展中国剩余定理.cpp ---
+#include<iostream>
+#include<algorithm>
+using namespace std;
+typedef long long ll;
+
+
+--- S3-2\5 数论2\扩展欧拉定理.cpp ---
+#include<iostream>
+#include<algorithm>
+using namespace std;
+typedef long long ll;
+
+
+--- S3-2\5 数论2\猜数字.cpp ---
+#include<iostream>
+using namespace std;
+typedef long long ll;
+
+const int N = 1e5 + 5;
+
+--- S3-2\6 线段树1\小白逛公园.cpp ---
+#include<iostream>
+#define lid id * 2
+#define rid id * 2 + 1
+using namespace std;
+
+
+--- S3-2\6 线段树1\线段树单点修改.cpp ---
+#include<iostream>
+#define lid id << 1
+#define rid id << 1 | 1
+using namespace std;
+
+
+--- S3-2\6 线段树1\绿荫长廊.cpp ---
+#include<iostream>
+#include<cstring>
+#define lid id << 1
+#define rid id << 1 | 1
+using namespace std;
+
+--- S3-2\7 线段树2\扶苏的问题.cpp ---
+#include<iostream>
+#define int long long
+#define lid id << 1
+#define rid id << 1 | 1
+using namespace std;
+
+--- S3-2\7 线段树2\无聊的数列.cpp ---
+#include<iostream>
+#define int long long
+#define lid id << 1
+#define rid id << 1 | 1
+using namespace std;
+
+--- S3-2\7 线段树2\线段树区间查询.cpp ---
+#include<iostream>
+#define int long long
+#define lid id << 1
+#define rid id << 1 | 1
+using namespace std;
+
+--- S3-2\7 线段树2\维护序列.cpp ---
+#include<iostream>
+#include<algorithm>
+#include<cstring>
+#define lid id * 2
+#define rid id * 2 + 1
+
+--- S3-2\9 数据结构综合1\园丁的烦恼.cpp ---
+#include<iostream>
+#include<algorithm>
+#include<vector>
+using namespace std;
+
+
+--- S3-2\9 数据结构综合1\求矩形的并.cpp ---
+#include<iostream>
+#include<algorithm>
+#include<vector>
+#define int long long
+#define lid id << 1
+
+--- S3-2\9 数据结构综合1\矩形周长.cpp ---
+#include<iostream>
+#include<algorithm>
+#include<vector>
+#define int long long
+#define lid id << 1
+
+--- S3-2\9 数据结构综合1\窗口的星星.cpp ---
+#include<iostream>
+#include<vector>
+#include<algorithm>
+#define int long long
+#define lid id << 1
+
+--- contest\0\card.cpp ---
+#include<iostream>
+#include<algorithm>
+using namespace std;
+
+const int N = 5e5 + 5;
+
+--- contest\0\chess.cpp ---
+/*
+赛后反思
+
+本题想了很多种解题方法，但总会在时间复杂度、空间复杂度或后效性上出问题，导致卡了几乎一个多小时影响T3T4做题时间，比较可惜。
+1. 最先想到贪心，根据题目数据的50pts无后效性保证，不能拿满；
+
+--- contest\0\count.cpp ---
+#include<iostream>
+using namespace std;
+
+const int N = 2e5 + 5;
+int a[N];
+
+--- contest\0\money.cpp ---
+/*
+赛后反思
+
+本题得到暴力的50pts是不够理想的。如果T2没有浪费过多时间是绝对可以得到至少70pts的。
+
+
+--- contest\0\word.cpp ---
+#include<iostream>
+#include<cstring>
+#include<cstdio>
+#include<algorithm>
+#include<cmath>
+
+--- contest\12\bicycle.cpp ---
+#include<iostream>
+#include<vector>
+#include<queue>
+#include<cstring>
+using namespace std;
+
+--- contest\12\gravity.cpp ---
+#include<iostream>
+#include<unordered_set>
+#include<vector>
+#include<algorithm>
+using namespace std;
+
+--- contest\12\matching.cpp ---
+#include<iostream>
+using namespace std;
+
+int main() {
+    freopen("matching.in","r",stdin);
+
+--- contest\13\entrycode.cpp ---
+#include<iostream>
+#include<iomanip>
+using namespace std;
+
+const int N = 1005;
+
+--- contest\13\fountain.cpp ---
+#include<iostream>
+#include<algorithm>
+using namespace std;
+
+const int N = 3005;
+
+--- contest\13\hubroute.cpp ---
+#include<iostream>
+#include<vector>
+#include<algorithm>
+#define int long long
+using namespace std;
+
+--- contest\13\maxscale.cpp ---
+#include<iostream>
+using namespace std;
+
+int main() {
+    freopen("maxscale.in","r",stdin);
+
+--- contest\13\startrade.cpp ---
+#include<iostream>
+#include<algorithm>
+#define int long long
+using namespace std;
+
+
+--- contest\14\coloring.cpp ---
+#include<iostream>
+#include<algorithm>
+using namespace std;
+
+const int N = 1e5 + 5;
+
+--- contest\14\separate.cpp ---
+#include<iostream>
+#define int long long
+using namespace std;
+
+const int N = 3e5 + 5;
+
+--- contest\14\static.cpp ---
+#include<cstdio>
+#define uint unsigned int
+#define ull unsigned long long
+using namespace std;
+
+
+--- contest\15\escape.cpp ---
+#include<iostream>
+#define int long long
+using namespace std;
+
+const int N = 1e6 + 5;
+
+--- contest\15\mali.cpp ---
+#include<iostream>
+using namespace std;
+
+// 值域小 优先用值域排序
+
+
+--- contest\15\num.cpp ---
+#include<iostream>
+using namespace std;
+
+int mp[] = {1,2,4,7,8,11,13,14};
+
+
+--- contest\15\tour.cpp ---
+#include<iostream>
+#include<vector>
+#include<queue>
+#include<cstring>
+using namespace std;
+
+--- contest\1\maze.cpp ---
+#include<iostream>
+#include<cstdio>
+#include<cstring>
+#include<vector>
+using namespace std;
+
+--- contest\1\sequencea.cpp ---
+#include<iostream>
+#include<cstring>
+using namespace std;
+
+const int N = 1e6 + 5;
+
+--- contest\1\snow.cpp ---
+#include<iostream>
+#include<cstdio>
+using namespace std;
+
+const int N = 55;
+
+--- contest\1\string.cpp ---
+#include<iostream>
+#include<algorithm>
+using namespace std;
+
+const int N = 2e3 + 5,mod = 1e9 + 7;
+
+--- contest\2\assembly.cpp ---
+#include<iostream>
+#include<cstdio>
+using namespace std;
+
+int main() {
+
+--- contest\2\drum.cpp ---
+#include<iostream>
+#include<algorithm>
+#include<cstdio>
+using namespace std;
+
+
+--- contest\2\protocol.cpp ---
+#include<iostream>
+#include<vector>
+#include<map>
+#include<queue>
+#include<cstring>
+
+--- contest\2\robot.cpp ---
+#include<iostream>
+#include<cstdio>
+using namespace std;
+
+const int N = 1e7 + 5;
+
+--- contest\3\agent\agent.cpp ---
+#include<iostream>
+#include<cstdio>
+#include<algorithm>
+#include<cstring>
+#define int long long
+
+--- contest\3\string\string.cpp ---
+#include<iostream>
+#include<algorithm>
+#include<cstdio>
+#include<cstring>
+using namespace std;
+
+--- contest\3\thief\thief.cpp ---
+#include<iostream>
+#include<algorithm>
+#include<cstdio>
+using namespace std;
+
+
+--- contest\3\队列\队列.cpp ---
+#include<iostream>
+#include<cstdio>
+#include<algorithm>
+#include<cstring>
+using namespace std;
+
+--- contest\4\FileSkip\FileSkip.cpp ---
+#include<iostream>
+#include<algorithm>
+#include<cstdio>
+using namespace std;
+
+
+--- contest\4\LoopPatrol\LoopPatrol.cpp ---
+#include<iostream>
+#include<algorithm>
+#include<cstdio>
+using namespace std;
+
+
+--- contest\4\SegCount\SegCount.cpp ---
+#include<iostream>
+#include<algorithm>
+#include<cstdio>
+using namespace std;
+
+
+--- contest\4\StarPick\StarPick.cpp ---
+#include<iostream>
+#include<algorithm>
+#include<cstdio>
+using namespace std;
+
+
+--- contest\4\count\count.cpp ---
+#include<iostream>
+#include<algorithm>
+#include<cstdio>
+#include<map>
+#include<vector>
+
+--- contest\5\comp\comp.cpp ---
+#include<iostream>
+#include<set>
+#include<algorithm>
+#include<vector>
+using namespace std;
+
+--- contest\5\double\double.cpp ---
+#include<iostream>
+#include<algorithm>
+using namespace std;
+
+// 题意转换为求序列中最大异或和
+
+--- contest\5\game\game.cpp ---
+#include<iostream>
+using namespace std;
+
+const int N = 1005;
+string a[N];
+
+--- contest\5\throw\throw.cpp ---
+#include<iostream>
+using namespace std;
+
+int k;
+string n;
+
+--- contest\5\wait\wait.cpp ---
+#include<iostream>
+#include<map>
+#include<cstring>
+using namespace std;
+
+
+--- contest\6\lab\lab.cpp ---
+#include<iostream>
+#include<cstdio>
+#include<algorithm>
+using namespace std;
+
+
+--- contest\6\meal\meal.cpp ---
+#include<iostream>
+#include<cstdio>
+#include<algorithm>
+#include<cstring>
+using namespace std;
+
+--- contest\6\partition\partition.cpp ---
+#include<iostream>
+using namespace std;
+
+const int N = 205,mod = 998244353;
+int a[N],cnt[(1 << 15) + 5],sor2[15],sor3[(1 << 15) + 5],pow2[N];
+
+--- contest\6\song\song.cpp ---
+#include<iostream>
+#include<cstdio>
+using namespace std;
+
+int main() {
+
+--- contest\6\treasure\treasure.cpp ---
+#include<iostream>
+#include<queue>
+#include<cstdio>
+using namespace std;
+
+
+--- contest\7\color.cpp ---
+#include<iostream>
+#include<set>
+#include<unordered_set>
+using namespace std;
+
+
+--- contest\7\function.cpp ---
+#include<iostream>
+#include<algorithm>
+#include<cmath>
+#include<cstdio>
+#include<cstring>
+
+--- contest\7\number.cpp ---
+#include<iostream>
+#include<algorithm>
+#include<cstdio>
+using namespace std;
+
+
+--- contest\7\yet-LIS.cpp ---
+#include<iostream>
+using namespace std;
+
+const int N = 1e3 + 5,K = 5e3 + 5;
+int a[N][K],dp[N][N],maxn[N][N];
+
+--- contest\入门#51\千秋的数学探究活动没有问题.cpp ---
+#include<iostream>
+#include<algorithm>
+#define int long long
+using namespace std;
+
+
+--- contest\入门#51\千秋的研究并不聚焦稀疏矩阵乘法.cpp ---
+#include<iostream>
+#include<algorithm>
+#include<cmath>
+using namespace std;
+
+
+--- contest\入门#51\千秋的西红柿里有多少果汁.cpp ---
+#include<iostream>
+using namespace std;
+
+const int N = 1e5 + 5;
+int v[N],w[N];
+
+--- contest\入门#51\千秋的进制转换应该比较快.cpp ---
+#include<iostream>
+using namespace std;
+
+string mp[16] = {
+    "0000","0001","0010","0011",
+
+--- self-practise\Note-B\1 枚举\三连击-升级版.cpp ---
+#include<iostream>
+using namespace std;
+
+bool flag[10];
+int plan[10];
+
+--- self-practise\Note-B\1 枚举\子数整数.cpp ---
+#include<iostream>
+using namespace std;
+
+int main() {
+    int k;
+
+--- self-practise\Note-B\1 枚举\火柴棒等式.cpp ---
+#include<iostream>
+using namespace std;
+
+int a[10] = {6,2,5,5,4,5,6,3,7,6};
+
+
+--- self-practise\Note-B\1 枚举\珠心算测验.cpp ---
+#include<iostream>
+using namespace std;
+
+int a[105],box[10005];
+
+
+--- self-practise\Note-B\1 枚举\组合的输出.cpp ---
+
+--- self-practise\Note-B\1 枚举\统计方形.cpp ---
+#include<iostream>
+using namespace std;
+
+int main() {
+    int n,m;
+
+--- self-practise\Note-B\1 枚举\龙虎斗.cpp ---
+#include<iostream>
+#include<cstdio>
+#include<algorithm>
+#include<cmath>
+using namespace std;
+
+--- self-practise\Note-B\2 高精度\A_B-Problem.cpp ---
+#include<iostream>
+#include<cstdio>
+#include<cstring>
+#include<string>
+#include<algorithm>
+
+--- self-practise\Note-B\2 高精度\AdivB-Problem.cpp ---
+#include<iostream>
+using namespace std;
+
+const int N = 5005;
+int a[N],c[N];
+
+--- self-practise\Note-B\2 高精度\B进制星球.cpp ---
+#include<iostream>
+using namespace std;
+
+const int N = 2005;
+int B,a[N],b[N],c[N];
+
+--- self-practise\Note-B\2 高精度\数楼梯.cpp ---
+#include<iostream>
+using namespace std;
+
+const int N = 5005;
+int a[N],b[N],c[N];
+
+--- self-practise\Note-B\2 高精度\蜜蜂路线.cpp ---
+// Fibonacci n - m + 1
+#include<iostream>
+using namespace std;
+
+const int N = 1005;
+
+--- self-practise\Note-B\2 高精度\计算e.cpp ---
+#include<iostream>
+using namespace std;
+
+string e = "?7182818284590452353602874713526624977572470936999595749669676277240766303535475945713821785251664274274663919320030599218174135966290435729003342952605956307381323286279434907632338298807531952510190115738341879307021540891499348841675092447614606680822648001684774118537423454424371075390777449920695517027618386062613313845830007520449338265602976067371132007093287091274437470472306969772093101416928368190255151086574637721112523897844250569536967707854499699679468644549059879316368892300987931277361782154249992295763514822082698951936680331825288693984964651058209392398294887933203625094431173012381970684161403970198376793206832823764648042953118023287825098194558153017567173613320698112509961818815930416903515988885193458072738667385894228792284998920868058257492796104841984443634632449684875602336248270419786232090021609902353043699418491463140934317381436405462531520961836908887070167683964243781405927145635490613031072085103837505101157477041718986106873969655212671546889570350354021234078498193343210681701210056278802351930332247450158539047304199577770935036604169973297250886876966403555707162268447162560798826517871341951246652010305921236677194325278675398558944896970964097545918569563802363701621120477427228364896134225164450781824423529486363721417402388934412479635743702637552944483379980161254922785092577825620926226483262779333865664816277251640191059004916449982893150566047258027786318641551956532442586982946959308019152987211725563475463964479101459040905862984967912874068705048958586717479854667757573205681288459205413340539220001137863009455606881667400169842055804033637953764520304024322566135278369511778838638744396625322498506549958862342818997077332761717839280349465014345588970719425863987727547109629537415211151368350627526023264847287039207643100595841166120545297030236472549296669381151373227536450988890313602057248176585118063036442812314965507047510254465011727211555194866850800368532281831521960037356252794495158284188294787610852639813955990067376482922443752871846245780361929819713991475644882626039033814418232625150974827987779964373089970388867782271383605772978824125611907176639465070633045279546618550966661856647097113444740160704626215680717481877844371436988218559670959102596862002353718588748569652200050311734392073211390803293634479727355955277349071783793421637012050054513263835440001863239914907054797780566978533580489669062951194324730995876552368128590413832411607226029983305353708761389396391779574540161372236187893652605381558415871869255386061647798340254351284396129460352913325942794904337299085731580290958631382683291477116396337092400316894586360606458459251269946557248391865642097526850823075442545993769170419777800853627309417101634349076964237222943523661255725088147792231519747780605696725380171807763603462459278778465850656050780844211529697521890874019660906651803516501792504619501366585436632712549639908549144200014574760819302212066024330096412704894390397177195180699086998606636583232278709376502260149291011517177635944602023249300280401867723910288097866605651183260043688508817157238669842242201024950551881694803221002515426494639812873677658927688163598312477886520141174110913601164995076629077943646005851941998560162647907615321038727557126992518275687989302761761146162549356495903798045838182323368612016243736569846703785853305275833337939907521660692380533698879565137285593883499894707416181550125397064648171946708348197214488898790676503795903669672494992545279033729636162658976039498576741397359441023744329709355477982629614591442936451428617158587339746791897571211956187385783644758448423555581050025611492391518893099463428413936080383091662818811503715284967059741625628236092168075150177725387402564253470879089137291722828611515915683725241630772254406337875931059826760944203261924285317018781772960235413060672136046000389661093647095141417185777014180606443636815464440053316087783143174440811949422975599314011888683314832802706553833004693290115744147563139997221703804617092894579096271662260740718749975359212756084414737823303270330168237193648002173285734935947564334129943024850235732214597843282641421684878721673367010615094243456984401873312810107945127223737886126058165668053714396127888732527373890392890506865324138062796025930387727697783792868409325365880733988457218746021005311483351323850047827169376218004904795597959290591655470505777514308175112698985188408718564026035305583737832422924185625644255022672155980274012617971928047139600689163828665277009752767069777036439260224372841840883251848770472638440379530166905465937461619323840363893131364327137688841026811219891275223056256756254701725086349765367288605966752740868627407912856576996313789753034660616669804218267724560530660773899624218340859882071864682623215080288286359746839654358856685503773131296587975810501214916207656769950659715344763470320853215603674828608378656803073062657633469774295634643716709397193060876963495328846833613038829431040800296873869117066666146800015121143442256023874474325250769387077775193299942137277211258843608715834835626961661980572526612206797540621062080649882918454395301529982092503005498257043390553570168653120526495614857249257386206917403695213533732531666345466588597286659451136441370331393672118569553952108458407244323835586063106806964924851232632699514603596037297253198368423363904632136710116192821711150282801604488058802382031981493096369596735832742024988245684941273860566491352526706046234450549227581151709314921879592718001940968866986837037302200475314338181092708030017205935530520700706072233999463990571311587099635777359027196285061146514837526209565346713290025994397663114545902685898979115837093419370441155121920117164880566945938131183843765620627846310490346293950029458341164824114969758326011800731699437393506966295712410273239138741754923071862454543222039552735295240245903805744502892246886285336542213815722131163288112052146489805180092024719391710555390113943316681515828843687606961102505171007392762385553386272553538830960671644662370922646809671254061869502143176211668140097595281493907222601112681153108387317617323235263605838173151034595736538223534992935822836851007810884634349983518404451704270189381994243410090575376257767571118090088164183319201962623416288166521374717325477727783488774366518828752156685719506371936565390389449366421764003121527870222366463635755503565576948886549500270853923617105502131147413744106134445544192101336172996285694899193369184729478580729156088510396781959429833186480756083679551496636448965592948187851784038773326247051945050419847742014183947731202815886845707290544057510601285258056594703046836344592652552137008068752009593453607316226118728173928074623094685367823106097921599360019946237993434210687813497346959246469752506246958616909178573976595199392993995567542714654910456860702099012606818704984178079173924071945996323060254707901774527513186809982284730860766536866855516467702911336827563107223346726113705490795365834538637196235856312618387156774118738527722922594743373785695538456246801013905727871016512966636764451872465653730402443684140814488732957847348490003019477888020460324660842875351848364959195082888323206522128104190448047247949291342284951970022601310430062410717971502793433263407995960531446053230488528972917659876016667811937932372453857209607582277178483361613582612896226118129455927462767137794487586753657544861407611931125958512655759734573015333642630767985443385761715333462325270572005303988289499034259566232975782488735029259166825894456894655992658454762694528780516501720674785417887982276806536650641910973434528878338621726156269582654478205672987756426325321594294418039943217000090542650763095588465895171709147607437136893319469090981904501290307099566226620303182649365733698419555776963787624918852865686607600566025605445711337286840205574416030837052312242587223438854123179481388550075689381124935386318635287083799845692619981794523364087429591180747453419551420351726184200845509170845682368200897739455842679214273477560879644279202708312150156406341341617166448069815483764491573900121217041547872591998943825364950514771379399147205219529079396137621107238494290616357604596231253506068537651423115349665683715116604220796394466621163255157729070978473156278277598788136491951257483328793771571459091064841642678309949723674420175862269402159407924480541255360431317992696739157542419296607312393763542139230617876753958711436104089409966089471418340698362993675362621545247298464213752891079884381306095552622720837518629837066787224430195793793786072107254277289071732854874374355781966511716618330881129120245204048682200072344035025448202834254187884653602591506445271657700044521097735585897622655484941621714989532383421600114062950718490427789258552743035221396835679018076406042138307308774460170842688272261177180842664333651780002171903449234264266292261456004337383868335555343453004264818473989215627086095650629340405264943244261445665921291225648893569655009154306426134252668472594914314239398845432486327461842846655985332312210466259890141712103446084271616619001257195870793217569698544013397622096749454185407118446433946990162698351607848924514058940946395267807354579700307051163682519487701189764002827648414160587206184185297189154019688253289309149665345753571427318482016384644832499037886069008072709327673127581966563941148961716832980455139729506687604740915420428429993541025829113502241690769431668574242522509026939034814856451303069925199590436384028429267412573422447765584177886171737265462085498294498946787350929581652632072258992368768457017823038096567883112289305809140572610865884845873101658151167533327674887014829167419701512559782572707406431808601428149024146780472327597684269633935773542930186739439716388611764209004068663398856841681003872389214483176070116684503887212364367043314091155733280182977988736590916659612402021778558854876176161989370794380056663364884365089144805571039765214696027662583599051987042300179465536788";
+
+
+--- self-practise\Note-B\2 高精度\阶乘数码.cpp ---
+#include<iostream>
+using namespace std;
+
+const int N = 1e7 + 5;
+int a[N];
+
+--- self-practise\Note-B\2 高精度\高精度减法.cpp ---
+#include<iostream>
+#include<cstdio>
+#include<cstring>
+#include<string>
+#include<algorithm>
+
+--- self-practise\Note-B\2 高精度\高精度加法.cpp ---
+#include<iostream>
+#include<cstdio>
+#include<algorithm>
+using namespace std;
+
+
+--- self-practise\Note-B\3 差分\Decrease.cpp ---
+#include<iostream>
+#define int long long
+using namespace std;
+
+const int N = 5e3 + 5;
+
+--- self-practise\Note-B\3 差分\不成熟の梦想家.cpp ---
+#include<iostream>
+#define int long long
+using namespace std;
+
+const int N = 2e5 + 5;
+
+--- self-practise\Note-B\3 差分\地毯.cpp ---
+#include<iostream>
+using namespace std;
+
+const int N = 1005;
+int d[N][N],a[N][N];
+
+--- self-practise\Note-B\3 差分\有趣的家庭菜园4.cpp ---
+#include<iostream>
+#include<algorithm>
+#define int long long
+using namespace std;
+
+
+--- self-practise\Note-B\3 差分\积木大赛.cpp ---
+#include<cstdio>
+#include<cstring>
+#include<iostream>
+#include<algorithm>
+using namespace std;
+
+--- self-practise\Note-B\3 差分\语文成绩.cpp ---
+#include<iostream>
+using namespace std;
+
+const int N = 5e6 + 5;
+int a[N],diff[N];
+
+--- self-practise\Note-B\4 贪心\Sunscreen-G.cpp ---
+#include<iostream>
+#include<algorithm>
+using namespace std;
+
+const int N = 2505;
+
+--- self-practise\Note-B\4 贪心\Work-Scheduling-G.cpp ---
+#include<iostream>
+#include<queue>
+#include<algorithm>
+#define int long long
+using namespace std;
+
+--- self-practise\Note-B\4 贪心\凌乱的yyy-线段覆盖.cpp ---
+#include<iostream>
+#include<algorithm>
+using namespace std;
+
+const int N = 1e6 + 5;
+
+--- self-practise\Note-B\4 贪心\分组.cpp ---
+#include<iostream>
+#include<queue>
+#include<algorithm>
+#include<map>
+using namespace std;
+
+--- self-practise\Note-B\4 贪心\删数问题.cpp ---
+#include<iostream>
+#include<algorithm>
+using namespace std;
+
+const int N = 255;
+
+--- self-practise\Note-B\4 贪心\区间.cpp ---
+#include<iostream>
+#include<algorithm>
+using namespace std;
+
+const int N = 5e4 + 5;
+
+--- self-practise\Note-B\4 贪心\区间覆盖-加强版.cpp ---
+#include<iostream>
+#include<algorithm>
+using namespace std;
+
+const int N = 1e6 + 5;
+
+--- self-practise\Note-B\4 贪心\国王游戏.cpp ---
+#include<iostream>
+#include<algorithm>
+#define int long long
+using namespace std;
+
+
+--- self-practise\Note-B\4 贪心\均分纸牌.cpp ---
+#include<cstdio>
+#include<cstring>
+#include<iostream>
+#include<algorithm>
+using namespace std;
+
+--- self-practise\Note-B\4 贪心\小A的糖果.cpp ---
+#include<iostream>
+#define int long long
+using namespace std;
+
+const int N = 1e5 + 5;
+
+--- self-practise\Note-B\4 贪心\排队接水.cpp ---
+#include<iostream>
+#include<algorithm>
+#include<cstdio>
+using namespace std;
+  
+
+--- self-practise\Note-B\4 贪心\混合牛奶 Mixing Milk.cpp ---
+#include<cstdio>
+#include<cstring>
+#include<iostream>
+#include<algorithm>
+using namespace std;
+
+--- self-practise\Note-B\4 贪心\田忌赛马.cpp ---
+#include<iostream>
+#include<algorithm>
+using namespace std;
+
+const int N = 2005;
+
+--- self-practise\Note-B\4 贪心\部分背包问题.cpp ---
+#include<iostream>
+#include<algorithm>
+using namespace std;
+
+const int N = 105;
+
+--- self-practise\Note-B\4 贪心\雷达安装.cpp ---
+#include<iostream>
+#include<algorithm>
+#include<cstdio>
+#include<cmath>
+using namespace std;
+
+--- self-practise\Note-B\5 分治\Moo.cpp ---
+#include<iostream>
+using namespace std;
+
+const int N = 1e5 + 5;
+int n,len[N];
+
+--- self-practise\Note-B\5 分治\Secret-Cow-Code-S.cpp ---
+#include<iostream>
+using namespace std;
+
+string s;
+long long n,cpy;
+
+--- self-practise\Note-B\5 分治\【模板】快速幂.cpp ---
+#include<cstdio>
+#include<iostream>
+#include<algorithm>
+using namespace std;
+typedef long long LL;
+
+--- self-practise\Note-B\5 分治\一元三次方程求解.cpp ---
+#include<iostream>
+#include<cstdio>
+using namespace std;
+
+int main() {
+
+--- self-practise\Note-B\5 分治\地毯填补问题.cpp ---
+#include<iostream>
+#include<algorithm>
+#include<cstdio>
+using namespace std;
+
+
+--- self-practise\Note-B\5 分治\平面最近点对-加强版.cpp ---
+#include<iostream>
+#include<cstdio>
+#include<algorithm>
+#include<cmath>
+using namespace std;
+
+--- self-practise\Note-B\5 分治\求第k小的数.cpp ---
+#include<iostream>
+using namespace std;
+
+const int N = 5e6 + 5;
+int a[N];
+
+--- self-practise\Note-B\5 分治\逆序对.cpp ---
+#include<iostream>
+using namespace std;
+
+const int N = 5e5 + 5;
+int a[N],tmp[N];
+
+--- self-practise\STL\动态数组\look-up-S.cpp ---
+#include<iostream>
+#include<stack>
+using namespace std;
+
+const int N = 1e5 + 5;
+
+--- self-practise\green-green-purple\1\序列合并.cpp ---
+#include<iostream>
+using namespace std;
+
+const int N = 2e5 + 5;
+int n,k,ans = 0,a[N];
+
+--- self-practise\green-green-purple\1\方差.cpp ---
+#include<iostream>
+#define int long long
+using namespace std;
+
+const int N = 1e3 + 5,mod = 998244353;
+
+--- teach\「IXOI R1」永远在一起！.cpp ---
+#include<iostream>
+using namespace std;
+
+int main() {
+    int n;
+
+--- teach\归程-标程.cpp ---
+#include<iostream>
+#include<vector>
+#include<cstring>
+#include<queue>
+#include<algorithm>
+
+--- teach\归程.cpp ---
+%:include<iostream>
+%:include<vector>
+%:include<cstring>
+%:include<queue>
+%:include<algorithm>
+
+--- test\data.cpp ---
+#include<cstdio>
+#include<algorithm>
+#include<cstdlib>
+#include<ctime>
+using namespace std;
+
+--- test\test.cpp ---
+#include<iostream>
+using namespace std;
+
+int main() {
+    while (true) cout << fflush;

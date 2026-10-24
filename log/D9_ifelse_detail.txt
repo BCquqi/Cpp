@@ -1,0 +1,30 @@
+101: if (v == pa)
+50: if (r <= mid)
+50: if (l > mid)
+35: if (b & 1)
+33: if (l == r) {
+33: if (flag)
+32: if (l <= tr[id].l && tr[id].r <= r) {
+25: if (check(mid)
+24: if (fx != fy)
+24: if (i <= bl)
+23: if (vis[v])
+19: if (vis[u])
+19: if (op == 1) {
+18: if (vis[nx][ny])
+17: if (tr[id].l == l && tr[id].r == r)
+17: if (dep[u] < dep[v])
+16: if (dep[fa[u][i]] >= dep[v])
+16: if (u == v)
+16: if (fa[u][i] != fa[v][i])
+16: if (in[i] == 0)
+16: if (!ch[x][i])
+16: if (nx < 1 || nx > n || ny < 1 || ny > m)
+16: if (i <= al)
+15: if (dis[v] > dis[u] + w) {
+15: if (l == r)
+14: if (!vis[v]) {
+14: if (tr[id].lazy && tr[id].l != tr[id].r) {
+13: if (!vis[v])
+13: if (--in[v] == 0)
+12: if (find(x)

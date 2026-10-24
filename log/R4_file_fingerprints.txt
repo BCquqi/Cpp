@@ -1,0 +1,1100 @@
+2026-7\2025winter\hj1\At Most 3\AtMost3.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=22
+2026-7\2025winter\hj1\Coupon\coupon.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=22
+2026-7\2025winter\hj1\Distribution\distribution.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=22
+2026-7\2025winter\hj1\K Swap\KSwap.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=24
+2026-7\2025winter\hj1\Many Segments\ManySegments.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=25
+2026-7\2025winter\hj1\Swiss-System Tournament\Swiss-SystemTournament.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=40
+2026-7\2025winter\hj2\Another Sigma Problem\AnotherSigmaProblem.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=41
+2026-7\2025winter\hj2\Make Them Narrow\MakeThemNarrow.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=15
+2026-7\2025winter\hj2\Piano 2\Piano2.cpp: endl=2 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=23
+2026-7\2025winter\hj2\Robot Takahashi\RobotTakahashi.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=28
+2026-7\2025winter\hj2\Split\Split.cpp: endl=3 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=26
+2026-7\2025winter\hj2\Vertical Reading\VerticalReading.cpp: endl=2 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=17
+2026-7\2025winter\hj3\A - B problem\A-Bproblem.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=26
+2026-7\2025winter\hj3\ARC Wrecker\ARCWrecker.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=16
+2026-7\2025winter\hj3\A^B^C\A^B^C.cpp: endl=3 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=21
+2026-7\2025winter\hj3\Quadruple\Quadruple.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=17
+2026-7\2025winter\hj3\log\log.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=19
+2026-7\单调队列与单调栈\ARC-Architects.cpp: endl=0 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=163
+2026-7\单调队列与单调栈\BBB-BBB.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=34
+2026-7\单调队列与单调栈\Cow-Frisbee-S.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=28
+2026-7\单调队列与单调栈\Flowerpot-S.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=29
+2026-7\单调队列与单调栈\Look-Up-S.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=19
+2026-7\单调队列与单调栈\【模板】单调栈.cpp: endl=0 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=19
+2026-7\单调队列与单调栈\【模板】单调队列-滑动窗口.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=30
+2026-7\单调队列与单调栈\寻找段落.cpp: endl=0 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=37
+2026-7\单调队列与单调栈\选择数字.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=Y signed_main=Y fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=28
+2026-7\多维dp\中国象棋.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=45
+2026-7\多维dp\乌龟棋-加强版.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=27
+2026-7\多维dp\乌龟棋.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=26
+2026-7\多维dp\传纸条.cpp: endl=1 ret_sp=0 sizeof_np=1 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=1 lambda=0 lines=27
+2026-7\多维dp\多米诺骨牌.cpp: endl=1 ret_sp=0 sizeof_np=1 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=1 lambda=0 lines=31
+2026-7\多维dp\子串.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=28
+2026-7\多维dp\榨取kkksc03.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=20
+2026-7\多维dp\海盗船.cpp: endl=1 ret_sp=2 sizeof_np=1 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=1 lambda=0 lines=49
+2026-7\多维dp\糖果.cpp: endl=2 ret_sp=0 sizeof_np=3 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=3 lambda=0 lines=46
+2026-7\散题\P550.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=23
+2026-7\散题\P551.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=29
+2026-7\散题\P552.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=35
+2026-7\散题\P553.cpp: endl=1 ret_sp=0 sizeof_np=1 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=1 lambda=0 lines=43
+2026-7\散题\P554.cpp: endl=1 ret_sp=1 sizeof_np=2 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=2 lambda=0 lines=63
+2026-7\散题\P555.cpp: endl=1 ret_sp=0 sizeof_np=2 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=2 lambda=0 lines=57
+2026-7\散题\P556.cpp: endl=0 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=18
+2026-7\散题\P899.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=41
+2026-7\树状数组\Lost-Cows.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=30
+2026-7\树状数组\二维树状数组1.cpp: endl=0 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=38
+2026-7\树状数组\二维树状数组2.cpp: endl=0 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=Y signed_main=Y fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=41
+2026-7\树状数组\二维树状数组3.cpp: endl=0 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=Y signed_main=Y fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=65
+2026-7\树状数组\树状数组1.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=Y signed_main=Y fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=35
+2026-7\树状数组\树状数组2.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=Y signed_main=Y fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=36
+2026-7\树状数组\树状数组3.cpp: endl=0 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=Y signed_main=Y fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=39
+2026-7\树状数组\楼兰图腾.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=Y signed_main=Y fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=26
+2026-7\树状数组\火柴排队.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=Y signed_main=Y fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=40
+2026-7\树状数组\逆序对.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=Y signed_main=Y fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=31
+2026-7\线段树\A-Simple-Problem-with-Integers.cpp: endl=0 ret_sp=2 sizeof_np=0 brace_else=0 allman=N def_int=Y signed_main=Y fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=77
+2026-7\线段树\Balanced-Lineup-G.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=25
+2026-7\线段树\Hotel-G.cpp: endl=2 ret_sp=2 sizeof_np=0 brace_else=0 allman=N def_int=Y signed_main=Y fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=95
+2026-7\线段树\Light-Switching-G.cpp: endl=1 ret_sp=2 sizeof_np=0 brace_else=0 allman=N def_int=Y signed_main=Y fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=66
+2026-7\线段树\【模板】ST表.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=31
+2026-7\线段树\【模板】线段树.cpp: endl=0 ret_sp=2 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=54
+2026-7\线段树\【模板】线段树1.cpp: endl=0 ret_sp=2 sizeof_np=0 brace_else=0 allman=N def_int=Y signed_main=Y fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=78
+2026-7\线段树\【模板】线段树2.cpp: endl=0 ret_sp=3 sizeof_np=0 brace_else=0 allman=N def_int=Y signed_main=Y fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=119
+2026-7\线段树\序列操作1.cpp: endl=0 ret_sp=2 sizeof_np=0 brace_else=0 allman=N def_int=Y signed_main=Y fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=51
+2026-7\线段树\序列操作2.cpp: endl=0 ret_sp=2 sizeof_np=0 brace_else=0 allman=N def_int=Y signed_main=Y fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=67
+2026-7\线段树\最大数maxnumber.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=Y signed_main=Y fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=37
+2026-7\线段树\策略游戏.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=Y signed_main=Y fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=49
+2026-7\线段树\维护序列.cpp: endl=0 ret_sp=3 sizeof_np=0 brace_else=0 allman=N def_int=Y signed_main=Y fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=119
+2026-7\线段树\逆序对.cpp: endl=1 ret_sp=2 sizeof_np=0 brace_else=0 allman=N def_int=Y signed_main=Y fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=70
+2026-7\背包问题\Cow-Exhibition-G.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=27
+2026-7\背包问题\Cut-Ribbon.cpp: endl=1 ret_sp=1 sizeof_np=1 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=1 lambda=0 lines=24
+2026-7\背包问题\Elimination.cpp: endl=1 ret_sp=0 sizeof_np=1 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=1 lambda=0 lines=23
+2026-7\背包问题\Video-Game-Troubles-G.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=31
+2026-7\背包问题\买干草.cpp: endl=1 ret_sp=0 sizeof_np=1 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=1 lambda=0 lines=20
+2026-7\背包问题\多人背包.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=26
+2026-7\背包问题\摆花.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=20
+2026-7\背包问题\最佳课题选择.cpp: endl=1 ret_sp=0 sizeof_np=1 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=1 lambda=0 lines=22
+2026-7\背包问题\烹调方案.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=26
+2026-7\背包问题\竞赛真理.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=18
+2026-7\背包问题\纪念品.cpp: endl=1 ret_sp=0 sizeof_np=1 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=1 lambda=0 lines=24
+2026-7\背包问题\背包的第k优解.cpp: endl=1 ret_sp=0 sizeof_np=1 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=1 lambda=0 lines=28
+2026-7\背包问题\采药.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=17
+2026-7\背包问题\金明的预算方案.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=27
+2026-7\背包问题\集合-Subset-Sums.cpp: endl=2 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=23
+2026-7\背包问题\飞扬的小鸟.cpp: endl=4 ret_sp=0 sizeof_np=2 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=2 lambda=0 lines=46
+2026-7\链表及其应用\【模板】双向链表.cpp: endl=2 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=54
+2026-7\链表及其应用\单向链表.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=34
+2026-7\链表及其应用\排队顺序.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=15
+2026-7\链表及其应用\链表操作.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=43
+2026-8\Slope-Trick与WQS二分\Tree-I.cpp: endl=1 ret_sp=1 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=51
+2026-8\Slope-Trick与WQS二分\序列-sequence.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=22
+2026-8\Slope-Trick与WQS二分\种树.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=Y signed_main=Y fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=43
+2026-8\动态dp与dp套dp\Kuro-and-Topological-Parity.cpp: endl=1 ret_sp=1 sizeof_np=0 brace_else=0 allman=N def_int=Y signed_main=Y fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=53
+2026-8\动态dp与dp套dp\Sasha-and-Array.cpp: endl=1 ret_sp=4 sizeof_np=0 brace_else=0 allman=N def_int=Y signed_main=Y fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=112
+2026-8\动态dp与dp套dp\【模板】矩阵快速幂.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=Y signed_main=Y fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=39
+2026-8\动态dp与dp套dp\小白逛公园.cpp: endl=1 ret_sp=4 sizeof_np=0 brace_else=0 allman=N def_int=Y signed_main=Y fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=78
+2026-8\动态dp与dp套dp\矩阵加速（数列）.cpp: endl=2 ret_sp=2 sizeof_np=2 brace_else=0 allman=N def_int=Y signed_main=Y fast_read=N bits=N emplace=0 auto_ref=0 memset=2 lambda=0 lines=49
+2026-8\动态规划及其优化1\Candies.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=24
+2026-8\动态规划及其优化1\Flowers.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=Y signed_main=Y fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=30
+2026-8\动态规划及其优化1\LUK-Triumphal-arch.cpp: endl=1 ret_sp=2 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=48
+2026-8\动态规划及其优化1\创世纪.cpp: endl=1 ret_sp=0 sizeof_np=2 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=2 lambda=0 lines=55
+2026-8\动态规划及其优化1\期末考试滑溜滑溜补习班.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=Y signed_main=Y fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=38
+2026-8\动态规划及其优化1\琪露诺.cpp: endl=1 ret_sp=0 sizeof_np=1 brace_else=0 allman=N def_int=Y signed_main=Y fast_read=N bits=N emplace=0 auto_ref=0 memset=1 lambda=0 lines=29
+2026-8\动态规划及其优化1\跑路.cpp: endl=1 ret_sp=0 sizeof_np=1 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=1 lambda=0 lines=33
+2026-8\动态规划及其优化2\The-Bakery.cpp: endl=1 ret_sp=2 sizeof_np=1 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=1 lambda=0 lines=73
+2026-8\动态规划及其优化2\Watching-Fireworks-is-Fun.cpp: endl=1 ret_sp=0 sizeof_np=2 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=2 lambda=0 lines=49
+2026-8\动态规划及其优化2\柠檬.cpp: endl=0 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=19
+2026-8\动态规划及其优化2\特别行动队.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=Y signed_main=Y fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=24
+2026-8\动态规划及其优化2\玩具装箱.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=Y signed_main=Y fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=23
+2026-8\动态规划及其优化2\琪露诺.cpp: endl=1 ret_sp=0 sizeof_np=1 brace_else=0 allman=N def_int=Y signed_main=Y fast_read=N bits=N emplace=0 auto_ref=0 memset=1 lambda=0 lines=28
+2026-8\动态规划及其优化2\股票交易.cpp: endl=1 ret_sp=0 sizeof_np=1 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=1 lambda=0 lines=40
+2026-8\排列组合\Bouquet.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=Y signed_main=Y fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=31
+2026-8\排列组合\Cell-Distance.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=Y signed_main=Y fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=40
+2026-8\排列组合\Large-Heap.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=Y signed_main=Y fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=50
+2026-8\排列组合\Many-Many-Paths.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=35
+2026-8\排列组合\[ZJOI]排列计数.cpp: endl=1 ret_sp=2 sizeof_np=0 brace_else=0 allman=N def_int=Y signed_main=Y fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=42
+2026-8\排列组合\中国象棋.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=45
+2026-8\排列组合\安全系统.cpp: endl=0 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=Y fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=45
+2026-8\排列组合\小朋友的球.cpp: endl=2 ret_sp=0 sizeof_np=3 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=3 lambda=0 lines=46
+2026-8\排列组合\已经没有什么好害怕的了.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=Y signed_main=Y fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=55
+2026-8\排列组合\幸运数字.cpp: endl=1 ret_sp=3 sizeof_np=0 brace_else=0 allman=N def_int=Y signed_main=Y fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=57
+2026-8\排列组合\排列计数.cpp: endl=2 ret_sp=1 sizeof_np=0 brace_else=0 allman=N def_int=Y signed_main=Y fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=45
+2026-8\排列组合\有趣的数列.cpp: endl=1 ret_sp=1 sizeof_np=0 brace_else=0 allman=N def_int=Y signed_main=Y fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=50
+2026-8\排列组合\生成字符串.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=Y signed_main=Y fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=36
+2026-8\排列组合\硬币购物.cpp: endl=1 ret_sp=1 sizeof_np=0 brace_else=0 allman=N def_int=Y signed_main=Y fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=32
+2026-8\排列组合\苹果树.cpp: endl=1 ret_sp=1 sizeof_np=0 brace_else=0 allman=N def_int=Y signed_main=Y fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=46
+2026-8\数据结构基础知识学习与应用\FHQ-Treap.cpp: endl=0 ret_sp=1 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=97
+2026-8\数据结构基础知识学习与应用\Multiset.cpp: endl=1 ret_sp=1 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=49
+2026-8\数据结构基础知识学习与应用\XOR的艺术.cpp: endl=1 ret_sp=4 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=67
+2026-8\数据结构基础知识学习与应用\【模板】动态开点线段树.cpp: endl=1 ret_sp=2 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=Y fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=90
+2026-8\数据结构基础知识学习与应用\【模板】普通平衡树.cpp: endl=4 ret_sp=1 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=121
+2026-8\数据结构基础知识学习与应用\【模板】树状数组1.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=34
+2026-8\数据结构基础知识学习与应用\【模板】线段树1.cpp: endl=0 ret_sp=2 sizeof_np=0 brace_else=0 allman=N def_int=Y signed_main=Y fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=77
+2026-8\数据结构基础知识学习与应用\火柴排队.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=38
+2026-8\数据结构基础练习题\Why-Did-The-Cow-Cross-the-Road-I-P.cpp: endl=1 ret_sp=2 sizeof_np=2 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=2 lambda=0 lines=69
+2026-8\数据结构基础练习题\守墓人.cpp: endl=2 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=Y signed_main=Y fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=61
+2026-8\数据结构基础练习题\数学计算.cpp: endl=1 ret_sp=3 sizeof_np=1 brace_else=0 allman=N def_int=Y signed_main=Y fast_read=N bits=N emplace=0 auto_ref=0 memset=1 lambda=0 lines=64
+2026-8\数据结构基础练习题\神秘的703.cpp: endl=0 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=31
+2026-8\数据结构进阶练习\Flowers.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=Y signed_main=Y fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=29
+2026-8\数据结构进阶练习\Hotel-G.cpp: endl=2 ret_sp=2 sizeof_np=0 brace_else=0 allman=N def_int=Y signed_main=Y fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=95
+2026-8\数据结构进阶练习\Lost-Cows.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=30
+2026-8\数据结构进阶练习\Preprefix-sum.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=Y signed_main=Y fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=38
+2026-8\数据结构进阶练习\冰火战士.cpp: endl=0 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=0
+2026-8\数据结构进阶练习\基站选址.cpp: endl=0 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=0
+2026-8\数据结构进阶练习\小白逛公园.cpp: endl=1 ret_sp=4 sizeof_np=0 brace_else=0 allman=N def_int=Y signed_main=Y fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=78
+2026-8\数据结构进阶练习\排序机械臂.cpp: endl=1 ret_sp=2 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=99
+2026-8\数据结构进阶练习\永无乡.cpp: endl=0 ret_sp=2 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=83
+2026-8\数据结构进阶练习\食物链.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=34
+2026-8\斜率优化\Cats-Transport.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=Y signed_main=Y fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=34
+2026-8\斜率优化\仓库建设.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=Y signed_main=Y fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=33
+2026-8\斜率优化\任务安排1.cpp: endl=1 ret_sp=0 sizeof_np=1 brace_else=0 allman=N def_int=Y signed_main=Y fast_read=N bits=N emplace=0 auto_ref=0 memset=1 lambda=0 lines=28
+2026-8\斜率优化\任务安排2.cpp: endl=1 ret_sp=0 sizeof_np=1 brace_else=0 allman=N def_int=Y signed_main=Y fast_read=N bits=N emplace=0 auto_ref=0 memset=1 lambda=0 lines=33
+2026-8\斜率优化\特别行动队.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=Y signed_main=Y fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=25
+2026-8\斜率优化\玩具装箱.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=Y signed_main=Y fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=24
+2026-8\斜率优化\货币兑换.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=47
+2026-8\根号算法选讲\作诗.cpp: endl=0 ret_sp=1 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=81
+2026-8\根号算法选讲\小Z的袜子.cpp: endl=1 ret_sp=2 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=58
+2026-8\根号算法选讲\弹飞绵羊.cpp: endl=1 ret_sp=2 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=58
+2026-8\根号算法选讲\教主的魔法.cpp: endl=1 ret_sp=2 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=70
+2026-8\测试1\confluere.cpp: endl=0 ret_sp=1 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=20
+2026-8\测试1\diftest.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=16
+2026-8\测试1\fatum.cpp: endl=0 ret_sp=1 sizeof_np=1 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=1 lambda=0 lines=26
+2026-8\测试1\geminae.cpp: endl=2 ret_sp=2 sizeof_np=6 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=6 lambda=0 lines=58
+2026-8\测试1\pipeline-40.cpp: endl=2 ret_sp=1 sizeof_np=1 brace_else=0 allman=N def_int=Y signed_main=Y fast_read=N bits=N emplace=0 auto_ref=0 memset=1 lambda=0 lines=38
+2026-8\测试1\pipeline.cpp: endl=0 ret_sp=1 sizeof_np=0 brace_else=0 allman=N def_int=Y signed_main=Y fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=38
+2026-8\测试2\allocation\allocation.cpp: endl=1 ret_sp=1 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=40
+2026-8\测试2\auto\auto.cpp: endl=0 ret_sp=2 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=67
+2026-8\测试2\city\city.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=Y signed_main=Y fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=40
+2026-8\测试2\series\series.cpp: endl=0 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=18
+2026-8\测试3\axis-check.cpp: endl=0 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=46
+2026-8\测试3\axis.cpp: endl=2 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=Y signed_main=Y fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=44
+2026-8\测试3\darksideofthemoon.cpp: endl=2 ret_sp=0 sizeof_np=1 brace_else=0 allman=N def_int=Y signed_main=Y fast_read=N bits=N emplace=0 auto_ref=0 memset=1 lambda=0 lines=30
+2026-8\测试3\oracle.cpp: endl=5 ret_sp=5 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=73
+2026-8\测试3\square.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=14
+2026-8\点分治-树剖-直径-重心-虚树\Link-Cut-Centroids.cpp: endl=2 ret_sp=4 sizeof_np=2 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=2 lambda=0 lines=65
+2026-8\点分治-树剖-直径-重心-虚树\会议.cpp: endl=1 ret_sp=1 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=47
+2026-8\点分治-树剖-直径-重心-虚树\巡逻.cpp: endl=2 ret_sp=2 sizeof_np=1 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=1 lambda=0 lines=59
+2026-8\点分治-树剖-直径-重心-虚树\树的直径.cpp: endl=1 ret_sp=1 sizeof_np=1 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=1 lambda=0 lines=37
+2026-8\点分治-树剖-直径-重心-虚树\重链剖分-树链剖分.cpp: endl=0 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=39
+2026-8\简单字符串算法\Compress-Words.cpp: endl=1 ret_sp=1 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=32
+2026-8\简单字符串算法\KMP.cpp: endl=2 ret_sp=1 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=29
+2026-8\简单字符串算法\兔子与兔子.cpp: endl=2 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=22
+2026-8\简单字符串算法\动物园.cpp: endl=1 ret_sp=0 sizeof_np=2 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=2 lambda=0 lines=38
+2026-8\简单字符串算法\失配树.cpp: endl=1 ret_sp=1 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=66
+2026-8\简单字符串算法\字符串哈希.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=21
+2026-8\简单树论与树上技巧\Kay-and-Snowflake.cpp: endl=1 ret_sp=1 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=45
+2026-8\简单树论与树上技巧\Max-Flow-P.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=58
+2026-8\简单树论与树上技巧\会议.cpp: endl=1 ret_sp=1 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=47
+2026-8\简单树论与树上技巧\归程.cpp: endl=1 ret_sp=0 sizeof_np=5 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=5 lambda=0 lines=99
+2026-8\简单树论与树上技巧\最小生成树.cpp: endl=2 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=41
+2026-8\简单树论与树上技巧\最近公共祖先.cpp: endl=0 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=46
+2026-8\简单树论与树上技巧\树链的并.cpp: endl=0 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=83
+2026-8\综合练习\Best-Concatenation.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=Y signed_main=Y fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=30
+2026-8\综合练习\Game-in-Momotetsu-World.cpp: endl=3 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=24
+2026-8\综合练习\HRPA.cpp: endl=2 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=Y signed_main=Y fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=28
+2026-8\综合练习\Permutation-Game.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=23
+2026-8\综合练习\Potions.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=24
+2026-8\综合练习\Programming-Contest.cpp: endl=0 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=11
+2026-8\综合练习\骑士精神.cpp: endl=1 ret_sp=3 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=54
+2026-8\贪心\Megalomania.cpp: endl=2 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=24
+2026-8\贪心\Summer-Vacation.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=29
+2026-8\贪心\Work-Scheduling-G.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=Y signed_main=Y fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=28
+2026-8\贪心\建筑抢修.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=Y signed_main=Y fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=28
+2026-8\贪心\数据备份.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=Y signed_main=Y fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=43
+2026-8\贪心\点菜.cpp: endl=0 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=Y signed_main=Y fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=58
+2026-8\贪心\蔬菜.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=Y signed_main=Y fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=88
+2026-8\贪心\超级钢琴.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=49
+2026-9-10-11\dp选讲\Eternal-Average.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=Y signed_main=Y fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=21
+2026-9-10-11\dp选讲\Medals.cpp: endl=1 ret_sp=1 sizeof_np=1 brace_else=0 allman=N def_int=Y signed_main=Y fast_read=N bits=N emplace=0 auto_ref=0 memset=1 lambda=0 lines=46
+2026-9-10-11\dp选讲\Permutation-Oddness.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=Y signed_main=Y fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=19
+2026-9-10-11\dp选讲\Round-screws.cpp: endl=1 ret_sp=1 sizeof_np=2 brace_else=0 allman=N def_int=Y signed_main=Y fast_read=N bits=N emplace=0 auto_ref=0 memset=2 lambda=0 lines=42
+2026-9-10-11\dp选讲\Wonderful-Jump.cpp: endl=1 ret_sp=0 sizeof_np=1 brace_else=0 allman=N def_int=Y signed_main=Y fast_read=N bits=N emplace=0 auto_ref=0 memset=1 lambda=0 lines=28
+2026-9-10-11\交互-构造-ad-hoc进阶\Menji-we-miss-you.cpp: endl=2 ret_sp=1 sizeof_np=2 brace_else=0 allman=N def_int=Y signed_main=Y fast_read=N bits=N emplace=0 auto_ref=0 memset=2 lambda=0 lines=69
+2026-9-10-11\交互-构造-ad-hoc进阶\Subset-with-Zero-Sum.cpp: endl=2 ret_sp=0 sizeof_np=2 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=2 lambda=0 lines=39
+2026-9-10-11\交互-构造-ad-hoc进阶\Two-Permutations.cpp: endl=3 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=Y signed_main=Y fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=48
+2026-9-10-11\交互-构造-ad-hoc进阶\XOR-and-Swap.cpp: endl=2 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=26
+2026-9-10-11\图论专题复习与提升\Mike-and-Fish.cpp: endl=1 ret_sp=0 sizeof_np=1 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=1 lambda=0 lines=37
+2026-9-10-11\图论专题复习与提升\Redundant-Paths-G.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=52
+2026-9-10-11\图论专题复习与提升\【模板】二分图最大匹配.cpp: endl=1 ret_sp=0 sizeof_np=1 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=1 lambda=0 lines=37
+2026-9-10-11\图论专题复习与提升\【模板】割点（割顶）.cpp: endl=2 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=43
+2026-9-10-11\图论专题复习与提升\【模板】无向图三元环计数.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=31
+2026-9-10-11\图论专题复习与提升\【模板】欧拉路径.cpp: endl=4 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=57
+2026-9-10-11\图论专题复习与提升\【模板】点双连通分量.cpp: endl=2 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=56
+2026-9-10-11\图论专题复习与提升\【模板】缩点-强联通分量.cpp: endl=1 ret_sp=1 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=68
+2026-9-10-11\图论专题复习与提升\【模板】边双连通分量.cpp: endl=2 ret_sp=1 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=57
+2026-9-10-11\图论专题复习与提升\建造军营.cpp: endl=1 ret_sp=1 sizeof_np=0 brace_else=0 allman=N def_int=Y signed_main=Y fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=85
+2026-9-10-11\图论专题复习与提升\归程.cpp: endl=0 ret_sp=0 sizeof_np=5 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=5 lambda=0 lines=101
+2026-9-10-11\图论专题复习与提升\飞行路线.cpp: endl=1 ret_sp=0 sizeof_np=1 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=1 lambda=0 lines=54
+2026-9-10-11\字符串专题\Censoring-G.cpp: endl=1 ret_sp=1 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=52
+2026-9-10-11\字符串专题\First-G.cpp: endl=2 ret_sp=0 sizeof_np=1 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=1 lambda=0 lines=68
+2026-9-10-11\字符串专题\You-Are-Given-Some-Strings.cpp: endl=0 ret_sp=1 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=40
+2026-9-10-11\字符串专题\【模板】AC自动机.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=74
+2026-9-10-11\字符串专题\【模板】Manacher.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=25
+2026-9-10-11\字符串专题\优秀的拆分.cpp: endl=0 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=13
+2026-9-10-11\字符串专题\公共串.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=51
+2026-9-10-11\字符串专题\最长异或路径.cpp: endl=1 ret_sp=1 sizeof_np=0 brace_else=0 allman=N def_int=Y signed_main=Y fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=54
+2026-9-10-11\数据结构\Good-Pairs.cpp: endl=1 ret_sp=1 sizeof_np=0 brace_else=0 allman=N def_int=Y signed_main=Y fast_read=N bits=N emplace=0 auto_ref=0 memset=1 lambda=0 lines=84
+2026-9-10-11\数据结构\Red-Sequence.cpp: endl=1 ret_sp=1 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=61
+2026-9-10-11\数据结构\不归之人与望眼欲穿的人们.cpp: endl=1 ret_sp=2 sizeof_np=1 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=1 lambda=0 lines=74
+2026-9-10-11\数据结构\冰火战士.cpp: endl=0 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=Y signed_main=Y fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=65
+2026-9-10-11\数据结构\天降之物.cpp: endl=0 ret_sp=1 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=Y bits=N emplace=0 auto_ref=0 memset=3 lambda=0 lines=221
+2026-9-10-11\数据结构\排序.cpp: endl=1 ret_sp=4 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=90
+2026-9-10-11\数据结构\未优化-天降之物.cpp: endl=0 ret_sp=2 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=119
+2026-9-10-11\树上问题\Fib-tree.cpp: endl=2 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=58
+2026-9-10-11\树上问题\Tree-Factory.cpp: endl=3 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=56
+2026-9-10-11\树上问题\Tree-Tag.cpp: endl=4 ret_sp=4 sizeof_np=3 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=3 lambda=0 lines=60
+2026-9-10-11\树上问题\rldcot.cpp: endl=0 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=Y signed_main=Y fast_read=Y bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=170
+2026-9-10-11\树上问题\spxmcq.cpp: endl=0 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=Y signed_main=Y fast_read=Y bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=137
+2026-9-10-11\树上问题\贸易.cpp: endl=1 ret_sp=0 sizeof_np=1 brace_else=0 allman=N def_int=Y signed_main=Y fast_read=N bits=N emplace=0 auto_ref=0 memset=1 lambda=0 lines=39
+2026-9-10-11\树形dp\入门例题1.cpp: endl=1 ret_sp=1 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=30
+2026-9-10-11\树形dp\入门例题2.cpp: endl=2 ret_sp=1 sizeof_np=0 brace_else=0 allman=N def_int=Y signed_main=Y fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=35
+2026-9-10-11\树形dp\入门例题3.cpp: endl=1 ret_sp=1 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=45
+2026-9-10-11\树形dp\入门例题4.cpp: endl=2 ret_sp=2 sizeof_np=1 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=1 lambda=0 lines=46
+2026-9-10-11\树形dp\入门例题5.cpp: endl=1 ret_sp=1 sizeof_np=0 brace_else=0 allman=N def_int=Y signed_main=Y fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=42
+2026-9-10-11\树形dp\旅游.cpp: endl=1 ret_sp=1 sizeof_np=1 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=1 lambda=0 lines=62
+2026-9-10-11\树形dp\最大子树和.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=30
+2026-9-10-11\树形dp\树上染色.cpp: endl=1 ret_sp=0 sizeof_np=1 brace_else=0 allman=N def_int=Y signed_main=Y fast_read=N bits=N emplace=0 auto_ref=0 memset=1 lambda=0 lines=39
+2026-9-10-11\树形dp\树上统计.cpp: endl=1 ret_sp=1 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=35
+2026-9-10-11\树形dp\选课.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=30
+2026-9-10-11\贪心与证明\01-on-Tree.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=Y signed_main=Y fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=46
+2026-9-10-11\贪心与证明\Donation.cpp: endl=1 ret_sp=0 sizeof_np=2 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=2 lambda=0 lines=70
+2026-9-10-11\贪心与证明\Swap-Space.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=Y signed_main=Y fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=29
+2026-9-10-11\贪心与证明\Tower.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=Y signed_main=Y fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=23
+2026-9-10-11\贪心与证明\Travelling-Merchant.cpp: endl=1 ret_sp=0 sizeof_np=1 brace_else=0 allman=N def_int=Y signed_main=Y fast_read=N bits=N emplace=0 auto_ref=0 memset=1 lambda=0 lines=51
+CookieOI\校门外的树\std.cpp: endl=0 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=173
+CookieOI\样卷\std\divide.cpp: endl=0 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=33
+CookieOI\样卷\std\eval.cpp: endl=0 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=27
+CookieOI\样卷\std\percom.cpp: endl=0 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=25
+CookieOI\样卷\std\tree.cpp: endl=0 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=74
+CookieOI\样卷\样例\divide\rand-16.cpp: endl=0 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=28
+CookieOI\样卷\样例\divide\rand-4.cpp: endl=0 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=34
+CookieOI\样卷\样例\eval\rand.cpp: endl=0 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=17
+CookieOI\样卷\样例\percom\rand.cpp: endl=0 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=19
+CookieOI\样卷\样例\tree\rand.cpp: endl=0 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=13
+Homework\2026-3-2\ABS\ABC.cpp: endl=2 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=20
+Homework\2026-3-2\ARC-Wrecker\ARC-Wrecker.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=18
+Homework\2026-3-2\Good-Sequence\Good-Sequence.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=23
+Homework\2026-3-2\HSI\HSI.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=11
+Homework\2026-3-2\Not-so-Diverse\Not-so-Diverse.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=20
+Homework\2026-4-29\Buy-or-Build\Buy-or-Build.cpp: endl=0 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=2 lambda=0 lines=133
+Homework\五一作业\multiply\multiply.cpp: endl=0 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=Y signed_main=Y fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=35
+J-training\思维题\1-1-Prove_Him_Wrong.cpp: endl=3 ret_sp=2 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=26
+J1-1\0 贪心\Koszulki.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=25
+J1-1\0 贪心\Lake-Counting-S.cpp: endl=1 ret_sp=1 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=40
+J1-1\0 贪心\Lemonade-Line-S.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=18
+J1-1\0 贪心\Oranżada.cpp: endl=2 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=28
+J1-1\0 贪心\Pismo.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=20
+J1-1\0 贪心\Social-Distancing-II-B.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=31
+J1-1\0 贪心\商店.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=24
+J1-1\0 贪心\序列的第k个数.cpp: endl=2 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=33
+J1-1\0 贪心\海港.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=45
+J1-1\0 贪心\爱与愁的心痛.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=22
+J1-1\0 贪心\特技飞行.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=19
+J1-1\0 贪心\自行车比赛.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=29
+J1-1\1 连通块\01迷宫.cpp: endl=1 ret_sp=1 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=46
+J1-1\1 连通块\DZY-Loves-Chessboard.cpp: endl=1 ret_sp=1 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=39
+J1-1\1 连通块\Mooyo-Mooyo-S.cpp: endl=1 ret_sp=1 sizeof_np=2 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=2 lambda=0 lines=72
+J1-1\1 连通块\入门.cpp: endl=1 ret_sp=1 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=37
+J1-1\2 二维棋盘BFS\临冬城宝藏.cpp: endl=2 ret_sp=1 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=57
+J1-1\2 二维棋盘BFS\好奇怪的游戏.cpp: endl=2 ret_sp=0 sizeof_np=4 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=4 lambda=0 lines=50
+J1-1\2 二维棋盘BFS\最后的迷宫.cpp: endl=2 ret_sp=1 sizeof_np=3 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=3 lambda=0 lines=74
+J1-1\2 二维棋盘BFS\迷宫最短路.cpp: endl=2 ret_sp=1 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=51
+J1-1\2 二维棋盘BFS\马的遍历.cpp: endl=1 ret_sp=0 sizeof_np=1 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=1 lambda=0 lines=51
+J1-1\3 记忆化搜索\3n+1问题.cpp: endl=0 ret_sp=0 sizeof_np=1 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=1 lambda=0 lines=34
+J1-1\3 记忆化搜索\变形：从1到B.cpp: endl=2 ret_sp=0 sizeof_np=1 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=1 lambda=0 lines=23
+J1-1\3 记忆化搜索\战争模型.cpp: endl=3 ret_sp=0 sizeof_np=1 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=1 lambda=0 lines=29
+J1-1\3 记忆化搜索\斐波那契.cpp: endl=2 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=38
+J1-1\3 记忆化搜索\母亲的牛奶.cpp: endl=1 ret_sp=1 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=36
+J1-1\3 记忆化搜索\滑雪.cpp: endl=1 ret_sp=0 sizeof_np=1 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=1 lambda=0 lines=38
+J1-1\3 记忆化搜索\递归函数.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=23
+J1-1\4 回溯进阶\八皇后+.cpp: endl=1 ret_sp=2 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=45
+J1-1\4 回溯进阶\八皇后.cpp: endl=1 ret_sp=2 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=47
+J1-1\4 回溯进阶\数独.cpp: endl=0 ret_sp=1 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=56
+J1-1\4 回溯进阶\验证八皇后.cpp: endl=2 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=25
+J1-1\5 二维搜索综合练习\又着火了.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=54
+J1-1\5 二维搜索综合练习\囚禁坏人.cpp: endl=3 ret_sp=4 sizeof_np=1 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=1 lambda=0 lines=64
+J1-1\5 二维搜索综合练习\白银的迷宫城.cpp: endl=1 ret_sp=1 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=69
+J1-1\5 二维搜索综合练习\迷宫.cpp: endl=1 ret_sp=2 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=42
+J1-1\6 位运算与快速幂\【模板】快速幂.cpp: endl=0 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=21
+J1-1\6 位运算与快速幂\原根检验.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=41
+J1-1\6 位运算与快速幂\计算第k位小数.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=30
+J1-1\6 位运算与快速幂\越狱.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=25
+J1-1\6 位运算与快速幂\转圈游戏.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=23
+J1-1\7 阶段复习\八皇后 Checker Challenge.cpp: endl=2 ret_sp=2 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=47
+J1-1\阶段复习.cpp: endl=1 ret_sp=4 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=76
+J1-2\0 高精度模板&dp\_.cpp: endl=0 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=102
+J1-2\0 高精度模板&dp\【模板】高精度.cpp: endl=0 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=114
+J1-2\1 高精度1\a+b.cpp: endl=0 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=50
+J1-2\1 高精度1\a-b.cpp: endl=0 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=63
+J1-2\1 高精度1\佩尔数列.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=56
+J1-2\1 高精度1\小猴的数字.cpp: endl=0 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=54
+J1-2\1 高精度1\斐波那契.cpp: endl=0 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=49
+J1-2\1 高精度1\斐波那契前缀.cpp: endl=0 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=65
+J1-2\1 高精度1\票选冠军.cpp: endl=2 ret_sp=0 sizeof_np=1 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=1 lambda=0 lines=75
+J1-2\1 高精度1\高精度数输入输出.cpp: endl=0 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=29
+J1-2\1 高精度1\高精度求和.cpp: endl=0 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=54
+J1-2\1 高精度1\高精度求差.cpp: endl=0 ret_sp=0 sizeof_np=1 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=1 lambda=0 lines=93
+J1-2\10 完全背包\总分.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=21
+J1-2\10 完全背包\整数划分方案2.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=20
+J1-2\10 完全背包\最大效益.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=31
+J1-2\10 完全背包\火柴拼数.cpp: endl=0 ret_sp=0 sizeof_np=1 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=1 lambda=0 lines=39
+J1-2\10 完全背包\疯狂的采药.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=20
+J1-2\10 完全背包\神奇的四次方数.cpp: endl=1 ret_sp=0 sizeof_np=1 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=1 lambda=0 lines=25
+J1-2\10 完全背包\质数和分解.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=28
+J1-2\10 完全背包\麦香牛块.cpp: endl=3 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=37
+J1-2\11 dp练习1\减肥计划.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=21
+J1-2\11 dp练习1\经典上楼梯问题.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=26
+J1-2\11 dp练习1\香蕉分组.cpp: endl=2 ret_sp=0 sizeof_np=1 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=1 lambda=0 lines=27
+J1-2\11 dp练习1\香蕉采购.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=26
+J1-2\12 多重背包\Dividing.cpp: endl=3 ret_sp=2 sizeof_np=1 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=1 lambda=0 lines=53
+J1-2\12 多重背包\多重背包.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=20
+J1-2\12 多重背包\太空电梯.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=51
+J1-2\12 多重背包\宝物筛选.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=39
+J1-2\12 多重背包\提款机.cpp: endl=1 ret_sp=1 sizeof_np=1 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=1 lambda=0 lines=48
+J1-2\12 多重背包\最少的硬币.cpp: endl=2 ret_sp=0 sizeof_np=2 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=2 lambda=0 lines=54
+J1-2\12 多重背包\硬币.cpp: endl=1 ret_sp=0 sizeof_np=1 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=1 lambda=0 lines=52
+J1-2\13 LCS\Palindrome.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=24
+J1-2\13 LCS\基因相似度.cpp: endl=1 ret_sp=0 sizeof_np=1 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=1 lambda=0 lines=47
+J1-2\13 LCS\最短公共父序列.cpp: endl=1 ret_sp=0 sizeof_np=1 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=1 lambda=0 lines=26
+J1-2\13 LCS\最长公共子序列.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=23
+J1-2\13 LCS\距离编辑.cpp: endl=1 ret_sp=0 sizeof_np=1 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=1 lambda=0 lines=25
+J1-2\14 二维棋盘dp\3向方格取数.cpp: endl=1 ret_sp=0 sizeof_np=1 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=1 lambda=0 lines=22
+J1-2\14 二维棋盘dp\小猴回家1.cpp: endl=1 ret_sp=0 sizeof_np=1 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=1 lambda=0 lines=23
+J1-2\14 二维棋盘dp\收集金币1.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=19
+J1-2\14 二维棋盘dp\收集金币2.cpp: endl=1 ret_sp=0 sizeof_np=1 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=1 lambda=0 lines=28
+J1-2\14 二维棋盘dp\方格取数2020.cpp: endl=1 ret_sp=0 sizeof_np=1 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=1 lambda=0 lines=29
+J1-2\14 二维棋盘dp\最大正方形.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=27
+J1-2\14 二维棋盘dp\红牌.cpp: endl=1 ret_sp=0 sizeof_np=1 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=1 lambda=0 lines=26
+J1-2\15 区间dp\248.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=26
+J1-2\15 区间dp\乘法拼图.cpp: endl=1 ret_sp=0 sizeof_np=1 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=1 lambda=0 lines=25
+J1-2\15 区间dp\环形石子合并.cpp: endl=2 ret_sp=0 sizeof_np=1 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=1 lambda=0 lines=32
+J1-2\15 区间dp\石子合并.cpp: endl=2 ret_sp=0 sizeof_np=1 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=1 lambda=0 lines=32
+J1-2\15 区间dp\能量项链.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=27
+J1-2\16 dp练习2\4向方格取数.cpp: endl=1 ret_sp=0 sizeof_np=1 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=1 lambda=0 lines=22
+J1-2\16 dp练习2\Cash-Mashine.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=33
+J1-2\16 dp练习2\可怜的小猴.cpp: endl=0 ret_sp=0 sizeof_np=1 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=1 lambda=0 lines=33
+J1-2\16 dp练习2\论文相似度.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=23
+J1-2\16 dp练习2\马特与狼.cpp: endl=1 ret_sp=0 sizeof_np=1 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=1 lambda=0 lines=26
+J1-2\2 高精度2\a_b.cpp: endl=0 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=49
+J1-2\2 高精度2\佩尔数列2.cpp: endl=0 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=75
+J1-2\2 高精度2\多重组合数.cpp: endl=0 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=66
+J1-2\2 高精度2\幂的前缀.cpp: endl=0 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=62
+J1-2\2 高精度2\涂色.cpp: endl=0 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=54
+J1-2\2 高精度2\线性递推数列.cpp: endl=0 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=76
+J1-2\2 高精度2\计算组合数.cpp: endl=0 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=66
+J1-2\2 高精度2\计算阶乘.cpp: endl=0 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=49
+J1-2\2 高精度2\阶乘之和.cpp: endl=0 ret_sp=0 sizeof_np=1 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=1 lambda=0 lines=76
+J1-2\2 高精度2\麦森数.cpp: endl=2 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=81
+J1-2\3 二分查找\Lazy-Faith.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=39
+J1-2\3 二分查找\Snuke-Festival.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=26
+J1-2\3 二分查找\二分查找.cpp: endl=2 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=22
+J1-2\3 二分查找\寻找固定的和.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=27
+J1-2\3 二分查找\查找脚码.cpp: endl=2 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=26
+J1-2\3 二分查找\次小差值.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=33
+J1-2\3 二分查找\烦恼的高考志愿.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=26
+J1-2\3 二分查找\田忌又赛马.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=36
+J1-2\4 二分答案\【模板】二分.cpp: endl=2 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=27
+J1-2\4 二分答案\分巧克力.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=33
+J1-2\4 二分答案\切绳子.cpp: endl=0 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=36
+J1-2\4 二分答案\割韭菜.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=33
+J1-2\4 二分答案\地铁建设.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=32
+J1-2\4 二分答案\市场.cpp: endl=0 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=33
+J1-2\4 二分答案\愤怒的牛.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=39
+J1-2\4 二分答案\数列分段.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=40
+J1-2\4 二分答案\木材加工.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=31
+J1-2\4 二分答案\跳石头.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=37
+J1-2\5 递推\4人传球游戏.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=24
+J1-2\5 递推\d好数.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=23
+J1-2\5 递推\传球游戏.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=20
+J1-2\5 递推\假期.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=26
+J1-2\5 递推\幸运数字.cpp: endl=2 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=24
+J1-2\5 递推\整数划分方案.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=21
+J1-2\5 递推\新4人传球游戏.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=24
+J1-2\5 递推\递推计数.cpp: endl=6 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=133
+J1-2\5 递推\青蛙1.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=17
+J1-2\5 递推\青蛙2.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=25
+J1-2\5 高精二分练习\切木棍.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=31
+J1-2\5 高精二分练习\班长竞选.cpp: endl=1 ret_sp=0 sizeof_np=1 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=1 lambda=0 lines=67
+J1-2\5 高精二分练习\第k未被包含数.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=24
+J1-2\5 高精二分练习\阶乘数码.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=46
+J1-2\5 高精二分练习\魔法集会.cpp: endl=1 ret_sp=1 sizeof_np=1 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=1 lambda=0 lines=49
+J1-2\6 序列dp\删数最大子段和.cpp: endl=1 ret_sp=0 sizeof_np=1 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=1 lambda=0 lines=31
+J1-2\6 序列dp\前缀和模板.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=26
+J1-2\6 序列dp\单词的划分.cpp: endl=1 ret_sp=0 sizeof_np=1 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=1 lambda=0 lines=37
+J1-2\6 序列dp\单词解密.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=26
+J1-2\6 序列dp\数列划分.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=30
+J1-2\6 序列dp\最大子段和.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=21
+J1-2\6 序列dp\最大子段和3.cpp: endl=1 ret_sp=1 sizeof_np=1 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=1 lambda=0 lines=29
+J1-2\6 序列dp\最大子矩形和.cpp: endl=1 ret_sp=0 sizeof_np=1 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=1 lambda=0 lines=32
+J1-2\6 序列dp\解码方法.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=24
+J1-2\7 LIS\信封问题.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=33
+J1-2\7 LIS\合唱队形.cpp: endl=1 ret_sp=0 sizeof_np=1 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=1 lambda=0 lines=36
+J1-2\7 LIS\字符串改造.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=23
+J1-2\7 LIS\接龙数列.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=25
+J1-2\7 LIS\最大上升子序列和.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=21
+J1-2\7 LIS\最长上升子序列.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=23
+J1-2\7 LIS\最长不下降子序列.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=23
+J1-2\7 LIS\游园安排.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=31
+J1-2\7 LIS\老鼠速度.cpp: endl=2 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=66
+J1-2\7 LIS\递增.cpp: endl=2 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=44
+J1-2\8 01背包基本模型\01背包模型.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=20
+J1-2\8 01背包基本模型\Hay-For-Sale-S.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=22
+J1-2\8 01背包基本模型\小书童——刷题大军.cpp: endl=0 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=0
+J1-2\8 01背包基本模型\开心的金明.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=20
+J1-2\8 01背包基本模型\最大约数和.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=31
+J1-2\8 01背包基本模型\点菜问题.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=21
+J1-2\8 01背包基本模型\烹调方案.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=38
+J1-2\8 01背包基本模型\精卫填海.cpp: endl=2 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=27
+J1-2\8 01背包基本模型\采药.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=20
+J1-2\9 布尔型及计数形背包\分割等和子集.cpp: endl=3 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=33
+J1-2\9 布尔型及计数形背包\分配礼物.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=30
+J1-2\9 布尔型及计数形背包\子集的和.cpp: endl=2 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=25
+J1-2\9 布尔型及计数形背包\小A点菜.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=22
+J1-2\9 布尔型及计数形背包\砝码称重.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=29
+J1-2\9 布尔型及计数形背包\符号添加.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=27
+J1-2\9 布尔型及计数形背包\装箱问题.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=20
+J1-2\9 布尔型及计数形背包\音量调节.cpp: endl=2 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=28
+J1-2\9 布尔型及计数形背包\飞盘队.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=24
+J2-1\1 背包综合\三角形牧场.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=42
+J2-1\1 背包综合\包裹分拣2.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=24
+J2-1\1 背包综合\挑选间谍.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=22
+J2-1\1 背包综合\监听音量.cpp: endl=2 ret_sp=0 sizeof_np=1 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=1 lambda=0 lines=37
+J2-1\1 背包综合\超大容量背包.cpp: endl=1 ret_sp=0 sizeof_np=1 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=1 lambda=0 lines=31
+J2-1\1 背包综合\面包师.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=22
+J2-1\2 升维技巧综合\修建支柱.cpp: endl=1 ret_sp=0 sizeof_np=1 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=1 lambda=0 lines=24
+J2-1\2 升维技巧综合\兔子的工作.cpp: endl=2 ret_sp=0 sizeof_np=1 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=1 lambda=0 lines=39
+J2-1\2 升维技巧综合\小猴拿糖.cpp: endl=1 ret_sp=0 sizeof_np=1 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=1 lambda=0 lines=28
+J2-1\2 升维技巧综合\平衡的路径.cpp: endl=1 ret_sp=0 sizeof_np=1 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=1 lambda=0 lines=41
+J2-1\2 升维技巧综合\股票买卖.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=23
+J2-1\3 动规综合\小明的U盘.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=43
+J2-1\3 动规综合\改造过山车.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=28
+J2-1\3 动规综合\最大子段乘积.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=34
+J2-1\3 动规综合\杠杆原理.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=32
+J2-1\3 动规综合\点菜.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=34
+J2-1\3 动规综合\魔法货船.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=27
+J2-1\4 区间动规进阶\k阶回文子串.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=29
+J2-1\4 区间动规进阶\合唱队.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=23
+J2-1\4 区间动规进阶\平方拼图.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=21
+J2-1\4 区间动规进阶\涂色.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=25
+J2-1\4 区间动规进阶\祖玛.cpp: endl=1 ret_sp=0 sizeof_np=1 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=1 lambda=0 lines=31
+J2-1\4 区间动规进阶\美味的零食.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=20
+J2-1\4 区间动规进阶\长为k的回文子串.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=30
+J2-1\5 dp练习3\_删数最大子段和.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=18
+J2-1\5 dp练习3\声控打字机.cpp: endl=2 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=27
+J2-1\5 dp练习3\接苹果2.cpp: endl=1 ret_sp=0 sizeof_np=1 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=1 lambda=0 lines=28
+J2-1\5 dp练习3\最便宜的回文2.cpp: endl=0 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=8
+J2-1\5 dp练习3\货币系统.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=25
+J2-1\6 二位前缀和与差分\_校门外的树.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=23
+J2-1\6 二位前缀和与差分\分数线.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=23
+J2-1\6 二位前缀和与差分\差分前缀和.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=21
+J2-1\6 二位前缀和与差分\最大子矩形和.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=24
+J2-1\6 二位前缀和与差分\激光炸弹.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=30
+J2-1\6 二位前缀和与差分\焚风现象.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=31
+J2-1\6 二位前缀和与差分\老式录像机.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=30
+J2-1\7 初等数论\N的连续数拆分.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=11
+J2-1\7 初等数论\余数的记忆.cpp: endl=2 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=13
+J2-1\7 初等数论\加权约数个数和.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=11
+J2-1\7 初等数论\因数个数.cpp: endl=2 ret_sp=1 sizeof_np=2 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=2 lambda=0 lines=36
+J2-1\7 初等数论\细胞分裂.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=32
+J2-1\7 初等数论\跳跃移动.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=17
+J2-1\8 组合计数\探索洞窟.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=25
+J2-1\8 组合计数\涂色.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=13
+J2-1\8 组合计数\组合数预处理.cpp: endl=0 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=24
+J2-1\8 组合计数\计数1.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=24
+J2-1\8 组合计数\计数2.cpp: endl=2 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=19
+J2-1\8 组合计数\计数3.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=13
+J2-1\8 组合计数\非回文串.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=32
+J2-2\1 贪心综合练习\与怪物战斗.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=22
+J2-2\1 贪心综合练习\均富卡.cpp: endl=2 ret_sp=1 sizeof_np=1 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=1 lambda=0 lines=29
+J2-2\1 贪心综合练习\奶牛杂技团.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=27
+J2-2\1 贪心综合练习\无法入睡.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=15
+J2-2\1 贪心综合练习\真空扫地机器人.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=32
+J2-2\1 贪心综合练习\货仓选址.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=19
+J2-2\1 贪心综合练习\货场选址.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=29
+J2-2\10 图上深搜\刻录光盘.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=30
+J2-2\10 图上深搜\图的遍历.cpp: endl=1 ret_sp=1 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=28
+J2-2\10 图上深搜\寄包柜.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=33
+J2-2\10 图上深搜\封锁阳光大学.cpp: endl=2 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=41
+J2-2\10 图上深搜\排位赛.cpp: endl=1 ret_sp=0 sizeof_np=2 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=2 lambda=0 lines=42
+J2-2\11 图上广搜\SwapPlace.cpp: endl=1 ret_sp=0 sizeof_np=3 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=3 lambda=0 lines=51
+J2-2\11 图上广搜\奶酪.cpp: endl=1 ret_sp=0 sizeof_np=1 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=1 lambda=0 lines=60
+J2-2\11 图上广搜\寻找道路.cpp: endl=2 ret_sp=0 sizeof_np=2 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=2 lambda=0 lines=49
+J2-2\11 图上广搜\查找文献.cpp: endl=1 ret_sp=0 sizeof_np=1 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=1 lambda=0 lines=50
+J2-2\11 图上广搜\营救.cpp: endl=1 ret_sp=0 sizeof_np=1 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=1 lambda=0 lines=42
+J2-2\12 拓扑排序1\复杂的按钮.cpp: endl=3 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=39
+J2-2\12 拓扑排序1\奖金.cpp: endl=2 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=42
+J2-2\12 拓扑排序1\挤奶顺序.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=89
+J2-2\12 拓扑排序1\杂务.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=43
+J2-2\13 拓扑排序2\Test for Job.cpp: endl=1 ret_sp=0 sizeof_np=1 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=1 lambda=0 lines=38
+J2-2\13 拓扑排序2\巧克力牛奶.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=42
+J2-2\13 拓扑排序2\旅行计划.cpp: endl=1 ret_sp=1 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=36
+J2-2\13 拓扑排序2\最大食物链计数-topo内dp.cpp: endl=1 ret_sp=1 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=40
+J2-2\13 拓扑排序2\最大食物链计数-topo后dp.cpp: endl=1 ret_sp=1 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=40
+J2-2\13 拓扑排序2\车站分级.cpp: endl=1 ret_sp=0 sizeof_np=2 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=2 lambda=0 lines=53
+J2-2\14 阶段练习\丰收节.cpp: endl=1 ret_sp=0 sizeof_np=1 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=1 lambda=0 lines=34
+J2-2\14 阶段练习\距离分级.cpp: endl=3 ret_sp=0 sizeof_np=4 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=4 lambda=0 lines=52
+J2-2\14 阶段练习\递增路径.cpp: endl=1 ret_sp=0 sizeof_np=1 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=1 lambda=0 lines=45
+J2-2\2 优先队列\x轴最大距离.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=42
+J2-2\2 优先队列\体育馆售票.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=27
+J2-2\2 优先队列\动态中位数.cpp: endl=2 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=28
+J2-2\2 优先队列\合并果子.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=27
+J2-2\2 优先队列\实时晋级.cpp: endl=2 ret_sp=1 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=40
+J2-2\2 优先队列\实时评分.cpp: endl=0 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=34
+J2-2\4 List容器\书籍摆放.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=43
+J2-2\4 List容器\悲剧的键盘.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=20
+J2-2\4 List容器\悲剧的键盘II.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=21
+J2-2\4 List容器\文本编辑器.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=21
+J2-2\4 List容器\移动盒子.cpp: endl=1 ret_sp=2 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=72
+J2-2\5 表达式递归\Kitty猫基因密码.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=21
+J2-2\5 表达式递归\logo语言.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=22
+J2-2\5 表达式递归\小数表达式-拓展.cpp: endl=0 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=45
+J2-2\5 表达式递归\小数表达式.cpp: endl=0 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=28
+J2-2\5 表达式递归\幂次方.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=23
+J2-2\6 分治法基础\【模板】归并排序.cpp: endl=1 ret_sp=1 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=29
+J2-2\6 分治法基础\【模板】快速排序.cpp: endl=0 ret_sp=1 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=26
+J2-2\6 分治法基础\求第k小的数.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=26
+J2-2\6 分治法基础\火柴排队.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=38
+J2-2\6 分治法基础\逆序对.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=27
+J2-2\7 树与二叉树1\二叉树深度.cpp: endl=1 ret_sp=1 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=25
+J2-2\7 树与二叉树1\层次遍历.cpp: endl=2 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=33
+J2-2\7 树与二叉树1\数字二叉树.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=14
+J2-2\7 树与二叉树1\新二叉树.cpp: endl=1 ret_sp=1 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=28
+J2-2\7 树与二叉树1\求先序排列.cpp: endl=1 ret_sp=1 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=25
+J2-2\8 树与二叉树2\二叉查找树.cpp: endl=2 ret_sp=2 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=45
+J2-2\8 树与二叉树2\二叉树输出.cpp: endl=1 ret_sp=1 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=33
+J2-2\8 树与二叉树2\二叉树问题.cpp: endl=3 ret_sp=1 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=33
+J2-2\8 树与二叉树2\分裂二叉树.cpp: endl=1 ret_sp=1 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=24
+J2-2\8 树与二叉树2\医院设置.cpp: endl=1 ret_sp=0 sizeof_np=1 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=1 lambda=0 lines=32
+J2-2\8 树与二叉树2\右视图.cpp: endl=0 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=0
+J2-2\8 树与二叉树2\节点改造.cpp: endl=0 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=0
+J2-2\8 树与二叉树2\通行限制-弱化版.cpp: endl=0 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=0
+J2-2\9 邻接矩阵与欧拉回路\【模板】邻接矩阵.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=19
+J2-2\9 邻接矩阵与欧拉回路\回家.cpp: endl=0 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=0
+J2-2\9 邻接矩阵与欧拉回路\景区游玩.cpp: endl=1 ret_sp=0 sizeof_np=1 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=1 lambda=0 lines=33
+J2-2\9 邻接矩阵与欧拉回路\蚂蚁旅行.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=18
+J2-2\9 邻接矩阵与欧拉回路\骑马修栅栏.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=38
+NOICA\10\maze\maze-.cpp: endl=1 ret_sp=1 sizeof_np=0 brace_else=0 allman=N def_int=Y signed_main=Y fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=54
+NOICA\10\maze\maze.cpp: endl=1 ret_sp=0 sizeof_np=1 brace_else=0 allman=N def_int=Y signed_main=Y fast_read=N bits=N emplace=0 auto_ref=0 memset=1 lambda=0 lines=64
+NOICA\10\nan\nan.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=32
+NOICA\10\spring\spring-.cpp: endl=5 ret_sp=2 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=69
+NOICA\10\spring\spring.cpp: endl=6 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=65
+NOICA\10\toy\toy.cpp: endl=2 ret_sp=2 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=44
+NOICA\11\dream\dream.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=49
+NOICA\11\game\game.cpp: endl=1 ret_sp=0 sizeof_np=2 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=2 lambda=0 lines=52
+NOICA\11\parrot\parrot.cpp: endl=1 ret_sp=0 sizeof_np=1 brace_else=0 allman=N def_int=Y signed_main=Y fast_read=N bits=N emplace=0 auto_ref=0 memset=1 lambda=0 lines=35
+NOICA\11\two\two.cpp: endl=2 ret_sp=0 sizeof_np=1 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=1 lambda=0 lines=82
+NOICA\12\assassin\assassin.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=Y signed_main=Y fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=65
+NOICA\12\fa\fa.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=Y signed_main=Y fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=34
+NOICA\12\forest\_forest.cpp: endl=3 ret_sp=1 sizeof_np=2 brace_else=0 allman=N def_int=Y signed_main=Y fast_read=N bits=N emplace=0 auto_ref=0 memset=2 lambda=0 lines=76
+NOICA\12\forest\forest.cpp: endl=2 ret_sp=1 sizeof_np=1 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=1 lambda=0 lines=31
+NOICA\12\trace\trace.cpp: endl=6 ret_sp=0 sizeof_np=1 brace_else=0 allman=N def_int=Y signed_main=Y fast_read=N bits=N emplace=0 auto_ref=0 memset=1 lambda=0 lines=75
+NOICA\13\B\B.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=Y fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=66
+NOICA\13\permutation\permutation.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=22
+NOICA\13\traverse\traverse-.cpp: endl=0 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=51
+NOICA\13\traverse\traverse.cpp: endl=1 ret_sp=1 sizeof_np=0 brace_else=0 allman=N def_int=Y signed_main=Y fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=46
+NOICA\13\variance\variance.cpp: endl=0 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=13
+NOICA\14\brackets\brackets.cpp: endl=1 ret_sp=0 sizeof_np=1 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=1 lambda=0 lines=41
+NOICA\14\number\number.cpp: endl=1 ret_sp=1 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=29
+NOICA\14\path\path.cpp: endl=1 ret_sp=1 sizeof_np=0 brace_else=0 allman=N def_int=Y signed_main=Y fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=67
+NOICA\14\refrain\refrain.cpp: endl=1 ret_sp=3 sizeof_np=0 brace_else=0 allman=N def_int=Y signed_main=Y fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=77
+NOICA\15\fruit\fruit.cpp: endl=6 ret_sp=1 sizeof_np=0 brace_else=0 allman=N def_int=Y signed_main=Y fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=110
+NOICA\15\land\land.cpp: endl=1 ret_sp=1 sizeof_np=0 brace_else=0 allman=N def_int=Y signed_main=Y fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=36
+NOICA\3\dragon\dragon.cpp: endl=5 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=Y signed_main=Y fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=43
+NOICA\3\protect\protect.cpp: endl=0 ret_sp=0 sizeof_np=1 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=1 lambda=0 lines=41
+NOICA\4\bag\bag.cpp: endl=0 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=74
+NOICA\4\card\card.cpp: endl=1 ret_sp=1 sizeof_np=0 brace_else=0 allman=N def_int=Y signed_main=Y fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=35
+NOICA\4\double\double.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=Y signed_main=Y fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=33
+NOICA\5\graph\graph-50.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=34
+NOICA\5\graph\graph.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=32
+NOICA\5\one\one.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=Y signed_main=Y fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=36
+NOICA\5\sheet\sheet.cpp: endl=1 ret_sp=1 sizeof_np=2 brace_else=0 allman=N def_int=Y signed_main=Y fast_read=N bits=N emplace=0 auto_ref=0 memset=2 lambda=0 lines=50
+NOICA\5\traffic\traffic.cpp: endl=1 ret_sp=1 sizeof_np=4 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=4 lambda=0 lines=43
+NOICA\6\activity\activity.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=Y signed_main=Y fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=24
+NOICA\6\road\road.cpp: endl=1 ret_sp=0 sizeof_np=2 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=2 lambda=0 lines=71
+NOICA\6\universe\universe.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=27
+NOICA\7\boundary.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=50
+NOICA\7\boundary\boundary.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=50
+NOICA\7\down\subarray\chk.cpp: endl=0 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=49
+NOICA\7\move.cpp: endl=2 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=41
+NOICA\7\move\move.cpp: endl=2 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=41
+NOICA\7\permutation.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=Y signed_main=Y fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=94
+NOICA\7\permutation\permutation.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=Y signed_main=Y fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=94
+NOICA\8\attach\attach.cpp: endl=0 ret_sp=3 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=80
+NOICA\8\attach\attach_.cpp: endl=2 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=44
+NOICA\8\bike\bike.cpp: endl=4 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=68
+NOICA\8\revue\revue.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=46
+NOICA\8\stage\stage.cpp: endl=1 ret_sp=0 sizeof_np=1 brace_else=0 allman=N def_int=Y signed_main=Y fast_read=N bits=N emplace=0 auto_ref=0 memset=1 lambda=0 lines=42
+NOICA\8\stage\stage_.cpp: endl=1 ret_sp=0 sizeof_np=1 brace_else=0 allman=N def_int=Y signed_main=Y fast_read=N bits=N emplace=0 auto_ref=0 memset=1 lambda=0 lines=30
+NOICA\9\box\box.cpp: endl=3 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=Y signed_main=Y fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=56
+NOICA\9\discount\discount.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=Y signed_main=Y fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=37
+NOICA\9\revenge\revenge.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=Y signed_main=Y fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=58
+NOICA\9\signin\signin.cpp: endl=2 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=38
+OJ\AtCoder\AT_abc248\AT_abc248_a [ABC248A] Lacked Number.cpp: endl=0 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=0
+OJ\AtCoder\AT_abc390\AT_abc390_a [ABC390A] 12345.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=13
+OJ\AtCoder\AT_abc390\AT_abc390_b [ABC390B] Geometric Sequence.cpp: endl=2 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=15
+OJ\AtCoder\AT_abc390\AT_abc390_c [ABC390C] Paint to make a rectangle.cpp: endl=2 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=24
+OJ\AtCoder\AT_abc390\AT_abc390_d [ABC390D] Stone XOR.cpp: endl=1 ret_sp=2 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=31
+OJ\AtCoder\AT_abc390\AT_abc390_e [ABC390E] Vitamin Balance.cpp: endl=0 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=0
+OJ\POJ\1000.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=8
+OJ\POJ\1001.cpp: endl=0 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=39
+OJ\SPOJ\TEST.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=10
+OJ\小明\小明月赛\2024.12\jump.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=44
+OJ\小明\小明月赛\2024.12\triangle.cpp: endl=0 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=22
+OJ\小明\小明月赛\2025.09\交换灵魂.cpp: endl=0 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=11
+OJ\小明\小明月赛\2025.09\冬季大三角.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=25
+OJ\小明\小明月赛\2025.10 - Div.3\abc.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=19
+OJ\小明\小明月赛\2025.10 - Div.3\friends.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=25
+OJ\小明\小明月赛\2025.10 - Div.3\prime.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=21
+OJ\小明\小明月赛\2025.10 - Div.3\sun.cpp: endl=1 ret_sp=0 sizeof_np=1 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=1 lambda=0 lines=42
+OJ\小明\小明月赛\2025.10 - Div.3\xor.cpp: endl=2 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=28
+OJ\小明\小明月赛\2025.10 - Div.3\这不怪我啊.cpp: endl=0 ret_sp=1 sizeof_np=1 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=1 lambda=0 lines=23
+OJ\小明\小明月赛\2025.11 - Div.2\pm.cpp: endl=0 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=16
+OJ\小明\小明月赛\2025远离爆零\hotel.cpp: endl=2 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=12
+OJ\小明\小明月赛\2025远离爆零\string.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=15
+OJ\小明\小明杂题\P1007保龄球.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=17
+OJ\洛谷\『1&0』OI Round 1\test.cpp: endl=2 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=25
+OJ\洛谷\『1&0』OI Round 1\相思若循.cpp: endl=2 ret_sp=2 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=30
+OJ\洛谷\【LGR-249-Div.3】洛谷基础赛 #27 &「S4OI」Round 1\T619940.cpp: endl=0 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=15
+OJ\洛谷\【LGR-249-Div.3】洛谷基础赛 #27 &「S4OI」Round 1\T622599.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=19
+Practice\B2015.cpp: endl=0 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=9
+Practice\B2016.cpp: endl=0 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=9
+Practice\B2019.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=8
+Practice\B2020.cpp: endl=2 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=13
+Practice\B2023.cpp: endl=0 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=13
+Practice\P1807.cpp: endl=1 ret_sp=1 sizeof_np=1 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=1 lambda=0 lines=42
+Practice\P8218.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=20
+Pre\bfs\bfs模板.cpp: endl=0 ret_sp=1 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=28
+Pre\bfs\【模板】BFS.cpp: endl=0 ret_sp=1 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=28
+Pre\前缀和\三国.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=26
+Pre\前缀和\前缀和模板.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=26
+Pre\前缀和\收获香蕉.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=26
+Pre\前缀和\收获香蕉（数据强化）.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=34
+Pre\前缀和\最大子段和.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=26
+Pre\前缀和\连续自然数之和.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=25
+Pre\映射\Big-Array.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=28
+Pre\映射\Two-Colors-Card-Game.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=33
+Pre\映射\注册系统.cpp: endl=2 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=26
+Pre\映射\点名.cpp: endl=3 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=40
+Pre\映射\等比数列.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=32
+Pre\映射\股票买卖.cpp: endl=2 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=35
+Pre\贪心\Mixing Milk.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=39
+Pre\贪心\Saruman's Army.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=37
+Pre\贪心\乘船问题.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=29
+Pre\贪心\会场安排.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=38
+Pre\贪心\区间覆盖问题.cpp: endl=2 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=32
+Pre\贪心\区间选点问题.cpp: endl=0 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=23
+Pre\贪心\导弹拦截2010.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=36
+Pre\贪心\干净的牛棚.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=42
+Pre\贪心\引爆气球.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=34
+Pre\贪心\排队接水.cpp: endl=0 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=33
+Pre\贪心\水壶.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=23
+Pre\贪心\泥泞路.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=34
+Pre\贪心\营养膳食.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=41
+Pre\贪心\选择不相交区间.cpp: endl=0 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=22
+Pre\贪心\采购奖品.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=40
+Pre\贪心\黑心企业.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=23
+Pre\队列\Blah数集.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=25
+Pre\队列\丑数.cpp: endl=0 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=38
+Pre\队列\团体队列.cpp: endl=0 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=34
+Pre\队列\第k个d好数.cpp: endl=1 ret_sp=1 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=38
+Pre\队列\青蛙路线计数.cpp: endl=2 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=53
+S1-1\1 多叉树\单词查找树.cpp: endl=1 ret_sp=1 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=19
+S1-1\1 多叉树\树的路径求和.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=32
+S1-1\1 多叉树\猫猫和企鹅.cpp: endl=1 ret_sp=1 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=27
+S1-1\1 多叉树\电脑病毒.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=33
+S1-1\1 多叉树\联合权值.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=46
+S1-1\1 多叉树\通行限制.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=29
+S1-1\1 多叉树\道路修建.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=38
+S1-1\2 树的递推\信号放大器.cpp: endl=2 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=38
+S1-1\2 树的递推\医疗中心.cpp: endl=1 ret_sp=0 sizeof_np=1 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=1 lambda=0 lines=36
+S1-1\2 树的递推\奶牛马拉松.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=33
+S1-1\2 树的递推\最大子树和.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=30
+S1-1\2 树的递推\树的分解.cpp: endl=3 ret_sp=2 sizeof_np=1 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=1 lambda=0 lines=44
+S1-1\2 树的递推\植树.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=36
+S1-1\3 多源最短路\【模板】传递闭包.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=24
+S1-1\3 多源最短路\【模板】多源最短路.cpp: endl=1 ret_sp=0 sizeof_np=1 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=1 lambda=0 lines=28
+S1-1\3 多源最短路\传送门.cpp: endl=1 ret_sp=0 sizeof_np=1 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=1 lambda=0 lines=45
+S1-1\3 多源最短路\动态最短路.cpp: endl=0 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=26
+S1-1\3 多源最短路\无向图最小环.cpp: endl=2 ret_sp=1 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=42
+S1-1\3 多源最短路\灾后重建.cpp: endl=3 ret_sp=0 sizeof_np=1 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=1 lambda=0 lines=41
+S1-1\4 01BFS\KATHTHI.cpp: endl=1 ret_sp=1 sizeof_np=1 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=1 lambda=0 lines=49
+S1-1\4 01BFS\Small Multiple.cpp: endl=1 ret_sp=0 sizeof_np=1 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=1 lambda=0 lines=34
+S1-1\5 spfa算法\单源最短路径（弱化版）.cpp: endl=1 ret_sp=0 sizeof_np=1 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=1 lambda=0 lines=42
+S1-1\5 spfa算法\奶牛派对.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=45
+S1-1\5 spfa算法\牛奶管道.cpp: endl=1 ret_sp=0 sizeof_np=1 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=1 lambda=0 lines=45
+S1-1\5 spfa算法\航空路线.cpp: endl=1 ret_sp=0 sizeof_np=2 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=2 lambda=0 lines=46
+S1-1\5 spfa算法\营救.cpp: endl=1 ret_sp=0 sizeof_np=1 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=1 lambda=0 lines=41
+S1-1\6 Dijkstra算法\【模板】单源最短路径（标准版）.cpp: endl=1 ret_sp=0 sizeof_np=1 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=1 lambda=0 lines=47
+S1-1\6 Dijkstra算法\平面上的点.cpp: endl=1 ret_sp=0 sizeof_np=1 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=1 lambda=0 lines=55
+S1-1\6 Dijkstra算法\热浪.cpp: endl=1 ret_sp=0 sizeof_np=1 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=1 lambda=0 lines=36
+S1-1\6 Dijkstra算法\爱笑的小莫.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=48
+S1-1\6 Dijkstra算法\路径统计.cpp: endl=2 ret_sp=0 sizeof_np=1 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=1 lambda=0 lines=44
+S1-1\7 综合\奶牛过马路.cpp: endl=1 ret_sp=0 sizeof_np=1 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=1 lambda=0 lines=52
+S1-1\7 综合\彩灯祝福.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=34
+S1-1\7 综合\树上最长路径.cpp: endl=1 ret_sp=0 sizeof_np=1 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=1 lambda=0 lines=35
+S1-1\7 综合\灵界遗迹.cpp: endl=2 ret_sp=0 sizeof_np=1 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=1 lambda=0 lines=40
+S1-1\7 综合\畅通工程.cpp: endl=1 ret_sp=1 sizeof_np=2 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=2 lambda=0 lines=56
+S1-2\1 负环和分数规划\【模板】最长路.cpp: endl=2 ret_sp=0 sizeof_np=1 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=1 lambda=0 lines=45
+S1-2\1 负环和分数规划\【模板】负环.cpp: endl=1 ret_sp=1 sizeof_np=3 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=3 lambda=0 lines=55
+S1-2\1 负环和分数规划\天路.cpp: endl=1 ret_sp=0 sizeof_np=2 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=2 lambda=0 lines=57
+S1-2\1 负环和分数规划\找工作.cpp: endl=2 ret_sp=0 sizeof_np=1 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=1 lambda=0 lines=54
+S1-2\1 负环和分数规划\最大得分.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=33
+S1-2\1 负环和分数规划\观光奶牛.cpp: endl=0 ret_sp=0 sizeof_np=2 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=2 lambda=0 lines=59
+S1-2\10 复杂图论\【模板】次短路.cpp: endl=1 ret_sp=1 sizeof_np=2 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=2 lambda=0 lines=48
+S1-2\10 复杂图论\神经网络.cpp: endl=2 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=44
+S1-2\10 复杂图论\骑士游戏.cpp: endl=0 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=102
+S1-2\10 复杂图论\黑暗城堡.cpp: endl=1 ret_sp=1 sizeof_np=1 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=1 lambda=0 lines=50
+S1-2\11 位运算进阶\GEPPETTO.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=18
+S1-2\11 位运算进阶\内建函数实现.cpp: endl=0 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=36
+S1-2\11 位运算进阶\异或非或.cpp: endl=1 ret_sp=0 sizeof_np=1 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=1 lambda=0 lines=37
+S1-2\11 位运算进阶\找筷子.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=15
+S1-2\11 位运算进阶\浏览器.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=17
+S1-2\11 位运算进阶\绝世好题.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=21
+S1-2\11 位运算进阶\起床困难综合症.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=27
+S1-2\2 差分约束\奶牛排队.cpp: endl=3 ret_sp=0 sizeof_np=3 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=3 lambda=0 lines=61
+S1-2\2 差分约束\小K的农场.cpp: endl=1 ret_sp=0 sizeof_np=1 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=1 lambda=0 lines=59
+S1-2\2 差分约束\工程规划.cpp: endl=2 ret_sp=0 sizeof_np=1 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=1 lambda=0 lines=51
+S1-2\2 差分约束\糖果.cpp: endl=2 ret_sp=0 sizeof_np=1 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=1 lambda=0 lines=57
+S1-2\3 单源最短路进阶\RoadBlock.cpp: endl=1 ret_sp=2 sizeof_np=3 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=3 lambda=0 lines=59
+S1-2\3 单源最短路进阶\包裹运送.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=41
+S1-2\3 单源最短路进阶\最优贸易.cpp: endl=1 ret_sp=0 sizeof_np=2 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=2 lambda=0 lines=62
+S1-2\4 分层图\反转.cpp: endl=1 ret_sp=0 sizeof_np=1 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=1 lambda=0 lines=45
+S1-2\4 分层图\回家的路.cpp: endl=1 ret_sp=0 sizeof_np=1 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=1 lambda=0 lines=60
+S1-2\4 分层图\旅游巴士.cpp: endl=1 ret_sp=0 sizeof_np=1 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=1 lambda=0 lines=46
+S1-2\4 分层图\飞行路线.cpp: endl=1 ret_sp=0 sizeof_np=1 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=1 lambda=0 lines=54
+S1-2\5 并查集基础\【优化】【模板】并查集.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=24
+S1-2\5 并查集基础\【朴素】【模板】并查集.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=28
+S1-2\5 并查集基础\关闭农场.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=36
+S1-2\5 并查集基础\好友圈.cpp: endl=1 ret_sp=1 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=27
+S1-2\5 并查集基础\家谱.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=25
+S1-2\5 并查集基础\扩散.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=39
+S1-2\5 并查集基础\联通的圆环.cpp: endl=1 ret_sp=1 sizeof_np=1 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=1 lambda=0 lines=47
+S1-2\6 并查集进阶\关押罪犯.cpp: endl=2 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=30
+S1-2\6 并查集进阶\团伙.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=27
+S1-2\6 并查集进阶\家庭作业.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=34
+S1-2\6 并查集进阶\疯狂的馒头.cpp: endl=0 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=30
+S1-2\6 并查集进阶\食物链.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=34
+S1-2\7 带权并查集\堆方块.cpp: endl=1 ret_sp=1 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=38
+S1-2\7 带权并查集\奇偶游戏.cpp: endl=2 ret_sp=1 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=45
+S1-2\7 带权并查集\推导部分和.cpp: endl=2 ret_sp=1 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=37
+S1-2\7 带权并查集\职业确认.cpp: endl=1 ret_sp=1 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=61
+S1-2\8 最小生成树\【模板】最小生成树kruskal.cpp: endl=2 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=41
+S1-2\8 最小生成树\【模板】最小生成树prim.cpp: endl=2 ret_sp=1 sizeof_np=2 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=2 lambda=0 lines=46
+S1-2\8 最小生成树\北极通讯网络.cpp: endl=0 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=41
+S1-2\8 最小生成树\局域网.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=38
+S1-2\8 最小生成树\灌溉农田.cpp: endl=0 ret_sp=0 sizeof_np=2 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=2 lambda=0 lines=31
+S1-2\9 最小生成树进阶\安慰奶牛.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=42
+S1-2\9 最小生成树进阶\新的开始.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=43
+S1-2\9 最小生成树进阶\构造完全图.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=34
+S1-2\9 最小生成树进阶\道路修复.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=42
+S1-2\=10 割点与桥\Blockade.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=40
+S1-2\=10 割点与桥\分离的路径.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=55
+S1-2\=10 割点与桥\旅游航道.cpp: endl=1 ret_sp=0 sizeof_np=2 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=2 lambda=0 lines=45
+S1-2\=10 割点与桥\网络.cpp: endl=1 ret_sp=0 sizeof_np=2 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=2 lambda=0 lines=54
+S1-2\=11 表达式求值\表达式的值.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=40
+S1-2\=11 表达式求值\计算中缀表达式.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=56
+S1-2\=11 表达式求值\逻辑表达式.cpp: endl=2 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=55
+S1-2\=12 链表进阶一\LR-insertion.cpp: endl=0 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=6
+S1-2\=12 链表进阶一\切除线段.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=51
+S1-2\=12 链表进阶一\双向链表.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=51
+S1-2\=12 链表进阶一\花式切牌.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=92
+S1-2\=13 链表进阶二\家庭作业-反悔贪心.cpp: endl=0 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=34
+S1-2\=13 链表进阶二\家庭作业-并查集.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=37
+S1-2\=13 链表进阶二\疯狂的馒头.cpp: endl=0 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=25
+S1-2\=13 链表进阶二\邻值查找.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=32
+S1-2\=9 强联通分量\信息传递.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=43
+S1-2\=9 强联通分量\奶牛圆舞.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=45
+S1-2\=9 强联通分量\抢掠计划.cpp: endl=1 ret_sp=0 sizeof_np=1 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=1 lambda=0 lines=82
+S1-2\=9 强联通分量\校园网.cpp: endl=3 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=63
+S1-2\=9 强联通分量\消息扩散.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=48
+S2-1\1 RMQ与ST表1\Balanced-Lineup-G.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=26
+S2-1\1 RMQ与ST表1\【模板】ST表.cpp: endl=0 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=32
+S2-1\1 RMQ与ST表1\忠诚.cpp: endl=0 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=24
+S2-1\1 RMQ与ST表1\最大数.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=36
+S2-1\1 RMQ与ST表1\特别忠诚.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=26
+S2-1\1 RMQ与ST表1\玉米地.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=34
+S2-1\1 RMQ与ST表1\理想的正方形.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=32
+S2-1\2 RMQ与ST表2\与众不同.cpp: endl=2 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=38
+S2-1\2 RMQ与ST表2\朋友与序列.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=49
+S2-1\2 RMQ与ST表2\策略游戏.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=51
+S2-1\2 RMQ与ST表2\维护gcd.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=47
+S2-1\3 分治法1\平面最近点对.cpp: endl=0 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=49
+S2-1\3 分治法1\线段包含问题.cpp: endl=1 ret_sp=1 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=45
+S2-1\3 分治法1\翻转对.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=35
+S2-1\3 分治法1\逆序对.cpp: endl=0 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=36
+S2-1\4 分治法2\Minimum-Sum.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=32
+S2-1\4 分治法2\Power.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=40
+S2-1\4 分治法2\奶牛狂欢节.cpp: endl=0 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=0
+S2-1\4 分治法2\平面最近点对（加强版）.cpp: endl=0 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=54
+S2-1\5 搜索优化进阶1\Mayan游戏.cpp: endl=3 ret_sp=3 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=91
+S2-1\5 搜索优化进阶1\世界冰球锦标赛.cpp: endl=1 ret_sp=4 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=38
+S2-1\5 搜索优化进阶1\方程的解数.cpp: endl=1 ret_sp=2 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=50
+S2-1\5 搜索优化进阶1\魔法阵.cpp: endl=1 ret_sp=4 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=39
+S2-1\6 搜索优化进阶2\反素数.cpp: endl=1 ret_sp=1 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=23
+S2-1\6 搜索优化进阶2\彩票.cpp: endl=1 ret_sp=5 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=29
+S2-1\6 搜索优化进阶2\斗地主 加强版.cpp: endl=1 ret_sp=2 sizeof_np=3 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=3 lambda=0 lines=73
+S2-1\6 搜索优化进阶2\生日蛋糕.cpp: endl=1 ret_sp=3 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=33
+S2-1\7 阶段练习\区间询问.cpp: endl=1 ret_sp=1 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=51
+S2-1\7 阶段练习\暴力\区间询问[30pts].cpp: endl=0 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=20
+S2-1\7 阶段练习\暴力\时钟刻度[30pts].cpp: endl=1 ret_sp=1 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=22
+S2-1\7 阶段练习\暴力\财富计算[40pts].cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=16
+S2-1\7 阶段练习\暴力\频繁的数据[50pts].cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=23
+S2-1\7 阶段练习\频繁的数据.cpp: endl=0 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=0
+S2-2\1 hash法1\反对称串.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=38
+S2-2\1 hash法1\字符串匹配.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=29
+S2-2\1 hash法1\最短循环节.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=34
+S2-2\1 hash法1\最长回文子串.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=63
+S2-2\10 LCA1\A-and-B-and-Lecture-Rooms.cpp: endl=3 ret_sp=1 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=74
+S2-2\10 LCA1\Misha,-Grisha-and-Underground.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=48
+S2-2\10 LCA1\【模板】最近公共祖先.cpp: endl=0 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=48
+S2-2\10 LCA1\城市设计.cpp: endl=0 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=58
+S2-2\10 LCA1\点的距离.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=47
+S2-2\11 LCA2\树上询问.cpp: endl=2 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=61
+S2-2\11 LCA2\货车运输.cpp: endl=2 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=82
+S2-2\11 LCA2\路径编号最小点.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=65
+S2-2\12 树上差分\Max-Flow-P.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=58
+S2-2\12 树上差分\树.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=60
+S2-2\12 树上差分\直通路径.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=53
+S2-2\12 树上差分\运输计划.cpp: endl=1 ret_sp=0 sizeof_np=2 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=2 lambda=0 lines=87
+S2-2\13 树型动规1\nearby-cows.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=52
+S2-2\13 树型动规1\三色二叉树.cpp: endl=1 ret_sp=1 sizeof_np=1 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=1 lambda=0 lines=48
+S2-2\13 树型动规1\手机信号网络.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=35
+S2-2\13 树型动规1\没有上司的舞会.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=31
+S2-2\14 树型动规2\Distributing-Integers.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=52
+S2-2\14 树型动规2\Surgey-and-Subway.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=33
+S2-2\14 树型动规2\市政服务大厅.cpp: endl=2 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=45
+S2-2\14 树型动规2\最长简单路径.cpp: endl=0 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=46
+S2-2\2 hash法2\Blue-Mary的战役地图.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=44
+S2-2\2 hash法2\Matrix-Matcher.cpp: endl=1 ret_sp=1 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=44
+S2-2\2 hash法2\不重复数字.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=21
+S2-2\2 hash法2\内存杀手.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=49
+S2-2\2 hash法2\对称的正方形.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=46
+S2-2\3 树状数组1\HH的项链.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=37
+S2-2\3 树状数组1\【模板】树状数组1.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=34
+S2-2\3 树状数组1\【模板】树状数组2.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=35
+S2-2\3 树状数组1\简单题.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=30
+S2-2\3 树状数组1\贪婪大陆.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=26
+S2-2\4 树状数组2\【模板】树状数组3.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=37
+S2-2\4 树状数组2\回转寿司.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=36
+S2-2\4 树状数组2\晋升计数.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=41
+S2-2\4 树状数组2\理发.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=26
+S2-2\4 树状数组2\逆序对.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=31
+S2-2\5 双指针与尺取法\Cow-Lineup-G.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=24
+S2-2\5 双指针与尺取法\Cow-Lineup-S.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=30
+S2-2\5 双指针与尺取法\Haybale-Feast-G.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=32
+S2-2\5 双指针与尺取法\Perform-Easily.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=33
+S2-2\5 双指针与尺取法\哈布斯堡王朝.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=43
+S2-2\6 单调栈\Bad-Hair-Day-S.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=19
+S2-2\6 单调栈\DIFERENCIJA.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=38
+S2-2\6 单调栈\奶牛扔飞盘.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=28
+S2-2\6 单调栈\海边冲浪.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=24
+S2-2\6 单调栈\玉蟾宫.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=36
+S2-2\7 单调队列\Crowded-Cowd-S.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=34
+S2-2\7 单调队列\WIL.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=29
+S2-2\7 单调队列\滑动窗口-弱化版.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=20
+S2-2\7 单调队列\花盆.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=42
+S2-2\8 单调性优化1\Pencils-and-Boxes.cpp: endl=1 ret_sp=1 sizeof_np=1 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=1 lambda=0 lines=36
+S2-2\8 单调性优化1\Pogo-Cow.cpp: endl=1 ret_sp=0 sizeof_np=1 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=1 lambda=0 lines=45
+S2-2\8 单调性优化1\Telephone-Wire.cpp: endl=1 ret_sp=0 sizeof_np=1 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=1 lambda=0 lines=30
+S2-2\8 单调性优化1\促销返现.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=25
+S2-2\9 单调性优化2\Little-Bird.cpp: endl=1 ret_sp=0 sizeof_np=1 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=1 lambda=0 lines=32
+S2-2\9 单调性优化2\课后答疑.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=24
+S2-2\9 单调性优化2\购买饲料.cpp: endl=1 ret_sp=0 sizeof_np=1 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=1 lambda=0 lines=32
+S2-2\9 单调性优化2\跳房子.cpp: endl=1 ret_sp=0 sizeof_np=1 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=1 lambda=0 lines=39
+S3-1\1 字典树综合\First!-G.cpp: endl=2 ret_sp=0 sizeof_np=1 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=1 lambda=0 lines=68
+S3-1\1 字典树综合\【模板】字典树.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=41
+S3-1\1 字典树综合\于是他错误的点名开始了.cpp: endl=3 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=55
+S3-1\1 字典树综合\前缀统计.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=42
+S3-1\1 字典树综合\病毒检测.cpp: endl=1 ret_sp=2 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=54
+S3-1\1 字典树综合\秘密信息.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=54
+S3-1\1 字典树综合\阅读理解.cpp: endl=2 ret_sp=2 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=56
+S3-1\10 阶段测试\test.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=6
+S3-1\10 阶段测试\五号人格.cpp: endl=0 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=20
+S3-1\10 阶段测试\爬塔游戏.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=22
+S3-1\10 阶段测试\魔法草药.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=27
+S3-1\2 指针和set容器\【模板】字典树.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=54
+S3-1\2 指针和set容器\会场预约.cpp: endl=2 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=33
+S3-1\2 指针和set容器\文本编辑器.cpp: endl=1 ret_sp=1 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=63
+S3-1\2 指针和set容器\送花.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=37
+S3-1\3 set容器进阶\KLO-Building-blocks.cpp: endl=0 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=51
+S3-1\3 set容器进阶\Monkey-King.cpp: endl=2 ret_sp=1 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=49
+S3-1\3 set容器进阶\宠物收养场.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=46
+S3-1\3 set容器进阶\报表统计.cpp: endl=2 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=43
+S3-1\4 迭代加深\addition-chains.cpp: endl=1 ret_sp=4 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=43
+S3-1\4 迭代加深\八数码难题.cpp: endl=1 ret_sp=2 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=60
+S3-1\4 迭代加深\铁盘整理.cpp: endl=1 ret_sp=2 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=43
+S3-1\4 迭代加深\骑士精神.cpp: endl=1 ret_sp=3 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=54
+S3-1\5 阶段测试\书架整理.cpp: endl=0 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=27
+S3-1\5 阶段测试\序列.cpp: endl=0 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=25
+S3-1\5 阶段测试\逃脱魔法.cpp: endl=0 ret_sp=4 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=46
+S3-1\5 阶段测试\通讯录.cpp: endl=2 ret_sp=2 sizeof_np=3 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=3 lambda=0 lines=54
+S3-1\6 位运算综合\GEPPETTO.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=18
+S3-1\6 位运算综合\内建函数实现.cpp: endl=0 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=36
+S3-1\6 位运算综合\动物园.cpp: endl=2 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=Y fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=29
+S3-1\6 位运算综合\异或非或.cpp: endl=1 ret_sp=0 sizeof_np=1 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=1 lambda=0 lines=37
+S3-1\6 位运算综合\找筷子.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=15
+S3-1\6 位运算综合\浏览器.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=17
+S3-1\6 位运算综合\绝世好题.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=21
+S3-1\6 位运算综合\起床困难综合症.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=27
+S3-1\7 状态压缩基础1\Balanced-Cow-Subsets-G.cpp: endl=1 ret_sp=1 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=43
+S3-1\7 状态压缩基础1\还是N皇后.cpp: endl=2 ret_sp=2 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=61
+S3-1\7 状态压缩基础1\邦德.cpp: endl=0 ret_sp=2 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=64
+S3-1\7 状态压缩基础1\邦邦的大合唱站队.cpp: endl=1 ret_sp=0 sizeof_np=1 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=1 lambda=0 lines=31
+S3-1\8 状态压缩基础2\Mixed-up-Cows-G.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=27
+S3-1\8 状态压缩基础2\Moovie-Mooving-G.cpp: endl=1 ret_sp=0 sizeof_np=1 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=1 lambda=0 lines=30
+S3-1\8 状态压缩基础2\PRZ.cpp: endl=1 ret_sp=0 sizeof_np=1 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=1 lambda=0 lines=28
+S3-1\8 状态压缩基础2\动物园.cpp: endl=1 ret_sp=0 sizeof_np=1 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=1 lambda=0 lines=41
+S3-1\9 棋盘状压DP\互不侵犯.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=37
+S3-1\9 棋盘状压DP\水果蛋糕.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=50
+S3-1\9 棋盘状压DP\炮兵阵地.cpp: endl=1 ret_sp=0 sizeof_np=1 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=1 lambda=0 lines=48
+S3-1\9 棋盘状压DP\蒙德里安的梦想.cpp: endl=1 ret_sp=0 sizeof_np=1 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=1 lambda=0 lines=35
+S3-2\1 树上背包\分组背包.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=23
+S3-2\1 树上背包\有线电视网.cpp: endl=1 ret_sp=0 sizeof_np=1 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=1 lambda=0 lines=45
+S3-2\1 树上背包\选课-增强版.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=43
+S3-2\1 树上背包\选课.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=31
+S3-2\1 树上背包\选课线性版.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=39
+S3-2\10 数据结构综合2\DFS序.cpp: endl=2 ret_sp=2 sizeof_np=0 brace_else=0 allman=N def_int=Y signed_main=Y fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=130
+S3-2\10 数据结构综合2\树上操作.cpp: endl=1 ret_sp=4 sizeof_np=0 brace_else=0 allman=N def_int=Y signed_main=Y fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=110
+S3-2\10 数据结构综合2\色板游戏.cpp: endl=1 ret_sp=4 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=80
+S3-2\10 数据结构综合2\语文.cpp: endl=1 ret_sp=4 sizeof_np=1 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=1 lambda=0 lines=119
+S3-2\13 CSP-S模考2\两个回文串.cpp: endl=0 ret_sp=2 sizeof_np=0 brace_else=0 allman=N def_int=Y signed_main=Y fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=84
+S3-2\13 CSP-S模考2\交易市场.cpp: endl=0 ret_sp=1 sizeof_np=1 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=1 lambda=0 lines=89
+S3-2\2 树形dp综合\树上染色.cpp: endl=1 ret_sp=0 sizeof_np=1 brace_else=0 allman=N def_int=Y signed_main=Y fast_read=N bits=N emplace=0 auto_ref=0 memset=1 lambda=0 lines=37
+S3-2\2 树形dp综合\贪吃的九头龙.cpp: endl=2 ret_sp=0 sizeof_np=1 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=1 lambda=0 lines=45
+S3-2\2 树形dp综合\道路.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=Y signed_main=Y fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=30
+S3-2\2 树形dp综合\骑士.cpp: endl=0 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=Y signed_main=Y fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=51
+S3-2\3 高斯消元\Driving-Out-the-Piggies-G.cpp: endl=0 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=56
+S3-2\3 高斯消元\外星千足虫.cpp: endl=0 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=52
+S3-2\3 高斯消元\球形空间产生器.cpp: endl=0 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=50
+S3-2\3 高斯消元\线性方程组.cpp: endl=0 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=46
+S3-2\4 数论1\乘法逆元1.cpp: endl=0 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=18
+S3-2\4 数论1\乘法逆元2.cpp: endl=0 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=39
+S3-2\4 数论1\同余方程.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=Y signed_main=Y fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=24
+S3-2\4 数论1\小凯的数字.cpp: endl=2 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=Y signed_main=Y fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=15
+S3-2\4 数论1\有理数取余.cpp: endl=2 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=Y signed_main=Y fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=31
+S3-2\4 数论1\裴蜀定理.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=15
+S3-2\4 数论1\青蛙的约会.cpp: endl=2 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=Y signed_main=Y fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=29
+S3-2\5 数论2\GCD.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=25
+S3-2\5 数论2\Longge的问题.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=26
+S3-2\5 数论2\中国剩余定理.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=46
+S3-2\5 数论2\扩展中国剩余定理.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=54
+S3-2\5 数论2\扩展欧拉定理.cpp: endl=3 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=37
+S3-2\5 数论2\猜数字.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=47
+S3-2\6 线段树1\小白逛公园.cpp: endl=1 ret_sp=4 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=77
+S3-2\6 线段树1\线段树单点修改.cpp: endl=1 ret_sp=5 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=73
+S3-2\6 线段树1\绿荫长廊.cpp: endl=1 ret_sp=2 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=56
+S3-2\7 线段树2\扶苏的问题.cpp: endl=1 ret_sp=7 sizeof_np=0 brace_else=0 allman=N def_int=Y signed_main=Y fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=110
+S3-2\7 线段树2\无聊的数列.cpp: endl=1 ret_sp=6 sizeof_np=0 brace_else=0 allman=N def_int=Y signed_main=Y fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=87
+S3-2\7 线段树2\线段树区间查询.cpp: endl=1 ret_sp=5 sizeof_np=0 brace_else=0 allman=N def_int=Y signed_main=Y fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=81
+S3-2\7 线段树2\维护序列.cpp: endl=0 ret_sp=3 sizeof_np=0 brace_else=0 allman=N def_int=Y signed_main=Y fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=119
+S3-2\9 数据结构综合1\园丁的烦恼.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=54
+S3-2\9 数据结构综合1\求矩形的并.cpp: endl=1 ret_sp=2 sizeof_np=0 brace_else=0 allman=N def_int=Y signed_main=Y fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=68
+S3-2\9 数据结构综合1\矩形周长.cpp: endl=1 ret_sp=2 sizeof_np=0 brace_else=0 allman=N def_int=Y signed_main=Y fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=68
+S3-2\9 数据结构综合1\窗口的星星.cpp: endl=1 ret_sp=3 sizeof_np=0 brace_else=0 allman=N def_int=Y signed_main=Y fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=79
+contest\0\card.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=42
+contest\0\chess.cpp: endl=1 ret_sp=0 sizeof_np=1 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=1 lambda=0 lines=48
+contest\0\count.cpp: endl=0 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=12
+contest\0\money.cpp: endl=1 ret_sp=0 sizeof_np=1 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=1 lambda=0 lines=36
+contest\0\word.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=42
+contest\12\bicycle.cpp: endl=2 ret_sp=0 sizeof_np=2 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=2 lambda=0 lines=61
+contest\12\gravity.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=65
+contest\12\matching.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=22
+contest\13\entrycode.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=22
+contest\13\fountain.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=28
+contest\13\hubroute.cpp: endl=1 ret_sp=1 sizeof_np=0 brace_else=0 allman=N def_int=Y signed_main=Y fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=53
+contest\13\maxscale.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=15
+contest\13\startrade.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=Y signed_main=Y fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=13
+contest\14\coloring.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=19
+contest\14\separate.cpp: endl=2 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=Y signed_main=Y fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=43
+contest\14\static.cpp: endl=0 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=30
+contest\15\escape.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=Y signed_main=Y fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=26
+contest\15\mali.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=29
+contest\15\num.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=13
+contest\15\tour.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=1 lambda=0 lines=67
+contest\1\maze.cpp: endl=1 ret_sp=0 sizeof_np=1 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=1 lambda=0 lines=54
+contest\1\sequencea.cpp: endl=1 ret_sp=0 sizeof_np=1 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=1 lambda=0 lines=27
+contest\1\snow.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=2 lines=39
+contest\1\string.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=35
+contest\2\assembly.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=33
+contest\2\drum.cpp: endl=1 ret_sp=1 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=96
+contest\2\protocol.cpp: endl=1 ret_sp=2 sizeof_np=1 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=1 lambda=0 lines=74
+contest\2\robot.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=33
+contest\3\agent\agent.cpp: endl=1 ret_sp=0 sizeof_np=1 brace_else=0 allman=N def_int=Y signed_main=Y fast_read=N bits=N emplace=0 auto_ref=0 memset=1 lambda=0 lines=31
+contest\3\string\string.cpp: endl=1 ret_sp=0 sizeof_np=1 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=1 lambda=0 lines=33
+contest\3\thief\thief.cpp: endl=2 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=21
+contest\3\队列\队列.cpp: endl=0 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=41
+contest\4\FileSkip\FileSkip.cpp: endl=0 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=38
+contest\4\LoopPatrol\LoopPatrol.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=26
+contest\4\SegCount\SegCount.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=19
+contest\4\StarPick\StarPick.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=64
+contest\4\count\count.cpp: endl=2 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=67
+contest\5\comp\comp.cpp: endl=1 ret_sp=1 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=38
+contest\5\double\double.cpp: endl=1 ret_sp=1 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=34
+contest\5\game\game.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=20
+contest\5\throw\throw.cpp: endl=1 ret_sp=1 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=40
+contest\5\wait\wait.cpp: endl=0 ret_sp=0 sizeof_np=1 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=2 lambda=0 lines=27
+contest\6\lab\lab.cpp: endl=2 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=19
+contest\6\meal\meal.cpp: endl=1 ret_sp=0 sizeof_np=1 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=1 lambda=0 lines=38
+contest\6\partition\partition.cpp: endl=0 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=Y fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=50
+contest\6\song\song.cpp: endl=3 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=41
+contest\6\treasure\treasure.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=44
+contest\7\color.cpp: endl=2 ret_sp=2 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=40
+contest\7\function.cpp: endl=0 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=42
+contest\7\number.cpp: endl=1 ret_sp=1 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=42
+contest\7\yet-LIS.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=28
+contest\入门#51\千秋的数学探究活动没有问题.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=Y signed_main=Y fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=30
+contest\入门#51\千秋的研究并不聚焦稀疏矩阵乘法.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=32
+contest\入门#51\千秋的西红柿里有多少果汁.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=20
+contest\入门#51\千秋的进制转换应该比较快.cpp: endl=2 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=36
+self-practise\Note-B\1 枚举\三连击-升级版.cpp: endl=2 ret_sp=1 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=32
+self-practise\Note-B\1 枚举\子数整数.cpp: endl=2 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=16
+self-practise\Note-B\1 枚举\火柴棒等式.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=21
+self-practise\Note-B\1 枚举\珠心算测验.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=20
+self-practise\Note-B\1 枚举\组合的输出.cpp: endl=0 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=0
+self-practise\Note-B\1 枚举\统计方形.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=11
+self-practise\Note-B\1 枚举\龙虎斗.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=27
+self-practise\Note-B\2 高精度\A_B-Problem.cpp: endl=0 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=66
+self-practise\Note-B\2 高精度\AdivB-Problem.cpp: endl=0 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=41
+self-practise\Note-B\2 高精度\B进制星球.cpp: endl=0 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=55
+self-practise\Note-B\2 高精度\数楼梯.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=55
+self-practise\Note-B\2 高精度\蜜蜂路线.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=57
+self-practise\Note-B\2 高精度\计算e.cpp: endl=2 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=18
+self-practise\Note-B\2 高精度\阶乘数码.cpp: endl=1 ret_sp=1 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=47
+self-practise\Note-B\2 高精度\高精度减法.cpp: endl=0 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=66
+self-practise\Note-B\2 高精度\高精度加法.cpp: endl=0 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=44
+self-practise\Note-B\3 差分\Decrease.cpp: endl=2 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=Y signed_main=Y fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=34
+self-practise\Note-B\3 差分\不成熟の梦想家.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=Y signed_main=Y fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=30
+self-practise\Note-B\3 差分\地毯.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=23
+self-practise\Note-B\3 差分\有趣的家庭菜园4.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=Y signed_main=Y fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=23
+self-practise\Note-B\3 差分\积木大赛.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=20
+self-practise\Note-B\3 差分\语文成绩.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=24
+self-practise\Note-B\4 贪心\Sunscreen-G.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=25
+self-practise\Note-B\4 贪心\Work-Scheduling-G.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=Y signed_main=Y fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=27
+self-practise\Note-B\4 贪心\凌乱的yyy-线段覆盖.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=17
+self-practise\Note-B\4 贪心\分组.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=29
+self-practise\Note-B\4 贪心\删数问题.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=27
+self-practise\Note-B\4 贪心\区间.cpp: endl=2 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=23
+self-practise\Note-B\4 贪心\区间覆盖-加强版.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=19
+self-practise\Note-B\4 贪心\国王游戏.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=Y signed_main=Y fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=81
+self-practise\Note-B\4 贪心\均分纸牌.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=25
+self-practise\Note-B\4 贪心\小A的糖果.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=Y signed_main=Y fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=16
+self-practise\Note-B\4 贪心\排队接水.cpp: endl=0 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=22
+self-practise\Note-B\4 贪心\混合牛奶 Mixing Milk.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=25
+self-practise\Note-B\4 贪心\田忌赛马.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=23
+self-practise\Note-B\4 贪心\部分背包问题.cpp: endl=0 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=26
+self-practise\Note-B\4 贪心\雷达安装.cpp: endl=2 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=32
+self-practise\Note-B\5 分治\Moo.cpp: endl=2 ret_sp=2 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=35
+self-practise\Note-B\5 分治\Secret-Cow-Code-S.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=24
+self-practise\Note-B\5 分治\【模板】快速幂.cpp: endl=0 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=21
+self-practise\Note-B\5 分治\一元三次方程求解.cpp: endl=0 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=15
+self-practise\Note-B\5 分治\地毯填补问题.cpp: endl=4 ret_sp=1 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=47
+self-practise\Note-B\5 分治\平面最近点对-加强版.cpp: endl=0 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=54
+self-practise\Note-B\5 分治\求第k小的数.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=27
+self-practise\Note-B\5 分治\逆序对.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=26
+self-practise\STL\动态数组\look-up-S.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=19
+self-practise\green-green-purple\1\序列合并.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=23
+self-practise\green-green-purple\1\方差.cpp: endl=1 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=Y signed_main=Y fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=39
+teach\「IXOI R1」永远在一起！.cpp: endl=0 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=8
+teach\归程-标程.cpp: endl=1 ret_sp=0 sizeof_np=5 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=5 lambda=0 lines=99
+teach\归程.cpp: endl=1 ret_sp=0 sizeof_np=5 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=5 lambda=0 lines=131
+test\data.cpp: endl=0 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=18
+test\test.cpp: endl=0 ret_sp=0 sizeof_np=0 brace_else=0 allman=N def_int=N signed_main=N fast_read=N bits=N emplace=0 auto_ref=0 memset=0 lambda=0 lines=6

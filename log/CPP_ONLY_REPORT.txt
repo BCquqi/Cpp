@@ -1,0 +1,174 @@
+# C++ (.cpp) Files Only Report
+# Workspace: C:\Users\Administrator\Documents\C++
+# Generated: 2026-10
+
+## 1. File Counts
+- Total .cpp files: 1099
+- Total .cpp lines: 56935
+- Total .cpp chars: 1346917
+- Average lines per file: 51.8
+- Average chars per file: 1225.6
+- Average chars per line: 23.7
+
+## 2. Directory Distribution (top-level)
+2026-7: 87
+2026-8: 118
+2026-9-10-11: 57
+J1-1: 43
+J1-2: 133
+J2-1: 49
+J2-2: 69
+NOICA: 54
+OJ: 27
+S1-1: 36
+S1-2: 73
+S2-1: 33
+S2-2: 61
+S3-1: 47
+S3-2: 43
+contest: 55
+self-practise: 48
+Pre: 35
+CookieOI: 10
+Homework: 7
+Practice: 7
+J-training: 1
+teach: 3
+test: 2
+
+## 3. Template Files (【模板】*.cpp)
+Count: 46
+Locations: see log/07_template_index.txt
+
+## 4. Style Markers (all .cpp files)
+- endl: 269 files (mainstream)
+- '\n': 22 files (minority)
+- return ; (space): 113 files
+- return; (no space): 9 files
+- sizeof x (no parens): 68 files
+- sizeof(x): 2 files
+- for (int i=1;i<=: 264 files
+- auto &: 1 file
+- emplace_back: 0 files
+- .at(: 0 files
+- bits/stdc: 0 files
+- #define int long long: present in 64-bit problems
+- signed main(): used with above
+- memset: universal
+- using namespace std;: universal
+- #include< (no space): 100%
+- lambda []: 68 files
+- lambda [&]: 1 file
+
+## 5. Allman Style Distribution
+- Total Allman files: 290
+- Concentrated in: J1-1, J1-2, J2-1
+- Recent dirs (2026-9-10-11, NOICA, OJ, contest): 8 files only
+- while(L<=R) brace next line: 12 files (J1-2\4 二分答案\)
+
+## 6. BIT Write Patterns
+- Pattern 1 (early): arr=a/tree, fns=add/query/lowbit, acc=ret
+- Pattern 2 (S2-2/S3-2): arr=c, fns=change/sum/lowbit, acc=ans
+
+## 7. Segment Tree Variants
+- Base: struct{l,r,lazy,sum} tr[N<<2]
+- +mx: adds mx member
+- +lzym: adds multiply tag, mod m
+- Dynamic open point: pointer version, lc/rc macros
+
+## 8. FHQ-Treap Variants
+- Basic: split by value, fields ls,rs,sz,fix,val
+- Variant: split by first k, +fa,+rev,+pushdown
+
+## 9. Include Patterns
+- No bits/stdc++.h: 0 occurrences
+- Hand-written #include<xxx>: 100%
+- using namespace std;: universal
+- First include: iostream most common
+
+## 10. Type Patterns
+- #define int long long + signed main(): 64-bit problems
+- typedef long long LL/ll: selective
+- const int N = 1e5 + 5: spaces around +
+- mod (lowercase): universal
+- eps = 1e-6: double problems
+- 1ll * not 1LL *: universal
+- __int128: 4 files only
+
+## 11. Variable Naming
+- Short globals: a, dp, vis, f, G, N, M
+- Same-type globals one line: int a[N],tree[N],n,q;
+- Struct members: comma no space, trailing ;
+- 1-indexed arrays: universal
+- Scale vars: n, m, q, k
+
+## 12. Function Patterns
+- inline: pushup, pushdown, modify, addtag, read, write, nc, popcount, cal, cmp
+- static inline: only fast read (nc)
+- return ; (space): 113 files
+- return; (no space): 9 files
+- return 0;: main only
+
+## 13. Control Flow
+- Single-statement if/for without braces: common
+- } else { same line: 99 occ (89 files)
+- else on own line: 30 occ (unbraced)
+- switch(op){ with case N : { pattern
+
+## 14. Loops
+- for (int i=1;i<=n;i++): no space after ;
+- postfix i++
+- while (x--) not while (--x)
+- while (id) ret += tree[id], id -= lowbit(id);
+
+## 15. Memory
+- memset(x,0,sizeof x): no parens
+- memset(dp,0x3f,sizeof dp): infinity
+- memset(dp,-0x3f,sizeof dp): neg infinity
+- no memcpy: 0 occurrences
+
+## 16. I/O
+- endl: mainstream (269 files)
+- '\n': minority (22 files)
+- cin/cout: primary
+- scanf/printf: minority
+- fast read: static inline char nc()
+
+## 17. STL
+- No emplace_back: 0
+- No .at(): 0
+- No memcpy: 0
+- auto &: 1 occurrence
+- auto in range-for without &: common
+- sort with lambda [] capture: 68 files
+- vector<int> G[N]: universal adjacency
+
+## 18. Constants
+- mod (lowercase): universal
+- eps = 1e-6: double
+- 1ll * not 1LL *
+- __int128: 4 files only
+
+## 19. Comments
+- minimal, Chinese when needed
+- no TODO/FIXME
+
+## 20. New Template Families (not in 码风说明 12 at scan time)
+- LCA 倍增, 树上差分, 莫队, 单调队列DP, LCS, Floyd/传递闭包, 次短路, 扩展CRT, 高斯消元, 记忆化搜索, 差分数组, 数位DP
+
+## 21. Environment Notes
+- GBK-encoded filenames
+- File reading: utf-8 -> gbk -> latin-1 fallback
+- Windows sandbox: pwsh needs danger-full-access
+- Python runtime: C:\Users\Administrator\.dsh\dsh-runtimes\dsh-primary-runtime\dependencies\python\python.exe
+- Temp scripts in log/ directory
+
+## 22. Scan Log Files (in log/)
+- 01-25: basic statistics
+- D1-D20: detailed patterns
+- R1-R10: full code dumps
+- TOTAL_COUNTS.txt: all files count
+- CODE_COUNTS.txt: code files count
+- CPP_STYLE_REPORT.txt/cpp: full report
+- CPP_ONLY_REPORT.txt: this file
+- _scan.py, _scan2.py, _dense.py, _rich.py, _count_all.py, _count_code.py, _clean_counts.py: scan scripts

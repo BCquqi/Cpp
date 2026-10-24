@@ -1,0 +1,2806 @@
+2026-7\2025winter\hj1\At Most 3\AtMost3.cpp: #include<iostream>
+2026-7\2025winter\hj1\At Most 3\AtMost3.cpp: #include<map>
+2026-7\2025winter\hj1\Coupon\coupon.cpp: #include<iostream>
+2026-7\2025winter\hj1\Coupon\coupon.cpp: #include<algorithm>
+2026-7\2025winter\hj1\Distribution\distribution.cpp: #include<iostream>
+2026-7\2025winter\hj1\K Swap\KSwap.cpp: #include<iostream>
+2026-7\2025winter\hj1\K Swap\KSwap.cpp: #include<vector>
+2026-7\2025winter\hj1\Many Segments\ManySegments.cpp: #include<iostream>
+2026-7\2025winter\hj1\Swiss-System Tournament\Swiss-SystemTournament.cpp: #include<iostream>
+2026-7\2025winter\hj2\Another Sigma Problem\AnotherSigmaProblem.cpp: #include<iostream>
+2026-7\2025winter\hj2\Make Them Narrow\MakeThemNarrow.cpp: #include<iostream>
+2026-7\2025winter\hj2\Make Them Narrow\MakeThemNarrow.cpp: #include<algorithm>
+2026-7\2025winter\hj2\Piano 2\Piano2.cpp: #include<iostream>
+2026-7\2025winter\hj2\Piano 2\Piano2.cpp: #include<vector>
+2026-7\2025winter\hj2\Robot Takahashi\RobotTakahashi.cpp: #include<iostream>
+2026-7\2025winter\hj2\Split\Split.cpp: #include<iostream>
+2026-7\2025winter\hj2\Vertical Reading\VerticalReading.cpp: #include<iostream>
+2026-7\2025winter\hj3\A - B problem\A-Bproblem.cpp: #include<iostream>
+2026-7\2025winter\hj3\ARC Wrecker\ARCWrecker.cpp: #include<iostream>
+2026-7\2025winter\hj3\ARC Wrecker\ARCWrecker.cpp: #include<algorithm>
+2026-7\2025winter\hj3\A^B^C\A^B^C.cpp: #include<iostream>
+2026-7\2025winter\hj3\Quadruple\Quadruple.cpp: #include<iostream>
+2026-7\2025winter\hj3\log\log.cpp: #include<iostream>
+2026-7\2025winter\hj3\log\log.cpp: #include<algorithm>
+2026-7\单调队列与单调栈\ARC-Architects.cpp: #include <stdlib.h>
+2026-7\单调队列与单调栈\ARC-Architects.cpp: #include <stdio.h>
+2026-7\单调队列与单调栈\ARC-Architects.cpp: #include <time.h>
+2026-7\单调队列与单调栈\ARC-Architects.cpp: #include <deque>
+2026-7\单调队列与单调栈\BBB-BBB.cpp: #include<iostream>
+2026-7\单调队列与单调栈\BBB-BBB.cpp: #include<algorithm>
+2026-7\单调队列与单调栈\BBB-BBB.cpp: #include<deque>
+2026-7\单调队列与单调栈\BBB-BBB.cpp: #include<cmath>
+2026-7\单调队列与单调栈\Cow-Frisbee-S.cpp: #include<iostream>
+2026-7\单调队列与单调栈\Cow-Frisbee-S.cpp: #include<stack>
+2026-7\单调队列与单调栈\Cow-Frisbee-S.cpp: #include<algorithm>
+2026-7\单调队列与单调栈\Flowerpot-S.cpp: #include<iostream>
+2026-7\单调队列与单调栈\Flowerpot-S.cpp: #include<deque>
+2026-7\单调队列与单调栈\Flowerpot-S.cpp: #include<cmath>
+2026-7\单调队列与单调栈\Flowerpot-S.cpp: #include<algorithm>
+2026-7\单调队列与单调栈\Look-Up-S.cpp: #include<iostream>
+2026-7\单调队列与单调栈\Look-Up-S.cpp: #include<stack>
+2026-7\单调队列与单调栈\【模板】单调栈.cpp: #include<iostream>
+2026-7\单调队列与单调栈\【模板】单调栈.cpp: #include<stack>
+2026-7\单调队列与单调栈\【模板】单调队列-滑动窗口.cpp: #include<iostream>
+2026-7\单调队列与单调栈\【模板】单调队列-滑动窗口.cpp: #include<algorithm>
+2026-7\单调队列与单调栈\【模板】单调队列-滑动窗口.cpp: #include<deque>
+2026-7\单调队列与单调栈\寻找段落.cpp: #include<iostream>
+2026-7\单调队列与单调栈\寻找段落.cpp: #include<deque>
+2026-7\单调队列与单调栈\寻找段落.cpp: #include<cstdio>
+2026-7\单调队列与单调栈\选择数字.cpp: #include<iostream>
+2026-7\单调队列与单调栈\选择数字.cpp: #include<algorithm>
+2026-7\单调队列与单调栈\选择数字.cpp: #include<deque>
+2026-7\多维dp\中国象棋.cpp: #include<iostream>
+2026-7\多维dp\乌龟棋-加强版.cpp: #include<iostream>
+2026-7\多维dp\乌龟棋.cpp: #include<iostream>
+2026-7\多维dp\传纸条.cpp: #include<iostream>
+2026-7\多维dp\传纸条.cpp: #include<algorithm>
+2026-7\多维dp\传纸条.cpp: #include<cstring>
+2026-7\多维dp\多米诺骨牌.cpp: #include<iostream>
+2026-7\多维dp\多米诺骨牌.cpp: #include<algorithm>
+2026-7\多维dp\多米诺骨牌.cpp: #include<cstring>
+2026-7\多维dp\子串.cpp: #include<iostream>
+2026-7\多维dp\子串.cpp: #include<algorithm>
+2026-7\多维dp\榨取kkksc03.cpp: #include<iostream>
+2026-7\多维dp\榨取kkksc03.cpp: #include<algorithm>
+2026-7\多维dp\海盗船.cpp: #include<iostream>
+2026-7\多维dp\海盗船.cpp: #include<cstring>
+2026-7\多维dp\海盗船.cpp: #include<algorithm>
+2026-7\多维dp\糖果.cpp: #include<iostream>
+2026-7\多维dp\糖果.cpp: #include<cstring>
+2026-7\多维dp\糖果.cpp: #include<iostream>
+2026-7\多维dp\糖果.cpp: #include<cstring>
+2026-7\多维dp\糖果.cpp: #include<algorithm>
+2026-7\散题\P550.cpp: #include<iostream>
+2026-7\散题\P550.cpp: #include<vector>
+2026-7\散题\P550.cpp: #include<algorithm>
+2026-7\散题\P551.cpp: #include<iostream>
+2026-7\散题\P551.cpp: #include<vector>
+2026-7\散题\P552.cpp: #include<iostream>
+2026-7\散题\P552.cpp: #include<vector>
+2026-7\散题\P552.cpp: #include<queue>
+2026-7\散题\P553.cpp: #include<iostream>
+2026-7\散题\P553.cpp: #include<vector>
+2026-7\散题\P553.cpp: #include<cstring>
+2026-7\散题\P553.cpp: #include<queue>
+2026-7\散题\P554.cpp: #include<iostream>
+2026-7\散题\P554.cpp: #include<vector>
+2026-7\散题\P554.cpp: #include<cstring>
+2026-7\散题\P554.cpp: #include<queue>
+2026-7\散题\P554.cpp: #include<map>
+2026-7\散题\P555.cpp: #include<iostream>
+2026-7\散题\P555.cpp: #include<vector>
+2026-7\散题\P555.cpp: #include<queue>
+2026-7\散题\P555.cpp: #include<cstring>
+2026-7\散题\P556.cpp: #include<iostream>
+2026-7\散题\P556.cpp: #include<vector>
+2026-7\散题\P556.cpp: #include<queue>
+2026-7\散题\P899.cpp: #include<iostream>
+2026-7\散题\P899.cpp: #include<vector>
+2026-7\散题\P899.cpp: #include<algorithm>
+2026-7\散题\P899.cpp: #include<cstring>
+2026-7\树状数组\Lost-Cows.cpp: #include<iostream>
+2026-7\树状数组\二维树状数组1.cpp: #include<iostream>
+2026-7\树状数组\二维树状数组2.cpp: #include<iostream>
+2026-7\树状数组\二维树状数组3.cpp: #include<iostream>
+2026-7\树状数组\二维树状数组3.cpp: #include<algorithm>
+2026-7\树状数组\树状数组1.cpp: #include<iostream>
+2026-7\树状数组\树状数组2.cpp: #include<iostream>
+2026-7\树状数组\树状数组3.cpp: #include<iostream>
+2026-7\树状数组\楼兰图腾.cpp: #include<iostream>
+2026-7\树状数组\楼兰图腾.cpp: #include<algorithm>
+2026-7\树状数组\火柴排队.cpp: #include<iostream>
+2026-7\树状数组\火柴排队.cpp: #include<algorithm>
+2026-7\树状数组\火柴排队.cpp: #include<cstdio>
+2026-7\树状数组\逆序对.cpp: #include<iostream>
+2026-7\树状数组\逆序对.cpp: #include<algorithm>
+2026-7\线段树\A-Simple-Problem-with-Integers.cpp: #include<iostream>
+2026-7\线段树\Balanced-Lineup-G.cpp: #include<iostream>
+2026-7\线段树\Balanced-Lineup-G.cpp: #include<algorithm>
+2026-7\线段树\Hotel-G.cpp: #include<iostream>
+2026-7\线段树\Light-Switching-G.cpp: #include<iostream>
+2026-7\线段树\【模板】ST表.cpp: #include<iostream>
+2026-7\线段树\【模板】线段树.cpp: #include<iostream>
+2026-7\线段树\【模板】线段树1.cpp: #include<iostream>
+2026-7\线段树\【模板】线段树2.cpp: #include<iostream>
+2026-7\线段树\【模板】线段树2.cpp: #include<algorithm>
+2026-7\线段树\【模板】线段树2.cpp: #include<cstring>
+2026-7\线段树\序列操作1.cpp: #include<iostream>
+2026-7\线段树\序列操作1.cpp: #include<algorithm>
+2026-7\线段树\序列操作2.cpp: #include<iostream>
+2026-7\线段树\序列操作2.cpp: #include<algorithm>
+2026-7\线段树\序列操作2.cpp: #include<cstring>
+2026-7\线段树\最大数maxnumber.cpp: #include<iostream>
+2026-7\线段树\最大数maxnumber.cpp: #include<algorithm>
+2026-7\线段树\策略游戏.cpp: #include<iostream>
+2026-7\线段树\策略游戏.cpp: #include<algorithm>
+2026-7\线段树\策略游戏.cpp: #include<cstring>
+2026-7\线段树\维护序列.cpp: #include<iostream>
+2026-7\线段树\维护序列.cpp: #include<algorithm>
+2026-7\线段树\维护序列.cpp: #include<cstring>
+2026-7\线段树\逆序对.cpp: #include<iostream>
+2026-7\线段树\逆序对.cpp: #include<algorithm>
+2026-7\背包问题\Cow-Exhibition-G.cpp: #include<iostream>
+2026-7\背包问题\Cow-Exhibition-G.cpp: #include<algorithm>
+2026-7\背包问题\Cow-Exhibition-G.cpp: #include<cstdio>
+2026-7\背包问题\Cow-Exhibition-G.cpp: #include<cstring>
+2026-7\背包问题\Cut-Ribbon.cpp: #include<iostream>
+2026-7\背包问题\Cut-Ribbon.cpp: #include<cstring>
+2026-7\背包问题\Elimination.cpp: #include<iostream>
+2026-7\背包问题\Elimination.cpp: #include<cstring>
+2026-7\背包问题\Video-Game-Troubles-G.cpp: #include<iostream>
+2026-7\背包问题\Video-Game-Troubles-G.cpp: #include<algorithm>
+2026-7\背包问题\买干草.cpp: #include<iostream>
+2026-7\背包问题\买干草.cpp: #include<cstring>
+2026-7\背包问题\多人背包.cpp: #include<iostream>
+2026-7\背包问题\多人背包.cpp: #include<algorithm>
+2026-7\背包问题\摆花.cpp: #include<iostream>
+2026-7\背包问题\最佳课题选择.cpp: #include<iostream>
+2026-7\背包问题\最佳课题选择.cpp: #include<cmath>
+2026-7\背包问题\最佳课题选择.cpp: #include<cstring>
+2026-7\背包问题\烹调方案.cpp: #include<iostream>
+2026-7\背包问题\烹调方案.cpp: #include<algorithm>
+2026-7\背包问题\竞赛真理.cpp: #include<iostream>
+2026-7\背包问题\纪念品.cpp: #include<iostream>
+2026-7\背包问题\纪念品.cpp: #include<cstring>
+2026-7\背包问题\背包的第k优解.cpp: #include<iostream>
+2026-7\背包问题\背包的第k优解.cpp: #include<cstring>
+2026-7\背包问题\采药.cpp: #include<iostream>
+2026-7\背包问题\金明的预算方案.cpp: #include<iostream>
+2026-7\背包问题\集合-Subset-Sums.cpp: #include<iostream>
+2026-7\背包问题\飞扬的小鸟.cpp: #include<iostream>
+2026-7\背包问题\飞扬的小鸟.cpp: #include<algorithm>
+2026-7\背包问题\飞扬的小鸟.cpp: #include<cstring>
+2026-7\链表及其应用\【模板】双向链表.cpp: #include<iostream>
+2026-7\链表及其应用\单向链表.cpp: #include<iostream>
+2026-7\链表及其应用\排队顺序.cpp: #include<iostream>
+2026-7\链表及其应用\链表操作.cpp: #include<iostream>
+2026-8\Slope-Trick与WQS二分\Tree-I.cpp: #include<iostream>
+2026-8\Slope-Trick与WQS二分\Tree-I.cpp: #include<algorithm>
+2026-8\Slope-Trick与WQS二分\序列-sequence.cpp: #include<iostream>
+2026-8\Slope-Trick与WQS二分\序列-sequence.cpp: #include<queue>
+2026-8\Slope-Trick与WQS二分\种树.cpp: #include<iostream>
+2026-8\Slope-Trick与WQS二分\种树.cpp: #include<queue>
+2026-8\动态dp与dp套dp\Kuro-and-Topological-Parity.cpp: #include<iostream>
+2026-8\动态dp与dp套dp\Sasha-and-Array.cpp: #include<iostream>
+2026-8\动态dp与dp套dp\【模板】矩阵快速幂.cpp: #include<iostream>
+2026-8\动态dp与dp套dp\小白逛公园.cpp: #include<iostream>
+2026-8\动态dp与dp套dp\小白逛公园.cpp: #include<algorithm>
+2026-8\动态dp与dp套dp\矩阵加速（数列）.cpp: #include<iostream>
+2026-8\动态dp与dp套dp\矩阵加速（数列）.cpp: #include<cstring>
+2026-8\动态规划及其优化1\Candies.cpp: #include<iostream>
+2026-8\动态规划及其优化1\Flowers.cpp: #include<iostream>
+2026-8\动态规划及其优化1\LUK-Triumphal-arch.cpp: #include<iostream>
+2026-8\动态规划及其优化1\LUK-Triumphal-arch.cpp: #include<vector>
+2026-8\动态规划及其优化1\创世纪.cpp: #include<iostream>
+2026-8\动态规划及其优化1\创世纪.cpp: #include<algorithm>
+2026-8\动态规划及其优化1\创世纪.cpp: #include<vector>
+2026-8\动态规划及其优化1\创世纪.cpp: #include<cstring>
+2026-8\动态规划及其优化1\期末考试滑溜滑溜补习班.cpp: #include<iostream>
+2026-8\动态规划及其优化1\期末考试滑溜滑溜补习班.cpp: #include<queue>
+2026-8\动态规划及其优化1\琪露诺.cpp: #include<iostream>
+2026-8\动态规划及其优化1\琪露诺.cpp: #include<queue>
+2026-8\动态规划及其优化1\琪露诺.cpp: #include<algorithm>
+2026-8\动态规划及其优化1\琪露诺.cpp: #include<cstring>
+2026-8\动态规划及其优化1\跑路.cpp: #include<iostream>
+2026-8\动态规划及其优化1\跑路.cpp: #include<vector>
+2026-8\动态规划及其优化1\跑路.cpp: #include<cstring>
+2026-8\动态规划及其优化2\The-Bakery.cpp: #include<iostream>
+2026-8\动态规划及其优化2\The-Bakery.cpp: #include<cstring>
+2026-8\动态规划及其优化2\Watching-Fireworks-is-Fun.cpp: #include<iostream>
+2026-8\动态规划及其优化2\Watching-Fireworks-is-Fun.cpp: #include<queue>
+2026-8\动态规划及其优化2\Watching-Fireworks-is-Fun.cpp: #include<cmath>
+2026-8\动态规划及其优化2\Watching-Fireworks-is-Fun.cpp: #include<cstring>
+2026-8\动态规划及其优化2\柠檬.cpp: #include<iostream>
+2026-8\动态规划及其优化2\特别行动队.cpp: #include<iostream>
+2026-8\动态规划及其优化2\特别行动队.cpp: #include<queue>
+2026-8\动态规划及其优化2\玩具装箱.cpp: #include<iostream>
+2026-8\动态规划及其优化2\琪露诺.cpp: #include<iostream>
+2026-8\动态规划及其优化2\琪露诺.cpp: #include<queue>
+2026-8\动态规划及其优化2\琪露诺.cpp: #include<algorithm>
+2026-8\动态规划及其优化2\琪露诺.cpp: #include<cstring>
+2026-8\动态规划及其优化2\股票交易.cpp: #include<iostream>
+2026-8\动态规划及其优化2\股票交易.cpp: #include<cstring>
+2026-8\动态规划及其优化2\股票交易.cpp: #include<queue>
+2026-8\动态规划及其优化2\股票交易.cpp: #include<algorithm>
+2026-8\排列组合\Bouquet.cpp: #include<iostream>
+2026-8\排列组合\Cell-Distance.cpp: #include<iostream>
+2026-8\排列组合\Large-Heap.cpp: #include<iostream>
+2026-8\排列组合\Many-Many-Paths.cpp: #include<iostream>
+2026-8\排列组合\[ZJOI]排列计数.cpp: #include<iostream>
+2026-8\排列组合\中国象棋.cpp: #include<iostream>
+2026-8\排列组合\安全系统.cpp: #include<iostream>
+2026-8\排列组合\安全系统.cpp: #include<algorithm>
+2026-8\排列组合\安全系统.cpp: #include<cstdio>
+2026-8\排列组合\小朋友的球.cpp: #include<iostream>
+2026-8\排列组合\小朋友的球.cpp: #include<cstring>
+2026-8\排列组合\小朋友的球.cpp: #include<algorithm>
+2026-8\排列组合\已经没有什么好害怕的了.cpp: #include<iostream>
+2026-8\排列组合\已经没有什么好害怕的了.cpp: #include<algorithm>
+2026-8\排列组合\幸运数字.cpp: #include<iostream>
+2026-8\排列组合\幸运数字.cpp: #include<algorithm>
+2026-8\排列组合\排列计数.cpp: #include<iostream>
+2026-8\排列组合\有趣的数列.cpp: #include<iostream>
+2026-8\排列组合\生成字符串.cpp: #include<iostream>
+2026-8\排列组合\生成字符串.cpp: #include<algorithm>
+2026-8\排列组合\生成字符串.cpp: #include<cstdio>
+2026-8\排列组合\硬币购物.cpp: #include<iostream>
+2026-8\排列组合\苹果树.cpp: #include<iostream>
+2026-8\数据结构基础知识学习与应用\FHQ-Treap.cpp: #include<iostream>
+2026-8\数据结构基础知识学习与应用\FHQ-Treap.cpp: #include<ctime>
+2026-8\数据结构基础知识学习与应用\FHQ-Treap.cpp: #include<cstdlib>
+2026-8\数据结构基础知识学习与应用\FHQ-Treap.cpp: #include<random>
+2026-8\数据结构基础知识学习与应用\Multiset.cpp: #include<iostream>
+2026-8\数据结构基础知识学习与应用\Multiset.cpp: #include<algorithm>
+2026-8\数据结构基础知识学习与应用\XOR的艺术.cpp: #include<iostream>
+2026-8\数据结构基础知识学习与应用\【模板】动态开点线段树.cpp: #include<iostream>
+2026-8\数据结构基础知识学习与应用\【模板】普通平衡树.cpp: #include<iostream>
+2026-8\数据结构基础知识学习与应用\【模板】普通平衡树.cpp: #include<ctime>
+2026-8\数据结构基础知识学习与应用\【模板】普通平衡树.cpp: #include<cstdlib>
+2026-8\数据结构基础知识学习与应用\【模板】普通平衡树.cpp: #include<random>
+2026-8\数据结构基础知识学习与应用\【模板】树状数组1.cpp: #include<iostream>
+2026-8\数据结构基础知识学习与应用\【模板】线段树1.cpp: #include<iostream>
+2026-8\数据结构基础知识学习与应用\火柴排队.cpp: #include<cstdio>
+2026-8\数据结构基础知识学习与应用\火柴排队.cpp: #include<iostream>
+2026-8\数据结构基础知识学习与应用\火柴排队.cpp: #include<algorithm>
+2026-8\数据结构基础练习题\Why-Did-The-Cow-Cross-the-Road-I-P.cpp: #include<iostream>
+2026-8\数据结构基础练习题\Why-Did-The-Cow-Cross-the-Road-I-P.cpp: #include<algorithm>
+2026-8\数据结构基础练习题\Why-Did-The-Cow-Cross-the-Road-I-P.cpp: #include<cstring>
+2026-8\数据结构基础练习题\守墓人.cpp: #include<iostream>
+2026-8\数据结构基础练习题\数学计算.cpp: #include<iostream>
+2026-8\数据结构基础练习题\数学计算.cpp: #include<cstring>
+2026-8\数据结构基础练习题\数学计算.cpp: #include<algorithm>
+2026-8\数据结构基础练习题\神秘的703.cpp: #include<iostream>
+2026-8\数据结构进阶练习\Flowers.cpp: #include<iostream>
+2026-8\数据结构进阶练习\Hotel-G.cpp: #include<iostream>
+2026-8\数据结构进阶练习\Lost-Cows.cpp: #include<iostream>
+2026-8\数据结构进阶练习\Preprefix-sum.cpp: #include<iostream>
+2026-8\数据结构进阶练习\小白逛公园.cpp: #include<iostream>
+2026-8\数据结构进阶练习\小白逛公园.cpp: #include<algorithm>
+2026-8\数据结构进阶练习\排序机械臂.cpp: #include<iostream>
+2026-8\数据结构进阶练习\排序机械臂.cpp: #include<ctime>
+2026-8\数据结构进阶练习\排序机械臂.cpp: #include<random>
+2026-8\数据结构进阶练习\排序机械臂.cpp: #include<algorithm>
+2026-8\数据结构进阶练习\排序机械臂.cpp: #include<stack>
+2026-8\数据结构进阶练习\永无乡.cpp: #include<iostream>
+2026-8\数据结构进阶练习\永无乡.cpp: #include<algorithm>
+2026-8\数据结构进阶练习\食物链.cpp: #include<iostream>
+2026-8\斜率优化\Cats-Transport.cpp: #include<iostream>
+2026-8\斜率优化\Cats-Transport.cpp: #include<algorithm>
+2026-8\斜率优化\仓库建设.cpp: #include<iostream>
+2026-8\斜率优化\仓库建设.cpp: #include<algorithm>
+2026-8\斜率优化\仓库建设.cpp: #include<cstring>
+2026-8\斜率优化\任务安排1.cpp: #include<iostream>
+2026-8\斜率优化\任务安排1.cpp: #include<algorithm>
+2026-8\斜率优化\任务安排1.cpp: #include<cstring>
+2026-8\斜率优化\任务安排2.cpp: #include<iostream>
+2026-8\斜率优化\任务安排2.cpp: #include<cstring>
+2026-8\斜率优化\特别行动队.cpp: #include<iostream>
+2026-8\斜率优化\特别行动队.cpp: #include<queue>
+2026-8\斜率优化\玩具装箱.cpp: #include<iostream>
+2026-8\斜率优化\货币兑换.cpp: #include<iostream>
+2026-8\斜率优化\货币兑换.cpp: #include<algorithm>
+2026-8\斜率优化\货币兑换.cpp: #include<cmath>
+2026-8\斜率优化\货币兑换.cpp: #include<iomanip>
+2026-8\根号算法选讲\作诗.cpp: #include<cstdio>
+2026-8\根号算法选讲\作诗.cpp: #include<algorithm>
+2026-8\根号算法选讲\作诗.cpp: #include<cstring>
+2026-8\根号算法选讲\作诗.cpp: #include<cmath>
+2026-8\根号算法选讲\小Z的袜子.cpp: #include<iostream>
+2026-8\根号算法选讲\小Z的袜子.cpp: #include<algorithm>
+2026-8\根号算法选讲\小Z的袜子.cpp: #include<cmath>
+2026-8\根号算法选讲\弹飞绵羊.cpp: #include<iostream>
+2026-8\根号算法选讲\弹飞绵羊.cpp: #include<algorithm>
+2026-8\根号算法选讲\弹飞绵羊.cpp: #include<cmath>
+2026-8\根号算法选讲\教主的魔法.cpp: #include<iostream>
+2026-8\根号算法选讲\教主的魔法.cpp: #include<algorithm>
+2026-8\根号算法选讲\教主的魔法.cpp: #include<cmath>
+2026-8\测试1\confluere.cpp: #include<iostream>
+2026-8\测试1\diftest.cpp: #include<iostream>
+2026-8\测试1\fatum.cpp: #include<iostream>
+2026-8\测试1\geminae.cpp: #include<iostream>
+2026-8\测试1\geminae.cpp: #include<algorithm>
+2026-8\测试1\geminae.cpp: #include<cstring>
+2026-8\测试1\geminae.cpp: #include<cstdio>
+2026-8\测试1\pipeline-40.cpp: #include<iostream>
+2026-8\测试1\pipeline-40.cpp: #include<algorithm>
+2026-8\测试1\pipeline-40.cpp: #include<cstring>
+2026-8\测试1\pipeline.cpp: #include<iostream>
+2026-8\测试1\pipeline.cpp: #include<algorithm>
+2026-8\测试1\pipeline.cpp: #include<cstring>
+2026-8\测试1\pipeline.cpp: #include<queue>
+2026-8\测试2\allocation\allocation.cpp: #include<iostream>
+2026-8\测试2\auto\auto.cpp: #include<iostream>
+2026-8\测试2\auto\auto.cpp: #include<algorithm>
+2026-8\测试2\city\city.cpp: #include<iostream>
+2026-8\测试2\city\city.cpp: #include<algorithm>
+2026-8\测试2\series\series.cpp: #include<iostream>
+2026-8\测试3\axis-check.cpp: #include <cstdio>
+2026-8\测试3\axis-check.cpp: #include <cstring>
+2026-8\测试3\axis.cpp: #include<iostream>
+2026-8\测试3\darksideofthemoon.cpp: #include<iostream>
+2026-8\测试3\darksideofthemoon.cpp: #include<algorithm>
+2026-8\测试3\darksideofthemoon.cpp: #include<cstring>
+2026-8\测试3\oracle.cpp: #include<iostream>
+2026-8\测试3\oracle.cpp: #include<algorithm>
+2026-8\测试3\square.cpp: #include<iostream>
+2026-8\点分治-树剖-直径-重心-虚树\Link-Cut-Centroids.cpp: #include<iostream>
+2026-8\点分治-树剖-直径-重心-虚树\Link-Cut-Centroids.cpp: #include<vector>
+2026-8\点分治-树剖-直径-重心-虚树\Link-Cut-Centroids.cpp: #include<cstring>
+2026-8\点分治-树剖-直径-重心-虚树\会议.cpp: #include<iostream>
+2026-8\点分治-树剖-直径-重心-虚树\会议.cpp: #include<vector>
+2026-8\点分治-树剖-直径-重心-虚树\会议.cpp: #include<algorithm>
+2026-8\点分治-树剖-直径-重心-虚树\巡逻.cpp: #include<iostream>
+2026-8\点分治-树剖-直径-重心-虚树\巡逻.cpp: #include<vector>
+2026-8\点分治-树剖-直径-重心-虚树\巡逻.cpp: #include<cstring>
+2026-8\点分治-树剖-直径-重心-虚树\巡逻.cpp: #include<algorithm>
+2026-8\点分治-树剖-直径-重心-虚树\树的直径.cpp: #include<iostream>
+2026-8\点分治-树剖-直径-重心-虚树\树的直径.cpp: #include<vector>
+2026-8\点分治-树剖-直径-重心-虚树\树的直径.cpp: #include<cstring>
+2026-8\点分治-树剖-直径-重心-虚树\重链剖分-树链剖分.cpp: #include<iostream>
+2026-8\点分治-树剖-直径-重心-虚树\重链剖分-树链剖分.cpp: #include<algorithm>
+2026-8\点分治-树剖-直径-重心-虚树\重链剖分-树链剖分.cpp: #include<vector>
+2026-8\简单字符串算法\Compress-Words.cpp: #include<iostream>
+2026-8\简单字符串算法\Compress-Words.cpp: #include<algorithm>
+2026-8\简单字符串算法\Compress-Words.cpp: #include<cstring>
+2026-8\简单字符串算法\KMP.cpp: #include<iostream>
+2026-8\简单字符串算法\兔子与兔子.cpp: #include<iostream>
+2026-8\简单字符串算法\动物园.cpp: #include<iostream>
+2026-8\简单字符串算法\动物园.cpp: #include<cstring>
+2026-8\简单字符串算法\失配树.cpp: #include<iostream>
+2026-8\简单字符串算法\失配树.cpp: #include<vector>
+2026-8\简单字符串算法\字符串哈希.cpp: #include<iostream>
+2026-8\简单字符串算法\字符串哈希.cpp: #include<algorithm>
+2026-8\简单树论与树上技巧\Kay-and-Snowflake.cpp: #include<iostream>
+2026-8\简单树论与树上技巧\Kay-and-Snowflake.cpp: #include<vector>
+2026-8\简单树论与树上技巧\Max-Flow-P.cpp: #include<iostream>
+2026-8\简单树论与树上技巧\Max-Flow-P.cpp: #include<vector>
+2026-8\简单树论与树上技巧\会议.cpp: #include<iostream>
+2026-8\简单树论与树上技巧\会议.cpp: #include<vector>
+2026-8\简单树论与树上技巧\会议.cpp: #include<algorithm>
+2026-8\简单树论与树上技巧\归程.cpp: #include<iostream>
+2026-8\简单树论与树上技巧\归程.cpp: #include<vector>
+2026-8\简单树论与树上技巧\归程.cpp: #include<cstring>
+2026-8\简单树论与树上技巧\归程.cpp: #include<queue>
+2026-8\简单树论与树上技巧\归程.cpp: #include<algorithm>
+2026-8\简单树论与树上技巧\最小生成树.cpp: #include<iostream>
+2026-8\简单树论与树上技巧\最小生成树.cpp: #include<vector>
+2026-8\简单树论与树上技巧\最小生成树.cpp: #include<queue>
+2026-8\简单树论与树上技巧\最小生成树.cpp: #include<cstring>
+2026-8\简单树论与树上技巧\最小生成树.cpp: #include<algorithm>
+2026-8\简单树论与树上技巧\最近公共祖先.cpp: #include<iostream>
+2026-8\简单树论与树上技巧\最近公共祖先.cpp: #include<algorithm>
+2026-8\简单树论与树上技巧\最近公共祖先.cpp: #include<vector>
+2026-8\简单树论与树上技巧\树链的并.cpp: #include<iostream>
+2026-8\简单树论与树上技巧\树链的并.cpp: #include<vector>
+2026-8\简单树论与树上技巧\树链的并.cpp: #include<algorithm>
+2026-8\简单树论与树上技巧\树链的并.cpp: #include<set>
+2026-8\综合练习\Best-Concatenation.cpp: #include<iostream>
+2026-8\综合练习\Best-Concatenation.cpp: #include<algorithm>
+2026-8\综合练习\Game-in-Momotetsu-World.cpp: #include<iostream>
+2026-8\综合练习\HRPA.cpp: #include<iostream>
+2026-8\综合练习\Permutation-Game.cpp: #include<iostream>
+2026-8\综合练习\Potions.cpp: #include<iostream>
+2026-8\综合练习\Potions.cpp: #include<queue>
+2026-8\综合练习\Programming-Contest.cpp: #include<iostream>
+2026-8\综合练习\骑士精神.cpp: #include<iostream>
+2026-8\贪心\Megalomania.cpp: #include<iostream>
+2026-8\贪心\Megalomania.cpp: #include<algorithm>
+2026-8\贪心\Megalomania.cpp: #include<cstdio>
+2026-8\贪心\Summer-Vacation.cpp: #include<iostream>
+2026-8\贪心\Summer-Vacation.cpp: #include<queue>
+2026-8\贪心\Summer-Vacation.cpp: #include<algorithm>
+2026-8\贪心\Work-Scheduling-G.cpp: #include<iostream>
+2026-8\贪心\Work-Scheduling-G.cpp: #include<queue>
+2026-8\贪心\Work-Scheduling-G.cpp: #include<algorithm>
+2026-8\贪心\建筑抢修.cpp: #include<iostream>
+2026-8\贪心\建筑抢修.cpp: #include<queue>
+2026-8\贪心\建筑抢修.cpp: #include<algorithm>
+2026-8\贪心\数据备份.cpp: #include<iostream>
+2026-8\贪心\数据备份.cpp: #include<queue>
+2026-8\贪心\点菜.cpp: #include<iostream>
+2026-8\贪心\点菜.cpp: #include<algorithm>
+2026-8\贪心\点菜.cpp: #include<cstdio>
+2026-8\贪心\点菜.cpp: #include<queue>
+2026-8\贪心\蔬菜.cpp: #include<iostream>
+2026-8\贪心\蔬菜.cpp: #include<queue>
+2026-8\贪心\蔬菜.cpp: #include<algorithm>
+2026-8\贪心\蔬菜.cpp: #include<queue>
+2026-8\贪心\超级钢琴.cpp: #include<iostream>
+2026-8\贪心\超级钢琴.cpp: #include<queue>
+2026-9-10-11\dp选讲\Eternal-Average.cpp: #include <iostream>
+2026-9-10-11\dp选讲\Medals.cpp: #include <iostream>
+2026-9-10-11\dp选讲\Medals.cpp: #include <cstring>
+2026-9-10-11\dp选讲\Permutation-Oddness.cpp: #include<iostream>
+2026-9-10-11\dp选讲\Round-screws.cpp: #include <iostream>
+2026-9-10-11\dp选讲\Round-screws.cpp: #include <algorithm>
+2026-9-10-11\dp选讲\Round-screws.cpp: #include <cstring>
+2026-9-10-11\dp选讲\Wonderful-Jump.cpp: #include <iostream>
+2026-9-10-11\dp选讲\Wonderful-Jump.cpp: #include <algorithm>
+2026-9-10-11\dp选讲\Wonderful-Jump.cpp: #include <cstring>
+2026-9-10-11\交互-构造-ad-hoc进阶\Menji-we-miss-you.cpp: #include<iostream>
+2026-9-10-11\交互-构造-ad-hoc进阶\Menji-we-miss-you.cpp: #include<vector>
+2026-9-10-11\交互-构造-ad-hoc进阶\Menji-we-miss-you.cpp: #include<algorithm>
+2026-9-10-11\交互-构造-ad-hoc进阶\Menji-we-miss-you.cpp: #include<cstring>
+2026-9-10-11\交互-构造-ad-hoc进阶\Subset-with-Zero-Sum.cpp: #include<iostream>
+2026-9-10-11\交互-构造-ad-hoc进阶\Subset-with-Zero-Sum.cpp: #include<vector>
+2026-9-10-11\交互-构造-ad-hoc进阶\Subset-with-Zero-Sum.cpp: #include<cstring>
+2026-9-10-11\交互-构造-ad-hoc进阶\Two-Permutations.cpp: #include<iostream>
+2026-9-10-11\交互-构造-ad-hoc进阶\Two-Permutations.cpp: #include<vector>
+2026-9-10-11\交互-构造-ad-hoc进阶\XOR-and-Swap.cpp: #include<iostream>
+2026-9-10-11\交互-构造-ad-hoc进阶\XOR-and-Swap.cpp: #include<vector>
+2026-9-10-11\图论专题复习与提升\Mike-and-Fish.cpp: #include<iostream>
+2026-9-10-11\图论专题复习与提升\Mike-and-Fish.cpp: #include<vector>
+2026-9-10-11\图论专题复习与提升\Mike-and-Fish.cpp: #include<cstring>
+2026-9-10-11\图论专题复习与提升\Redundant-Paths-G.cpp: #include<iostream>
+2026-9-10-11\图论专题复习与提升\Redundant-Paths-G.cpp: #include<vector>
+2026-9-10-11\图论专题复习与提升\【模板】二分图最大匹配.cpp: #include<iostream>
+2026-9-10-11\图论专题复习与提升\【模板】二分图最大匹配.cpp: #include<vector>
+2026-9-10-11\图论专题复习与提升\【模板】二分图最大匹配.cpp: #include<cstring>
+2026-9-10-11\图论专题复习与提升\【模板】割点（割顶）.cpp: #include<iostream>
+2026-9-10-11\图论专题复习与提升\【模板】割点（割顶）.cpp: #include<vector>
+2026-9-10-11\图论专题复习与提升\【模板】割点（割顶）.cpp: #include<cstring>
+2026-9-10-11\图论专题复习与提升\【模板】无向图三元环计数.cpp: #include<iostream>
+2026-9-10-11\图论专题复习与提升\【模板】无向图三元环计数.cpp: #include<vector>
+2026-9-10-11\图论专题复习与提升\【模板】无向图三元环计数.cpp: #include<algorithm>
+2026-9-10-11\图论专题复习与提升\【模板】欧拉路径.cpp: #include<iostream>
+2026-9-10-11\图论专题复习与提升\【模板】欧拉路径.cpp: #include<vector>
+2026-9-10-11\图论专题复习与提升\【模板】欧拉路径.cpp: #include<algorithm>
+2026-9-10-11\图论专题复习与提升\【模板】点双连通分量.cpp: #include<iostream>
+2026-9-10-11\图论专题复习与提升\【模板】点双连通分量.cpp: #include<vector>
+2026-9-10-11\图论专题复习与提升\【模板】点双连通分量.cpp: #include<algorithm>
+2026-9-10-11\图论专题复习与提升\【模板】缩点-强联通分量.cpp: #include<iostream>
+2026-9-10-11\图论专题复习与提升\【模板】缩点-强联通分量.cpp: #include<algorithm>
+2026-9-10-11\图论专题复习与提升\【模板】缩点-强联通分量.cpp: #include<vector>
+2026-9-10-11\图论专题复习与提升\【模板】缩点-强联通分量.cpp: #include<stack>
+2026-9-10-11\图论专题复习与提升\【模板】缩点-强联通分量.cpp: #include<queue>
+2026-9-10-11\图论专题复习与提升\【模板】边双连通分量.cpp: #include<iostream>
+2026-9-10-11\图论专题复习与提升\【模板】边双连通分量.cpp: #include<vector>
+2026-9-10-11\图论专题复习与提升\【模板】边双连通分量.cpp: #include<algorithm>
+2026-9-10-11\图论专题复习与提升\建造军营.cpp: #include<iostream>
+2026-9-10-11\图论专题复习与提升\建造军营.cpp: #include<vector>
+2026-9-10-11\图论专题复习与提升\归程.cpp: #include<iostream>
+2026-9-10-11\图论专题复习与提升\归程.cpp: #include<vector>
+2026-9-10-11\图论专题复习与提升\归程.cpp: #include<cstring>
+2026-9-10-11\图论专题复习与提升\归程.cpp: #include<queue>
+2026-9-10-11\图论专题复习与提升\归程.cpp: #include<algorithm>
+2026-9-10-11\图论专题复习与提升\飞行路线.cpp: #include<iostream>
+2026-9-10-11\图论专题复习与提升\飞行路线.cpp: #include<algorithm>
+2026-9-10-11\图论专题复习与提升\飞行路线.cpp: #include<vector>
+2026-9-10-11\图论专题复习与提升\飞行路线.cpp: #include<queue>
+2026-9-10-11\图论专题复习与提升\飞行路线.cpp: #include<cstring>
+2026-9-10-11\字符串专题\Censoring-G.cpp: #include<iostream>
+2026-9-10-11\字符串专题\Censoring-G.cpp: #include<vector>
+2026-9-10-11\字符串专题\Censoring-G.cpp: #include<unordered_map>
+2026-9-10-11\字符串专题\Censoring-G.cpp: #include<algorithm>
+2026-9-10-11\字符串专题\First-G.cpp: #include<iostream>
+2026-9-10-11\字符串专题\First-G.cpp: #include<vector>
+2026-9-10-11\字符串专题\First-G.cpp: #include<queue>
+2026-9-10-11\字符串专题\First-G.cpp: #include<cstring>
+2026-9-10-11\字符串专题\You-Are-Given-Some-Strings.cpp: #include<iostream>
+2026-9-10-11\字符串专题\You-Are-Given-Some-Strings.cpp: #include<vector>
+2026-9-10-11\字符串专题\You-Are-Given-Some-Strings.cpp: #include<unordered_map>
+2026-9-10-11\字符串专题\You-Are-Given-Some-Strings.cpp: #include<unordered_set>
+2026-9-10-11\字符串专题\【模板】AC自动机.cpp: #include<iostream>
+2026-9-10-11\字符串专题\【模板】AC自动机.cpp: #include<queue>
+2026-9-10-11\字符串专题\【模板】AC自动机.cpp: #include<string>
+2026-9-10-11\字符串专题\【模板】AC自动机.cpp: #include<vector>
+2026-9-10-11\字符串专题\【模板】Manacher.cpp: #include<iostream>
+2026-9-10-11\字符串专题\【模板】Manacher.cpp: #include<algorithm>
+2026-9-10-11\字符串专题\优秀的拆分.cpp: #include<iostream>
+2026-9-10-11\字符串专题\公共串.cpp: #include <iostream>
+2026-9-10-11\字符串专题\公共串.cpp: #include <algorithm>
+2026-9-10-11\字符串专题\公共串.cpp: #include <unordered_map>
+2026-9-10-11\字符串专题\最长异或路径.cpp: #include <iostream>
+2026-9-10-11\字符串专题\最长异或路径.cpp: #include <vector>
+2026-9-10-11\数据结构\Good-Pairs.cpp: #include<iostream>
+2026-9-10-11\数据结构\Good-Pairs.cpp: #include<algorithm>
+2026-9-10-11\数据结构\Good-Pairs.cpp: #include<set>
+2026-9-10-11\数据结构\Good-Pairs.cpp: #include<cstring>
+2026-9-10-11\数据结构\Red-Sequence.cpp: #include<iostream>
+2026-9-10-11\数据结构\Red-Sequence.cpp: #include<vector>
+2026-9-10-11\数据结构\Red-Sequence.cpp: #include<algorithm>
+2026-9-10-11\数据结构\不归之人与望眼欲穿的人们.cpp: #include<iostream>
+2026-9-10-11\数据结构\不归之人与望眼欲穿的人们.cpp: #include<algorithm>
+2026-9-10-11\数据结构\不归之人与望眼欲穿的人们.cpp: #include<cstring>
+2026-9-10-11\数据结构\不归之人与望眼欲穿的人们.cpp: #include<cmath>
+2026-9-10-11\数据结构\不归之人与望眼欲穿的人们.cpp: #include<vector>
+2026-9-10-11\数据结构\冰火战士.cpp: #include<iostream>
+2026-9-10-11\数据结构\冰火战士.cpp: #include<algorithm>
+2026-9-10-11\数据结构\天降之物.cpp: #include<iostream>
+2026-9-10-11\数据结构\天降之物.cpp: #include<cmath>
+2026-9-10-11\数据结构\天降之物.cpp: #include<set>
+2026-9-10-11\数据结构\天降之物.cpp: #include<cstring>
+2026-9-10-11\数据结构\排序.cpp: #include<iostream>
+2026-9-10-11\数据结构\未优化-天降之物.cpp: #include<iostream>
+2026-9-10-11\数据结构\未优化-天降之物.cpp: #include<cmath>
+2026-9-10-11\数据结构\未优化-天降之物.cpp: #include<set>
+2026-9-10-11\树上问题\Fib-tree.cpp: #include<iostream>
+2026-9-10-11\树上问题\Fib-tree.cpp: #include<vector>
+2026-9-10-11\树上问题\Tree-Factory.cpp: #include<algorithm>
+2026-9-10-11\树上问题\Tree-Factory.cpp: #include<iostream>
+2026-9-10-11\树上问题\Tree-Factory.cpp: #include<vector>
+2026-9-10-11\树上问题\Tree-Factory.cpp: #include<set>
+2026-9-10-11\树上问题\Tree-Tag.cpp: #include<iostream>
+2026-9-10-11\树上问题\Tree-Tag.cpp: #include<vector>
+2026-9-10-11\树上问题\Tree-Tag.cpp: #include<cstring>
+2026-9-10-11\树上问题\rldcot.cpp: #include<iostream>
+2026-9-10-11\树上问题\rldcot.cpp: #include<vector>
+2026-9-10-11\树上问题\rldcot.cpp: #include<set>
+2026-9-10-11\树上问题\rldcot.cpp: #include<algorithm>
+2026-9-10-11\树上问题\spxmcq.cpp: #include<iostream>
+2026-9-10-11\树上问题\spxmcq.cpp: #include<algorithm>
+2026-9-10-11\树上问题\spxmcq.cpp: #include<queue>
+2026-9-10-11\树上问题\spxmcq.cpp: #include<vector>
+2026-9-10-11\树上问题\贸易.cpp: #include<algorithm>
+2026-9-10-11\树上问题\贸易.cpp: #include<cstring>
+2026-9-10-11\树上问题\贸易.cpp: #include<iostream>
+2026-9-10-11\树形dp\入门例题1.cpp: #include<iostream>
+2026-9-10-11\树形dp\入门例题1.cpp: #include<vector>
+2026-9-10-11\树形dp\入门例题2.cpp: #include<iostream>
+2026-9-10-11\树形dp\入门例题2.cpp: #include<vector>
+2026-9-10-11\树形dp\入门例题3.cpp: #include<iostream>
+2026-9-10-11\树形dp\入门例题3.cpp: #include<vector>
+2026-9-10-11\树形dp\入门例题3.cpp: #include<algorithm>
+2026-9-10-11\树形dp\入门例题4.cpp: #include<iostream>
+2026-9-10-11\树形dp\入门例题4.cpp: #include<vector>
+2026-9-10-11\树形dp\入门例题4.cpp: #include<cstring>
+2026-9-10-11\树形dp\入门例题5.cpp: #include<iostream>
+2026-9-10-11\树形dp\入门例题5.cpp: #include<vector>
+2026-9-10-11\树形dp\旅游.cpp: #include<iostream>
+2026-9-10-11\树形dp\旅游.cpp: #include<vector>
+2026-9-10-11\树形dp\旅游.cpp: #include<cstring>
+2026-9-10-11\树形dp\旅游.cpp: #include<map>
+2026-9-10-11\树形dp\旅游.cpp: #include<algorithm>
+2026-9-10-11\树形dp\最大子树和.cpp: #include<iostream>
+2026-9-10-11\树形dp\最大子树和.cpp: #include<vector>
+2026-9-10-11\树形dp\树上染色.cpp: #include<iostream>
+2026-9-10-11\树形dp\树上染色.cpp: #include<vector>
+2026-9-10-11\树形dp\树上染色.cpp: #include<cstring>
+2026-9-10-11\树形dp\树上统计.cpp: #include<iostream>
+2026-9-10-11\树形dp\树上统计.cpp: #include<vector>
+2026-9-10-11\树形dp\选课.cpp: #include<iostream>
+2026-9-10-11\树形dp\选课.cpp: #include<vector>
+2026-9-10-11\贪心与证明\01-on-Tree.cpp: #include<iostream>
+2026-9-10-11\贪心与证明\01-on-Tree.cpp: #include<vector>
+2026-9-10-11\贪心与证明\01-on-Tree.cpp: #include<queue>
+2026-9-10-11\贪心与证明\Donation.cpp: #include<iostream>
+2026-9-10-11\贪心与证明\Donation.cpp: #include<vector>
+2026-9-10-11\贪心与证明\Donation.cpp: #include<cstring>
+2026-9-10-11\贪心与证明\Donation.cpp: #include<queue>
+2026-9-10-11\贪心与证明\Donation.cpp: #include<algorithm>
+2026-9-10-11\贪心与证明\Swap-Space.cpp: #include<iostream>
+2026-9-10-11\贪心与证明\Swap-Space.cpp: #include<vector>
+2026-9-10-11\贪心与证明\Swap-Space.cpp: #include<algorithm>
+2026-9-10-11\贪心与证明\Tower.cpp: #include<iostream>
+2026-9-10-11\贪心与证明\Tower.cpp: #include<algorithm>
+2026-9-10-11\贪心与证明\Tower.cpp: #include<cstring>
+2026-9-10-11\贪心与证明\Travelling-Merchant.cpp: #include<iostream>
+2026-9-10-11\贪心与证明\Travelling-Merchant.cpp: #include<vector>
+2026-9-10-11\贪心与证明\Travelling-Merchant.cpp: #include<queue>
+2026-9-10-11\贪心与证明\Travelling-Merchant.cpp: #include<algorithm>
+2026-9-10-11\贪心与证明\Travelling-Merchant.cpp: #include<cstring>
+CookieOI\校门外的树\std.cpp: #include <cstdio>
+CookieOI\校门外的树\std.cpp: #include <cstring>
+CookieOI\校门外的树\std.cpp: #include <cmath>
+CookieOI\校门外的树\std.cpp: #include <algorithm>
+CookieOI\样卷\std\divide.cpp: #include <cstdio>
+CookieOI\样卷\std\divide.cpp: #include <vector>
+CookieOI\样卷\std\eval.cpp: #include <cstdio>
+CookieOI\样卷\std\eval.cpp: #include <vector>
+CookieOI\样卷\std\eval.cpp: #include <algorithm>
+CookieOI\样卷\std\percom.cpp: #include <cstdio>
+CookieOI\样卷\std\percom.cpp: #include <algorithm>
+CookieOI\样卷\std\tree.cpp: #include <cstdio>
+CookieOI\样卷\std\tree.cpp: #include <vector>
+CookieOI\样卷\样例\divide\rand-16.cpp: #include <cstdio>
+CookieOI\样卷\样例\divide\rand-16.cpp: #include <cstdlib>
+CookieOI\样卷\样例\divide\rand-16.cpp: #include <ctime>
+CookieOI\样卷\样例\divide\rand-16.cpp: #include <algorithm>
+CookieOI\样卷\样例\divide\rand-16.cpp: #include <vector>
+CookieOI\样卷\样例\divide\rand-4.cpp: #include <cstdio>
+CookieOI\样卷\样例\divide\rand-4.cpp: #include <cstdlib>
+CookieOI\样卷\样例\divide\rand-4.cpp: #include <ctime>
+CookieOI\样卷\样例\divide\rand-4.cpp: #include <algorithm>
+CookieOI\样卷\样例\divide\rand-4.cpp: #include <vector>
+CookieOI\样卷\样例\eval\rand.cpp: #include <cstdio>
+CookieOI\样卷\样例\eval\rand.cpp: #include <cstdlib>
+CookieOI\样卷\样例\eval\rand.cpp: #include <ctime>
+CookieOI\样卷\样例\percom\rand.cpp: #include <iostream>
+CookieOI\样卷\样例\percom\rand.cpp: #include <cstdlib>
+CookieOI\样卷\样例\percom\rand.cpp: #include <cstdio>
+CookieOI\样卷\样例\tree\rand.cpp: #include <cstdio>
+CookieOI\样卷\样例\tree\rand.cpp: #include <cstdlib>
+CookieOI\样卷\样例\tree\rand.cpp: #include <ctime>
+Homework\2026-3-2\ABS\ABC.cpp: #include<iostream>
+Homework\2026-3-2\ABS\ABC.cpp: #include<cmath>
+Homework\2026-3-2\ARC-Wrecker\ARC-Wrecker.cpp: #include<iostream>
+Homework\2026-3-2\ARC-Wrecker\ARC-Wrecker.cpp: #include<algorithm>
+Homework\2026-3-2\Good-Sequence\Good-Sequence.cpp: #include<iostream>
+Homework\2026-3-2\Good-Sequence\Good-Sequence.cpp: #include<map>
+Homework\2026-3-2\HSI\HSI.cpp: #include<iostream>
+Homework\2026-3-2\Not-so-Diverse\Not-so-Diverse.cpp: #include<iostream>
+Homework\2026-3-2\Not-so-Diverse\Not-so-Diverse.cpp: #include<algorithm>
+Homework\2026-4-29\Buy-or-Build\Buy-or-Build.cpp: #include<iostream>
+Homework\2026-4-29\Buy-or-Build\Buy-or-Build.cpp: #include<cstdio>
+Homework\2026-4-29\Buy-or-Build\Buy-or-Build.cpp: #include<cstring>
+Homework\2026-4-29\Buy-or-Build\Buy-or-Build.cpp: #include<algorithm>
+Homework\2026-4-29\Buy-or-Build\Buy-or-Build.cpp: #include<stack>
+Homework\2026-4-29\Buy-or-Build\Buy-or-Build.cpp: #include<map>
+Homework\2026-4-29\Buy-or-Build\Buy-or-Build.cpp: #include<queue>
+Homework\2026-4-29\Buy-or-Build\Buy-or-Build.cpp: #include<vector>
+Homework\2026-4-29\Buy-or-Build\Buy-or-Build.cpp: #include<set>
+Homework\2026-4-29\Buy-or-Build\Buy-or-Build.cpp: #include<cmath>
+Homework\2026-4-29\Buy-or-Build\Buy-or-Build.cpp: #include<sstream>
+Homework\五一作业\multiply\multiply.cpp: #include<iostream>
+Homework\五一作业\multiply\multiply.cpp: #include<algorithm>
+J-training\思维题\1-1-Prove_Him_Wrong.cpp: #include<iostream>
+J1-1\0 贪心\Koszulki.cpp: #include<iostream>
+J1-1\0 贪心\Lake-Counting-S.cpp: #include<iostream>
+J1-1\0 贪心\Lemonade-Line-S.cpp: #include<iostream>
+J1-1\0 贪心\Lemonade-Line-S.cpp: #include<algorithm>
+J1-1\0 贪心\Oranżada.cpp: #include<iostream>
+J1-1\0 贪心\Pismo.cpp: #include<iostream>
+J1-1\0 贪心\Social-Distancing-II-B.cpp: #include<iostream>
+J1-1\0 贪心\Social-Distancing-II-B.cpp: #include<algorithm>
+J1-1\0 贪心\商店.cpp: #include<iostream>
+J1-1\0 贪心\商店.cpp: #include<algorithm>
+J1-1\0 贪心\序列的第k个数.cpp: #include<cstdio>
+J1-1\0 贪心\序列的第k个数.cpp: #include<iostream>
+J1-1\0 贪心\序列的第k个数.cpp: #include<algorithm>
+J1-1\0 贪心\海港.cpp: #include<cstdio>
+J1-1\0 贪心\海港.cpp: #include<iostream>
+J1-1\0 贪心\海港.cpp: #include<algorithm>
+J1-1\0 贪心\海港.cpp: #include<queue>
+J1-1\0 贪心\爱与愁的心痛.cpp: #include<iostream>
+J1-1\0 贪心\特技飞行.cpp: #include<iostream>
+J1-1\0 贪心\特技飞行.cpp: #include<algorithm>
+J1-1\0 贪心\自行车比赛.cpp: #include<iostream>
+J1-1\0 贪心\自行车比赛.cpp: #include<algorithm>
+J1-1\1 连通块\01迷宫.cpp: #include<cstdio>
+J1-1\1 连通块\01迷宫.cpp: #include<iostream>
+J1-1\1 连通块\01迷宫.cpp: #include<algorithm>
+J1-1\1 连通块\DZY-Loves-Chessboard.cpp: #include<cstdio>
+J1-1\1 连通块\DZY-Loves-Chessboard.cpp: #include<cstring>
+J1-1\1 连通块\DZY-Loves-Chessboard.cpp: #include<iostream>
+J1-1\1 连通块\Mooyo-Mooyo-S.cpp: #include<iostream>
+J1-1\1 连通块\Mooyo-Mooyo-S.cpp: #include<cstdio>
+J1-1\1 连通块\Mooyo-Mooyo-S.cpp: #include<algorithm>
+J1-1\1 连通块\Mooyo-Mooyo-S.cpp: #include<cstring>
+J1-1\1 连通块\入门.cpp: #include<iostream>
+J1-1\2 二维棋盘BFS\临冬城宝藏.cpp: #include<iostream>
+J1-1\2 二维棋盘BFS\临冬城宝藏.cpp: #include<cstring>
+J1-1\2 二维棋盘BFS\临冬城宝藏.cpp: #include<queue>
+J1-1\2 二维棋盘BFS\好奇怪的游戏.cpp: #include<iostream>
+J1-1\2 二维棋盘BFS\好奇怪的游戏.cpp: #include<cstring>
+J1-1\2 二维棋盘BFS\好奇怪的游戏.cpp: #include<queue>
+J1-1\2 二维棋盘BFS\最后的迷宫.cpp: #include<iostream>
+J1-1\2 二维棋盘BFS\最后的迷宫.cpp: #include<cstring>
+J1-1\2 二维棋盘BFS\最后的迷宫.cpp: #include<queue>
+J1-1\2 二维棋盘BFS\迷宫最短路.cpp: #include<cstdio>
+J1-1\2 二维棋盘BFS\迷宫最短路.cpp: #include<iostream>
+J1-1\2 二维棋盘BFS\迷宫最短路.cpp: #include<algorithm>
+J1-1\2 二维棋盘BFS\迷宫最短路.cpp: #include<queue>
+J1-1\2 二维棋盘BFS\马的遍历.cpp: #include<iostream>
+J1-1\2 二维棋盘BFS\马的遍历.cpp: #include<cstdio>
+J1-1\2 二维棋盘BFS\马的遍历.cpp: #include<algorithm>
+J1-1\2 二维棋盘BFS\马的遍历.cpp: #include<queue>
+J1-1\2 二维棋盘BFS\马的遍历.cpp: #include<cstring>
+J1-1\3 记忆化搜索\3n+1问题.cpp: #include<cstdio>
+J1-1\3 记忆化搜索\3n+1问题.cpp: #include<iostream>
+J1-1\3 记忆化搜索\3n+1问题.cpp: #include<algorithm>
+J1-1\3 记忆化搜索\3n+1问题.cpp: #include<cstring>
+J1-1\3 记忆化搜索\变形：从1到B.cpp: #include<cstdio>
+J1-1\3 记忆化搜索\变形：从1到B.cpp: #include<cstring>
+J1-1\3 记忆化搜索\变形：从1到B.cpp: #include<iostream>
+J1-1\3 记忆化搜索\变形：从1到B.cpp: #include<algorithm>
+J1-1\3 记忆化搜索\战争模型.cpp: #include<cstdio>
+J1-1\3 记忆化搜索\战争模型.cpp: #include<cstring>
+J1-1\3 记忆化搜索\战争模型.cpp: #include<iostream>
+J1-1\3 记忆化搜索\斐波那契.cpp: #include<iostream>
+J1-1\3 记忆化搜索\斐波那契.cpp: #include<cstring>
+J1-1\3 记忆化搜索\斐波那契.cpp: #include<iostream>
+J1-1\3 记忆化搜索\斐波那契.cpp: #include<cstring>
+J1-1\3 记忆化搜索\母亲的牛奶.cpp: #include<iostream>
+J1-1\3 记忆化搜索\母亲的牛奶.cpp: #include<cstdio>
+J1-1\3 记忆化搜索\滑雪.cpp: #include<iostream>
+J1-1\3 记忆化搜索\滑雪.cpp: #include<cstdio>
+J1-1\3 记忆化搜索\滑雪.cpp: #include<algorithm>
+J1-1\3 记忆化搜索\滑雪.cpp: #include<cstring>
+J1-1\3 记忆化搜索\递归函数.cpp: #include<cstdio>
+J1-1\3 记忆化搜索\递归函数.cpp: #include<iostream>
+J1-1\3 记忆化搜索\递归函数.cpp: #include<algorithm>
+J1-1\3 记忆化搜索\递归函数.cpp: #include<cstring>
+J1-1\4 回溯进阶\八皇后+.cpp: #include<cstdio>
+J1-1\4 回溯进阶\八皇后+.cpp: #include<iostream>
+J1-1\4 回溯进阶\八皇后+.cpp: #include<algorithm>
+J1-1\4 回溯进阶\八皇后.cpp: #include<cstdio>
+J1-1\4 回溯进阶\八皇后.cpp: #include<iostream>
+J1-1\4 回溯进阶\八皇后.cpp: #include<algorithm>
+J1-1\4 回溯进阶\数独.cpp: #include<cstdio>
+J1-1\4 回溯进阶\数独.cpp: #include<iostream>
+J1-1\4 回溯进阶\数独.cpp: #include<algorithm>
+J1-1\4 回溯进阶\验证八皇后.cpp: #include<cstdio>
+J1-1\4 回溯进阶\验证八皇后.cpp: #include<iostream>
+J1-1\4 回溯进阶\验证八皇后.cpp: #include<algorithm>
+J1-1\4 回溯进阶\验证八皇后.cpp: #include<cmath>
+J1-1\5 二维搜索综合练习\又着火了.cpp: #include<cstdio>
+J1-1\5 二维搜索综合练习\又着火了.cpp: #include<iostream>
+J1-1\5 二维搜索综合练习\又着火了.cpp: #include<algorithm>
+J1-1\5 二维搜索综合练习\又着火了.cpp: #include<queue>
+J1-1\5 二维搜索综合练习\囚禁坏人.cpp: #include<cstdio>
+J1-1\5 二维搜索综合练习\囚禁坏人.cpp: #include<iostream>
+J1-1\5 二维搜索综合练习\囚禁坏人.cpp: #include<algorithm>
+J1-1\5 二维搜索综合练习\囚禁坏人.cpp: #include<cstring>
+J1-1\5 二维搜索综合练习\白银的迷宫城.cpp: #include<cstdio>
+J1-1\5 二维搜索综合练习\白银的迷宫城.cpp: #include<iostream>
+J1-1\5 二维搜索综合练习\白银的迷宫城.cpp: #include<algorithm>
+J1-1\5 二维搜索综合练习\白银的迷宫城.cpp: #include<cstring>
+J1-1\5 二维搜索综合练习\迷宫.cpp: #include<cstdio>
+J1-1\5 二维搜索综合练习\迷宫.cpp: #include<iostream>
+J1-1\5 二维搜索综合练习\迷宫.cpp: #include<algorithm>
+J1-1\6 位运算与快速幂\【模板】快速幂.cpp: #include<cstdio>
+J1-1\6 位运算与快速幂\【模板】快速幂.cpp: #include<iostream>
+J1-1\6 位运算与快速幂\【模板】快速幂.cpp: #include<algorithm>
+J1-1\6 位运算与快速幂\原根检验.cpp: #include<iostream>
+J1-1\6 位运算与快速幂\原根检验.cpp: #include<algorithm>
+J1-1\6 位运算与快速幂\原根检验.cpp: #include<cstdio>
+J1-1\6 位运算与快速幂\计算第k位小数.cpp: #include<cstdio>
+J1-1\6 位运算与快速幂\计算第k位小数.cpp: #include<iostream>
+J1-1\6 位运算与快速幂\计算第k位小数.cpp: #include<algorithm>
+J1-1\6 位运算与快速幂\越狱.cpp: #include<cstdio>
+J1-1\6 位运算与快速幂\越狱.cpp: #include<iostream>
+J1-1\6 位运算与快速幂\越狱.cpp: #include<algorithm>
+J1-1\6 位运算与快速幂\转圈游戏.cpp: #include<cstdio>
+J1-1\6 位运算与快速幂\转圈游戏.cpp: #include<iostream>
+J1-1\6 位运算与快速幂\转圈游戏.cpp: #include<algorithm>
+J1-1\7 阶段复习\八皇后 Checker Challenge.cpp: #include<iostream>
+J1-1\7 阶段复习\八皇后 Checker Challenge.cpp: #include <cstring>
+J1-2\0 高精度模板&dp\_.cpp: #include<iostream>
+J1-2\0 高精度模板&dp\_.cpp: #include<cstring>
+J1-2\0 高精度模板&dp\【模板】高精度.cpp: #include<iostream>
+J1-2\0 高精度模板&dp\【模板】高精度.cpp: #include<cstring>
+J1-2\1 高精度1\a+b.cpp: #include<iostream>
+J1-2\1 高精度1\a+b.cpp: #include<cstdio>
+J1-2\1 高精度1\a+b.cpp: #include<algorithm>
+J1-2\1 高精度1\a+b.cpp: #include<cstring>
+J1-2\1 高精度1\a-b.cpp: #include<iostream>
+J1-2\1 高精度1\a-b.cpp: #include<cstdio>
+J1-2\1 高精度1\a-b.cpp: #include<cstring>
+J1-2\1 高精度1\a-b.cpp: #include<string>
+J1-2\1 高精度1\a-b.cpp: #include<algorithm>
+J1-2\1 高精度1\佩尔数列.cpp: #include<iostream>
+J1-2\1 高精度1\佩尔数列.cpp: #include<cstring>
+J1-2\1 高精度1\佩尔数列.cpp: #include<algorithm>
+J1-2\1 高精度1\小猴的数字.cpp: #include<iostream>
+J1-2\1 高精度1\小猴的数字.cpp: #include<cstdio>
+J1-2\1 高精度1\小猴的数字.cpp: #include<cstring>
+J1-2\1 高精度1\小猴的数字.cpp: #include<string>
+J1-2\1 高精度1\小猴的数字.cpp: #include<algorithm>
+J1-2\1 高精度1\斐波那契.cpp: #include<iostream>
+J1-2\1 高精度1\斐波那契.cpp: #include<cstdio>
+J1-2\1 高精度1\斐波那契.cpp: #include<algorithm>
+J1-2\1 高精度1\斐波那契前缀.cpp: #include<cstdio>
+J1-2\1 高精度1\斐波那契前缀.cpp: #include<cstring>
+J1-2\1 高精度1\斐波那契前缀.cpp: #include<iostream>
+J1-2\1 高精度1\斐波那契前缀.cpp: #include<string>
+J1-2\1 高精度1\斐波那契前缀.cpp: #include<algorithm>
+J1-2\1 高精度1\票选冠军.cpp: #include<iostream>
+J1-2\1 高精度1\票选冠军.cpp: #include<algorithm>
+J1-2\1 高精度1\票选冠军.cpp: #include<cstring>
+J1-2\1 高精度1\高精度数输入输出.cpp: #include <iostream>
+J1-2\1 高精度1\高精度数输入输出.cpp: #include <cstdio>
+J1-2\1 高精度1\高精度数输入输出.cpp: #include <cstring>
+J1-2\1 高精度1\高精度求和.cpp: #include<iostream>
+J1-2\1 高精度1\高精度求和.cpp: #include<cstdio>
+J1-2\1 高精度1\高精度求和.cpp: #include<algorithm>
+J1-2\1 高精度1\高精度求差.cpp: #include<iostream>
+J1-2\1 高精度1\高精度求差.cpp: #include<cstdio>
+J1-2\1 高精度1\高精度求差.cpp: #include<cstring>
+J1-2\1 高精度1\高精度求差.cpp: #include<string>
+J1-2\1 高精度1\高精度求差.cpp: #include<algorithm>
+J1-2\10 完全背包\总分.cpp: #include<iostream>
+J1-2\10 完全背包\总分.cpp: #include<cstdio>
+J1-2\10 完全背包\总分.cpp: #include<algorithm>
+J1-2\10 完全背包\整数划分方案2.cpp: #include<iostream>
+J1-2\10 完全背包\整数划分方案2.cpp: #include<cstdio>
+J1-2\10 完全背包\整数划分方案2.cpp: #include<algorithm>
+J1-2\10 完全背包\最大效益.cpp: #include<iostream>
+J1-2\10 完全背包\最大效益.cpp: #include<cstdio>
+J1-2\10 完全背包\最大效益.cpp: #include<algorithm>
+J1-2\10 完全背包\火柴拼数.cpp: #include<cstdio>
+J1-2\10 完全背包\火柴拼数.cpp: #include<iostream>
+J1-2\10 完全背包\火柴拼数.cpp: #include<algorithm>
+J1-2\10 完全背包\火柴拼数.cpp: #include<cstring>
+J1-2\10 完全背包\疯狂的采药.cpp: #include<iostream>
+J1-2\10 完全背包\神奇的四次方数.cpp: #include<iostream>
+J1-2\10 完全背包\神奇的四次方数.cpp: #include<cstdio>
+J1-2\10 完全背包\神奇的四次方数.cpp: #include<cstring>
+J1-2\10 完全背包\质数和分解.cpp: #include<cstdio>
+J1-2\10 完全背包\质数和分解.cpp: #include<iostream>
+J1-2\10 完全背包\质数和分解.cpp: #include<algorithm>
+J1-2\10 完全背包\麦香牛块.cpp: #include<iostream>
+J1-2\10 完全背包\麦香牛块.cpp: #include<cstdio>
+J1-2\10 完全背包\麦香牛块.cpp: #include<algorithm>
+J1-2\11 dp练习1\减肥计划.cpp: #include<iostream>
+J1-2\11 dp练习1\减肥计划.cpp: #include<algorithm>
+J1-2\11 dp练习1\减肥计划.cpp: #include<cstdio>
+J1-2\11 dp练习1\经典上楼梯问题.cpp: #include<cstdio>
+J1-2\11 dp练习1\经典上楼梯问题.cpp: #include<iostream>
+J1-2\11 dp练习1\经典上楼梯问题.cpp: #include<algorithm>
+J1-2\11 dp练习1\香蕉分组.cpp: #include<cstdio>
+J1-2\11 dp练习1\香蕉分组.cpp: #include<iostream>
+J1-2\11 dp练习1\香蕉分组.cpp: #include<algorithm>
+J1-2\11 dp练习1\香蕉分组.cpp: #include<cstring>
+J1-2\11 dp练习1\香蕉采购.cpp: #include<cstdio>
+J1-2\11 dp练习1\香蕉采购.cpp: #include<iostream>
+J1-2\11 dp练习1\香蕉采购.cpp: #include<algorithm>
+J1-2\12 多重背包\Dividing.cpp: #include<cstdio>
+J1-2\12 多重背包\Dividing.cpp: #include<iostream>
+J1-2\12 多重背包\Dividing.cpp: #include<algorithm>
+J1-2\12 多重背包\Dividing.cpp: #include<cstring>
+J1-2\12 多重背包\多重背包.cpp: #include<cstdio>
+J1-2\12 多重背包\多重背包.cpp: #include<iostream>
+J1-2\12 多重背包\多重背包.cpp: #include<algorithm>
+J1-2\12 多重背包\太空电梯.cpp: #include<iostream>
+J1-2\12 多重背包\太空电梯.cpp: #include<algorithm>
+J1-2\12 多重背包\太空电梯.cpp: #include<cstdio>
+J1-2\12 多重背包\宝物筛选.cpp: #include<iostream>
+J1-2\12 多重背包\宝物筛选.cpp: #include<cstdio>
+J1-2\12 多重背包\宝物筛选.cpp: #include<algorithm>
+J1-2\12 多重背包\提款机.cpp: #include<iostream>
+J1-2\12 多重背包\提款机.cpp: #include<cstdio>
+J1-2\12 多重背包\提款机.cpp: #include<algorithm>
+J1-2\12 多重背包\提款机.cpp: #include<cstring>
+J1-2\12 多重背包\最少的硬币.cpp: #include<cstdio>
+J1-2\12 多重背包\最少的硬币.cpp: #include<cstring>
+J1-2\12 多重背包\最少的硬币.cpp: #include<iostream>
+J1-2\12 多重背包\最少的硬币.cpp: #include<algorithm>
+J1-2\12 多重背包\硬币.cpp: #include<iostream>
+J1-2\12 多重背包\硬币.cpp: #include<algorithm>
+J1-2\12 多重背包\硬币.cpp: #include<cstdio>
+J1-2\12 多重背包\硬币.cpp: #include<cstring>
+J1-2\13 LCS\Palindrome.cpp: #include<iostream>
+J1-2\13 LCS\Palindrome.cpp: #include<algorithm>
+J1-2\13 LCS\基因相似度.cpp: #include<iostream>
+J1-2\13 LCS\基因相似度.cpp: #include<cstdio>
+J1-2\13 LCS\基因相似度.cpp: #include<algorithm>
+J1-2\13 LCS\基因相似度.cpp: #include<cstring>
+J1-2\13 LCS\最短公共父序列.cpp: #include<iostream>
+J1-2\13 LCS\最短公共父序列.cpp: #include<cstdio>
+J1-2\13 LCS\最短公共父序列.cpp: #include<algorithm>
+J1-2\13 LCS\最短公共父序列.cpp: #include<cstring>
+J1-2\13 LCS\最长公共子序列.cpp: #include<cstdio>
+J1-2\13 LCS\最长公共子序列.cpp: #include<iostream>
+J1-2\13 LCS\最长公共子序列.cpp: #include<algorithm>
+J1-2\13 LCS\距离编辑.cpp: #include<cstdio>
+J1-2\13 LCS\距离编辑.cpp: #include<iostream>
+J1-2\13 LCS\距离编辑.cpp: #include<algorithm>
+J1-2\13 LCS\距离编辑.cpp: #include<cstring>
+J1-2\14 二维棋盘dp\3向方格取数.cpp: #include<cstdio>
+J1-2\14 二维棋盘dp\3向方格取数.cpp: #include<iostream>
+J1-2\14 二维棋盘dp\3向方格取数.cpp: #include<algorithm>
+J1-2\14 二维棋盘dp\3向方格取数.cpp: #include<cstring>
+J1-2\14 二维棋盘dp\小猴回家1.cpp: #include<iostream>
+J1-2\14 二维棋盘dp\小猴回家1.cpp: #include<algorithm>
+J1-2\14 二维棋盘dp\小猴回家1.cpp: #include<cstdio>
+J1-2\14 二维棋盘dp\小猴回家1.cpp: #include<cstring>
+J1-2\14 二维棋盘dp\收集金币1.cpp: #include<cstdio>
+J1-2\14 二维棋盘dp\收集金币1.cpp: #include<iostream>
+J1-2\14 二维棋盘dp\收集金币1.cpp: #include<algorithm>
+J1-2\14 二维棋盘dp\收集金币2.cpp: #include<cstdio>
+J1-2\14 二维棋盘dp\收集金币2.cpp: #include<iostream>
+J1-2\14 二维棋盘dp\收集金币2.cpp: #include<algorithm>
+J1-2\14 二维棋盘dp\收集金币2.cpp: #include<cstring>
+J1-2\14 二维棋盘dp\方格取数2020.cpp: #include<cstdio>
+J1-2\14 二维棋盘dp\方格取数2020.cpp: #include<iostream>
+J1-2\14 二维棋盘dp\方格取数2020.cpp: #include<algorithm>
+J1-2\14 二维棋盘dp\方格取数2020.cpp: #include<cstring>
+J1-2\14 二维棋盘dp\最大正方形.cpp: #include<cstdio>
+J1-2\14 二维棋盘dp\最大正方形.cpp: #include<iostream>
+J1-2\14 二维棋盘dp\最大正方形.cpp: #include<algorithm>
+J1-2\14 二维棋盘dp\红牌.cpp: #include<iostream>
+J1-2\14 二维棋盘dp\红牌.cpp: #include<cstdio>
+J1-2\14 二维棋盘dp\红牌.cpp: #include<algorithm>
+J1-2\14 二维棋盘dp\红牌.cpp: #include<cstring>
+J1-2\15 区间dp\248.cpp: #include<cstdio>
+J1-2\15 区间dp\248.cpp: #include<iostream>
+J1-2\15 区间dp\248.cpp: #include<algorithm>
+J1-2\15 区间dp\乘法拼图.cpp: #include<cstdio>
+J1-2\15 区间dp\乘法拼图.cpp: #include<iostream>
+J1-2\15 区间dp\乘法拼图.cpp: #include<algorithm>
+J1-2\15 区间dp\乘法拼图.cpp: #include<cstring>
+J1-2\15 区间dp\环形石子合并.cpp: #include<cstdio>
+J1-2\15 区间dp\环形石子合并.cpp: #include<iostream>
+J1-2\15 区间dp\环形石子合并.cpp: #include<algorithm>
+J1-2\15 区间dp\环形石子合并.cpp: #include<cstring>
+J1-2\15 区间dp\石子合并.cpp: #include<iostream>
+J1-2\15 区间dp\石子合并.cpp: #include<algorithm>
+J1-2\15 区间dp\石子合并.cpp: #include<cstdio>
+J1-2\15 区间dp\石子合并.cpp: #include<cstring>
+J1-2\15 区间dp\能量项链.cpp: #include<cstdio>
+J1-2\15 区间dp\能量项链.cpp: #include<cstring>
+J1-2\15 区间dp\能量项链.cpp: #include<iostream>
+J1-2\15 区间dp\能量项链.cpp: #include<algorithm>
+J1-2\16 dp练习2\4向方格取数.cpp: #include<cstdio>
+J1-2\16 dp练习2\4向方格取数.cpp: #include<iostream>
+J1-2\16 dp练习2\4向方格取数.cpp: #include<algorithm>
+J1-2\16 dp练习2\4向方格取数.cpp: #include<cstring>
+J1-2\16 dp练习2\Cash-Mashine.cpp: #include<cstdio>
+J1-2\16 dp练习2\Cash-Mashine.cpp: #include<iostream>
+J1-2\16 dp练习2\Cash-Mashine.cpp: #include<algorithm>
+J1-2\16 dp练习2\可怜的小猴.cpp: #include <cstdio>
+J1-2\16 dp练习2\可怜的小猴.cpp: #include <iostream>
+J1-2\16 dp练习2\可怜的小猴.cpp: #include <algorithm>
+J1-2\16 dp练习2\论文相似度.cpp: #include<iostream>
+J1-2\16 dp练习2\论文相似度.cpp: #include<cstdio>
+J1-2\16 dp练习2\论文相似度.cpp: #include<algorithm>
+J1-2\16 dp练习2\马特与狼.cpp: #include<iostream>
+J1-2\16 dp练习2\马特与狼.cpp: #include<algorithm>
+J1-2\16 dp练习2\马特与狼.cpp: #include<cstdio>
+J1-2\16 dp练习2\马特与狼.cpp: #include<cstring>
+J1-2\2 高精度2\a_b.cpp: #include<cstdio>
+J1-2\2 高精度2\a_b.cpp: #include<iostream>
+J1-2\2 高精度2\a_b.cpp: #include<string>
+J1-2\2 高精度2\a_b.cpp: #include<algorithm>
+J1-2\2 高精度2\佩尔数列2.cpp: #include<iostream>
+J1-2\2 高精度2\佩尔数列2.cpp: #include<cstring>
+J1-2\2 高精度2\多重组合数.cpp: #include<iostream>
+J1-2\2 高精度2\多重组合数.cpp: #include<cstdio>
+J1-2\2 高精度2\多重组合数.cpp: #include<cstring>
+J1-2\2 高精度2\多重组合数.cpp: #include<string>
+J1-2\2 高精度2\多重组合数.cpp: #include<algorithm>
+J1-2\2 高精度2\幂的前缀.cpp: #include<iostream>
+J1-2\2 高精度2\幂的前缀.cpp: #include<cstring>
+J1-2\2 高精度2\涂色.cpp: #include<cstdio>
+J1-2\2 高精度2\涂色.cpp: #include<cstring>
+J1-2\2 高精度2\涂色.cpp: #include<iostream>
+J1-2\2 高精度2\涂色.cpp: #include<string>
+J1-2\2 高精度2\涂色.cpp: #include<algorithm>
+J1-2\2 高精度2\线性递推数列.cpp: #include<iostream>
+J1-2\2 高精度2\线性递推数列.cpp: #include<cstdio>
+J1-2\2 高精度2\线性递推数列.cpp: #include<cstring>
+J1-2\2 高精度2\线性递推数列.cpp: #include<string>
+J1-2\2 高精度2\线性递推数列.cpp: #include<algorithm>
+J1-2\2 高精度2\计算组合数.cpp: #include<iostream>
+J1-2\2 高精度2\计算组合数.cpp: #include<cstdio>
+J1-2\2 高精度2\计算组合数.cpp: #include<cstring>
+J1-2\2 高精度2\计算组合数.cpp: #include<string>
+J1-2\2 高精度2\计算组合数.cpp: #include<algorithm>
+J1-2\2 高精度2\计算阶乘.cpp: #include<iostream>
+J1-2\2 高精度2\计算阶乘.cpp: #include<cstdio>
+J1-2\2 高精度2\计算阶乘.cpp: #include<cstring>
+J1-2\2 高精度2\计算阶乘.cpp: #include<string>
+J1-2\2 高精度2\计算阶乘.cpp: #include<algorithm>
+J1-2\2 高精度2\阶乘之和.cpp: #include<iostream>
+J1-2\2 高精度2\阶乘之和.cpp: #include<cstdio>
+J1-2\2 高精度2\阶乘之和.cpp: #include<cstring>
+J1-2\2 高精度2\阶乘之和.cpp: #include<string>
+J1-2\2 高精度2\阶乘之和.cpp: #include<algorithm>
+J1-2\2 高精度2\麦森数.cpp: #include<cstdio>
+J1-2\2 高精度2\麦森数.cpp: #include<cstring>
+J1-2\2 高精度2\麦森数.cpp: #include<iostream>
+J1-2\2 高精度2\麦森数.cpp: #include<string>
+J1-2\2 高精度2\麦森数.cpp: #include<algorithm>
+J1-2\2 高精度2\麦森数.cpp: #include<cmath>
+J1-2\3 二分查找\Lazy-Faith.cpp: #include<cstdio>
+J1-2\3 二分查找\Lazy-Faith.cpp: #include<iostream>
+J1-2\3 二分查找\Lazy-Faith.cpp: #include<algorithm>
+J1-2\3 二分查找\Snuke-Festival.cpp: #include<iostream>
+J1-2\3 二分查找\Snuke-Festival.cpp: #include<algorithm>
+J1-2\3 二分查找\二分查找.cpp: #include<cstdio>
+J1-2\3 二分查找\二分查找.cpp: #include<iostream>
+J1-2\3 二分查找\二分查找.cpp: #include<algorithm>
+J1-2\3 二分查找\寻找固定的和.cpp: #include<cstdio>
+J1-2\3 二分查找\寻找固定的和.cpp: #include<iostream>
+J1-2\3 二分查找\寻找固定的和.cpp: #include<algorithm>
+J1-2\3 二分查找\查找脚码.cpp: #include<cstdio>
+J1-2\3 二分查找\查找脚码.cpp: #include<iostream>
+J1-2\3 二分查找\查找脚码.cpp: #include<algorithm>
+J1-2\3 二分查找\次小差值.cpp: #include<iostream>
+J1-2\3 二分查找\次小差值.cpp: #include<algorithm>
+J1-2\3 二分查找\次小差值.cpp: #include<cstdio>
+J1-2\3 二分查找\烦恼的高考志愿.cpp: #include<iostream>
+J1-2\3 二分查找\烦恼的高考志愿.cpp: #include<algorithm>
+J1-2\3 二分查找\烦恼的高考志愿.cpp: #include<cstdio>
+J1-2\3 二分查找\田忌又赛马.cpp: #include<iostream>
+J1-2\3 二分查找\田忌又赛马.cpp: #include<algorithm>
+J1-2\4 二分答案\分巧克力.cpp: #include<iostream>
+J1-2\4 二分答案\分巧克力.cpp: #include<algorithm>
+J1-2\4 二分答案\分巧克力.cpp: #include<cstdio>
+J1-2\4 二分答案\切绳子.cpp: #include<cstdio>
+J1-2\4 二分答案\切绳子.cpp: #include<iostream>
+J1-2\4 二分答案\切绳子.cpp: #include<algorithm>
+J1-2\4 二分答案\割韭菜.cpp: #include<cstdio>
+J1-2\4 二分答案\割韭菜.cpp: #include<iostream>
+J1-2\4 二分答案\割韭菜.cpp: #include<algorithm>
+J1-2\4 二分答案\地铁建设.cpp: #include<iostream>
+J1-2\4 二分答案\地铁建设.cpp: #include<algorithm>
+J1-2\4 二分答案\市场.cpp: #include<iostream>
+J1-2\4 二分答案\市场.cpp: #include<algorithm>
+J1-2\4 二分答案\市场.cpp: #include<cstdio>
+J1-2\4 二分答案\愤怒的牛.cpp: #include<cstdio>
+J1-2\4 二分答案\愤怒的牛.cpp: #include<iostream>
+J1-2\4 二分答案\愤怒的牛.cpp: #include<algorithm>
+J1-2\4 二分答案\数列分段.cpp: #include<cstdio>
+J1-2\4 二分答案\数列分段.cpp: #include<iostream>
+J1-2\4 二分答案\数列分段.cpp: #include<algorithm>
+J1-2\4 二分答案\木材加工.cpp: #include<cstdio>
+J1-2\4 二分答案\木材加工.cpp: #include<iostream>
+J1-2\4 二分答案\木材加工.cpp: #include<algorithm>
+J1-2\4 二分答案\跳石头.cpp: #include<cstdio>
+J1-2\4 二分答案\跳石头.cpp: #include<iostream>
+J1-2\4 二分答案\跳石头.cpp: #include<algorithm>
+J1-2\5 递推\4人传球游戏.cpp: #include<cstdio>
+J1-2\5 递推\4人传球游戏.cpp: #include<iostream>
+J1-2\5 递推\4人传球游戏.cpp: #include<algorithm>
+J1-2\5 递推\d好数.cpp: #include<cstdio>
+J1-2\5 递推\d好数.cpp: #include<iostream>
+J1-2\5 递推\d好数.cpp: #include<algorithm>
+J1-2\5 递推\d好数.cpp: #include<cmath>
+J1-2\5 递推\传球游戏.cpp: #include<cstdio>
+J1-2\5 递推\传球游戏.cpp: #include<iostream>
+J1-2\5 递推\传球游戏.cpp: #include<algorithm>
+J1-2\5 递推\假期.cpp: #include<iostream>
+J1-2\5 递推\假期.cpp: #include<algorithm>
+J1-2\5 递推\幸运数字.cpp: #include<cstdio>
+J1-2\5 递推\幸运数字.cpp: #include<iostream>
+J1-2\5 递推\幸运数字.cpp: #include<algorithm>
+J1-2\5 递推\整数划分方案.cpp: #include<iostream>
+J1-2\5 递推\整数划分方案.cpp: #include<cstdio>
+J1-2\5 递推\整数划分方案.cpp: #include<algorithm>
+J1-2\5 递推\新4人传球游戏.cpp: #include<cstdio>
+J1-2\5 递推\新4人传球游戏.cpp: #include<iostream>
+J1-2\5 递推\新4人传球游戏.cpp: #include<algorithm>
+J1-2\5 递推\递推计数.cpp: #include<cstdio>
+J1-2\5 递推\递推计数.cpp: #include<iostream>
+J1-2\5 递推\递推计数.cpp: #include<algorithm>
+J1-2\5 递推\递推计数.cpp: #include<cstdio>
+J1-2\5 递推\递推计数.cpp: #include<iostream>
+J1-2\5 递推\递推计数.cpp: #include<algorithm>
+J1-2\5 递推\递推计数.cpp: #include<cstdio>
+J1-2\5 递推\递推计数.cpp: #include<iostream>
+J1-2\5 递推\递推计数.cpp: #include<algorithm>
+J1-2\5 递推\递推计数.cpp: #include<cstdio>
+J1-2\5 递推\递推计数.cpp: #include<iostream>
+J1-2\5 递推\递推计数.cpp: #include<algorithm>
+J1-2\5 递推\递推计数.cpp: #include<cstdio>
+J1-2\5 递推\递推计数.cpp: #include<iostream>
+J1-2\5 递推\递推计数.cpp: #include<algorithm>
+J1-2\5 递推\递推计数.cpp: #include<cstdio>
+J1-2\5 递推\递推计数.cpp: #include<iostream>
+J1-2\5 递推\递推计数.cpp: #include<algorithm>
+J1-2\5 递推\青蛙1.cpp: #include<iostream>
+J1-2\5 递推\青蛙1.cpp: #include<cmath>
+J1-2\5 递推\青蛙2.cpp: #include<iostream>
+J1-2\5 递推\青蛙2.cpp: #include<cmath>
+J1-2\5 高精二分练习\切木棍.cpp: #include<iostream>
+J1-2\5 高精二分练习\切木棍.cpp: #include<algorithm>
+J1-2\5 高精二分练习\班长竞选.cpp: #include<cstdio>
+J1-2\5 高精二分练习\班长竞选.cpp: #include<iostream>
+J1-2\5 高精二分练习\班长竞选.cpp: #include<algorithm>
+J1-2\5 高精二分练习\班长竞选.cpp: #include<cstring>
+J1-2\5 高精二分练习\第k未被包含数.cpp: #include<iostream>
+J1-2\5 高精二分练习\第k未被包含数.cpp: #include<algorithm>
+J1-2\5 高精二分练习\第k未被包含数.cpp: #include<cstdio>
+J1-2\5 高精二分练习\阶乘数码.cpp: #include <iostream>
+J1-2\5 高精二分练习\阶乘数码.cpp: #include <cstdio>
+J1-2\5 高精二分练习\阶乘数码.cpp: #include <string>
+J1-2\5 高精二分练习\阶乘数码.cpp: #include <cstring>
+J1-2\5 高精二分练习\魔法集会.cpp: #include<cstdio>
+J1-2\5 高精二分练习\魔法集会.cpp: #include<iostream>
+J1-2\5 高精二分练习\魔法集会.cpp: #include<algorithm>
+J1-2\5 高精二分练习\魔法集会.cpp: #include<cstring>
+J1-2\6 序列dp\删数最大子段和.cpp: #include<iostream>
+J1-2\6 序列dp\删数最大子段和.cpp: #include<algorithm>
+J1-2\6 序列dp\删数最大子段和.cpp: #include<cstdio>
+J1-2\6 序列dp\删数最大子段和.cpp: #include<cstring>
+J1-2\6 序列dp\前缀和模板.cpp: #include<cstdio>
+J1-2\6 序列dp\前缀和模板.cpp: #include<iostream>
+J1-2\6 序列dp\前缀和模板.cpp: #include<algorithm>
+J1-2\6 序列dp\单词的划分.cpp: #include<cstdio>
+J1-2\6 序列dp\单词的划分.cpp: #include<cstring>
+J1-2\6 序列dp\单词的划分.cpp: #include<iostream>
+J1-2\6 序列dp\单词的划分.cpp: #include<string>
+J1-2\6 序列dp\单词的划分.cpp: #include<algorithm>
+J1-2\6 序列dp\单词的划分.cpp: #include<map>
+J1-2\6 序列dp\单词解密.cpp: #include<iostream>
+J1-2\6 序列dp\单词解密.cpp: #include<algorithm>
+J1-2\6 序列dp\单词解密.cpp: #include<cstdio>
+J1-2\6 序列dp\数列划分.cpp: #include<cstdio>
+J1-2\6 序列dp\数列划分.cpp: #include<cstring>
+J1-2\6 序列dp\数列划分.cpp: #include<iostream>
+J1-2\6 序列dp\数列划分.cpp: #include<string>
+J1-2\6 序列dp\数列划分.cpp: #include<algorithm>
+J1-2\6 序列dp\最大子段和.cpp: #include<cstdio>
+J1-2\6 序列dp\最大子段和.cpp: #include<iostream>
+J1-2\6 序列dp\最大子段和.cpp: #include<algorithm>
+J1-2\6 序列dp\最大子段和3.cpp: #include<cstdio>
+J1-2\6 序列dp\最大子段和3.cpp: #include<iostream>
+J1-2\6 序列dp\最大子段和3.cpp: #include<algorithm>
+J1-2\6 序列dp\最大子段和3.cpp: #include<cstring>
+J1-2\6 序列dp\最大子矩形和.cpp: #include<cstdio>
+J1-2\6 序列dp\最大子矩形和.cpp: #include<iostream>
+J1-2\6 序列dp\最大子矩形和.cpp: #include<algorithm>
+J1-2\6 序列dp\最大子矩形和.cpp: #include<cstring>
+J1-2\6 序列dp\解码方法.cpp: #include<cstdio>
+J1-2\6 序列dp\解码方法.cpp: #include<cstring>
+J1-2\6 序列dp\解码方法.cpp: #include<iostream>
+J1-2\6 序列dp\解码方法.cpp: #include<string>
+J1-2\6 序列dp\解码方法.cpp: #include<algorithm>
+J1-2\7 LIS\信封问题.cpp: #include<cstdio>
+J1-2\7 LIS\信封问题.cpp: #include<iostream>
+J1-2\7 LIS\信封问题.cpp: #include<algorithm>
+J1-2\7 LIS\合唱队形.cpp: #include<iostream>
+J1-2\7 LIS\合唱队形.cpp: #include<algorithm>
+J1-2\7 LIS\合唱队形.cpp: #include<cstdio>
+J1-2\7 LIS\合唱队形.cpp: #include<cstring>
+J1-2\7 LIS\字符串改造.cpp: #include<cstdio>
+J1-2\7 LIS\字符串改造.cpp: #include<iostream>
+J1-2\7 LIS\字符串改造.cpp: #include<algorithm>
+J1-2\7 LIS\接龙数列.cpp: #include<iostream>
+J1-2\7 LIS\接龙数列.cpp: #include<algorithm>
+J1-2\7 LIS\接龙数列.cpp: #include<cstdio>
+J1-2\7 LIS\最大上升子序列和.cpp: #include<cstdio>
+J1-2\7 LIS\最大上升子序列和.cpp: #include<iostream>
+J1-2\7 LIS\最大上升子序列和.cpp: #include<algorithm>
+J1-2\7 LIS\最长上升子序列.cpp: #include<cstdio>
+J1-2\7 LIS\最长上升子序列.cpp: #include<iostream>
+J1-2\7 LIS\最长上升子序列.cpp: #include<algorithm>
+J1-2\7 LIS\最长不下降子序列.cpp: #include<cstdio>
+J1-2\7 LIS\最长不下降子序列.cpp: #include<iostream>
+J1-2\7 LIS\最长不下降子序列.cpp: #include<algorithm>
+J1-2\7 LIS\游园安排.cpp: #include<iostream>
+J1-2\7 LIS\游园安排.cpp: #include<algorithm>
+J1-2\7 LIS\游园安排.cpp: #include<cstdio>
+J1-2\7 LIS\老鼠速度.cpp: #include<cstdio>
+J1-2\7 LIS\老鼠速度.cpp: #include<iostream>
+J1-2\7 LIS\老鼠速度.cpp: #include<algorithm>
+J1-2\7 LIS\老鼠速度.cpp: #include<cstdio>
+J1-2\7 LIS\老鼠速度.cpp: #include<iostream>
+J1-2\7 LIS\老鼠速度.cpp: #include<algorithm>
+J1-2\7 LIS\递增.cpp: #include<iostream>
+J1-2\7 LIS\递增.cpp: #include<cstdio>
+J1-2\7 LIS\递增.cpp: #include<algorithm>
+J1-2\7 LIS\递增.cpp: #include<iostream>
+J1-2\7 LIS\递增.cpp: #include<cstdio>
+J1-2\7 LIS\递增.cpp: #include<algorithm>
+J1-2\8 01背包基本模型\01背包模型.cpp: #include<iostream>
+J1-2\8 01背包基本模型\01背包模型.cpp: #include<cstdio>
+J1-2\8 01背包基本模型\01背包模型.cpp: #include<algorithm>
+J1-2\8 01背包基本模型\Hay-For-Sale-S.cpp: #include<iostream>
+J1-2\8 01背包基本模型\Hay-For-Sale-S.cpp: #include<algorithm>
+J1-2\8 01背包基本模型\Hay-For-Sale-S.cpp: #include<cstdio>
+J1-2\8 01背包基本模型\开心的金明.cpp: #include<cstdio>
+J1-2\8 01背包基本模型\开心的金明.cpp: #include<iostream>
+J1-2\8 01背包基本模型\开心的金明.cpp: #include<algorithm>
+J1-2\8 01背包基本模型\最大约数和.cpp: #include<iostream>
+J1-2\8 01背包基本模型\最大约数和.cpp: #include<cstdio>
+J1-2\8 01背包基本模型\最大约数和.cpp: #include<algorithm>
+J1-2\8 01背包基本模型\点菜问题.cpp: #include<iostream>
+J1-2\8 01背包基本模型\点菜问题.cpp: #include<algorithm>
+J1-2\8 01背包基本模型\点菜问题.cpp: #include<cstdio>
+J1-2\8 01背包基本模型\烹调方案.cpp: #include<iostream>
+J1-2\8 01背包基本模型\烹调方案.cpp: #include<cstdio>
+J1-2\8 01背包基本模型\烹调方案.cpp: #include<algorithm>
+J1-2\8 01背包基本模型\精卫填海.cpp: #include<cstdio>
+J1-2\8 01背包基本模型\精卫填海.cpp: #include<iostream>
+J1-2\8 01背包基本模型\精卫填海.cpp: #include<algorithm>
+J1-2\8 01背包基本模型\采药.cpp: #include<cstdio>
+J1-2\8 01背包基本模型\采药.cpp: #include<iostream>
+J1-2\8 01背包基本模型\采药.cpp: #include<algorithm>
+J1-2\9 布尔型及计数形背包\分割等和子集.cpp: #include<iostream>
+J1-2\9 布尔型及计数形背包\分割等和子集.cpp: #include<algorithm>
+J1-2\9 布尔型及计数形背包\分割等和子集.cpp: #include<cstdio>
+J1-2\9 布尔型及计数形背包\分配礼物.cpp: #include<iostream>
+J1-2\9 布尔型及计数形背包\分配礼物.cpp: #include<algorithm>
+J1-2\9 布尔型及计数形背包\子集的和.cpp: #include<iostream>
+J1-2\9 布尔型及计数形背包\子集的和.cpp: #include<cstdio>
+J1-2\9 布尔型及计数形背包\小A点菜.cpp: #include<cstdio>
+J1-2\9 布尔型及计数形背包\小A点菜.cpp: #include<algorithm>
+J1-2\9 布尔型及计数形背包\小A点菜.cpp: #include<iostream>
+J1-2\9 布尔型及计数形背包\砝码称重.cpp: #include<iostream>
+J1-2\9 布尔型及计数形背包\砝码称重.cpp: #include<cstdio>
+J1-2\9 布尔型及计数形背包\砝码称重.cpp: #include<algorithm>
+J1-2\9 布尔型及计数形背包\符号添加.cpp: #include<iostream>
+J1-2\9 布尔型及计数形背包\符号添加.cpp: #include<algorithm>
+J1-2\9 布尔型及计数形背包\符号添加.cpp: #include<cstdio>
+J1-2\9 布尔型及计数形背包\装箱问题.cpp: #include<iostream>
+J1-2\9 布尔型及计数形背包\装箱问题.cpp: #include<cstdio>
+J1-2\9 布尔型及计数形背包\装箱问题.cpp: #include<algorithm>
+J1-2\9 布尔型及计数形背包\音量调节.cpp: #include<iostream>
+J1-2\9 布尔型及计数形背包\音量调节.cpp: #include<cstdio>
+J1-2\9 布尔型及计数形背包\音量调节.cpp: #include<algorithm>
+J1-2\9 布尔型及计数形背包\飞盘队.cpp: #include<cstdio>
+J1-2\9 布尔型及计数形背包\飞盘队.cpp: #include<iostream>
+J1-2\9 布尔型及计数形背包\飞盘队.cpp: #include<algorithm>
+J2-1\1 背包综合\三角形牧场.cpp: #include<iostream>
+J2-1\1 背包综合\三角形牧场.cpp: #include<cstdio>
+J2-1\1 背包综合\三角形牧场.cpp: #include<algorithm>
+J2-1\1 背包综合\三角形牧场.cpp: #include<cmath>
+J2-1\1 背包综合\包裹分拣2.cpp: #include<iostream>
+J2-1\1 背包综合\挑选间谍.cpp: #include<iostream>
+J2-1\1 背包综合\监听音量.cpp: #include<iostream>
+J2-1\1 背包综合\监听音量.cpp: #include<cstdio>
+J2-1\1 背包综合\监听音量.cpp: #include<algorithm>
+J2-1\1 背包综合\监听音量.cpp: #include<cstring>
+J2-1\1 背包综合\超大容量背包.cpp: #include<iostream>
+J2-1\1 背包综合\超大容量背包.cpp: #include<cstdio>
+J2-1\1 背包综合\超大容量背包.cpp: #include<algorithm>
+J2-1\1 背包综合\超大容量背包.cpp: #include<cstring>
+J2-1\1 背包综合\面包师.cpp: #include<iostream>
+J2-1\1 背包综合\面包师.cpp: #include<cstdio>
+J2-1\1 背包综合\面包师.cpp: #include<algorithm>
+J2-1\2 升维技巧综合\修建支柱.cpp: #include<iostream>
+J2-1\2 升维技巧综合\修建支柱.cpp: #include<cstring>
+J2-1\2 升维技巧综合\兔子的工作.cpp: #include<iostream>
+J2-1\2 升维技巧综合\兔子的工作.cpp: #include<cstdio>
+J2-1\2 升维技巧综合\兔子的工作.cpp: #include<algorithm>
+J2-1\2 升维技巧综合\兔子的工作.cpp: #include<cstring>
+J2-1\2 升维技巧综合\小猴拿糖.cpp: #include<iostream>
+J2-1\2 升维技巧综合\小猴拿糖.cpp: #include<cstdio>
+J2-1\2 升维技巧综合\小猴拿糖.cpp: #include<algorithm>
+J2-1\2 升维技巧综合\小猴拿糖.cpp: #include<cstring>
+J2-1\2 升维技巧综合\平衡的路径.cpp: #include<cstdio>
+J2-1\2 升维技巧综合\平衡的路径.cpp: #include<iostream>
+J2-1\2 升维技巧综合\平衡的路径.cpp: #include<algorithm>
+J2-1\2 升维技巧综合\平衡的路径.cpp: #include<cstring>
+J2-1\2 升维技巧综合\股票买卖.cpp: #include<iostream>
+J2-1\2 升维技巧综合\股票买卖.cpp: #include<cstdio>
+J2-1\2 升维技巧综合\股票买卖.cpp: #include<algorithm>
+J2-1\3 动规综合\小明的U盘.cpp: #include<iostream>
+J2-1\3 动规综合\小明的U盘.cpp: #include<algorithm>
+J2-1\3 动规综合\改造过山车.cpp: #include<iostream>
+J2-1\3 动规综合\最大子段乘积.cpp: #include<iostream>
+J2-1\3 动规综合\杠杆原理.cpp: #include<cstdio>
+J2-1\3 动规综合\杠杆原理.cpp: #include<iostream>
+J2-1\3 动规综合\杠杆原理.cpp: #include<algorithm>
+J2-1\3 动规综合\点菜.cpp: #include<iostream>
+J2-1\3 动规综合\点菜.cpp: #include<algorithm>
+J2-1\3 动规综合\魔法货船.cpp: #include<iostream>
+J2-1\4 区间动规进阶\k阶回文子串.cpp: #include<iostream>
+J2-1\4 区间动规进阶\合唱队.cpp: #include<iostream>
+J2-1\4 区间动规进阶\合唱队.cpp: #include<cstdio>
+J2-1\4 区间动规进阶\合唱队.cpp: #include<algorithm>
+J2-1\4 区间动规进阶\平方拼图.cpp: #include<iostream>
+J2-1\4 区间动规进阶\涂色.cpp: #include<cstdio>
+J2-1\4 区间动规进阶\涂色.cpp: #include<iostream>
+J2-1\4 区间动规进阶\涂色.cpp: #include<algorithm>
+J2-1\4 区间动规进阶\涂色.cpp: #include<cstring>
+J2-1\4 区间动规进阶\祖玛.cpp: #include<cstdio>
+J2-1\4 区间动规进阶\祖玛.cpp: #include<iostream>
+J2-1\4 区间动规进阶\祖玛.cpp: #include<algorithm>
+J2-1\4 区间动规进阶\祖玛.cpp: #include<cstring>
+J2-1\4 区间动规进阶\美味的零食.cpp: #include<iostream>
+J2-1\4 区间动规进阶\长为k的回文子串.cpp: #include<iostream>
+J2-1\5 dp练习3\_删数最大子段和.cpp: #include<iostream>
+J2-1\5 dp练习3\_删数最大子段和.cpp: #include<cstring>
+J2-1\5 dp练习3\声控打字机.cpp: #include<iostream>
+J2-1\5 dp练习3\接苹果2.cpp: #include<iostream>
+J2-1\5 dp练习3\接苹果2.cpp: #include <cstring>
+J2-1\5 dp练习3\最便宜的回文2.cpp: #include<iostream>
+J2-1\5 dp练习3\最便宜的回文2.cpp: #include<cstdio>
+J2-1\5 dp练习3\最便宜的回文2.cpp: #include<algorithm>
+J2-1\5 dp练习3\货币系统.cpp: #include<cstdio>
+J2-1\5 dp练习3\货币系统.cpp: #include<cstring>
+J2-1\5 dp练习3\货币系统.cpp: #include<iostream>
+J2-1\5 dp练习3\货币系统.cpp: #include<algorithm>
+J2-1\6 二位前缀和与差分\_校门外的树.cpp: #include<iostream>
+J2-1\6 二位前缀和与差分\分数线.cpp: #include<iostream>
+J2-1\6 二位前缀和与差分\差分前缀和.cpp: #include<cstdio>
+J2-1\6 二位前缀和与差分\差分前缀和.cpp: #include<iostream>
+J2-1\6 二位前缀和与差分\差分前缀和.cpp: #include<algorithm>
+J2-1\6 二位前缀和与差分\最大子矩形和.cpp: #include<cstdio>
+J2-1\6 二位前缀和与差分\最大子矩形和.cpp: #include<iostream>
+J2-1\6 二位前缀和与差分\最大子矩形和.cpp: #include<algorithm>
+J2-1\6 二位前缀和与差分\激光炸弹.cpp: #include<cstdio>
+J2-1\6 二位前缀和与差分\激光炸弹.cpp: #include<iostream>
+J2-1\6 二位前缀和与差分\激光炸弹.cpp: #include<algorithm>
+J2-1\6 二位前缀和与差分\焚风现象.cpp: #include<cstdio>
+J2-1\6 二位前缀和与差分\焚风现象.cpp: #include<iostream>
+J2-1\6 二位前缀和与差分\焚风现象.cpp: #include<algorithm>
+J2-1\6 二位前缀和与差分\老式录像机.cpp: #include<iostream>
+J2-1\6 二位前缀和与差分\老式录像机.cpp: #include<cstdio>
+J2-1\6 二位前缀和与差分\老式录像机.cpp: #include<algorithm>
+J2-1\7 初等数论\N的连续数拆分.cpp: #include<iostream>
+J2-1\7 初等数论\余数的记忆.cpp: #include<iostream>
+J2-1\7 初等数论\加权约数个数和.cpp: #include<iostream>
+J2-1\7 初等数论\因数个数.cpp: #include<iostream>
+J2-1\7 初等数论\因数个数.cpp: #include<algorithm>
+J2-1\7 初等数论\因数个数.cpp: #include<cstring>
+J2-1\7 初等数论\细胞分裂.cpp: #include<cstdio>
+J2-1\7 初等数论\细胞分裂.cpp: #include<iostream>
+J2-1\7 初等数论\细胞分裂.cpp: #include<algorithm>
+J2-1\7 初等数论\跳跃移动.cpp: #include<iostream>
+J2-1\7 初等数论\跳跃移动.cpp: #include<cmath>
+J2-1\7 初等数论\跳跃移动.cpp: #include<algorithm>
+J2-1\8 组合计数\探索洞窟.cpp: #include<iostream>
+J2-1\8 组合计数\涂色.cpp: #include<iostream>
+J2-1\8 组合计数\组合数预处理.cpp: #include<cstdio>
+J2-1\8 组合计数\组合数预处理.cpp: #include<iostream>
+J2-1\8 组合计数\组合数预处理.cpp: #include<algorithm>
+J2-1\8 组合计数\计数1.cpp: #include<iostream>
+J2-1\8 组合计数\计数2.cpp: #include<iostream>
+J2-1\8 组合计数\计数3.cpp: #include<iostream>
+J2-1\8 组合计数\非回文串.cpp: #include<iostream>
+J2-2\1 贪心综合练习\与怪物战斗.cpp: #include<cstdio>
+J2-2\1 贪心综合练习\与怪物战斗.cpp: #include<iostream>
+J2-2\1 贪心综合练习\与怪物战斗.cpp: #include<algorithm>
+J2-2\1 贪心综合练习\均富卡.cpp: #include<cstdio>
+J2-2\1 贪心综合练习\均富卡.cpp: #include<iostream>
+J2-2\1 贪心综合练习\均富卡.cpp: #include<algorithm>
+J2-2\1 贪心综合练习\均富卡.cpp: #include<cstring>
+J2-2\1 贪心综合练习\奶牛杂技团.cpp: #include<cstdio>
+J2-2\1 贪心综合练习\奶牛杂技团.cpp: #include<iostream>
+J2-2\1 贪心综合练习\奶牛杂技团.cpp: #include<algorithm>
+J2-2\1 贪心综合练习\无法入睡.cpp: #include<cstdio>
+J2-2\1 贪心综合练习\无法入睡.cpp: #include<iostream>
+J2-2\1 贪心综合练习\无法入睡.cpp: #include<algorithm>
+J2-2\1 贪心综合练习\真空扫地机器人.cpp: #include<cstdio>
+J2-2\1 贪心综合练习\真空扫地机器人.cpp: #include<iostream>
+J2-2\1 贪心综合练习\真空扫地机器人.cpp: #include<algorithm>
+J2-2\1 贪心综合练习\货仓选址.cpp: #include<cstdio>
+J2-2\1 贪心综合练习\货仓选址.cpp: #include<iostream>
+J2-2\1 贪心综合练习\货仓选址.cpp: #include<algorithm>
+J2-2\1 贪心综合练习\货仓选址.cpp: #include<cmath>
+J2-2\1 贪心综合练习\货场选址.cpp: #include<iostream>
+J2-2\1 贪心综合练习\货场选址.cpp: #include<algorithm>
+J2-2\1 贪心综合练习\货场选址.cpp: #include<cmath>
+J2-2\10 图上深搜\刻录光盘.cpp: #include<iostream>
+J2-2\10 图上深搜\刻录光盘.cpp: #include<vector>
+J2-2\10 图上深搜\图的遍历.cpp: #include<iostream>
+J2-2\10 图上深搜\图的遍历.cpp: #include<vector>
+J2-2\10 图上深搜\图的遍历.cpp: #include<cstring>
+J2-2\10 图上深搜\寄包柜.cpp: #include<iostream>
+J2-2\10 图上深搜\寄包柜.cpp: #include<vector>
+J2-2\10 图上深搜\封锁阳光大学.cpp: #include<iostream>
+J2-2\10 图上深搜\封锁阳光大学.cpp: #include<vector>
+J2-2\10 图上深搜\排位赛.cpp: #include<iostream>
+J2-2\10 图上深搜\排位赛.cpp: #include<vector>
+J2-2\10 图上深搜\排位赛.cpp: #include<cstring>
+J2-2\11 图上广搜\SwapPlace.cpp: #include<iostream>
+J2-2\11 图上广搜\SwapPlace.cpp: #include<vector>
+J2-2\11 图上广搜\SwapPlace.cpp: #include<cstring>
+J2-2\11 图上广搜\SwapPlace.cpp: #include<queue>
+J2-2\11 图上广搜\奶酪.cpp: #include<iostream>
+J2-2\11 图上广搜\奶酪.cpp: #include<vector>
+J2-2\11 图上广搜\奶酪.cpp: #include<cmath>
+J2-2\11 图上广搜\奶酪.cpp: #include<queue>
+J2-2\11 图上广搜\奶酪.cpp: #include<cstring>
+J2-2\11 图上广搜\寻找道路.cpp: #include<iostream>
+J2-2\11 图上广搜\寻找道路.cpp: #include<vector>
+J2-2\11 图上广搜\寻找道路.cpp: #include<cstring>
+J2-2\11 图上广搜\寻找道路.cpp: #include<queue>
+J2-2\11 图上广搜\查找文献.cpp: #include<iostream>
+J2-2\11 图上广搜\查找文献.cpp: #include<vector>
+J2-2\11 图上广搜\查找文献.cpp: #include<queue>
+J2-2\11 图上广搜\查找文献.cpp: #include<cstring>
+J2-2\11 图上广搜\查找文献.cpp: #include<algorithm>
+J2-2\11 图上广搜\营救.cpp: #include<iostream>
+J2-2\11 图上广搜\营救.cpp: #include<vector>
+J2-2\11 图上广搜\营救.cpp: #include<queue>
+J2-2\11 图上广搜\营救.cpp: #include<cstring>
+J2-2\12 拓扑排序1\复杂的按钮.cpp: #include<iostream>
+J2-2\12 拓扑排序1\复杂的按钮.cpp: #include<vector>
+J2-2\12 拓扑排序1\复杂的按钮.cpp: #include<queue>
+J2-2\12 拓扑排序1\奖金.cpp: #include<iostream>
+J2-2\12 拓扑排序1\奖金.cpp: #include<vector>
+J2-2\12 拓扑排序1\奖金.cpp: #include<queue>
+J2-2\12 拓扑排序1\挤奶顺序.cpp: #include<iostream>
+J2-2\12 拓扑排序1\挤奶顺序.cpp: #include<vector>
+J2-2\12 拓扑排序1\挤奶顺序.cpp: #include<queue>
+J2-2\12 拓扑排序1\挤奶顺序.cpp: #include<algorithm>
+J2-2\12 拓扑排序1\杂务.cpp: #include<iostream>
+J2-2\12 拓扑排序1\杂务.cpp: #include<vector>
+J2-2\12 拓扑排序1\杂务.cpp: #include<queue>
+J2-2\12 拓扑排序1\杂务.cpp: #include<algorithm>
+J2-2\13 拓扑排序2\Test for Job.cpp: #include<iostream>
+J2-2\13 拓扑排序2\Test for Job.cpp: #include<vector>
+J2-2\13 拓扑排序2\Test for Job.cpp: #include<queue>
+J2-2\13 拓扑排序2\Test for Job.cpp: #include<cstring>
+J2-2\13 拓扑排序2\巧克力牛奶.cpp: #include<iostream>
+J2-2\13 拓扑排序2\巧克力牛奶.cpp: #include<vector>
+J2-2\13 拓扑排序2\巧克力牛奶.cpp: #include<queue>
+J2-2\13 拓扑排序2\旅行计划.cpp: #include<iostream>
+J2-2\13 拓扑排序2\旅行计划.cpp: #include<vector>
+J2-2\13 拓扑排序2\旅行计划.cpp: #include<queue>
+J2-2\13 拓扑排序2\最大食物链计数-topo内dp.cpp: #include<iostream>
+J2-2\13 拓扑排序2\最大食物链计数-topo内dp.cpp: #include<vector>
+J2-2\13 拓扑排序2\最大食物链计数-topo内dp.cpp: #include<queue>
+J2-2\13 拓扑排序2\最大食物链计数-topo后dp.cpp: #include<iostream>
+J2-2\13 拓扑排序2\最大食物链计数-topo后dp.cpp: #include<vector>
+J2-2\13 拓扑排序2\最大食物链计数-topo后dp.cpp: #include<queue>
+J2-2\13 拓扑排序2\车站分级.cpp: #include<iostream>
+J2-2\13 拓扑排序2\车站分级.cpp: #include<queue>
+J2-2\13 拓扑排序2\车站分级.cpp: #include<algorithm>
+J2-2\13 拓扑排序2\车站分级.cpp: #include<cstring>
+J2-2\14 阶段练习\丰收节.cpp: #include<iostream>
+J2-2\14 阶段练习\丰收节.cpp: #include<vector>
+J2-2\14 阶段练习\丰收节.cpp: #include<cstring>
+J2-2\14 阶段练习\距离分级.cpp: #include<iostream>
+J2-2\14 阶段练习\距离分级.cpp: #include<vector>
+J2-2\14 阶段练习\距离分级.cpp: #include<queue>
+J2-2\14 阶段练习\距离分级.cpp: #include<cstring>
+J2-2\14 阶段练习\距离分级.cpp: #include<algorithm>
+J2-2\14 阶段练习\递增路径.cpp: #include<iostream>
+J2-2\14 阶段练习\递增路径.cpp: #include<vector>
+J2-2\14 阶段练习\递增路径.cpp: #include<queue>
+J2-2\14 阶段练习\递增路径.cpp: #include<cstring>
+J2-2\2 优先队列\x轴最大距离.cpp: #include<cstdio>
+J2-2\2 优先队列\x轴最大距离.cpp: #include<iostream>
+J2-2\2 优先队列\x轴最大距离.cpp: #include<algorithm>
+J2-2\2 优先队列\x轴最大距离.cpp: #include<queue>
+J2-2\2 优先队列\体育馆售票.cpp: #include<cstdio>
+J2-2\2 优先队列\体育馆售票.cpp: #include<iostream>
+J2-2\2 优先队列\体育馆售票.cpp: #include<algorithm>
+J2-2\2 优先队列\体育馆售票.cpp: #include<queue>
+J2-2\2 优先队列\动态中位数.cpp: #include<iostream>
+J2-2\2 优先队列\动态中位数.cpp: #include<cstdio>
+J2-2\2 优先队列\动态中位数.cpp: #include<queue>
+J2-2\2 优先队列\动态中位数.cpp: #include<algorithm>
+J2-2\2 优先队列\合并果子.cpp: #include<cstdio>
+J2-2\2 优先队列\合并果子.cpp: #include<cstring>
+J2-2\2 优先队列\合并果子.cpp: #include<iostream>
+J2-2\2 优先队列\合并果子.cpp: #include<algorithm>
+J2-2\2 优先队列\合并果子.cpp: #include<queue>
+J2-2\2 优先队列\实时晋级.cpp: #include<iostream>
+J2-2\2 优先队列\实时晋级.cpp: #include<queue>
+J2-2\2 优先队列\实时评分.cpp: #include<cstdio>
+J2-2\2 优先队列\实时评分.cpp: #include<iostream>
+J2-2\2 优先队列\实时评分.cpp: #include<algorithm>
+J2-2\2 优先队列\实时评分.cpp: #include<queue>
+J2-2\4 List容器\书籍摆放.cpp: #include<iostream>
+J2-2\4 List容器\书籍摆放.cpp: #include<list>
+J2-2\4 List容器\悲剧的键盘.cpp: #include<iostream>
+J2-2\4 List容器\悲剧的键盘.cpp: #include<cstdio>
+J2-2\4 List容器\悲剧的键盘.cpp: #include<algorithm>
+J2-2\4 List容器\悲剧的键盘.cpp: #include<list>
+J2-2\4 List容器\悲剧的键盘II.cpp: #include<iostream>
+J2-2\4 List容器\悲剧的键盘II.cpp: #include<cstdio>
+J2-2\4 List容器\悲剧的键盘II.cpp: #include<algorithm>
+J2-2\4 List容器\悲剧的键盘II.cpp: #include<list>
+J2-2\4 List容器\文本编辑器.cpp: #include<iostream>
+J2-2\4 List容器\文本编辑器.cpp: #include<cstdio>
+J2-2\4 List容器\文本编辑器.cpp: #include<algorithm>
+J2-2\4 List容器\文本编辑器.cpp: #include<list>
+J2-2\4 List容器\移动盒子.cpp: #include<iostream>
+J2-2\4 List容器\移动盒子.cpp: #include<cstdio>
+J2-2\4 List容器\移动盒子.cpp: #include<algorithm>
+J2-2\4 List容器\移动盒子.cpp: #include<list>
+J2-2\5 表达式递归\Kitty猫基因密码.cpp: #include<iostream>
+J2-2\5 表达式递归\logo语言.cpp: #include<iostream>
+J2-2\5 表达式递归\logo语言.cpp: #include<cmath>
+J2-2\5 表达式递归\小数表达式-拓展.cpp: #include<iostream>
+J2-2\5 表达式递归\小数表达式-拓展.cpp: #include<cstring>
+J2-2\5 表达式递归\小数表达式.cpp: #include<iostream>
+J2-2\5 表达式递归\小数表达式.cpp: #include<cstring>
+J2-2\5 表达式递归\幂次方.cpp: #include<iostream>
+J2-2\6 分治法基础\【模板】归并排序.cpp: #include<iostream>
+J2-2\6 分治法基础\【模板】快速排序.cpp: #include<iostream>
+J2-2\6 分治法基础\求第k小的数.cpp: #include<iostream>
+J2-2\6 分治法基础\火柴排队.cpp: #include<cstdio>
+J2-2\6 分治法基础\火柴排队.cpp: #include<iostream>
+J2-2\6 分治法基础\火柴排队.cpp: #include<algorithm>
+J2-2\6 分治法基础\逆序对.cpp: #include<iostream>
+J2-2\7 树与二叉树1\二叉树深度.cpp: #include<iostream>
+J2-2\7 树与二叉树1\二叉树深度.cpp: #include<algorithm>
+J2-2\7 树与二叉树1\层次遍历.cpp: #include<iostream>
+J2-2\7 树与二叉树1\层次遍历.cpp: #include<queue>
+J2-2\7 树与二叉树1\数字二叉树.cpp: #include<cstdio>
+J2-2\7 树与二叉树1\数字二叉树.cpp: #include<iostream>
+J2-2\7 树与二叉树1\数字二叉树.cpp: #include<algorithm>
+J2-2\7 树与二叉树1\新二叉树.cpp: #include<iostream>
+J2-2\7 树与二叉树1\求先序排列.cpp: #include<iostream>
+J2-2\8 树与二叉树2\二叉查找树.cpp: #include<iostream>
+J2-2\8 树与二叉树2\二叉树输出.cpp: #include<iostream>
+J2-2\8 树与二叉树2\二叉树问题.cpp: #include<iostream>
+J2-2\8 树与二叉树2\分裂二叉树.cpp: #include<iostream>
+J2-2\8 树与二叉树2\分裂二叉树.cpp: #include<algorithm>
+J2-2\8 树与二叉树2\医院设置.cpp: #include<iostream>
+J2-2\8 树与二叉树2\医院设置.cpp: #include<cstring>
+J2-2\9 邻接矩阵与欧拉回路\【模板】邻接矩阵.cpp: #include<iostream>
+J2-2\9 邻接矩阵与欧拉回路\景区游玩.cpp: #include<iostream>
+J2-2\9 邻接矩阵与欧拉回路\景区游玩.cpp: #include<cstring>
+J2-2\9 邻接矩阵与欧拉回路\蚂蚁旅行.cpp: #include<iostream>
+J2-2\9 邻接矩阵与欧拉回路\骑马修栅栏.cpp: #include<iostream>
+NOICA\10\maze\maze-.cpp: #include<iostream>
+NOICA\10\maze\maze.cpp: #include<iostream>
+NOICA\10\maze\maze.cpp: #include<queue>
+NOICA\10\maze\maze.cpp: #include<cstring>
+NOICA\10\nan\nan.cpp: #include<iostream>
+NOICA\10\spring\spring-.cpp: #include<iostream>
+NOICA\10\spring\spring-.cpp: #include<unordered_set>
+NOICA\10\spring\spring.cpp: #include<iostream>
+NOICA\10\spring\spring.cpp: #include<random>
+NOICA\10\spring\spring.cpp: #include<ctime>
+NOICA\10\toy\toy.cpp: #include<iostream>
+NOICA\11\dream\dream.cpp: #include<iostream>
+NOICA\11\game\game.cpp: #include<iostream>
+NOICA\11\game\game.cpp: #include<vector>
+NOICA\11\game\game.cpp: #include<cstring>
+NOICA\11\game\game.cpp: #include<queue>
+NOICA\11\game\game.cpp: #include<algorithm>
+NOICA\11\parrot\parrot.cpp: #include<iostream>
+NOICA\11\parrot\parrot.cpp: #include<cstring>
+NOICA\11\two\two.cpp: #include<iostream>
+NOICA\11\two\two.cpp: #include<cstring>
+NOICA\11\two\two.cpp: #include<set>
+NOICA\11\two\two.cpp: #include<vector>
+NOICA\11\two\two.cpp: #include<algorithm>
+NOICA\12\assassin\assassin.cpp: #include<iostream>
+NOICA\12\assassin\assassin.cpp: #include<algorithm>
+NOICA\12\fa\fa.cpp: #include<iostream>
+NOICA\12\fa\fa.cpp: #include<algorithm>
+NOICA\12\forest\_forest.cpp: #include<iostream>
+NOICA\12\forest\_forest.cpp: #include<vector>
+NOICA\12\forest\_forest.cpp: #include<queue>
+NOICA\12\forest\_forest.cpp: #include<cstring>
+NOICA\12\forest\forest.cpp: #include<iostream>
+NOICA\12\forest\forest.cpp: #include<cstring>
+NOICA\12\forest\forest.cpp: #include<vector>
+NOICA\12\trace\trace.cpp: #include<iostream>
+NOICA\12\trace\trace.cpp: #include<vector>
+NOICA\12\trace\trace.cpp: #include<queue>
+NOICA\12\trace\trace.cpp: #include<cstring>
+NOICA\12\trace\trace.cpp: #include<string>
+NOICA\13\B\B.cpp: #include<iostream>
+NOICA\13\B\B.cpp: #include<algorithm>
+NOICA\13\permutation\permutation.cpp: #include<iostream>
+NOICA\13\traverse\traverse-.cpp: #include<iostream>
+NOICA\13\traverse\traverse-.cpp: #include<vector>
+NOICA\13\traverse\traverse.cpp: #include<iostream>
+NOICA\13\traverse\traverse.cpp: #include<vector>
+NOICA\13\traverse\traverse.cpp: #include<algorithm>
+NOICA\13\variance\variance.cpp: #include<cstdio>
+NOICA\14\brackets\brackets.cpp: #include<iostream>
+NOICA\14\brackets\brackets.cpp: #include<cstring>
+NOICA\14\number\number.cpp: #include<iostream>
+NOICA\14\path\path.cpp: #include<iostream>
+NOICA\14\path\path.cpp: #include<algorithm>
+NOICA\14\path\path.cpp: #include<vector>
+NOICA\14\refrain\refrain.cpp: #include<iostream>
+NOICA\14\refrain\refrain.cpp: #include<algorithm>
+NOICA\14\refrain\refrain.cpp: #include<cstdio>
+NOICA\15\fruit\fruit.cpp: #include<iostream>
+NOICA\15\fruit\fruit.cpp: #include<algorithm>
+NOICA\15\fruit\fruit.cpp: #include<cstdio>
+NOICA\15\land\land.cpp: #include<iostream>
+NOICA\15\land\land.cpp: #include<vector>
+NOICA\15\land\land.cpp: #include<algorithm>
+NOICA\3\dragon\dragon.cpp: #include<iostream>
+NOICA\3\dragon\dragon.cpp: #include<algorithm>
+NOICA\3\protect\protect.cpp: #include<cstdio>
+NOICA\3\protect\protect.cpp: #include<cstring>
+NOICA\3\protect\protect.cpp: #include<algorithm>
+NOICA\4\bag\bag.cpp: #include <algorithm>
+NOICA\4\bag\bag.cpp: #include <iostream>
+NOICA\4\card\card.cpp: #include<iostream>
+NOICA\4\card\card.cpp: #include<algorithm>
+NOICA\4\double\double.cpp: #include<iostream>
+NOICA\4\double\double.cpp: #include<algorithm>
+NOICA\5\graph\graph-50.cpp: #include<iostream>
+NOICA\5\graph\graph-50.cpp: #include<vector>
+NOICA\5\graph\graph-50.cpp: #include<queue>
+NOICA\5\graph\graph-50.cpp: #include<algorithm>
+NOICA\5\graph\graph.cpp: #include<iostream>
+NOICA\5\graph\graph.cpp: #include<vector>
+NOICA\5\graph\graph.cpp: #include<queue>
+NOICA\5\graph\graph.cpp: #include<algorithm>
+NOICA\5\one\one.cpp: #include<iostream>
+NOICA\5\one\one.cpp: #include<algorithm>
+NOICA\5\sheet\sheet.cpp: #include<iostream>
+NOICA\5\sheet\sheet.cpp: #include<vector>
+NOICA\5\sheet\sheet.cpp: #include<cstring>
+NOICA\5\traffic\traffic.cpp: #include<iostream>
+NOICA\5\traffic\traffic.cpp: #include<queue>
+NOICA\5\traffic\traffic.cpp: #include<algorithm>
+NOICA\5\traffic\traffic.cpp: #include<cstring>
+NOICA\6\activity\activity.cpp: #include<iostream>
+NOICA\6\activity\activity.cpp: #include<algorithm>
+NOICA\6\road\road.cpp: #include<iostream>
+NOICA\6\road\road.cpp: #include<vector>
+NOICA\6\road\road.cpp: #include<queue>
+NOICA\6\universe\universe.cpp: #include<iostream>
+NOICA\6\universe\universe.cpp: #include<cmath>
+NOICA\6\universe\universe.cpp: #include<algorithm>
+NOICA\7\boundary.cpp: #include<iostream>
+NOICA\7\boundary.cpp: #include<queue>
+NOICA\7\boundary\boundary.cpp: #include<iostream>
+NOICA\7\boundary\boundary.cpp: #include<queue>
+NOICA\7\down\subarray\chk.cpp: #include "./testlib.h"
+NOICA\7\down\subarray\chk.cpp: #include <string>
+NOICA\7\down\subarray\chk.cpp: #include <vector>
+NOICA\7\move.cpp: #include<algorithm>
+NOICA\7\move.cpp: #include<iostream>
+NOICA\7\move.cpp: #include<cstdio>
+NOICA\7\move.cpp: #include<map>
+NOICA\7\move\move.cpp: #include<algorithm>
+NOICA\7\move\move.cpp: #include<iostream>
+NOICA\7\move\move.cpp: #include<cstdio>
+NOICA\7\move\move.cpp: #include<map>
+NOICA\7\permutation.cpp: #include<iostream>
+NOICA\7\permutation.cpp: #include<algorithm>
+NOICA\7\permutation.cpp: #include<cstring>
+NOICA\7\permutation\permutation.cpp: #include<iostream>
+NOICA\7\permutation\permutation.cpp: #include<algorithm>
+NOICA\7\permutation\permutation.cpp: #include<cstring>
+NOICA\8\attach\attach.cpp: #include<iostream>
+NOICA\8\attach\attach.cpp: #include<algorithm>
+NOICA\8\attach\attach_.cpp: #include<iostream>
+NOICA\8\attach\attach_.cpp: #include<queue>
+NOICA\8\bike\bike.cpp: #include <iostream>
+NOICA\8\bike\bike.cpp: #include <cmath>
+NOICA\8\bike\bike.cpp: #include <algorithm>
+NOICA\8\bike\bike.cpp: #include <cstdio>
+NOICA\8\bike\bike.cpp: #include <string>
+NOICA\8\revue\revue.cpp: #include<iostream>
+NOICA\8\revue\revue.cpp: #include<vector>
+NOICA\8\revue\revue.cpp: #include<cstring>
+NOICA\8\revue\revue.cpp: #include<algorithm>
+NOICA\8\stage\stage.cpp: #include<iostream>
+NOICA\8\stage\stage.cpp: #include<deque>
+NOICA\8\stage\stage.cpp: #include<cstring>
+NOICA\8\stage\stage_.cpp: #include<iostream>
+NOICA\8\stage\stage_.cpp: #include<cstring>
+NOICA\9\box\box.cpp: #include<iostream>
+NOICA\9\box\box.cpp: #include<algorithm>
+NOICA\9\discount\discount.cpp: #include<iostream>
+NOICA\9\discount\discount.cpp: #include<algorithm>
+NOICA\9\revenge\revenge.cpp: #include<iostream>
+NOICA\9\revenge\revenge.cpp: #include<algorithm>
+NOICA\9\revenge\revenge.cpp: #include<queue>
+NOICA\9\signin\signin.cpp: #include<iostream>
+NOICA\9\signin\signin.cpp: #include<algorithm>
+OJ\AtCoder\AT_abc390\AT_abc390_a [ABC390A] 12345.cpp: #include<iostream>
+OJ\AtCoder\AT_abc390\AT_abc390_b [ABC390B] Geometric Sequence.cpp: #include<iostream>
+OJ\AtCoder\AT_abc390\AT_abc390_c [ABC390C] Paint to make a rectangle.cpp: #include<iostream>
+OJ\AtCoder\AT_abc390\AT_abc390_c [ABC390C] Paint to make a rectangle.cpp: #include<vector>
+OJ\AtCoder\AT_abc390\AT_abc390_d [ABC390D] Stone XOR.cpp: #include<iostream>
+OJ\AtCoder\AT_abc390\AT_abc390_d [ABC390D] Stone XOR.cpp: #include<unordered_map>
+OJ\POJ\1000.cpp: #include<iostream>
+OJ\POJ\1001.cpp: #include<iostream>
+OJ\POJ\1001.cpp: #include<cstring>
+OJ\SPOJ\TEST.cpp: #include<iostream>
+OJ\小明\小明月赛\2024.12\jump.cpp: #include<cstdio>
+OJ\小明\小明月赛\2024.12\jump.cpp: #include<iostream>
+OJ\小明\小明月赛\2024.12\jump.cpp: #include<algorithm>
+OJ\小明\小明月赛\2024.12\triangle.cpp: #include<iostream>
+OJ\小明\小明月赛\2024.12\triangle.cpp: #include<cmath>
+OJ\小明\小明月赛\2024.12\triangle.cpp: #include<algorithm>
+OJ\小明\小明月赛\2024.12\triangle.cpp: #include<cstdio>
+OJ\小明\小明月赛\2025.09\交换灵魂.cpp: #include<iostream>
+OJ\小明\小明月赛\2025.09\冬季大三角.cpp: #include<iostream>
+OJ\小明\小明月赛\2025.10 - Div.3\abc.cpp: #include<iostream>
+OJ\小明\小明月赛\2025.10 - Div.3\abc.cpp: #include<map>
+OJ\小明\小明月赛\2025.10 - Div.3\friends.cpp: #include<iostream>
+OJ\小明\小明月赛\2025.10 - Div.3\prime.cpp: #include<iostream>
+OJ\小明\小明月赛\2025.10 - Div.3\sun.cpp: #include<iostream>
+OJ\小明\小明月赛\2025.10 - Div.3\sun.cpp: #include<cstring>
+OJ\小明\小明月赛\2025.10 - Div.3\xor.cpp: #include<iostream>
+OJ\小明\小明月赛\2025.10 - Div.3\这不怪我啊.cpp: #include<iostream>
+OJ\小明\小明月赛\2025.10 - Div.3\这不怪我啊.cpp: #include<cstring>
+OJ\小明\小明月赛\2025.11 - Div.2\pm.cpp: #include<iostream>
+OJ\小明\小明月赛\2025远离爆零\hotel.cpp: #include<iostream>
+OJ\小明\小明月赛\2025远离爆零\hotel.cpp: #include<cstdio>
+OJ\小明\小明月赛\2025远离爆零\string.cpp: #include<iostream>
+OJ\小明\小明杂题\P1007保龄球.cpp: #include<iostream>
+OJ\洛谷\『1&0』OI Round 1\test.cpp: #include<iostream>
+OJ\洛谷\『1&0』OI Round 1\test.cpp: #include<vector>
+OJ\洛谷\『1&0』OI Round 1\相思若循.cpp: #include<iostream>
+OJ\洛谷\【LGR-249-Div.3】洛谷基础赛 #27 &「S4OI」Round 1\T619940.cpp: #include<iostream>
+OJ\洛谷\【LGR-249-Div.3】洛谷基础赛 #27 &「S4OI」Round 1\T622599.cpp: #include<iostream>
+Practice\B2015.cpp: #include<cstdio>
+Practice\B2016.cpp: #include<cstdio>
+Practice\B2016.cpp: #include<cmath>
+Practice\B2019.cpp: #include<iostream>
+Practice\B2020.cpp: #include<iostream>
+Practice\B2023.cpp: #include<iostream>
+Practice\B2023.cpp: #include<algorithm>
+Practice\B2023.cpp: #include<cstdio>
+Practice\P1807.cpp: #include<iostream>
+Practice\P1807.cpp: #include<vector>
+Practice\P1807.cpp: #include<cstring>
+Practice\P1807.cpp: #include<queue>
+Practice\P8218.cpp: #include<iostream>
+Pre\bfs\bfs模板.cpp: #include<iostream>
+Pre\bfs\bfs模板.cpp: #include<algorithm>
+Pre\bfs\bfs模板.cpp: #include<queue>
+Pre\bfs\【模板】BFS.cpp: #include<iostream>
+Pre\bfs\【模板】BFS.cpp: #include<algorithm>
+Pre\bfs\【模板】BFS.cpp: #include<queue>
+Pre\前缀和\三国.cpp: #include<cstdio>
+Pre\前缀和\三国.cpp: #include<iostream>
+Pre\前缀和\三国.cpp: #include<algorithm>
+Pre\前缀和\前缀和模板.cpp: #include<cstdio>
+Pre\前缀和\前缀和模板.cpp: #include<iostream>
+Pre\前缀和\前缀和模板.cpp: #include<algorithm>
+Pre\前缀和\收获香蕉.cpp: #include<cstdio>
+Pre\前缀和\收获香蕉.cpp: #include<iostream>
+Pre\前缀和\收获香蕉.cpp: #include<algorithm>
+Pre\前缀和\收获香蕉（数据强化）.cpp: #include<cstdio>
+Pre\前缀和\收获香蕉（数据强化）.cpp: #include<iostream>
+Pre\前缀和\收获香蕉（数据强化）.cpp: #include<algorithm>
+Pre\前缀和\最大子段和.cpp: #include<cstdio>
+Pre\前缀和\最大子段和.cpp: #include<iostream>
+Pre\前缀和\最大子段和.cpp: #include<algorithm>
+Pre\前缀和\连续自然数之和.cpp: #include<cstdio>
+Pre\前缀和\连续自然数之和.cpp: #include<iostream>
+Pre\前缀和\连续自然数之和.cpp: #include<algorithm>
+Pre\映射\Big-Array.cpp: #include<iostream>
+Pre\映射\Big-Array.cpp: #include<cstdio>
+Pre\映射\Big-Array.cpp: #include<algorithm>
+Pre\映射\Big-Array.cpp: #include<map>
+Pre\映射\Two-Colors-Card-Game.cpp: #include<iostream>
+Pre\映射\Two-Colors-Card-Game.cpp: #include<cstdio>
+Pre\映射\Two-Colors-Card-Game.cpp: #include<algorithm>
+Pre\映射\Two-Colors-Card-Game.cpp: #include<map>
+Pre\映射\注册系统.cpp: #include<iostream>
+Pre\映射\注册系统.cpp: #include<cstdio>
+Pre\映射\注册系统.cpp: #include<algorithm>
+Pre\映射\注册系统.cpp: #include<map>
+Pre\映射\点名.cpp: #include<iostream>
+Pre\映射\点名.cpp: #include<cstdio>
+Pre\映射\点名.cpp: #include<algorithm>
+Pre\映射\点名.cpp: #include<map>
+Pre\映射\等比数列.cpp: #include<iostream>
+Pre\映射\等比数列.cpp: #include<cstdio>
+Pre\映射\等比数列.cpp: #include<algorithm>
+Pre\映射\等比数列.cpp: #include<map>
+Pre\映射\股票买卖.cpp: #include<iostream>
+Pre\映射\股票买卖.cpp: #include<cstdio>
+Pre\映射\股票买卖.cpp: #include<algorithm>
+Pre\映射\股票买卖.cpp: #include<map>
+Pre\贪心\Mixing Milk.cpp: #include<cstdio>
+Pre\贪心\Mixing Milk.cpp: #include<iostream>
+Pre\贪心\Mixing Milk.cpp: #include<algorithm>
+Pre\贪心\Saruman's Army.cpp: #include<iostream>
+Pre\贪心\Saruman's Army.cpp: #include<algorithm>
+Pre\贪心\乘船问题.cpp: #include<iostream>
+Pre\贪心\乘船问题.cpp: #include<algorithm>
+Pre\贪心\会场安排.cpp: #include<iostream>
+Pre\贪心\会场安排.cpp: #include<algorithm>
+Pre\贪心\区间覆盖问题.cpp: #include<iostream>
+Pre\贪心\区间覆盖问题.cpp: #include<algorithm>
+Pre\贪心\区间选点问题.cpp: #include<iostream>
+Pre\贪心\区间选点问题.cpp: #include<algorithm>
+Pre\贪心\导弹拦截2010.cpp: #include<cstdio>
+Pre\贪心\导弹拦截2010.cpp: #include<cstring>
+Pre\贪心\导弹拦截2010.cpp: #include<iostream>
+Pre\贪心\导弹拦截2010.cpp: #include<algorithm>
+Pre\贪心\干净的牛棚.cpp: #include<iostream>
+Pre\贪心\干净的牛棚.cpp: #include<algorithm>
+Pre\贪心\引爆气球.cpp: #include<iostream>
+Pre\贪心\引爆气球.cpp: #include<algorithm>
+Pre\贪心\排队接水.cpp: #include<iostream>
+Pre\贪心\排队接水.cpp: #include<algorithm>
+Pre\贪心\水壶.cpp: #include<iostream>
+Pre\贪心\水壶.cpp: #include<cstdio>
+Pre\贪心\水壶.cpp: #include<algorithm>
+Pre\贪心\泥泞路.cpp: #include<iostream>
+Pre\贪心\泥泞路.cpp: #include<cstdio>
+Pre\贪心\泥泞路.cpp: #include<algorithm>
+Pre\贪心\营养膳食.cpp: #include<iostream>
+Pre\贪心\营养膳食.cpp: #include<cstdio>
+Pre\贪心\营养膳食.cpp: #include<algorithm>
+Pre\贪心\选择不相交区间.cpp: #include<iostream>
+Pre\贪心\选择不相交区间.cpp: #include<algorithm>
+Pre\贪心\采购奖品.cpp: #include<cstdio>
+Pre\贪心\采购奖品.cpp: #include<cstring>
+Pre\贪心\采购奖品.cpp: #include<iostream>
+Pre\贪心\采购奖品.cpp: #include<algorithm>
+Pre\贪心\黑心企业.cpp: #include<cstdio>
+Pre\贪心\黑心企业.cpp: #include<iostream>
+Pre\贪心\黑心企业.cpp: #include<algorithm>
+Pre\队列\Blah数集.cpp: #include<cstdio>
+Pre\队列\Blah数集.cpp: #include<cstring>
+Pre\队列\Blah数集.cpp: #include<iostream>
+Pre\队列\Blah数集.cpp: #include<algorithm>
+Pre\队列\Blah数集.cpp: #include<queue>
+Pre\队列\丑数.cpp: #include<cstdio>
+Pre\队列\丑数.cpp: #include<cstring>
+Pre\队列\丑数.cpp: #include<iostream>
+Pre\队列\丑数.cpp: #include<algorithm>
+Pre\队列\丑数.cpp: #include<queue>
+Pre\队列\团体队列.cpp: #include<cstdio>
+Pre\队列\团体队列.cpp: #include<iostream>
+Pre\队列\团体队列.cpp: #include<algorithm>
+Pre\队列\团体队列.cpp: #include<queue>
+Pre\队列\第k个d好数.cpp: #include<iostream>
+Pre\队列\第k个d好数.cpp: #include<queue>
+Pre\队列\青蛙路线计数.cpp: #include<cstdio>
+Pre\队列\青蛙路线计数.cpp: #include<cstring>
+Pre\队列\青蛙路线计数.cpp: #include<iostream>
+Pre\队列\青蛙路线计数.cpp: #include<algorithm>
+Pre\队列\青蛙路线计数.cpp: #include<queue>
+S1-1\1 多叉树\单词查找树.cpp: #include<iostream>
+S1-1\1 多叉树\树的路径求和.cpp: #include<iostream>
+S1-1\1 多叉树\树的路径求和.cpp: #include<vector>
+S1-1\1 多叉树\猫猫和企鹅.cpp: #include<iostream>
+S1-1\1 多叉树\猫猫和企鹅.cpp: #include<vector>
+S1-1\1 多叉树\电脑病毒.cpp: #include<iostream>
+S1-1\1 多叉树\电脑病毒.cpp: #include<vector>
+S1-1\1 多叉树\联合权值.cpp: #include<iostream>
+S1-1\1 多叉树\联合权值.cpp: #include<vector>
+S1-1\1 多叉树\通行限制.cpp: #include<iostream>
+S1-1\1 多叉树\通行限制.cpp: #include<vector>
+S1-1\1 多叉树\道路修建.cpp: #include<iostream>
+S1-1\1 多叉树\道路修建.cpp: #include<vector>
+S1-1\2 树的递推\信号放大器.cpp: #include<iostream>
+S1-1\2 树的递推\信号放大器.cpp: #include<vector>
+S1-1\2 树的递推\医疗中心.cpp: #include<iostream>
+S1-1\2 树的递推\医疗中心.cpp: #include<vector>
+S1-1\2 树的递推\医疗中心.cpp: #include<cstring>
+S1-1\2 树的递推\奶牛马拉松.cpp: #include<iostream>
+S1-1\2 树的递推\奶牛马拉松.cpp: #include<vector>
+S1-1\2 树的递推\最大子树和.cpp: #include<iostream>
+S1-1\2 树的递推\最大子树和.cpp: #include<vector>
+S1-1\2 树的递推\树的分解.cpp: #include<iostream>
+S1-1\2 树的递推\树的分解.cpp: #include<vector>
+S1-1\2 树的递推\树的分解.cpp: #include<cstring>
+S1-1\2 树的递推\植树.cpp: #include<iostream>
+S1-1\2 树的递推\植树.cpp: #include<vector>
+S1-1\2 树的递推\植树.cpp: #include<algorithm>
+S1-1\3 多源最短路\【模板】传递闭包.cpp: #include<iostream>
+S1-1\3 多源最短路\【模板】传递闭包.cpp: #include<vector>
+S1-1\3 多源最短路\【模板】传递闭包.cpp: #include<algorithm>
+S1-1\3 多源最短路\【模板】多源最短路.cpp: #include<iostream>
+S1-1\3 多源最短路\【模板】多源最短路.cpp: #include<cstring>
+S1-1\3 多源最短路\传送门.cpp: #include<iostream>
+S1-1\3 多源最短路\传送门.cpp: #include<vector>
+S1-1\3 多源最短路\传送门.cpp: #include<algorithm>
+S1-1\3 多源最短路\传送门.cpp: #include<cstring>
+S1-1\3 多源最短路\动态最短路.cpp: #include<iostream>
+S1-1\3 多源最短路\动态最短路.cpp: #include<vector>
+S1-1\3 多源最短路\动态最短路.cpp: #include<cstring>
+S1-1\3 多源最短路\动态最短路.cpp: #include<algorithm>
+S1-1\3 多源最短路\无向图最小环.cpp: #include<iostream>
+S1-1\3 多源最短路\无向图最小环.cpp: #include<algorithm>
+S1-1\3 多源最短路\无向图最小环.cpp: #include<cstring>
+S1-1\3 多源最短路\灾后重建.cpp: #include<iostream>
+S1-1\3 多源最短路\灾后重建.cpp: #include<vector>
+S1-1\3 多源最短路\灾后重建.cpp: #include<algorithm>
+S1-1\3 多源最短路\灾后重建.cpp: #include<cstring>
+S1-1\4 01BFS\KATHTHI.cpp: #include<iostream>
+S1-1\4 01BFS\KATHTHI.cpp: #include<deque>
+S1-1\4 01BFS\KATHTHI.cpp: #include<cstring>
+S1-1\4 01BFS\Small Multiple.cpp: #include<iostream>
+S1-1\4 01BFS\Small Multiple.cpp: #include<algorithm>
+S1-1\4 01BFS\Small Multiple.cpp: #include<deque>
+S1-1\4 01BFS\Small Multiple.cpp: #include<cstring>
+S1-1\5 spfa算法\单源最短路径（弱化版）.cpp: #include<iostream>
+S1-1\5 spfa算法\单源最短路径（弱化版）.cpp: #include<vector>
+S1-1\5 spfa算法\单源最短路径（弱化版）.cpp: #include<queue>
+S1-1\5 spfa算法\单源最短路径（弱化版）.cpp: #include<cstring>
+S1-1\5 spfa算法\奶牛派对.cpp: #include<iostream>
+S1-1\5 spfa算法\奶牛派对.cpp: #include<vector>
+S1-1\5 spfa算法\奶牛派对.cpp: #include<cstring>
+S1-1\5 spfa算法\奶牛派对.cpp: #include<queue>
+S1-1\5 spfa算法\牛奶管道.cpp: #include<iostream>
+S1-1\5 spfa算法\牛奶管道.cpp: #include<queue>
+S1-1\5 spfa算法\牛奶管道.cpp: #include<vector>
+S1-1\5 spfa算法\牛奶管道.cpp: #include<cstring>
+S1-1\5 spfa算法\航空路线.cpp: #include<iostream>
+S1-1\5 spfa算法\航空路线.cpp: #include<vector>
+S1-1\5 spfa算法\航空路线.cpp: #include<queue>
+S1-1\5 spfa算法\航空路线.cpp: #include<cstring>
+S1-1\5 spfa算法\营救.cpp: #include<iostream>
+S1-1\5 spfa算法\营救.cpp: #include<vector>
+S1-1\5 spfa算法\营救.cpp: #include<queue>
+S1-1\5 spfa算法\营救.cpp: #include<cstring>
+S1-1\6 Dijkstra算法\【模板】单源最短路径（标准版）.cpp: #include<iostream>
+S1-1\6 Dijkstra算法\【模板】单源最短路径（标准版）.cpp: #include<queue>
+S1-1\6 Dijkstra算法\【模板】单源最短路径（标准版）.cpp: #include<vector>
+S1-1\6 Dijkstra算法\【模板】单源最短路径（标准版）.cpp: #include<cstring>
+S1-1\6 Dijkstra算法\平面上的点.cpp: #include<iostream>
+S1-1\6 Dijkstra算法\平面上的点.cpp: #include<cmath>
+S1-1\6 Dijkstra算法\平面上的点.cpp: #include<algorithm>
+S1-1\6 Dijkstra算法\平面上的点.cpp: #include<vector>
+S1-1\6 Dijkstra算法\平面上的点.cpp: #include<cstring>
+S1-1\6 Dijkstra算法\平面上的点.cpp: #include<queue>
+S1-1\6 Dijkstra算法\热浪.cpp: #include<iostream>
+S1-1\6 Dijkstra算法\热浪.cpp: #include<cstring>
+S1-1\6 Dijkstra算法\热浪.cpp: #include<vector>
+S1-1\6 Dijkstra算法\爱笑的小莫.cpp: #include<iostream>
+S1-1\6 Dijkstra算法\爱笑的小莫.cpp: #include<vector>
+S1-1\6 Dijkstra算法\爱笑的小莫.cpp: #include<queue>
+S1-1\6 Dijkstra算法\路径统计.cpp: #include<iostream>
+S1-1\6 Dijkstra算法\路径统计.cpp: #include<vector>
+S1-1\6 Dijkstra算法\路径统计.cpp: #include<cstring>
+S1-1\6 Dijkstra算法\路径统计.cpp: #include<queue>
+S1-1\7 综合\奶牛过马路.cpp: #include<cstdio>
+S1-1\7 综合\奶牛过马路.cpp: #include<iostream>
+S1-1\7 综合\奶牛过马路.cpp: #include<algorithm>
+S1-1\7 综合\奶牛过马路.cpp: #include<deque>
+S1-1\7 综合\奶牛过马路.cpp: #include<cstring>
+S1-1\7 综合\彩灯祝福.cpp: #include<iostream>
+S1-1\7 综合\彩灯祝福.cpp: #include<vector>
+S1-1\7 综合\树上最长路径.cpp: #include<iostream>
+S1-1\7 综合\树上最长路径.cpp: #include<cstring>
+S1-1\7 综合\树上最长路径.cpp: #include<vector>
+S1-1\7 综合\灵界遗迹.cpp: #include<iostream>
+S1-1\7 综合\灵界遗迹.cpp: #include<algorithm>
+S1-1\7 综合\灵界遗迹.cpp: #include<cstring>
+S1-1\7 综合\灵界遗迹.cpp: #include<queue>
+S1-1\7 综合\畅通工程.cpp: #include<iostream>
+S1-1\7 综合\畅通工程.cpp: #include<vector>
+S1-1\7 综合\畅通工程.cpp: #include<cstring>
+S1-1\7 综合\畅通工程.cpp: #include<queue>
+S1-2\1 负环和分数规划\【模板】最长路.cpp: #include<iostream>
+S1-2\1 负环和分数规划\【模板】最长路.cpp: #include<algorithm>
+S1-2\1 负环和分数规划\【模板】最长路.cpp: #include<cstring>
+S1-2\1 负环和分数规划\【模板】最长路.cpp: #include<queue>
+S1-2\1 负环和分数规划\【模板】最长路.cpp: #include<vector>
+S1-2\1 负环和分数规划\【模板】负环.cpp: #include<iostream>
+S1-2\1 负环和分数规划\【模板】负环.cpp: #include<algorithm>
+S1-2\1 负环和分数规划\【模板】负环.cpp: #include<cstring>
+S1-2\1 负环和分数规划\【模板】负环.cpp: #include<vector>
+S1-2\1 负环和分数规划\【模板】负环.cpp: #include<queue>
+S1-2\1 负环和分数规划\天路.cpp: #include<iostream>
+S1-2\1 负环和分数规划\天路.cpp: #include<cstring>
+S1-2\1 负环和分数规划\天路.cpp: #include<queue>
+S1-2\1 负环和分数规划\天路.cpp: #include<vector>
+S1-2\1 负环和分数规划\天路.cpp: #include<algorithm>
+S1-2\1 负环和分数规划\天路.cpp: #include<cstdio>
+S1-2\1 负环和分数规划\找工作.cpp: #include<iostream>
+S1-2\1 负环和分数规划\找工作.cpp: #include<algorithm>
+S1-2\1 负环和分数规划\找工作.cpp: #include<cstring>
+S1-2\1 负环和分数规划\找工作.cpp: #include<queue>
+S1-2\1 负环和分数规划\找工作.cpp: #include<vector>
+S1-2\1 负环和分数规划\最大得分.cpp: #include<iostream>
+S1-2\1 负环和分数规划\最大得分.cpp: #include<algorithm>
+S1-2\1 负环和分数规划\最大得分.cpp: #include<queue>
+S1-2\1 负环和分数规划\最大得分.cpp: #include<cmath>
+S1-2\1 负环和分数规划\观光奶牛.cpp: #include<iostream>
+S1-2\1 负环和分数规划\观光奶牛.cpp: #include<algorithm>
+S1-2\1 负环和分数规划\观光奶牛.cpp: #include<cstring>
+S1-2\1 负环和分数规划\观光奶牛.cpp: #include<queue>
+S1-2\1 负环和分数规划\观光奶牛.cpp: #include<vector>
+S1-2\1 负环和分数规划\观光奶牛.cpp: #include<cstdio>
+S1-2\10 复杂图论\【模板】次短路.cpp: #include<iostream>
+S1-2\10 复杂图论\【模板】次短路.cpp: #include<algorithm>
+S1-2\10 复杂图论\【模板】次短路.cpp: #include<cstring>
+S1-2\10 复杂图论\【模板】次短路.cpp: #include<queue>
+S1-2\10 复杂图论\神经网络.cpp: #include<iostream>
+S1-2\10 复杂图论\神经网络.cpp: #include<vector>
+S1-2\10 复杂图论\神经网络.cpp: #include<queue>
+S1-2\10 复杂图论\骑士游戏.cpp: #include<iostream>
+S1-2\10 复杂图论\骑士游戏.cpp: #include<vector>
+S1-2\10 复杂图论\骑士游戏.cpp: #include<queue>
+S1-2\10 复杂图论\骑士游戏.cpp: #include<cstdio>
+S1-2\10 复杂图论\骑士游戏.cpp: #include<cstdint>
+S1-2\10 复杂图论\骑士游戏.cpp: #include<sys/mman.h>
+S1-2\10 复杂图论\骑士游戏.cpp: #include<sys/stat.h>
+S1-2\10 复杂图论\骑士游戏.cpp: #include<unistd.h>
+S1-2\10 复杂图论\黑暗城堡.cpp: #include<iostream>
+S1-2\10 复杂图论\黑暗城堡.cpp: #include<vector>
+S1-2\10 复杂图论\黑暗城堡.cpp: #include<cstring>
+S1-2\10 复杂图论\黑暗城堡.cpp: #include<queue>
+S1-2\11 位运算进阶\GEPPETTO.cpp: #include<iostream>
+S1-2\11 位运算进阶\内建函数实现.cpp: #include<iostream>
+S1-2\11 位运算进阶\内建函数实现.cpp: #include<algorithm>
+S1-2\11 位运算进阶\异或非或.cpp: #include<iostream>
+S1-2\11 位运算进阶\异或非或.cpp: #include<unordered_map>
+S1-2\11 位运算进阶\异或非或.cpp: #include<cstring>
+S1-2\11 位运算进阶\找筷子.cpp: #include<iostream>
+S1-2\11 位运算进阶\浏览器.cpp: #include<iostream>
+S1-2\11 位运算进阶\绝世好题.cpp: #include<iostream>
+S1-2\11 位运算进阶\起床困难综合症.cpp: #include<iostream>
+S1-2\11 位运算进阶\起床困难综合症.cpp: #include<cmath>
+S1-2\2 差分约束\奶牛排队.cpp: #include<iostream>
+S1-2\2 差分约束\奶牛排队.cpp: #include<vector>
+S1-2\2 差分约束\奶牛排队.cpp: #include<cstring>
+S1-2\2 差分约束\奶牛排队.cpp: #include<vector>
+S1-2\2 差分约束\奶牛排队.cpp: #include<queue>
+S1-2\2 差分约束\小K的农场.cpp: #include<iostream>
+S1-2\2 差分约束\小K的农场.cpp: #include<vector>
+S1-2\2 差分约束\小K的农场.cpp: #include<cstring>
+S1-2\2 差分约束\小K的农场.cpp: #include<queue>
+S1-2\2 差分约束\小K的农场.cpp: #include<algorithm>
+S1-2\2 差分约束\工程规划.cpp: #include<iostream>
+S1-2\2 差分约束\工程规划.cpp: #include<vector>
+S1-2\2 差分约束\工程规划.cpp: #include<cstring>
+S1-2\2 差分约束\工程规划.cpp: #include<algorithm>
+S1-2\2 差分约束\工程规划.cpp: #include<queue>
+S1-2\2 差分约束\糖果.cpp: #include<iostream>
+S1-2\2 差分约束\糖果.cpp: #include<algorithm>
+S1-2\2 差分约束\糖果.cpp: #include<cstring>
+S1-2\2 差分约束\糖果.cpp: #include<queue>
+S1-2\2 差分约束\糖果.cpp: #include<vector>
+S1-2\3 单源最短路进阶\RoadBlock.cpp: #include<iostream>
+S1-2\3 单源最短路进阶\RoadBlock.cpp: #include<vector>
+S1-2\3 单源最短路进阶\RoadBlock.cpp: #include<queue>
+S1-2\3 单源最短路进阶\RoadBlock.cpp: #include<cstring>
+S1-2\3 单源最短路进阶\包裹运送.cpp: #include<iostream>
+S1-2\3 单源最短路进阶\包裹运送.cpp: #include<vector>
+S1-2\3 单源最短路进阶\包裹运送.cpp: #include<queue>
+S1-2\3 单源最短路进阶\最优贸易.cpp: #include<cstdio>
+S1-2\3 单源最短路进阶\最优贸易.cpp: #include<iostream>
+S1-2\3 单源最短路进阶\最优贸易.cpp: #include<algorithm>
+S1-2\3 单源最短路进阶\最优贸易.cpp: #include<queue>
+S1-2\3 单源最短路进阶\最优贸易.cpp: #include<cstring>
+S1-2\4 分层图\反转.cpp: #include<iostream>
+S1-2\4 分层图\反转.cpp: #include<vector>
+S1-2\4 分层图\反转.cpp: #include<algorithm>
+S1-2\4 分层图\反转.cpp: #include<queue>
+S1-2\4 分层图\反转.cpp: #include<cstring>
+S1-2\4 分层图\回家的路.cpp: #include<iostream>
+S1-2\4 分层图\回家的路.cpp: #include<vector>
+S1-2\4 分层图\回家的路.cpp: #include<algorithm>
+S1-2\4 分层图\回家的路.cpp: #include<queue>
+S1-2\4 分层图\回家的路.cpp: #include<cstring>
+S1-2\4 分层图\旅游巴士.cpp: #include<iostream>
+S1-2\4 分层图\旅游巴士.cpp: #include<vector>
+S1-2\4 分层图\旅游巴士.cpp: #include<queue>
+S1-2\4 分层图\旅游巴士.cpp: #include<cstring>
+S1-2\4 分层图\飞行路线.cpp: #include<iostream>
+S1-2\4 分层图\飞行路线.cpp: #include<algorithm>
+S1-2\4 分层图\飞行路线.cpp: #include<vector>
+S1-2\4 分层图\飞行路线.cpp: #include<queue>
+S1-2\4 分层图\飞行路线.cpp: #include<cstring>
+S1-2\5 并查集基础\【优化】【模板】并查集.cpp: #include<iostream>
+S1-2\5 并查集基础\【朴素】【模板】并查集.cpp: #include<iostream>
+S1-2\5 并查集基础\关闭农场.cpp: #include<iostream>
+S1-2\5 并查集基础\关闭农场.cpp: #include<vector>
+S1-2\5 并查集基础\好友圈.cpp: #include<iostream>
+S1-2\5 并查集基础\家谱.cpp: #include<iostream>
+S1-2\5 并查集基础\家谱.cpp: #include<map>
+S1-2\5 并查集基础\扩散.cpp: #include<iostream>
+S1-2\5 并查集基础\扩散.cpp: #include<cmath>
+S1-2\5 并查集基础\联通的圆环.cpp: #include<iostream>
+S1-2\5 并查集基础\联通的圆环.cpp: #include<cstring>
+S1-2\6 并查集进阶\关押罪犯.cpp: #include<cstdio>
+S1-2\6 并查集进阶\关押罪犯.cpp: #include<iostream>
+S1-2\6 并查集进阶\关押罪犯.cpp: #include<algorithm>
+S1-2\6 并查集进阶\团伙.cpp: #include<iostream>
+S1-2\6 并查集进阶\家庭作业.cpp: #include<iostream>
+S1-2\6 并查集进阶\家庭作业.cpp: #include<algorithm>
+S1-2\6 并查集进阶\疯狂的馒头.cpp: #include<iostream>
+S1-2\6 并查集进阶\疯狂的馒头.cpp: #include<algorithm>
+S1-2\6 并查集进阶\食物链.cpp: #include<iostream>
+S1-2\7 带权并查集\堆方块.cpp: #include<iostream>
+S1-2\7 带权并查集\奇偶游戏.cpp: #include<iostream>
+S1-2\7 带权并查集\奇偶游戏.cpp: #include<unordered_map>
+S1-2\7 带权并查集\推导部分和.cpp: #include<iostream>
+S1-2\7 带权并查集\职业确认.cpp: #include<iostream>
+S1-2\7 带权并查集\职业确认.cpp: #include<map>
+S1-2\8 最小生成树\【模板】最小生成树kruskal.cpp: #include<iostream>
+S1-2\8 最小生成树\【模板】最小生成树kruskal.cpp: #include<vector>
+S1-2\8 最小生成树\【模板】最小生成树kruskal.cpp: #include<queue>
+S1-2\8 最小生成树\【模板】最小生成树kruskal.cpp: #include<cstring>
+S1-2\8 最小生成树\【模板】最小生成树kruskal.cpp: #include<algorithm>
+S1-2\8 最小生成树\【模板】最小生成树prim.cpp: #include<iostream>
+S1-2\8 最小生成树\【模板】最小生成树prim.cpp: #include<vector>
+S1-2\8 最小生成树\【模板】最小生成树prim.cpp: #include<queue>
+S1-2\8 最小生成树\【模板】最小生成树prim.cpp: #include<cstring>
+S1-2\8 最小生成树\北极通讯网络.cpp: #include<iostream>
+S1-2\8 最小生成树\北极通讯网络.cpp: #include<algorithm>
+S1-2\8 最小生成树\北极通讯网络.cpp: #include<cmath>
+S1-2\8 最小生成树\局域网.cpp: #include<iostream>
+S1-2\8 最小生成树\局域网.cpp: #include<algorithm>
+S1-2\8 最小生成树\灌溉农田.cpp: #include<iostream>
+S1-2\9 最小生成树进阶\安慰奶牛.cpp: #include<iostream>
+S1-2\9 最小生成树进阶\安慰奶牛.cpp: #include<algorithm>
+S1-2\9 最小生成树进阶\新的开始.cpp: #include<iostream>
+S1-2\9 最小生成树进阶\新的开始.cpp: #include<algorithm>
+S1-2\9 最小生成树进阶\构造完全图.cpp: #include<iostream>
+S1-2\9 最小生成树进阶\构造完全图.cpp: #include<algorithm>
+S1-2\9 最小生成树进阶\道路修复.cpp: #include<iostream>
+S1-2\9 最小生成树进阶\道路修复.cpp: #include<algorithm>
+S1-2\=10 割点与桥\Blockade.cpp: #include<iostream>
+S1-2\=10 割点与桥\Blockade.cpp: #include<vector>
+S1-2\=10 割点与桥\分离的路径.cpp: #include<iostream>
+S1-2\=10 割点与桥\分离的路径.cpp: #include<vector>
+S1-2\=10 割点与桥\旅游航道.cpp: #include<iostream>
+S1-2\=10 割点与桥\旅游航道.cpp: #include<vector>
+S1-2\=10 割点与桥\旅游航道.cpp: #include<cstring>
+S1-2\=10 割点与桥\网络.cpp: #include<iostream>
+S1-2\=10 割点与桥\网络.cpp: #include<vector>
+S1-2\=10 割点与桥\网络.cpp: #include<cstring>
+S1-2\=11 表达式求值\表达式的值.cpp: #include<iostream>
+S1-2\=11 表达式求值\计算中缀表达式.cpp: #include<iostream>
+S1-2\=11 表达式求值\计算中缀表达式.cpp: #include<cmath>
+S1-2\=11 表达式求值\逻辑表达式.cpp: #include<iostream>
+S1-2\=12 链表进阶一\LR-insertion.cpp: #include<iostream>
+S1-2\=12 链表进阶一\切除线段.cpp: #include<iostream>
+S1-2\=12 链表进阶一\切除线段.cpp: #include<queue>
+S1-2\=12 链表进阶一\双向链表.cpp: #include<iostream>
+S1-2\=12 链表进阶一\花式切牌.cpp: #include<iostream>
+S1-2\=13 链表进阶二\家庭作业-反悔贪心.cpp: #include<cstdio>
+S1-2\=13 链表进阶二\家庭作业-反悔贪心.cpp: #include<cstring>
+S1-2\=13 链表进阶二\家庭作业-反悔贪心.cpp: #include<iostream>
+S1-2\=13 链表进阶二\家庭作业-反悔贪心.cpp: #include<algorithm>
+S1-2\=13 链表进阶二\家庭作业-反悔贪心.cpp: #include<queue>
+S1-2\=13 链表进阶二\家庭作业-并查集.cpp: #include<cstdio>
+S1-2\=13 链表进阶二\家庭作业-并查集.cpp: #include<cstring>
+S1-2\=13 链表进阶二\家庭作业-并查集.cpp: #include<iostream>
+S1-2\=13 链表进阶二\家庭作业-并查集.cpp: #include<algorithm>
+S1-2\=13 链表进阶二\疯狂的馒头.cpp: #include<iostream>
+S1-2\=13 链表进阶二\邻值查找.cpp: #include<iostream>
+S1-2\=13 链表进阶二\邻值查找.cpp: #include<algorithm>
+S1-2\=9 强联通分量\信息传递.cpp: #include<iostream>
+S1-2\=9 强联通分量\信息传递.cpp: #include<vector>
+S1-2\=9 强联通分量\奶牛圆舞.cpp: #include<iostream>
+S1-2\=9 强联通分量\奶牛圆舞.cpp: #include<vector>
+S1-2\=9 强联通分量\抢掠计划.cpp: #include<iostream>
+S1-2\=9 强联通分量\抢掠计划.cpp: #include<cstring>
+S1-2\=9 强联通分量\抢掠计划.cpp: #include<vector>
+S1-2\=9 强联通分量\抢掠计划.cpp: #include<queue>
+S1-2\=9 强联通分量\校园网.cpp: #include<iostream>
+S1-2\=9 强联通分量\校园网.cpp: #include<vector>
+S1-2\=9 强联通分量\校园网.cpp: #include<set>
+S1-2\=9 强联通分量\消息扩散.cpp: #include<iostream>
+S1-2\=9 强联通分量\消息扩散.cpp: #include<vector>
+S2-1\1 RMQ与ST表1\Balanced-Lineup-G.cpp: #include<iostream>
+S2-1\1 RMQ与ST表1\Balanced-Lineup-G.cpp: #include<algorithm>
+S2-1\1 RMQ与ST表1\【模板】ST表.cpp: #include<cstdio>
+S2-1\1 RMQ与ST表1\【模板】ST表.cpp: #include<algorithm>
+S2-1\1 RMQ与ST表1\忠诚.cpp: #include<iostream>
+S2-1\1 RMQ与ST表1\忠诚.cpp: #include<algorithm>
+S2-1\1 RMQ与ST表1\最大数.cpp: #include<iostream>
+S2-1\1 RMQ与ST表1\最大数.cpp: #include<algorithm>
+S2-1\1 RMQ与ST表1\特别忠诚.cpp: #include<iostream>
+S2-1\1 RMQ与ST表1\特别忠诚.cpp: #include<algorithm>
+S2-1\1 RMQ与ST表1\玉米地.cpp: #include<iostream>
+S2-1\1 RMQ与ST表1\玉米地.cpp: #include<algorithm>
+S2-1\1 RMQ与ST表1\理想的正方形.cpp: #include<iostream>
+S2-1\1 RMQ与ST表1\理想的正方形.cpp: #include<algorithm>
+S2-1\2 RMQ与ST表2\与众不同.cpp: #include<iostream>
+S2-1\2 RMQ与ST表2\与众不同.cpp: #include<algorithm>
+S2-1\2 RMQ与ST表2\与众不同.cpp: #include<map>
+S2-1\2 RMQ与ST表2\朋友与序列.cpp: #include<iostream>
+S2-1\2 RMQ与ST表2\朋友与序列.cpp: #include<algorithm>
+S2-1\2 RMQ与ST表2\策略游戏.cpp: #include<iostream>
+S2-1\2 RMQ与ST表2\维护gcd.cpp: #include<iostream>
+S2-1\2 RMQ与ST表2\维护gcd.cpp: #include<algorithm>
+S2-1\2 RMQ与ST表2\维护gcd.cpp: #include<map>
+S2-1\2 RMQ与ST表2\维护gcd.cpp: #include<unordered_map>
+S2-1\2 RMQ与ST表2\维护gcd.cpp: #include<cmath>
+S2-1\3 分治法1\平面最近点对.cpp: #include<iostream>
+S2-1\3 分治法1\平面最近点对.cpp: #include<cstdio>
+S2-1\3 分治法1\平面最近点对.cpp: #include<algorithm>
+S2-1\3 分治法1\平面最近点对.cpp: #include<cmath>
+S2-1\3 分治法1\线段包含问题.cpp: #include<iostream>
+S2-1\3 分治法1\线段包含问题.cpp: #include<algorithm>
+S2-1\3 分治法1\翻转对.cpp: #include<iostream>
+S2-1\3 分治法1\逆序对.cpp: #include<cstdio>
+S2-1\4 分治法2\Minimum-Sum.cpp: #include<iostream>
+S2-1\4 分治法2\Power.cpp: #include<iostream>
+S2-1\4 分治法2\平面最近点对（加强版）.cpp: #include<iostream>
+S2-1\4 分治法2\平面最近点对（加强版）.cpp: #include<cstdio>
+S2-1\4 分治法2\平面最近点对（加强版）.cpp: #include<algorithm>
+S2-1\4 分治法2\平面最近点对（加强版）.cpp: #include<cmath>
+S2-1\5 搜索优化进阶1\Mayan游戏.cpp: #include<iostream>
+S2-1\5 搜索优化进阶1\世界冰球锦标赛.cpp: #include<iostream>
+S2-1\5 搜索优化进阶1\世界冰球锦标赛.cpp: #include<algorithm>
+S2-1\5 搜索优化进阶1\方程的解数.cpp: #include<iostream>
+S2-1\5 搜索优化进阶1\方程的解数.cpp: #include<algorithm>
+S2-1\5 搜索优化进阶1\魔法阵.cpp: #include<iostream>
+S2-1\5 搜索优化进阶1\魔法阵.cpp: #include<algorithm>
+S2-1\6 搜索优化进阶2\反素数.cpp: #include<iostream>
+S2-1\6 搜索优化进阶2\反素数.cpp: #include<cmath>
+S2-1\6 搜索优化进阶2\彩票.cpp: #include<iostream>
+S2-1\6 搜索优化进阶2\彩票.cpp: #include<cmath>
+S2-1\6 搜索优化进阶2\斗地主 加强版.cpp: #include<cstdio>
+S2-1\6 搜索优化进阶2\斗地主 加强版.cpp: #include<iostream>
+S2-1\6 搜索优化进阶2\斗地主 加强版.cpp: #include<algorithm>
+S2-1\6 搜索优化进阶2\斗地主 加强版.cpp: #include<cstring>
+S2-1\6 搜索优化进阶2\生日蛋糕.cpp: #include<iostream>
+S2-1\6 搜索优化进阶2\生日蛋糕.cpp: #include<cmath>
+S2-1\7 阶段练习\区间询问.cpp: #include<iostream>
+S2-1\7 阶段练习\区间询问.cpp: #include<algorithm>
+S2-1\7 阶段练习\暴力\区间询问[30pts].cpp: #include<iostream>
+S2-1\7 阶段练习\暴力\区间询问[30pts].cpp: #include<algorithm>
+S2-1\7 阶段练习\暴力\时钟刻度[30pts].cpp: #include<iostream>
+S2-1\7 阶段练习\暴力\财富计算[40pts].cpp: #include<iostream>
+S2-1\7 阶段练习\暴力\频繁的数据[50pts].cpp: #include<iostream>
+S2-1\7 阶段练习\暴力\频繁的数据[50pts].cpp: #include<map>
+S2-2\1 hash法1\反对称串.cpp: #include<iostream>
+S2-2\1 hash法1\反对称串.cpp: #include<algorithm>
+S2-2\1 hash法1\字符串匹配.cpp: #include<iostream>
+S2-2\1 hash法1\字符串匹配.cpp: #include<cstdio>
+S2-2\1 hash法1\字符串匹配.cpp: #include<algorithm>
+S2-2\1 hash法1\最短循环节.cpp: #include<iostream>
+S2-2\1 hash法1\最短循环节.cpp: #include<algorithm>
+S2-2\1 hash法1\最长回文子串.cpp: #include<iostream>
+S2-2\1 hash法1\最长回文子串.cpp: #include<cstdio>
+S2-2\1 hash法1\最长回文子串.cpp: #include<algorithm>
+S2-2\1 hash法1\最长回文子串.cpp: #include<cstring>
+S2-2\10 LCA1\A-and-B-and-Lecture-Rooms.cpp: #include<iostream>
+S2-2\10 LCA1\A-and-B-and-Lecture-Rooms.cpp: #include<vector>
+S2-2\10 LCA1\Misha,-Grisha-and-Underground.cpp: #include<iostream>
+S2-2\10 LCA1\Misha,-Grisha-and-Underground.cpp: #include<vector>
+S2-2\10 LCA1\【模板】最近公共祖先.cpp: #include<iostream>
+S2-2\10 LCA1\【模板】最近公共祖先.cpp: #include<algorithm>
+S2-2\10 LCA1\【模板】最近公共祖先.cpp: #include<vector>
+S2-2\10 LCA1\城市设计.cpp: #include<iostream>
+S2-2\10 LCA1\城市设计.cpp: #include<vector>
+S2-2\10 LCA1\点的距离.cpp: #include<iostream>
+S2-2\10 LCA1\点的距离.cpp: #include<vector>
+S2-2\11 LCA2\树上询问.cpp: #include<iostream>
+S2-2\11 LCA2\树上询问.cpp: #include<vector>
+S2-2\11 LCA2\货车运输.cpp: #include<cstdio>
+S2-2\11 LCA2\货车运输.cpp: #include<iostream>
+S2-2\11 LCA2\货车运输.cpp: #include<algorithm>
+S2-2\11 LCA2\货车运输.cpp: #include<vector>
+S2-2\11 LCA2\路径编号最小点.cpp: #include<iostream>
+S2-2\11 LCA2\路径编号最小点.cpp: #include<vector>
+S2-2\12 树上差分\Max-Flow-P.cpp: #include<iostream>
+S2-2\12 树上差分\Max-Flow-P.cpp: #include<vector>
+S2-2\12 树上差分\树.cpp: #include<iostream>
+S2-2\12 树上差分\树.cpp: #include<vector>
+S2-2\12 树上差分\直通路径.cpp: #include<iostream>
+S2-2\12 树上差分\直通路径.cpp: #include<vector>
+S2-2\12 树上差分\运输计划.cpp: #include<iostream>
+S2-2\12 树上差分\运输计划.cpp: #include<vector>
+S2-2\12 树上差分\运输计划.cpp: #include<cstring>
+S2-2\12 树上差分\运输计划.cpp: #include<algorithm>
+S2-2\13 树型动规1\nearby-cows.cpp: #include<iostream>
+S2-2\13 树型动规1\nearby-cows.cpp: #include<vector>
+S2-2\13 树型动规1\三色二叉树.cpp: #include<iostream>
+S2-2\13 树型动规1\三色二叉树.cpp: #include<cstring>
+S2-2\13 树型动规1\手机信号网络.cpp: #include<iostream>
+S2-2\13 树型动规1\手机信号网络.cpp: #include<vector>
+S2-2\13 树型动规1\没有上司的舞会.cpp: #include<iostream>
+S2-2\13 树型动规1\没有上司的舞会.cpp: #include<vector>
+S2-2\14 树型动规2\Distributing-Integers.cpp: #include<iostream>
+S2-2\14 树型动规2\Distributing-Integers.cpp: #include<vector>
+S2-2\14 树型动规2\Surgey-and-Subway.cpp: #include<iostream>
+S2-2\14 树型动规2\Surgey-and-Subway.cpp: #include<vector>
+S2-2\14 树型动规2\市政服务大厅.cpp: #include<iostream>
+S2-2\14 树型动规2\市政服务大厅.cpp: #include<vector>
+S2-2\14 树型动规2\市政服务大厅.cpp: #include<cstring>
+S2-2\14 树型动规2\最长简单路径.cpp: #include<iostream>
+S2-2\14 树型动规2\最长简单路径.cpp: #include<vector>
+S2-2\14 树型动规2\最长简单路径.cpp: #include<cstring>
+S2-2\2 hash法2\Blue-Mary的战役地图.cpp: #include<iostream>
+S2-2\2 hash法2\Blue-Mary的战役地图.cpp: #include<unordered_set>
+S2-2\2 hash法2\Matrix-Matcher.cpp: #include<iostream>
+S2-2\2 hash法2\不重复数字.cpp: #include<unordered_map>
+S2-2\2 hash法2\不重复数字.cpp: #include<iostream>
+S2-2\2 hash法2\内存杀手.cpp: #include<iostream>
+S2-2\2 hash法2\对称的正方形.cpp: #include<iostream>
+S2-2\3 树状数组1\HH的项链.cpp: #include<iostream>
+S2-2\3 树状数组1\HH的项链.cpp: #include<algorithm>
+S2-2\3 树状数组1\【模板】树状数组1.cpp: #include<iostream>
+S2-2\3 树状数组1\【模板】树状数组2.cpp: #include<iostream>
+S2-2\3 树状数组1\简单题.cpp: #include<iostream>
+S2-2\3 树状数组1\贪婪大陆.cpp: #include<iostream>
+S2-2\4 树状数组2\【模板】树状数组3.cpp: #include<iostream>
+S2-2\4 树状数组2\回转寿司.cpp: #include<iostream>
+S2-2\4 树状数组2\回转寿司.cpp: #include<algorithm>
+S2-2\4 树状数组2\晋升计数.cpp: #include<iostream>
+S2-2\4 树状数组2\晋升计数.cpp: #include<algorithm>
+S2-2\4 树状数组2\晋升计数.cpp: #include<vector>
+S2-2\4 树状数组2\理发.cpp: #include<iostream>
+S2-2\4 树状数组2\逆序对.cpp: #include<iostream>
+S2-2\4 树状数组2\逆序对.cpp: #include<algorithm>
+S2-2\5 双指针与尺取法\Cow-Lineup-G.cpp: #include<iostream>
+S2-2\5 双指针与尺取法\Cow-Lineup-G.cpp: #include<map>
+S2-2\5 双指针与尺取法\Cow-Lineup-G.cpp: #include<algorithm>
+S2-2\5 双指针与尺取法\Cow-Lineup-S.cpp: #include<iostream>
+S2-2\5 双指针与尺取法\Cow-Lineup-S.cpp: #include<map>
+S2-2\5 双指针与尺取法\Cow-Lineup-S.cpp: #include<algorithm>
+S2-2\5 双指针与尺取法\Haybale-Feast-G.cpp: #include<iostream>
+S2-2\5 双指针与尺取法\Haybale-Feast-G.cpp: #include<map>
+S2-2\5 双指针与尺取法\Haybale-Feast-G.cpp: #include<algorithm>
+S2-2\5 双指针与尺取法\Perform-Easily.cpp: #include<iostream>
+S2-2\5 双指针与尺取法\Perform-Easily.cpp: #include<map>
+S2-2\5 双指针与尺取法\Perform-Easily.cpp: #include<algorithm>
+S2-2\5 双指针与尺取法\哈布斯堡王朝.cpp: #include<iostream>
+S2-2\5 双指针与尺取法\哈布斯堡王朝.cpp: #include<map>
+S2-2\5 双指针与尺取法\哈布斯堡王朝.cpp: #include<algorithm>
+S2-2\6 单调栈\Bad-Hair-Day-S.cpp: #include<iostream>
+S2-2\6 单调栈\Bad-Hair-Day-S.cpp: #include<stack>
+S2-2\6 单调栈\DIFERENCIJA.cpp: #include<iostream>
+S2-2\6 单调栈\DIFERENCIJA.cpp: #include<stack>
+S2-2\6 单调栈\DIFERENCIJA.cpp: #include<algorithm>
+S2-2\6 单调栈\奶牛扔飞盘.cpp: #include<iostream>
+S2-2\6 单调栈\奶牛扔飞盘.cpp: #include<stack>
+S2-2\6 单调栈\奶牛扔飞盘.cpp: #include<algorithm>
+S2-2\6 单调栈\海边冲浪.cpp: #include<iostream>
+S2-2\6 单调栈\海边冲浪.cpp: #include<stack>
+S2-2\6 单调栈\海边冲浪.cpp: #include<algorithm>
+S2-2\6 单调栈\玉蟾宫.cpp: #include<iostream>
+S2-2\6 单调栈\玉蟾宫.cpp: #include<stack>
+S2-2\7 单调队列\Crowded-Cowd-S.cpp: #include<iostream>
+S2-2\7 单调队列\Crowded-Cowd-S.cpp: #include<deque>
+S2-2\7 单调队列\Crowded-Cowd-S.cpp: #include<algorithm>
+S2-2\7 单调队列\WIL.cpp: #include<iostream>
+S2-2\7 单调队列\WIL.cpp: #include<algorithm>
+S2-2\7 单调队列\WIL.cpp: #include<deque>
+S2-2\7 单调队列\滑动窗口-弱化版.cpp: #include<iostream>
+S2-2\7 单调队列\滑动窗口-弱化版.cpp: #include<deque>
+S2-2\7 单调队列\花盆.cpp: #include<iostream>
+S2-2\7 单调队列\花盆.cpp: #include<deque>
+S2-2\7 单调队列\花盆.cpp: #include<algorithm>
+S2-2\8 单调性优化1\Pencils-and-Boxes.cpp: #include<iostream>
+S2-2\8 单调性优化1\Pencils-and-Boxes.cpp: #include<cstring>
+S2-2\8 单调性优化1\Pencils-and-Boxes.cpp: #include<algorithm>
+S2-2\8 单调性优化1\Pogo-Cow.cpp: #include<iostream>
+S2-2\8 单调性优化1\Pogo-Cow.cpp: #include<algorithm>
+S2-2\8 单调性优化1\Pogo-Cow.cpp: #include<cstring>
+S2-2\8 单调性优化1\Telephone-Wire.cpp: #include<iostream>
+S2-2\8 单调性优化1\Telephone-Wire.cpp: #include<cstring>
+S2-2\8 单调性优化1\促销返现.cpp: #include<iostream>
+S2-2\8 单调性优化1\促销返现.cpp: #include<queue>
+S2-2\9 单调性优化2\Little-Bird.cpp: #include<iostream>
+S2-2\9 单调性优化2\Little-Bird.cpp: #include<queue>
+S2-2\9 单调性优化2\Little-Bird.cpp: #include<cstring>
+S2-2\9 单调性优化2\课后答疑.cpp: #include<iostream>
+S2-2\9 单调性优化2\课后答疑.cpp: #include<queue>
+S2-2\9 单调性优化2\课后答疑.cpp: #include<cstring>
+S2-2\9 单调性优化2\购买饲料.cpp: #include<iostream>
+S2-2\9 单调性优化2\购买饲料.cpp: #include<cstring>
+S2-2\9 单调性优化2\购买饲料.cpp: #include<queue>
+S2-2\9 单调性优化2\购买饲料.cpp: #include<algorithm>
+S2-2\9 单调性优化2\跳房子.cpp: #include<iostream>
+S2-2\9 单调性优化2\跳房子.cpp: #include<deque>
+S2-2\9 单调性优化2\跳房子.cpp: #include<cstring>
+S3-1\1 字典树综合\First!-G.cpp: #include<iostream>
+S3-1\1 字典树综合\First!-G.cpp: #include<vector>
+S3-1\1 字典树综合\First!-G.cpp: #include<queue>
+S3-1\1 字典树综合\First!-G.cpp: #include<cstring>
+S3-1\1 字典树综合\【模板】字典树.cpp: #include<iostream>
+S3-1\1 字典树综合\于是他错误的点名开始了.cpp: #include<iostream>
+S3-1\1 字典树综合\于是他错误的点名开始了.cpp: #include<map>
+S3-1\1 字典树综合\前缀统计.cpp: #include<iostream>
+S3-1\1 字典树综合\病毒检测.cpp: #include<iostream>
+S3-1\1 字典树综合\病毒检测.cpp: #include<bitset>
+S3-1\1 字典树综合\秘密信息.cpp: #include<iostream>
+S3-1\1 字典树综合\阅读理解.cpp: #include<iostream>
+S3-1\1 字典树综合\阅读理解.cpp: #include<map>
+S3-1\1 字典树综合\阅读理解.cpp: #include<bitset>
+S3-1\10 阶段测试\test.cpp: #include<iostream>
+S3-1\10 阶段测试\五号人格.cpp: #include<iostream>
+S3-1\10 阶段测试\爬塔游戏.cpp: #include<iostream>
+S3-1\10 阶段测试\爬塔游戏.cpp: #include<algorithm>
+S3-1\10 阶段测试\魔法草药.cpp: #include<iostream>
+S3-1\10 阶段测试\魔法草药.cpp: #include<map>
+S3-1\10 阶段测试\魔法草药.cpp: #include<cmath>
+S3-1\2 指针和set容器\【模板】字典树.cpp: #include<iostream>
+S3-1\2 指针和set容器\会场预约.cpp: #include<iostream>
+S3-1\2 指针和set容器\会场预约.cpp: #include<set>
+S3-1\2 指针和set容器\文本编辑器.cpp: #include<iostream>
+S3-1\2 指针和set容器\送花.cpp: #include<iostream>
+S3-1\2 指针和set容器\送花.cpp: #include<map>
+S3-1\2 指针和set容器\送花.cpp: #include<set>
+S3-1\3 set容器进阶\KLO-Building-blocks.cpp: #include<iostream>
+S3-1\3 set容器进阶\KLO-Building-blocks.cpp: #include<set>
+S3-1\3 set容器进阶\KLO-Building-blocks.cpp: #include<algorithm>
+S3-1\3 set容器进阶\Monkey-King.cpp: #include<iostream>
+S3-1\3 set容器进阶\Monkey-King.cpp: #include<set>
+S3-1\3 set容器进阶\Monkey-King.cpp: #include<algorithm>
+S3-1\3 set容器进阶\宠物收养场.cpp: #include<iostream>
+S3-1\3 set容器进阶\宠物收养场.cpp: #include<set>
+S3-1\3 set容器进阶\宠物收养场.cpp: #include<algorithm>
+S3-1\3 set容器进阶\报表统计.cpp: #include<iostream>
+S3-1\3 set容器进阶\报表统计.cpp: #include<set>
+S3-1\3 set容器进阶\报表统计.cpp: #include<cmath>
+S3-1\4 迭代加深\addition-chains.cpp: #include<iostream>
+S3-1\4 迭代加深\八数码难题.cpp: #include<iostream>
+S3-1\4 迭代加深\八数码难题.cpp: #include<cmath>
+S3-1\4 迭代加深\八数码难题.cpp: #include<algorithm>
+S3-1\4 迭代加深\铁盘整理.cpp: #include<iostream>
+S3-1\4 迭代加深\铁盘整理.cpp: #include<algorithm>
+S3-1\4 迭代加深\骑士精神.cpp: #include<iostream>
+S3-1\5 阶段测试\书架整理.cpp: #include<iostream>
+S3-1\5 阶段测试\序列.cpp: #include<iostream>
+S3-1\5 阶段测试\序列.cpp: #include<set>
+S3-1\5 阶段测试\逃脱魔法.cpp: #include<iostream>
+S3-1\5 阶段测试\逃脱魔法.cpp: #include<cstring>
+S3-1\5 阶段测试\通讯录.cpp: #include<iostream>
+S3-1\5 阶段测试\通讯录.cpp: #include<cstring>
+S3-1\6 位运算综合\GEPPETTO.cpp: #include<iostream>
+S3-1\6 位运算综合\内建函数实现.cpp: #include<iostream>
+S3-1\6 位运算综合\内建函数实现.cpp: #include<algorithm>
+S3-1\6 位运算综合\动物园.cpp: #include<cstdio>
+S3-1\6 位运算综合\动物园.cpp: #include<iostream>
+S3-1\6 位运算综合\动物园.cpp: #include<algorithm>
+S3-1\6 位运算综合\异或非或.cpp: #include<iostream>
+S3-1\6 位运算综合\异或非或.cpp: #include<unordered_map>
+S3-1\6 位运算综合\异或非或.cpp: #include<cstring>
+S3-1\6 位运算综合\找筷子.cpp: #include<iostream>
+S3-1\6 位运算综合\浏览器.cpp: #include<iostream>
+S3-1\6 位运算综合\绝世好题.cpp: #include<iostream>
+S3-1\6 位运算综合\起床困难综合症.cpp: #include<iostream>
+S3-1\6 位运算综合\起床困难综合症.cpp: #include<cmath>
+S3-1\7 状态压缩基础1\Balanced-Cow-Subsets-G.cpp: #include<iostream>
+S3-1\7 状态压缩基础1\Balanced-Cow-Subsets-G.cpp: #include<map>
+S3-1\7 状态压缩基础1\Balanced-Cow-Subsets-G.cpp: #include<algorithm>
+S3-1\7 状态压缩基础1\还是N皇后.cpp: #include<iostream>
+S3-1\7 状态压缩基础1\还是N皇后.cpp: #include<iostream>
+S3-1\7 状态压缩基础1\还是N皇后.cpp: #include<cmath>
+S3-1\7 状态压缩基础1\邦德.cpp: #include<iostream>
+S3-1\7 状态压缩基础1\邦德.cpp: #include<algorithm>
+S3-1\7 状态压缩基础1\邦德.cpp: #include<cstdio>
+S3-1\7 状态压缩基础1\邦德.cpp: #include<cmath>
+S3-1\7 状态压缩基础1\邦德.cpp: #include<iostream>
+S3-1\7 状态压缩基础1\邦德.cpp: #include<algorithm>
+S3-1\7 状态压缩基础1\邦德.cpp: #include<cstdio>
+S3-1\7 状态压缩基础1\邦德.cpp: #include<cmath>
+S3-1\7 状态压缩基础1\邦邦的大合唱站队.cpp: #include<iostream>
+S3-1\7 状态压缩基础1\邦邦的大合唱站队.cpp: #include<cstring>
+S3-1\7 状态压缩基础1\邦邦的大合唱站队.cpp: #include<algorithm>
+S3-1\8 状态压缩基础2\Mixed-up-Cows-G.cpp: #include<iostream>
+S3-1\8 状态压缩基础2\Mixed-up-Cows-G.cpp: #include<algorithm>
+S3-1\8 状态压缩基础2\Mixed-up-Cows-G.cpp: #include<cmath>
+S3-1\8 状态压缩基础2\Moovie-Mooving-G.cpp: #include<iostream>
+S3-1\8 状态压缩基础2\Moovie-Mooving-G.cpp: #include<cstring>
+S3-1\8 状态压缩基础2\Moovie-Mooving-G.cpp: #include<algorithm>
+S3-1\8 状态压缩基础2\PRZ.cpp: #include<iostream>
+S3-1\8 状态压缩基础2\PRZ.cpp: #include<cstring>
+S3-1\8 状态压缩基础2\PRZ.cpp: #include<algorithm>
+S3-1\8 状态压缩基础2\PRZ.cpp: #include<cmath>
+S3-1\8 状态压缩基础2\动物园.cpp: #include<iostream>
+S3-1\8 状态压缩基础2\动物园.cpp: #include<cstring>
+S3-1\9 棋盘状压DP\互不侵犯.cpp: #include<iostream>
+S3-1\9 棋盘状压DP\水果蛋糕.cpp: #include<iostream>
+S3-1\9 棋盘状压DP\水果蛋糕.cpp: #include<cmath>
+S3-1\9 棋盘状压DP\炮兵阵地.cpp: #include<iostream>
+S3-1\9 棋盘状压DP\炮兵阵地.cpp: #include<cstring>
+S3-1\9 棋盘状压DP\蒙德里安的梦想.cpp: #include<iostream>
+S3-1\9 棋盘状压DP\蒙德里安的梦想.cpp: #include<cstring>
+S3-2\1 树上背包\分组背包.cpp: #include<iostream>
+S3-2\1 树上背包\分组背包.cpp: #include<algorithm>
+S3-2\1 树上背包\有线电视网.cpp: #include<iostream>
+S3-2\1 树上背包\有线电视网.cpp: #include<vector>
+S3-2\1 树上背包\有线电视网.cpp: #include<cstring>
+S3-2\1 树上背包\选课-增强版.cpp: #include<iostream>
+S3-2\1 树上背包\选课-增强版.cpp: #include<vector>
+S3-2\1 树上背包\选课.cpp: #include<iostream>
+S3-2\1 树上背包\选课.cpp: #include<vector>
+S3-2\1 树上背包\选课线性版.cpp: #include<iostream>
+S3-2\1 树上背包\选课线性版.cpp: #include<vector>
+S3-2\10 数据结构综合2\DFS序.cpp: #include<iostream>
+S3-2\10 数据结构综合2\DFS序.cpp: #include<algorithm>
+S3-2\10 数据结构综合2\DFS序.cpp: #include<vector>
+S3-2\10 数据结构综合2\树上操作.cpp: #include<iostream>
+S3-2\10 数据结构综合2\树上操作.cpp: #include<vector>
+S3-2\10 数据结构综合2\色板游戏.cpp: #include<algorithm>
+S3-2\10 数据结构综合2\色板游戏.cpp: #include<iostream>
+S3-2\10 数据结构综合2\语文.cpp: #include<iostream>
+S3-2\10 数据结构综合2\语文.cpp: #include<cstring>
+S3-2\13 CSP-S模考2\两个回文串.cpp: #include<cstdio>
+S3-2\13 CSP-S模考2\两个回文串.cpp: #include<set>
+S3-2\13 CSP-S模考2\两个回文串.cpp: #include<iostream>
+S3-2\13 CSP-S模考2\交易市场.cpp: #include<iostream>
+S3-2\13 CSP-S模考2\交易市场.cpp: #include<algorithm>
+S3-2\13 CSP-S模考2\交易市场.cpp: #include<set>
+S3-2\13 CSP-S模考2\交易市场.cpp: #include<cstring>
+S3-2\2 树形dp综合\树上染色.cpp: #include<iostream>
+S3-2\2 树形dp综合\树上染色.cpp: #include<vector>
+S3-2\2 树形dp综合\树上染色.cpp: #include<cstring>
+S3-2\2 树形dp综合\贪吃的九头龙.cpp: #include<iostream>
+S3-2\2 树形dp综合\贪吃的九头龙.cpp: #include<vector>
+S3-2\2 树形dp综合\贪吃的九头龙.cpp: #include<cstring>
+S3-2\2 树形dp综合\道路.cpp: #include<iostream>
+S3-2\2 树形dp综合\道路.cpp: #include<vector>
+S3-2\2 树形dp综合\骑士.cpp: #include<iostream>
+S3-2\2 树形dp综合\骑士.cpp: #include<vector>
+S3-2\3 高斯消元\Driving-Out-the-Piggies-G.cpp: #include<iostream>
+S3-2\3 高斯消元\Driving-Out-the-Piggies-G.cpp: #include<vector>
+S3-2\3 高斯消元\Driving-Out-the-Piggies-G.cpp: #include<cstdio>
+S3-2\3 高斯消元\外星千足虫.cpp: #include<cstdio>
+S3-2\3 高斯消元\外星千足虫.cpp: #include<algorithm>
+S3-2\3 高斯消元\外星千足虫.cpp: #include<cmath>
+S3-2\3 高斯消元\外星千足虫.cpp: #include<bitset>
+S3-2\3 高斯消元\球形空间产生器.cpp: #include<cstdio>
+S3-2\3 高斯消元\球形空间产生器.cpp: #include<algorithm>
+S3-2\3 高斯消元\球形空间产生器.cpp: #include<cmath>
+S3-2\3 高斯消元\线性方程组.cpp: #include<cstdio>
+S3-2\3 高斯消元\线性方程组.cpp: #include<algorithm>
+S3-2\3 高斯消元\线性方程组.cpp: #include<cmath>
+S3-2\4 数论1\乘法逆元1.cpp: #include<iostream>
+S3-2\4 数论1\乘法逆元2.cpp: #include<iostream>
+S3-2\4 数论1\同余方程.cpp: #include<cstdio>
+S3-2\4 数论1\同余方程.cpp: #include<iostream>
+S3-2\4 数论1\同余方程.cpp: #include<algorithm>
+S3-2\4 数论1\小凯的数字.cpp: #include<iostream>
+S3-2\4 数论1\有理数取余.cpp: #include<iostream>
+S3-2\4 数论1\裴蜀定理.cpp: #include<iostream>
+S3-2\4 数论1\裴蜀定理.cpp: #include<cmath>
+S3-2\4 数论1\裴蜀定理.cpp: #include<algorithm>
+S3-2\4 数论1\青蛙的约会.cpp: #include<iostream>
+S3-2\4 数论1\青蛙的约会.cpp: #include<algorithm>
+S3-2\5 数论2\GCD.cpp: #include<iostream>
+S3-2\5 数论2\Longge的问题.cpp: #include<iostream>
+S3-2\5 数论2\中国剩余定理.cpp: #include<iostream>
+S3-2\5 数论2\扩展中国剩余定理.cpp: #include<iostream>
+S3-2\5 数论2\扩展中国剩余定理.cpp: #include<algorithm>
+S3-2\5 数论2\扩展欧拉定理.cpp: #include<iostream>
+S3-2\5 数论2\扩展欧拉定理.cpp: #include<algorithm>
+S3-2\5 数论2\猜数字.cpp: #include<iostream>
+S3-2\6 线段树1\小白逛公园.cpp: #include<iostream>
+S3-2\6 线段树1\线段树单点修改.cpp: #include<iostream>
+S3-2\6 线段树1\绿荫长廊.cpp: #include<iostream>
+S3-2\6 线段树1\绿荫长廊.cpp: #include<cstring>
+S3-2\7 线段树2\扶苏的问题.cpp: #include<iostream>
+S3-2\7 线段树2\无聊的数列.cpp: #include<iostream>
+S3-2\7 线段树2\线段树区间查询.cpp: #include<iostream>
+S3-2\7 线段树2\维护序列.cpp: #include<iostream>
+S3-2\7 线段树2\维护序列.cpp: #include<algorithm>
+S3-2\7 线段树2\维护序列.cpp: #include<cstring>
+S3-2\9 数据结构综合1\园丁的烦恼.cpp: #include<iostream>
+S3-2\9 数据结构综合1\园丁的烦恼.cpp: #include<algorithm>
+S3-2\9 数据结构综合1\园丁的烦恼.cpp: #include<vector>
+S3-2\9 数据结构综合1\求矩形的并.cpp: #include<iostream>
+S3-2\9 数据结构综合1\求矩形的并.cpp: #include<algorithm>
+S3-2\9 数据结构综合1\求矩形的并.cpp: #include<vector>
+S3-2\9 数据结构综合1\矩形周长.cpp: #include<iostream>
+S3-2\9 数据结构综合1\矩形周长.cpp: #include<algorithm>
+S3-2\9 数据结构综合1\矩形周长.cpp: #include<vector>
+S3-2\9 数据结构综合1\窗口的星星.cpp: #include<iostream>
+S3-2\9 数据结构综合1\窗口的星星.cpp: #include<vector>
+S3-2\9 数据结构综合1\窗口的星星.cpp: #include<algorithm>
+contest\0\card.cpp: #include<iostream>
+contest\0\card.cpp: #include<algorithm>
+contest\0\chess.cpp: #include<iostream>
+contest\0\chess.cpp: #include<cstring>
+contest\0\chess.cpp: #include<algorithm>
+contest\0\count.cpp: #include<iostream>
+contest\0\money.cpp: #include<iostream>
+contest\0\money.cpp: #include<algorithm>
+contest\0\money.cpp: #include<cmath>
+contest\0\money.cpp: #include<cstring>
+contest\0\word.cpp: #include<iostream>
+contest\0\word.cpp: #include<cstring>
+contest\0\word.cpp: #include<cstdio>
+contest\0\word.cpp: #include<algorithm>
+contest\0\word.cpp: #include<cmath>
+contest\12\bicycle.cpp: #include<iostream>
+contest\12\bicycle.cpp: #include<vector>
+contest\12\bicycle.cpp: #include<queue>
+contest\12\bicycle.cpp: #include<cstring>
+contest\12\gravity.cpp: #include<iostream>
+contest\12\gravity.cpp: #include<unordered_set>
+contest\12\gravity.cpp: #include<vector>
+contest\12\gravity.cpp: #include<algorithm>
+contest\12\matching.cpp: #include<iostream>
+contest\13\entrycode.cpp: #include<iostream>
+contest\13\entrycode.cpp: #include<iomanip>
+contest\13\fountain.cpp: #include<iostream>
+contest\13\fountain.cpp: #include<algorithm>
+contest\13\hubroute.cpp: #include<iostream>
+contest\13\hubroute.cpp: #include<vector>
+contest\13\hubroute.cpp: #include<algorithm>
+contest\13\maxscale.cpp: #include<iostream>
+contest\13\startrade.cpp: #include<iostream>
+contest\13\startrade.cpp: #include<algorithm>
+contest\14\coloring.cpp: #include<iostream>
+contest\14\coloring.cpp: #include<algorithm>
+contest\14\separate.cpp: #include<iostream>
+contest\14\static.cpp: #include<cstdio>
+contest\15\escape.cpp: #include<iostream>
+contest\15\mali.cpp: #include<iostream>
+contest\15\num.cpp: #include<iostream>
+contest\15\tour.cpp: #include<iostream>
+contest\15\tour.cpp: #include<vector>
+contest\15\tour.cpp: #include<queue>
+contest\15\tour.cpp: #include<cstring>
+contest\1\maze.cpp: #include<iostream>
+contest\1\maze.cpp: #include<cstdio>
+contest\1\maze.cpp: #include<cstring>
+contest\1\maze.cpp: #include<vector>
+contest\1\sequencea.cpp: #include<iostream>
+contest\1\sequencea.cpp: #include<cstring>
+contest\1\snow.cpp: #include<iostream>
+contest\1\snow.cpp: #include<cstdio>
+contest\1\string.cpp: #include<iostream>
+contest\1\string.cpp: #include<algorithm>
+contest\2\assembly.cpp: #include<iostream>
+contest\2\assembly.cpp: #include<cstdio>
+contest\2\drum.cpp: #include<iostream>
+contest\2\drum.cpp: #include<algorithm>
+contest\2\drum.cpp: #include<cstdio>
+contest\2\protocol.cpp: #include<iostream>
+contest\2\protocol.cpp: #include<vector>
+contest\2\protocol.cpp: #include<map>
+contest\2\protocol.cpp: #include<queue>
+contest\2\protocol.cpp: #include<cstring>
+contest\2\protocol.cpp: #include<algorithm>
+contest\2\protocol.cpp: #include<cstdio>
+contest\2\robot.cpp: #include<iostream>
+contest\2\robot.cpp: #include<cstdio>
+contest\3\agent\agent.cpp: #include<iostream>
+contest\3\agent\agent.cpp: #include<cstdio>
+contest\3\agent\agent.cpp: #include<algorithm>
+contest\3\agent\agent.cpp: #include<cstring>
+contest\3\string\string.cpp: #include<iostream>
+contest\3\string\string.cpp: #include<algorithm>
+contest\3\string\string.cpp: #include<cstdio>
+contest\3\string\string.cpp: #include<cstring>
+contest\3\thief\thief.cpp: #include<iostream>
+contest\3\thief\thief.cpp: #include<algorithm>
+contest\3\thief\thief.cpp: #include<cstdio>
+contest\3\队列\队列.cpp: #include<iostream>
+contest\3\队列\队列.cpp: #include<cstdio>
+contest\3\队列\队列.cpp: #include<algorithm>
+contest\3\队列\队列.cpp: #include<cstring>
+contest\4\FileSkip\FileSkip.cpp: #include<iostream>
+contest\4\FileSkip\FileSkip.cpp: #include<algorithm>
+contest\4\FileSkip\FileSkip.cpp: #include<cstdio>
+contest\4\LoopPatrol\LoopPatrol.cpp: #include<iostream>
+contest\4\LoopPatrol\LoopPatrol.cpp: #include<algorithm>
+contest\4\LoopPatrol\LoopPatrol.cpp: #include<cstdio>
+contest\4\SegCount\SegCount.cpp: #include<iostream>
+contest\4\SegCount\SegCount.cpp: #include<algorithm>
+contest\4\SegCount\SegCount.cpp: #include<cstdio>
+contest\4\StarPick\StarPick.cpp: #include<iostream>
+contest\4\StarPick\StarPick.cpp: #include<algorithm>
+contest\4\StarPick\StarPick.cpp: #include<cstdio>
+contest\4\count\count.cpp: #include<iostream>
+contest\4\count\count.cpp: #include<algorithm>
+contest\4\count\count.cpp: #include<cstdio>
+contest\4\count\count.cpp: #include<map>
+contest\4\count\count.cpp: #include<vector>
+contest\5\comp\comp.cpp: #include<iostream>
+contest\5\comp\comp.cpp: #include<set>
+contest\5\comp\comp.cpp: #include<algorithm>
+contest\5\comp\comp.cpp: #include<vector>
+contest\5\double\double.cpp: #include<iostream>
+contest\5\double\double.cpp: #include<algorithm>
+contest\5\game\game.cpp: #include<iostream>
+contest\5\throw\throw.cpp: #include<iostream>
+contest\5\wait\wait.cpp: #include<iostream>
+contest\5\wait\wait.cpp: #include<map>
+contest\5\wait\wait.cpp: #include<cstring>
+contest\6\lab\lab.cpp: #include<iostream>
+contest\6\lab\lab.cpp: #include<cstdio>
+contest\6\lab\lab.cpp: #include<algorithm>
+contest\6\meal\meal.cpp: #include<iostream>
+contest\6\meal\meal.cpp: #include<cstdio>
+contest\6\meal\meal.cpp: #include<algorithm>
+contest\6\meal\meal.cpp: #include<cstring>
+contest\6\partition\partition.cpp: #include<iostream>
+contest\6\song\song.cpp: #include<iostream>
+contest\6\song\song.cpp: #include<cstdio>
+contest\6\treasure\treasure.cpp: #include<iostream>
+contest\6\treasure\treasure.cpp: #include<queue>
+contest\6\treasure\treasure.cpp: #include<cstdio>
+contest\7\color.cpp: #include<iostream>
+contest\7\color.cpp: #include<set>
+contest\7\color.cpp: #include<unordered_set>
+contest\7\function.cpp: #include<iostream>
+contest\7\function.cpp: #include<algorithm>
+contest\7\function.cpp: #include<cmath>
+contest\7\function.cpp: #include<cstdio>
+contest\7\function.cpp: #include<cstring>
+contest\7\number.cpp: #include<iostream>
+contest\7\number.cpp: #include<algorithm>
+contest\7\number.cpp: #include<cstdio>
+contest\7\yet-LIS.cpp: #include<iostream>
+contest\入门#51\千秋的数学探究活动没有问题.cpp: #include<iostream>
+contest\入门#51\千秋的数学探究活动没有问题.cpp: #include<algorithm>
+contest\入门#51\千秋的研究并不聚焦稀疏矩阵乘法.cpp: #include<iostream>
+contest\入门#51\千秋的研究并不聚焦稀疏矩阵乘法.cpp: #include<algorithm>
+contest\入门#51\千秋的研究并不聚焦稀疏矩阵乘法.cpp: #include<cmath>
+contest\入门#51\千秋的西红柿里有多少果汁.cpp: #include<iostream>
+contest\入门#51\千秋的进制转换应该比较快.cpp: #include<iostream>
+self-practise\Note-B\1 枚举\三连击-升级版.cpp: #include<iostream>
+self-practise\Note-B\1 枚举\子数整数.cpp: #include<iostream>
+self-practise\Note-B\1 枚举\火柴棒等式.cpp: #include<iostream>
+self-practise\Note-B\1 枚举\珠心算测验.cpp: #include<iostream>
+self-practise\Note-B\1 枚举\统计方形.cpp: #include<iostream>
+self-practise\Note-B\1 枚举\龙虎斗.cpp: #include<iostream>
+self-practise\Note-B\1 枚举\龙虎斗.cpp: #include<cstdio>
+self-practise\Note-B\1 枚举\龙虎斗.cpp: #include<algorithm>
+self-practise\Note-B\1 枚举\龙虎斗.cpp: #include<cmath>
+self-practise\Note-B\2 高精度\A_B-Problem.cpp: #include<iostream>
+self-practise\Note-B\2 高精度\A_B-Problem.cpp: #include<cstdio>
+self-practise\Note-B\2 高精度\A_B-Problem.cpp: #include<cstring>
+self-practise\Note-B\2 高精度\A_B-Problem.cpp: #include<string>
+self-practise\Note-B\2 高精度\A_B-Problem.cpp: #include<algorithm>
+self-practise\Note-B\2 高精度\AdivB-Problem.cpp: #include<iostream>
+self-practise\Note-B\2 高精度\B进制星球.cpp: #include<iostream>
+self-practise\Note-B\2 高精度\数楼梯.cpp: #include<iostream>
+self-practise\Note-B\2 高精度\蜜蜂路线.cpp: #include<iostream>
+self-practise\Note-B\2 高精度\计算e.cpp: #include<iostream>
+self-practise\Note-B\2 高精度\阶乘数码.cpp: #include<iostream>
+self-practise\Note-B\2 高精度\高精度减法.cpp: #include<iostream>
+self-practise\Note-B\2 高精度\高精度减法.cpp: #include<cstdio>
+self-practise\Note-B\2 高精度\高精度减法.cpp: #include<cstring>
+self-practise\Note-B\2 高精度\高精度减法.cpp: #include<string>
+self-practise\Note-B\2 高精度\高精度减法.cpp: #include<algorithm>
+self-practise\Note-B\2 高精度\高精度加法.cpp: #include<iostream>
+self-practise\Note-B\2 高精度\高精度加法.cpp: #include<cstdio>
+self-practise\Note-B\2 高精度\高精度加法.cpp: #include<algorithm>
+self-practise\Note-B\3 差分\Decrease.cpp: #include<iostream>
+self-practise\Note-B\3 差分\不成熟の梦想家.cpp: #include<iostream>
+self-practise\Note-B\3 差分\地毯.cpp: #include<iostream>
+self-practise\Note-B\3 差分\有趣的家庭菜园4.cpp: #include<iostream>
+self-practise\Note-B\3 差分\有趣的家庭菜园4.cpp: #include<algorithm>
+self-practise\Note-B\3 差分\积木大赛.cpp: #include<cstdio>
+self-practise\Note-B\3 差分\积木大赛.cpp: #include<cstring>
+self-practise\Note-B\3 差分\积木大赛.cpp: #include<iostream>
+self-practise\Note-B\3 差分\积木大赛.cpp: #include<algorithm>
+self-practise\Note-B\3 差分\语文成绩.cpp: #include<iostream>
+self-practise\Note-B\4 贪心\Sunscreen-G.cpp: #include<iostream>
+self-practise\Note-B\4 贪心\Sunscreen-G.cpp: #include<algorithm>
+self-practise\Note-B\4 贪心\Work-Scheduling-G.cpp: #include<iostream>
+self-practise\Note-B\4 贪心\Work-Scheduling-G.cpp: #include<queue>
+self-practise\Note-B\4 贪心\Work-Scheduling-G.cpp: #include<algorithm>
+self-practise\Note-B\4 贪心\凌乱的yyy-线段覆盖.cpp: #include<iostream>
+self-practise\Note-B\4 贪心\凌乱的yyy-线段覆盖.cpp: #include<algorithm>
+self-practise\Note-B\4 贪心\分组.cpp: #include<iostream>
+self-practise\Note-B\4 贪心\分组.cpp: #include<queue>
+self-practise\Note-B\4 贪心\分组.cpp: #include<algorithm>
+self-practise\Note-B\4 贪心\分组.cpp: #include<map>
+self-practise\Note-B\4 贪心\删数问题.cpp: #include<iostream>
+self-practise\Note-B\4 贪心\删数问题.cpp: #include<algorithm>
+self-practise\Note-B\4 贪心\区间.cpp: #include<iostream>
+self-practise\Note-B\4 贪心\区间.cpp: #include<algorithm>
+self-practise\Note-B\4 贪心\区间覆盖-加强版.cpp: #include<iostream>
+self-practise\Note-B\4 贪心\区间覆盖-加强版.cpp: #include<algorithm>
+self-practise\Note-B\4 贪心\国王游戏.cpp: #include<iostream>
+self-practise\Note-B\4 贪心\国王游戏.cpp: #include<algorithm>
+self-practise\Note-B\4 贪心\均分纸牌.cpp: #include<cstdio>
+self-practise\Note-B\4 贪心\均分纸牌.cpp: #include<cstring>
+self-practise\Note-B\4 贪心\均分纸牌.cpp: #include<iostream>
+self-practise\Note-B\4 贪心\均分纸牌.cpp: #include<algorithm>
+self-practise\Note-B\4 贪心\小A的糖果.cpp: #include<iostream>
+self-practise\Note-B\4 贪心\排队接水.cpp: #include<iostream>
+self-practise\Note-B\4 贪心\排队接水.cpp: #include<algorithm>
+self-practise\Note-B\4 贪心\排队接水.cpp: #include<cstdio>
+self-practise\Note-B\4 贪心\混合牛奶 Mixing Milk.cpp: #include<cstdio>
+self-practise\Note-B\4 贪心\混合牛奶 Mixing Milk.cpp: #include<cstring>
+self-practise\Note-B\4 贪心\混合牛奶 Mixing Milk.cpp: #include<iostream>
+self-practise\Note-B\4 贪心\混合牛奶 Mixing Milk.cpp: #include<algorithm>
+self-practise\Note-B\4 贪心\田忌赛马.cpp: #include<iostream>
+self-practise\Note-B\4 贪心\田忌赛马.cpp: #include<algorithm>
+self-practise\Note-B\4 贪心\部分背包问题.cpp: #include<iostream>
+self-practise\Note-B\4 贪心\部分背包问题.cpp: #include<algorithm>
+self-practise\Note-B\4 贪心\雷达安装.cpp: #include<iostream>
+self-practise\Note-B\4 贪心\雷达安装.cpp: #include<algorithm>
+self-practise\Note-B\4 贪心\雷达安装.cpp: #include<cstdio>
+self-practise\Note-B\4 贪心\雷达安装.cpp: #include<cmath>
+self-practise\Note-B\5 分治\Moo.cpp: #include<iostream>
+self-practise\Note-B\5 分治\Secret-Cow-Code-S.cpp: #include<iostream>
+self-practise\Note-B\5 分治\【模板】快速幂.cpp: #include<cstdio>
+self-practise\Note-B\5 分治\【模板】快速幂.cpp: #include<iostream>
+self-practise\Note-B\5 分治\【模板】快速幂.cpp: #include<algorithm>
+self-practise\Note-B\5 分治\一元三次方程求解.cpp: #include<iostream>
+self-practise\Note-B\5 分治\一元三次方程求解.cpp: #include<cstdio>
+self-practise\Note-B\5 分治\地毯填补问题.cpp: #include<iostream>
+self-practise\Note-B\5 分治\地毯填补问题.cpp: #include<algorithm>
+self-practise\Note-B\5 分治\地毯填补问题.cpp: #include<cstdio>
+self-practise\Note-B\5 分治\平面最近点对-加强版.cpp: #include<iostream>
+self-practise\Note-B\5 分治\平面最近点对-加强版.cpp: #include<cstdio>
+self-practise\Note-B\5 分治\平面最近点对-加强版.cpp: #include<algorithm>
+self-practise\Note-B\5 分治\平面最近点对-加强版.cpp: #include<cmath>
+self-practise\Note-B\5 分治\求第k小的数.cpp: #include<iostream>
+self-practise\Note-B\5 分治\逆序对.cpp: #include<iostream>
+self-practise\STL\动态数组\look-up-S.cpp: #include<iostream>
+self-practise\STL\动态数组\look-up-S.cpp: #include<stack>
+self-practise\green-green-purple\1\序列合并.cpp: #include<iostream>
+self-practise\green-green-purple\1\方差.cpp: #include<iostream>
+teach\「IXOI R1」永远在一起！.cpp: #include<iostream>
+teach\归程-标程.cpp: #include<iostream>
+teach\归程-标程.cpp: #include<vector>
+teach\归程-标程.cpp: #include<cstring>
+teach\归程-标程.cpp: #include<queue>
+teach\归程-标程.cpp: #include<algorithm>
+test\data.cpp: #include<cstdio>
+test\data.cpp: #include<algorithm>
+test\data.cpp: #include<cstdlib>
+test\data.cpp: #include<ctime>
+test\test.cpp: #include<iostream>

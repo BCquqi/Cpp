@@ -1,0 +1,59 @@
+Total files: 3072
+Total lines: 15021442
+Total chars: 1311902406
+
+--- By extension ---
+.in: files=392 lines=9362117 chars=229074314
+.pack: files=1 lines=3298381 chars=882980087
+.ans: files=120 lines=933678 chars=35685992
+.out: files=275 lines=675489 chars=12753514
+.pdf: files=60 lines=415470 chars=76738930
+(no ext): files=1019 lines=215833 chars=55754097
+.cpp: files=1100 lines=44535 chars=1016291
+.png: files=15 lines=29711 chars=8651831
+.jpeg: files=1 lines=14495 chars=4017612
+.zip: files=7 lines=13757 chars=4225972
+.h: files=1 lines=6014 chars=197035
+.md: files=14 lines=5697 chars=109039
+.html: files=2 lines=1634 chars=48607
+.docx: files=14 lines=1545 chars=414174
+.txt: files=27 lines=1312 chars=41061
+.sample: files=14 lines=912 chars=26788
+.idx: files=1 lines=424 chars=93360
+.rev: files=1 lines=270 chars=13236
+.exe: files=1 lines=40 chars=39454
+.xlsx: files=1 lines=37 chars=9547
+.graph: files=1 lines=30 chars=10172
+.excalidraw: files=2 lines=26 chars=588
+.bat: files=2 lines=18 chars=338
+.json: files=1 lines=17 chars=367
+
+--- By top-level directory ---
+NOICA: files=497 lines=7826861 chars=219238340
+.git: files=1021 lines=3515829 chars=938859588
+2026-8: files=375 lines=3378606 chars=108298869
+2026-9-10-11: files=66 lines=83799 chars=12670352
+2026-7: files=111 lines=82536 chars=16078383
+OJ: files=39 lines=31142 chars=8333558
+CookieOI: files=175 lines=27434 chars=2229949
+Pre: files=52 lines=23179 chars=2680407
+self-practise: files=49 lines=14903 chars=2352689
+.: files=7 lines=5644 chars=118834
+J1-2: files=135 lines=5122 chars=168742
+S1-2: files=73 lines=3260 chars=68846
+test: files=8 lines=2967 chars=234872
+S2-2: files=61 lines=2540 chars=60748
+S3-2: files=43 lines=2481 chars=58828
+contest: files=59 lines=2338 chars=57015
+J2-2: files=69 lines=2317 chars=43188
+J-training: files=2 lines=2148 chars=166396
+S3-1: files=47 lines=1915 chars=40869
+J1-1: files=44 lines=1790 chars=42358
+S1-1: files=36 lines=1432 chars=27760
+J2-1: files=49 lines=1300 chars=26902
+S2-1: files=33 lines=1225 chars=30512
+Homework: files=8 lines=282 chars=5545
+teach: files=4 lines=254 chars=6132
+Practice: files=7 lines=121 chars=2357
+.vscode: files=1 lines=17 chars=367
+Sample: files=1 lines=0 chars=0
