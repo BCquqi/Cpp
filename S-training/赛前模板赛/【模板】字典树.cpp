@@ -1,14 +1,21 @@
 #include<iostream>
+#include<string>
 #include<cstring>
 using namespace std;
 
-const int N = 3e6 + 5,M = 30;
+const int N = 3e6 + 5,M = 62;
 int ch[N][M],sum[N],cnt[N],id = 1;
+
+inline int getidx(char c) {
+    if (c >= '0' && c <= '9') return c - '0';
+    if (c >= 'a' && c <= 'z') return c - 'a' + 10;
+    return c - 'A' + 36;
+}
 
 void insert(string s) {
     int x = 1;
     for (auto c : s) {
-        int i = c - 'a';
+        int i = getidx(c);
         if (!ch[x][i]) {
             ch[x][i] = ++id;
             memset(ch[id],0,sizeof ch[id]);
@@ -23,7 +30,7 @@ void insert(string s) {
 int query(string s) {
     int x = 1;
     for (auto c : s) {
-        int i = c - 'a';
+        int i = getidx(c);
         if (!ch[x][i]) return 0;
         x = ch[x][i];
     }
