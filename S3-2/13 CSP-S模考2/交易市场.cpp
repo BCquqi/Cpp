@@ -43,7 +43,7 @@ bool check() {
         else sum--;
         if (sum < 0) return false;
     }
-    return true;
+    return sum == 0;
 }
 
 inline void print() {
