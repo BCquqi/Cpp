@@ -1,24 +1,31 @@
 #include<iostream>
-#include<algorithm>
+#include<cstdio>
 using namespace std;
 
-const int N = 1e5 + 5;
-int a[N];
-
 void solve() {
-    int n;
+    int n,mx = 0,last = 0;
     cin >> n;
-    for (int i = 1;i <= n;i++) cin >> a[i];
-    sort(a + 1,a + n + 1);
-    int pos = upper_bound(a + 1,a + n + 1,n) - a - 1;
-    if ((n - pos) & 1) cout << "fengyi" << '\n';
-    else cout << "shuji" << '\n';
+    if (n == 1) {
+        cin >> mx;
+        if (mx == 1) cout << "shuji" << endl;
+        else cout << "fengyi" << endl;
+        return ;
+    }
+    for (int i = 1;i <= n;i++) {
+        int x;
+        cin >> x;
+        if (x > mx) last = mx,mx = x;
+        else if (x > last) last = x;
+    }
+    if (mx - last > 1) cout << "fengyi" << endl;
+    else {
+        if ((mx - n) & 1) cout << "fengyi" << endl;
+        else cout << "shuji" << endl;
+    }
     return ;
 }
 
 int main() {
-    ios::sync_with_stdio(false);
-    cin.tie(0), cout.tie(0);
     freopen("stone.in","r",stdin);
     freopen("stone.out","w",stdout);
     int T;
