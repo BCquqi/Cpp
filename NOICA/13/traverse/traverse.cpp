@@ -43,5 +43,3 @@ signed main() {
     cout << max(dp[1],2LL * (n - 1) + a[1]) << endl;
     return 0;
 }
-
-完全学习模仿当前码风写代码。
