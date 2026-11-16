@@ -18,6 +18,10 @@ signed main() {
         cin >> a[i].atk >> a[i].d;
         a[i].id = i;
     }
+    if (h == 0) {
+        cout << "Yes" << endl << 0 << endl;
+        return 0;
+    }
     sort(a + 1,a + n + 1,[](Node x,Node y) {return x.atk - x.d > y.atk - y.d;});
     int top = n;
     while (top > 0 && a[top].atk - a[top].d <= 0) top--; // 剔除负面效果
@@ -27,7 +31,7 @@ signed main() {
     for (int i = 1;i <= n;i++) { // 枚举绝杀头
         int attack = h - a[i].atk;
         if (a[i].atk >= h) {
-            cout << "YES" << endl << 1 << endl;
+            cout << "Yes" << endl << 1 << endl;
             return 0;
         }
         int pos = lower_bound(s + 1,s + top + 1,attack) - s;
@@ -38,7 +42,7 @@ signed main() {
             if (pos2 <= top) ans = min(ans, pos2);
         }
     }
-    if (ans == 1e18) cout << "NO" << endl;
-    else cout << "YES" << endl << ans << endl;
+    if (ans == 1e18) cout << "No" << endl;
+    else cout << "Yes" << endl << ans << endl;
     return 0;
 }
