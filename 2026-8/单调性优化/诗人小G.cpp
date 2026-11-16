@@ -1,88 +1,75 @@
 #include<iostream>
+#include<algorithm>
 #include<cstring>
 #include<cmath>
-#include<algorithm>
 using namespace std;
 
-const int N = 1e5 + 5;
-int n, L, p;
-int sum[N], last[N], nxt[N], q[N];
-long double f[N];
-char s[N][35];
-struct Node {int l, r;} seg[N];
+const int N = 1e5 + 5,M = 35;
+int T,n,lim,p;
+char s[N][M];
+int a[N],pre[N],id[N];
+long double sum[N],dp[N];
+struct Node {int l,r,j;} q[N << 1];
+int h,cur;
 
-inline long double qpow(int x) {
-    if (!x) return 0;
-    long double a = x, res = 1;
-    for (int b = p;b;b >>= 1) {
+inline long double qpow(long double a,int b) {
+    long double res = 1;
+    while (b) {
         if (b & 1) res = res * a;
         a = a * a;
+        b >>= 1;
     }
     return res;
 }
 
-inline long double calc(int i,int j) {
-    return f[j] + qpow(abs(sum[i] - sum[j] - 1 - L));
-}
-
 void solve() {
-    cin >> n >> L >> p;
+    cin >> n >> lim >> p;
     for (int i = 1;i <= n;i++) {
         cin >> s[i];
-        sum[i] = sum[i - 1] + strlen(s[i]) + 1;
+        a[i] = strlen(s[i]);
+        sum[i] = sum[i - 1] + a[i] + 1;
     }
-    
-    int head = 1, tail = 1;
-    q[1] = 0, seg[0].l = 1, seg[0].r = n;
-    
+    dp[0] = 0, h = 1, cur = 0, q[++cur] = {1,n,0};
     for (int i = 1;i <= n;i++) {
-        while (seg[q[head]].r < i) head++;
-        f[i] = calc(i, q[head]);
-        last[i] = q[head];
-        seg[q[head]].l++;
-        
-        if (calc(n, q[tail]) <= calc(n, i)) continue;
-        
-        while (head < tail && calc(seg[q[tail]].l, q[tail]) >= calc(seg[q[tail]].l, i)) tail--;
-        
-        int l = seg[q[tail]].l, r = seg[q[tail]].r, pos = -1;
-        while (l <= r) {
-            int mid = (l + r) >> 1;
-            if (calc(mid, q[tail]) >= calc(mid, i)) pos = mid, r = mid - 1;
-            else l = mid + 1;
+        while (h <= cur && q[h].r < i) h++;
+        int j = q[h].j;
+        dp[i] = dp[j] + qpow(fabsl(sum[i] - sum[j] - 1 - lim),p);
+        pre[i] = j;
+        while (h <= cur && dp[i] + qpow(fabsl(sum[q[cur].l] - sum[i] - 1 - lim),p) < dp[q[cur].j] + qpow(fabsl(sum[q[cur].l] - sum[q[cur].j] - 1 - lim),p)) cur--;
+        if (h > cur) q[++cur] = {i + 1,n,i};
+        else {
+            int l = q[cur].l,r = q[cur].r,ans = r + 1;
+            while (l <= r) {
+                int mid = (l + r) >> 1;
+                if (dp[i] + qpow(fabsl(sum[mid] - sum[i] - 1 - lim),p) < dp[q[cur].j] + qpow(fabsl(sum[mid] - sum[q[cur].j] - 1 - lim),p))
+                    ans = mid, r = mid - 1;
+                else l = mid + 1;
+            }
+            if (ans <= n)
+                q[cur].r = ans - 1, q[++cur] = {ans,n,i};
         }
-        if (pos == -1) continue;
-        seg[q[tail]].r = pos - 1;
-        q[++tail] = i, seg[i].l = pos, seg[i].r = n;
     }
-    
-    if (f[n] > 1e18) {
+    if (dp[n] > 1e18)
         cout << "Too hard to arrange" << endl;
-    } else {
-        cout << (long long)(f[n] + 0.5) << endl;
-        int tmp = n;
-        while (tmp) {
-            nxt[last[tmp]] = tmp;
-            tmp = last[tmp];
-        }
-        tmp = 0;
-        while (tmp != n) {
-            for (int i = tmp + 1;i <= nxt[tmp];i++) {
-                cout << s[i];
-                if (i != nxt[tmp]) cout << ' ';
+    else {
+        cout << (long long)dp[n] << endl;
+        int cnt = 0,lst = 0;
+        for (int i = n;i > 0;i = pre[i]) id[++cnt] = i;
+        for (int i = cnt;i >= 1;i--) {
+            int pos = id[i];
+            for (int j = lst + 1;j <= pos;j++) {
+                if (j != lst + 1) cout << ' ';
+                cout << s[j];
             }
             cout << endl;
-            tmp = nxt[tmp];
+            lst = pos;
         }
     }
     cout << "--------------------" << endl;
     return ;
 }
 
-signed main() {
-    ios::sync_with_stdio(false);
-    cin.tie(0), cout.tie(0);
-    int T;
+int main() {
     cin >> T;
     while (T--) solve();
     return 0;
