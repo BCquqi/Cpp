@@ -37,22 +37,20 @@ bool spfa(double mid) {
 }
 
 int main() {
-    cin >> n >> m;
+    scanf("%d%d",&n,&m);
     for (int i = 1;i <= m;i++) {
         int x,y,v,p;
-        cin >> x >> y >> v >> p;
+        scanf("%d%d%d%d",&x,&y,&v,&p);
         G[x].push_back({y,v,p});
     }
     for (int i = 1;i <= n;i++) G[0].push_back({i,0});
-	double L = 0,R = 200,ans = -1;
-	while (R - L >= eps) {
-		double mid = (L + R) / 2;
-	    if (spfa(mid)) {
-	        ans = mid;
-	        L = mid;
-	    } else R = mid;
-	}
+    double L = 0,R = 200,ans = -1;
+    while (R - L >= eps) {
+        double mid = (L + R) / 2;
+        if (spfa(mid)) ans = mid, L = mid;
+        else R = mid;
+    }
     if (ans != -1) printf("%.1lf\n",ans);
-    else cout << -1 << endl;
+    else printf("-1\n");
     return 0;
 }
