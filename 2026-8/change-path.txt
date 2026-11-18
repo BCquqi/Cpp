@@ -1,3 +1,0 @@
-code -v
-code --extensions-dir "D:\vscode\extensions"
-code --user-data-dir "D:\vscode\data"
