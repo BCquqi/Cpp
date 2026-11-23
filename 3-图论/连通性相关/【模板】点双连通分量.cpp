@@ -8,7 +8,7 @@ const int N = 5e5 + 5;
 vector<int> G[N];
 int dfn[N],low[N],idx = 0;
 int stk[N],top = 0;
-vector<vector<int>> dcc;
+vector<vector<int> > dcc;
 
 void tarjan(int u,int pa) {
     dfn[u] = low[u] = ++idx;
