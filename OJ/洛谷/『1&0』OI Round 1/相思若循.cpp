@@ -2,8 +2,7 @@
 using namespace std;
 typedef long long LL;
 
-LL qpow(LL a,LL b,LL p)
-{
+LL qpow(LL a,LL b,LL p) {
     LL ans = 1;
     while (b)
     {
